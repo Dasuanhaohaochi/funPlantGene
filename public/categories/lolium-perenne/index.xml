@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lolium perenne on funPlantGenes</title>
+    <link>/categories/lolium-perenne/</link>
+    <description>Recent content in Lolium perenne on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/lolium-perenne/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LpHUB1</title>
+      <link>/genes/2024.6.9/lolium-perenne/lphub1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lolium-perenne/lphub1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LpHUB1 Gene Name: Bronsyn LE HUB1 Genome: Species: Lolium perenne Functional Descriptions: Overexpression of ubiquitin-like LpHUB1 gene confers drought tolerance in perennial ryegrass.</description>
+    </item>
+    <item>
+      <title>LpNOL</title>
+      <link>/genes/lolium_perenne/lpnol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/lolium_perenne/lpnol/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: LpNOL Gene Name: Genome: Species: Lolium perenne Functional Description: The objectives of this study were to characterize the function of LpNOL in regulating leaf senescence and to determine the molecular factors and associated metabolic pathways underlying NOL regulation of leaf senescence in perennial ryegrass.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ja biosynthesis on funPlantGenes</title>
+    <link>/tags/ja-biosynthesis/</link>
+    <description>Recent content in ja biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ja-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AaGSW1</title>
+      <link>/genes/artemisia_annua/aagsw1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/artemisia_annua/aagsw1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: AaGSW1 Gene Name: glandular trichome–specific WRKY1 Genome: Species: Artemisia annua Functional Descriptions: We found that a trichome-specific transcription factor, AaWRKY9, positively regulates artemisinin biosynthesis by directly binding to the promoters of the artemisinin biosynthesis genes AaDBR2 and AaGSW1.</description>
+    </item>
+    <item>
+      <title>AaMYC2</title>
+      <link>/genes/2024.6.9/artemisia-annua/aamyc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/artemisia-annua/aamyc2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: AaMYC2 Gene Name: MYC2 transcription factor 2 Genome: Species: Artemisia annua Functional Descriptions: The jasmonate-responsive AaMYC2 transcription factor positively regulates artemisinin biosynthesis in Artemisia annua.</description>
+    </item>
+    <item>
+      <title>AaORA</title>
+      <link>/genes/artemisia_annua/aaora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/artemisia_annua/aaora/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: AaORA Gene Name: octadecanoid-derivative responsive AP2-domain Genome: Species: Artemisia annua Functional Descriptions: AaTCP15, a JA and ABA dual-responsive teosinte branched1/cycloidea/proliferating (TCP) TF, which is essential for JA and ABA-induced artemisinin biosynthesis by directly binding to and activating the promoters of DBR2 and ALDH1, two genes encoding enzymes for artemisinin biosynthesis.</description>
+    </item>
+    <item>
+      <title>AaTCP15</title>
+      <link>/genes/artemisia_annua/aatcp15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/artemisia_annua/aatcp15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: AaTCP15 Gene Name: aldehyde dehydrogenase 1 Genome: Species: Artemisia annua Functional Descriptions: AaTCP15, a JA and ABA dual-responsive teosinte branched1/cycloidea/proliferating (TCP) TF, which is essential for JA and ABA-induced artemisinin biosynthesis by directly binding to and activating the promoters of DBR2 and ALDH1, two genes encoding enzymes for artemisinin biosynthesis.</description>
+    </item>
+    <item>
+      <title>AaWRKY9</title>
+      <link>/genes/artemisia_annua/aawrky9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/artemisia_annua/aawrky9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: AaWRKY9 Gene Name: WRKY transcription factor 9 Genome: Species: Artemisia annua Functional Descriptions: Our data suggested that the AaWRKY9 protein positively regulates artemisinin biosynthesis by directly binding to the W-boxes in the promoters of DBR2 and AaGSW1 and activating their expression AaWRKY9 contributes to light- and jasmonate-mediated to regulate the biosynthesis of artemisinin in Artemisia annua.</description>
+    </item>
+    <item>
+      <title>ALDH1</title>
+      <link>/genes/artemisia_annua/aldh1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/artemisia_annua/aldh1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: ALDH1 Gene Name: Genome: Species: Artemisia annua Functional Descriptions: AaTCP15, a JA and ABA dual-responsive teosinte branched1/cycloidea/proliferating (TCP) TF, which is essential for JA and ABA-induced artemisinin biosynthesis by directly binding to and activating the promoters of DBR2 and ALDH1, two genes encoding enzymes for artemisinin biosynthesis.</description>
+    </item>
+    <item>
+      <title>CaLOX2</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana03g000103/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana03g000103/</guid>
+      <description>Gene Details: Gene ID: Capana03g000103 Gene Symbol: CaLOX2 Gene Name: lipoxygenase 2 Genome: Species: Capsicum annuum Functional Descriptions: Involvement of sweet pepper CaLOX2 in jasmonate-dependent induced defence against Western flower thrips.</description>
+    </item>
+    <item>
+      <title>CsCYP82D47</title>
+      <link>/genes/camellia_sinensis/cscyp82d47/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/cscyp82d47/</guid>
+      <description>Gene Details: Gene ID:&#x9;TEA023255 Gene Symbol: CsCYP82D47 Gene Name: Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>CsHSFA1b</title>
+      <link>/genes/camellia_sinensis/cshsfa1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/cshsfa1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TEA030860 Gene Symbol: CsHSFA1b Gene Name: Camellia sinensis Heat stress factors A1b Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>CsHSFA1d</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csa3g008920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csa3g008920/</guid>
+      <description>Gene Details: Gene ID: Csa3G008920 Gene Symbol: CsHSFA1d Gene Name: heat-shock transcription factor HSFA1d Genome: Species: Cucumis sativus Functional Descriptions: Report that heat shock induces cold acclimation in cucumber seedlings, via a process involving the heat-shock transcription factor HSFA1d.</description>
+    </item>
+    <item>
+      <title>CsHSFA2</title>
+      <link>/genes/camellia_sinensis/cshsfa2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/cshsfa2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TEA023633 Gene Symbol: CsHSFA2 Gene Name: Camellia sinensis Heat stress factors A2 Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>CsJAZ1</title>
+      <link>/genes/camellia_sinensis/csjaz1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/csjaz1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TEA001681.1 Gene Symbol: CsJAZ1 Gene Name: Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>CsMYC2</title>
+      <link>/genes/citrus_sinensis/csmyc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_sinensis/csmyc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ciclev10019730m Gene Symbol: CsMYC2 Gene Name: Genome: Citrus sinensis cv.</description>
+    </item>
+    <item>
+      <title>EG1;GY1</title>
+      <link>/genes/oryza_sativa/loc_os01g67430/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g67430/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g67430 RAPdb gene ID: Os01g0900400 Gene Symbol: EG1 GY1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>FtBPM3</title>
+      <link>/genes/2024.6.9/fagopyrum-tataricum/ftping0808645400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fagopyrum-tataricum/ftping0808645400/</guid>
+      <description>Gene Details: Gene ID: FtPinG0808645400 Gene Symbol: FtBPM3 Gene Name: Genome: Species: Fagopyrum tataricum Functional Descriptions: FtBPM3 modulates the orchestration of FtMYB11-mediated flavonoids biosynthesis in Tartary buckwheat.</description>
+    </item>
+    <item>
+      <title>FvJAZ12</title>
+      <link>/genes/2024.7.17/fragaria-vesca/fvh4_1g09690/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/fragaria-vesca/fvh4_1g09690/</guid>
+      <description>Gene Details: Gene ID: FvH4_1g09690 Gene Symbol: FvJAZ12 Gene Name: jasmonate-ZIM domain 12 Genome: Fragaria_vesca.</description>
+    </item>
+    <item>
+      <title>FvLOX3</title>
+      <link>/genes/2024.7.17/fragaria-vesca/fvh4_6g34960/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/fragaria-vesca/fvh4_6g34960/</guid>
+      <description>Gene Details: Gene ID: FvH4_6g34960 Gene Symbol: FvLOX3 Gene Name: lipoxygenase 3 Genome: Species: Fragaria vesca Functional Descriptions: FvMPK6 phosphorylates FvJAZ12 at the amino acid residues S179 and T183 adjacent to the PY residues, thereby attenuating its nuclear accumulation and relieving its repression for FvMYC2, which acts to control the expression of lipoxygenase 3 (FvLOX3), an important gene involved in JA biosynthesis and a diverse array of cellular metabolisms.</description>
+    </item>
+    <item>
+      <title>FvMPK6</title>
+      <link>/genes/2024.7.17/fragaria-vesca/fvh4_1g00480/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/fragaria-vesca/fvh4_1g00480/</guid>
+      <description>Gene Details: Gene ID: FvH4_1g00480 Gene Symbol: FvMPK6 Gene Name: mitogen protein kinase 6 Genome: Fragaria_vesca.</description>
+    </item>
+    <item>
+      <title>FvMYC2</title>
+      <link>/genes/2024.7.17/fragaria-vesca/fvh4_5g22100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/fragaria-vesca/fvh4_5g22100/</guid>
+      <description>Gene Details: Gene ID: FvH4_5g22100 Gene Symbol: FvMYC2 Gene Name: transcription factor MYC2-like Genome: Fragaria_vesca.</description>
+    </item>
+    <item>
+      <title>GaJAZ1</title>
+      <link>/genes/gossypium_hirsutum/gajaz1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/gajaz1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cotton_A_11862 Gene Symbol: GaJAZ1 Gene Name: Genome: Gossypium hirsutum L.</description>
+    </item>
+    <item>
+      <title>GhAOC2A</title>
+      <link>/genes/2024.7.17/gossypium-hirsutum/ghir_a08g004050.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/gossypium-hirsutum/ghir_a08g004050.1/</guid>
+      <description>Gene Details: Gene ID: Ghir_A08G004050.1 Gene Symbol: GhAOC2A Gene Name: allene oxide cyclase 2 Genome: Species: Gossypium hirsutum Functional Descriptions: Expression analysis of the GhAOC2 gene in HT-sensitive line (H05) and HT-tolerant line (84021) anthers at TS under NT and HT.</description>
+    </item>
+    <item>
+      <title>GhAOC2D</title>
+      <link>/genes/2024.7.17/gossypium-hirsutum/ghir_d08g004260.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/gossypium-hirsutum/ghir_d08g004260.1/</guid>
+      <description>Gene Details: Gene ID: Ghir_D08G004260.1 Gene Symbol: GhAOC2D Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Expression analysis of the GhAOC2 gene in HT-sensitive line (H05) and HT-tolerant line (84021) anthers at TS under NT and HT.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_a01g0621/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_a01g0621/</guid>
+      <description>Gene Details: Gene ID: Gh_A01G0621 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_a04g0148/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_a04g0148/</guid>
+      <description>Gene Details: Gene ID: Gh_A04G0148 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_a13g1164/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_a13g1164/</guid>
+      <description>Gene Details: Gene ID: Gh_A13G1164 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_d01g2360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_d01g2360/</guid>
+      <description>Gene Details: Gene ID: Gh_D01G2360 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_d05g3567/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_d05g3567/</guid>
+      <description>Gene Details: Gene ID: Gh_D05G3567 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhCPK33</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_d13g1455/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_d13g1455/</guid>
+      <description>Gene Details: Gene ID: Gh_D13G1455 Gene Symbol: GhCPK33 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 Negatively Regulates Defense against Verticillium dahliae by Phosphorylating GhOPR3.</description>
+    </item>
+    <item>
+      <title>GhOPR3</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_d05g0339.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_d05g0339.1/</guid>
+      <description>Gene Details: Gene ID: Gh_D05G0339.1 Gene Symbol: GhOPR3 Gene Name: 12-oxophytodienoate reductase3 Genome: Species: Gossypium hirsutum Functional Descriptions: GhCPK33 phosphorylates GhOPR3 at threonine-246, leading to decreased stability of GhOPR3, which consequently limits JA biosynthesis.</description>
+    </item>
+    <item>
+      <title>GhSSI2-A</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghssi2-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghssi2-a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-A Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhSSI2-B</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghssi2-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghssi2-b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-B Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhSSI2-C</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghssi2-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghssi2-c/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-C Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhWIN2</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_a07g036100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_a07g036100/</guid>
+      <description>Gene Details: Gene ID: Gh_A07G036100 Gene Symbol: GhWIN2 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The cotton GhWIN2 gene activates the cuticle biosynthesis pathway and influences the salicylic and jasmonic acid biosynthesis pathways.</description>
+    </item>
+    <item>
+      <title>IbBBX24</title>
+      <link>/genes/ipomoea_batatas/ibbbx24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/ipomoea_batatas/ibbbx24/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: IbBBX24 Gene Name: Genome: http://sweetpotato-garden.</description>
+    </item>
+    <item>
+      <title>KAT-2A</title>
+      <link>/genes/triticum_aestivum/kat-2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/kat-2a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6A02G392400 Gene Symbol: KAT-2A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>KAT-2B</title>
+      <link>/genes/triticum_aestivum/kat-2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/kat-2b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6B02G432600 Gene Symbol: KAT-2B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>KAT-2D</title>
+      <link>/genes/triticum_aestivum/kat-2d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/kat-2d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6D02G493900LC Gene Symbol: KAT-2D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>LeGGPS1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leggps1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leggps1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeGGPS1 Gene Name: geranylgeranyl pyrophosphate synthase1 Genome: Species: Solanum lycopersicum Functional Descriptions: LeGGPS1 was predominantly expressed in leaf tissue and LeGGPS2 in ripening fruit and flower tissue.</description>
+    </item>
+    <item>
+      <title>LjbHLH7</title>
+      <link>/genes/2024.6.9/lotus-japonicus/lj0g3v0343449/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lotus-japonicus/lj0g3v0343449/</guid>
+      <description>Gene Details: Gene ID: Lj0g3v0343449 Gene Symbol: LjbHLH7 Gene Name: MeJA-responsive bHLH transcription factor Genome: Species: Lotus japonicus Functional Descriptions: MeJA-responsive bHLH transcription factor LjbHLH7 regulates cyanogenic glucoside biosynthesis in Lotus japonicus.</description>
+    </item>
+    <item>
+      <title>LjJAZ4</title>
+      <link>/genes/2024.6.9/lotus-japonicus/lj4g3v2215580/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lotus-japonicus/lj4g3v2215580/</guid>
+      <description>Gene Details: Gene ID: Lj4g3v2215580 Gene Symbol: LjJAZ4 Gene Name: Genome: Species: Lotus japonicus Functional Descriptions: The transcriptional activity of LjbHLH7 was suppressed by the interaction with the L.</description>
+    </item>
+    <item>
+      <title>LLS1</title>
+      <link>/genes/zea_mays/lls1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/lls1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb003760 Gene Symbol: LLS1 Gene Name: LETHAL LEAF SPOT1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>MdbHLH162</title>
+      <link>/genes/2024.6.9/md09g1233000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/md09g1233000/</guid>
+      <description>Gene Details: Gene ID: MD09G1233000 Gene Symbol: MdbHLH162 Gene Name: Genome: Species: Malus domestica Functional Descriptions: MdbHLH162 connects the gibberellin and jasmonic acid signals to regulate anthocyanin biosynthesis in apple.</description>
+    </item>
+    <item>
+      <title>MdJAZ1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000452772/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000452772/</guid>
+      <description>Gene Details: Gene ID: MDP0000452772 Gene Symbol: MdJAZ1 Gene Name: jasmonate-ZIM domain (JAZ) protein 1 Genome: Species: Malus domestica Functional Descriptions: The jasmonate-ZIM domain (JAZ) proteins MdJAZ1 and MdJAZ2 negatively modulate MdABI4-improved cold tolerance in apple by interacting with the MdABI4 protein.</description>
+    </item>
+    <item>
+      <title>MdMYC2</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000029168/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000029168/</guid>
+      <description>Gene Details: Gene ID: MDP0000029168 Gene Symbol: MdMYC2 Gene Name: Jasmonate-Activated Transcription Factor 2 Genome: Species: Malus domestica Functional Descriptions: MdMYC2 is a homology of Arabidopsis MYC2 in apple, it has highly similarity in structure and function to the Arabidopsis MYC2.</description>
+    </item>
+    <item>
+      <title>MfAOC2</title>
+      <link>/genes/medicago_sativa/mfaoc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/medicago_sativa/mfaoc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: MfAOC2 Gene Name: Genome: Species: Medicago sativa Functional Descriptions: These results suggest that expression of MfAOC2 or MtAOC2 promotes biosynthesis of JA, which positively regulates expression of CBF genes and antioxidant defense under cold conditions and expression of JA downstream genes after pathogen infection, leading to greater cold tolerance and pathogen resistance.</description>
+    </item>
+    <item>
+      <title>MYC2</title>
+      <link>/genes/solanum_lycopersicum/myc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/myc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g076930 Gene Symbol: MYC2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>NaMYC2</title>
+      <link>/genes/2024.6.9/nicotiana-attenuata/namyc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-attenuata/namyc2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NaMYC2 Gene Name: MYC2 transcription factor Genome: Species: Nicotiana attenuata Functional Descriptions: NaMYC2 transcription factor regulates a subset of plant defense responses in Nicotiana attenuata.</description>
+    </item>
+    <item>
+      <title>NaWRKY70</title>
+      <link>/genes/2024.6.9/nicotiana-attenuata/nawrky70/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-attenuata/nawrky70/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NaWRKY70 Gene Name: WRKY transcription factor 70 Genome: Species: Nicotiana attenuata Functional Descriptions: NaWRKY70 is a key regulator of Nicotiana attenuata resistance to Alternaria alternata through regulation of phytohormones and phytoalexins biosynthesis.</description>
+    </item>
+    <item>
+      <title>NtMYC2a</title>
+      <link>/genes/2024.7.17/nicotiana-tabacum/ntmyc2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/nicotiana-tabacum/ntmyc2a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtMYC2a Gene Name: MYC2a transcription factor Genome: Species: Nicotiana tabacum Functional Descriptions: Tobacco Transcription Factors NtMYC2a and NtMYC2b Form Nuclear Complexes with the NtJAZ1 Repressor and Regulate Multiple Jasmonate-Inducible Steps in Nicotine Biosynthesis.</description>
+    </item>
+    <item>
+      <title>NtMYC2b</title>
+      <link>/genes/2024.7.17/nicotiana-tabacum/ntmyc2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/nicotiana-tabacum/ntmyc2b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtMYC2b Gene Name: MYC2b transcription factor Genome: Species: Nicotiana tabacum Functional Descriptions: Tobacco Transcription Factors NtMYC2a and NtMYC2b Form Nuclear Complexes with the NtJAZ1 Repressor and Regulate Multiple Jasmonate-Inducible Steps in Nicotine Biosynthesis.</description>
+    </item>
+    <item>
+      <title>NtNAC028</title>
+      <link>/genes/2024.6.9/nicotiana-tabacum/ntnac028/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-tabacum/ntnac028/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtNAC028 Gene Name: Genome: Species: Nicotiana tabacum Functional Descriptions: Transcription factors NtNAC028 and NtNAC080 form heterodimers to regulate jasmonic acid biosynthesis during leaf senescence in Nicotiana tabacum.</description>
+    </item>
+    <item>
+      <title>NtNAC080</title>
+      <link>/genes/2024.6.9/nicotiana-tabacum/ntnac080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-tabacum/ntnac080/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtNAC080 Gene Name: Genome: Species: Nicotiana tabacum Functional Descriptions: Transcription factors NtNAC028 and NtNAC080 form heterodimers to regulate jasmonic acid biosynthesis during leaf senescence in Nicotiana tabacum.</description>
+    </item>
+    <item>
+      <title>OsAOS1</title>
+      <link>/genes/oryza_sativa/loc_os03g55800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g55800/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g55800 RAPdb gene ID: Os03g0767000 Gene Symbol: OsAOS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsAOS2;AOS</title>
+      <link>/genes/oryza_sativa/loc_os03g12500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g12500/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g12500 RAPdb gene ID: Os03g0225900 Gene Symbol: OsAOS2 AOS Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPEX5</title>
+      <link>/genes/oryza_sativa/loc_os08g39080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g39080/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g39080 RAPdb gene ID: Os08g0500100 Gene Symbol: OsPEX5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPIE3;OsPUB16</title>
+      <link>/genes/oryza_sativa/loc_os01g66130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g66130/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g66130 RAPdb gene ID: Os01g0884400 Gene Symbol: OsPIE3 OsPUB16 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PgLOX6</title>
+      <link>/genes/2024.6.9/panax-ginseng/pglox6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/panax-ginseng/pglox6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PgLOX6 Gene Name: biosynthetic 13-lipoxygenase Genome: Species: Panax ginseng Functional Descriptions: PgLOX6 encoding a lipoxygenase contributes to jasmonic acid biosynthesis and ginsenoside production in Panax ginseng.</description>
+    </item>
+    <item>
+      <title>QMrdd2;glk36</title>
+      <link>/genes/zea_mays/qmrdd2glk36zmphr5zmmyb-cc4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/qmrdd2glk36zmphr5zmmyb-cc4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb071920 Gene Symbol: QMrdd2 glk36 ZmPHR5 ZmMYB-CC4 Gene Name: G2-like-transcription factor 36 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>SlJIG</title>
+      <link>/genes/solanum_lycopersicum/sljig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sljig/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g083360 Gene Symbol: SlJIG Gene Name: METHYL JASMONATE (MeJA)-INDUCED GENE Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYB21</title>
+      <link>/genes/solanum_lycopersicum/slmyb21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g067760 Gene Symbol: SlMYB21 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlWRKY45</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g067360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g067360/</guid>
+      <description>Gene Details: Gene ID: Solyc08g067360 Gene Symbol: SlWRKY45 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY45 interacts with jasmonate-ZIM domain proteins to negatively regulate defense against the root-knot nematode Meloidogyne incognita in tomato.</description>
+    </item>
+    <item>
+      <title>SlWRKY50</title>
+      <link>/genes/solanum_lycopersicum/slwrky50/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slwrky50/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g068460 Gene Symbol: SlWRKY50 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SmJAZ8</title>
+      <link>/genes/2024.6.9/salvia-miltiorrhiza/smjaz8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/salvia-miltiorrhiza/smjaz8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SmJAZ8 Gene Name: jasmonate ZIM-domain protein 8 Genome: Species: Salvia miltiorrhiza Functional Descriptions: SmJAZ8 acts as a core repressor regulating JA-induced biosynthesis of salvianolic acids and tanshinones in Salvia miltiorrhiza hairy roots.</description>
+    </item>
+    <item>
+      <title>SmMYB5</title>
+      <link>/genes/2024.6.9/solanum-melongena/smechr0800147/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-melongena/smechr0800147/</guid>
+      <description>Gene Details: Gene ID: Smechr0800147 Gene Symbol: SmMYB5 Gene Name: MYB TF 5 Genome: eggplant genome website (http://eggplant-hq.</description>
+    </item>
+    <item>
+      <title>SmMYC2</title>
+      <link>/genes/2024.7.17/salvia-miltiorrhiza/smmyc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/salvia-miltiorrhiza/smmyc2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SmMYC2 Gene Name: basic helix–loop–helix protein 2 Genome: Species: Salvia miltiorrhiza Functional Descriptions: The SmMYC2–SmMYB36 complex is involved in methyl jasmonate-mediated tanshinones biosynthesis in Salvia miltiorrhiza.</description>
+    </item>
+    <item>
+      <title>TaOPR3</title>
+      <link>/genes/triticum_aestivum/taopr3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taopr3/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7A03G0999600 Gene Symbol: TaOPR3 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>VaPAT1</title>
+      <link>/genes/vitis_amurensis/vapat1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_amurensis/vapat1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: VaPAT1 Gene Name: Genome: itis vinifera Genome (12×) Species: Vitis amurensis Functional Description: these findings point to a pivotal role of VaPAT1 in the cold stress response in grape by regulating JA biosynthesis.</description>
+    </item>
+    <item>
+      <title>VvWRKY5</title>
+      <link>/genes/2024.6.9/vitis-vinifera/gsvivt01019419001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/gsvivt01019419001/</guid>
+      <description>Gene Details: Gene ID: GSVIVT01019419001 Gene Symbol: VvWRKY5 Gene Name: Genome: Grape Genome (http://www.</description>
+    </item>
+    <item>
+      <title>ZmAPX1;apx3</title>
+      <link>/genes/zea_mays/zmapx1apx3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmapx1apx3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb013080 Gene Symbol: ZmAPX1 apx3 Gene Name: ascorbate peroxidase 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAPX1;ZmAPx01</title>
+      <link>/genes/zea_mays/zmapx1zmapx01zmapx1.1apx3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmapx1zmapx01zmapx1.1apx3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb013080 Gene Symbol: ZmAPX1 ZmAPx01 ZmAPX1.1 apx3 Gene Name: ascorbate peroxidase homolog3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGAOX3|D1</title>
+      <link>/genes/zea_mays/d1zmgaox3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/d1zmgaox3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb122500 Gene Symbol: ZmGA3ox2 D1 ZmGAOX3 Gene Name: dwarf plant 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGL8;Gl8</title>
+      <link>/genes/zea_mays/zmgl8gl8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmgl8gl8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb246270 Gene Symbol: ZmGL8 Gl8 Gene Name: glossy8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmJAZ12;ZmJAZ27</title>
+      <link>/genes/zea_mays/zmjaz12zmjaz27zim27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmjaz12zmjaz27zim27/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb005990 Gene Symbol: ZmJAZ12 ZmJAZ27 zim27 Gene Name: ZIM-transcription factor 27 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmJAZ2;ZmJAZ5</title>
+      <link>/genes/zea_mays/zmjaz2zmjaz5zim16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmjaz2zmjaz5zim16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb006000 Gene Symbol: ZmJAZ2 ZmJAZ5 zim16 Gene Name: ZIM-transcription factor 16 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmJAZ6;zim3</title>
+      <link>/genes/zea_mays/zmjaz6zim3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmjaz6zim3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb048770 Gene Symbol: ZmJAZ6 zim3 Gene Name: ZIM-transcription factor 3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLOX10</title>
+      <link>/genes/zea_mays/zm00001eb206040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb206040/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb206040 Gene Symbol: ZmLOX10 Gene Name: lipoxygenase10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYC2a;bhlh149</title>
+      <link>/genes/zea_mays/zmmyc2abhlh149myc7gpm818/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmmyc2abhlh149myc7gpm818/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb024330 Gene Symbol: ZmMYC2a bhlh149 myc7 gpm818 Gene Name: myc transcription factor7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYC2b;bhlh91</title>
+      <link>/genes/zea_mays/zmmyc2bbhlh91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmmyc2bbhlh91/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb390330 Gene Symbol: ZmMYC2b bhlh91 Gene Name: bHLH-transcription factor 91 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYC7;ZmMYC2a</title>
+      <link>/genes/zea_mays/zmmyc7zmmyc2abhlh149zmmyc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmmyc7zmmyc2abhlh149zmmyc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb024330 Gene Symbol: ZmMYC7 ZmMYC2a bhlh149 ZmMYC2 Gene Name: myc transcription factor7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

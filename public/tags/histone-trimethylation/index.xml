@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>histone trimethylation on funPlantGenes</title>
+    <link>/tags/histone-trimethylation/</link>
+    <description>Recent content in histone trimethylation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/histone-trimethylation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsCLF;SDG711</title>
+      <link>/genes/oryza_sativa/loc_os06g16390/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g16390/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g16390 RAPdb gene ID: Os06g0275500 Gene Symbol: OsCLF SDG711 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsiEZ1;OsSET1</title>
+      <link>/genes/oryza_sativa/loc_os03g19480/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g19480/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g19480 RAPdb gene ID: Os03g0307800 Gene Symbol: OsiEZ1 OsSET1 SDG718 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaCHR729-A</title>
+      <link>/genes/triticum_aestivum/tachr729-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tachr729-a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaCHR729-A Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Wheat CHD3 protein TaCHR729 regulates the cuticular wax biosynthesis required for stimulating germination of Blumeria graminis f.</description>
+    </item>
+    <item>
+      <title>TaCHR729-B</title>
+      <link>/genes/triticum_aestivum/tachr729-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tachr729-b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaCHR729-B Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Wheat CHD3 protein TaCHR729 regulates the cuticular wax biosynthesis required for stimulating germination of Blumeria graminis f.</description>
+    </item>
+    <item>
+      <title>TaCHR729-D</title>
+      <link>/genes/triticum_aestivum/tachr729-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tachr729-d/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaCHR729-D Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Wheat CHD3 protein TaCHR729 regulates the cuticular wax biosynthesis required for stimulating germination of Blumeria graminis f.</description>
+    </item>
+    <item>
+      <title>VvMADS28</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmads28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmads28/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMADS28 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: In this study, we demonstrate an essential role for the grapevine MADS-box gene VvMADS28 in morphogenesis of the ovule.</description>
+    </item>
+  </channel>
+</rss>

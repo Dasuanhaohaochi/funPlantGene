@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pyrus betulifolia on funPlantGenes</title>
+    <link>/categories/pyrus-betulifolia/</link>
+    <description>Recent content in Pyrus betulifolia on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/pyrus-betulifolia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PbATL18</title>
+      <link>/genes/2024.6.9/pyrus-betulifolia/pbr007980.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-betulifolia/pbr007980.1/</guid>
+      <description>Gene Details: Gene ID: Pbr007980.1 Gene Symbol: PbATL18 Gene Name: E3 ubiquitin ligase Genome: Species: Pyrus betulifolia Functional Descriptions: Transcription factor PbbZIP4 is targeted for proteasome-mediated degradation by the ubiquitin ligase PbATL18 to influence pear&amp;rsquo;s resistance to Colletotrichum fructicola by regulating the expression of PbNPR3.</description>
+    </item>
+    <item>
+      <title>PbbZIP4</title>
+      <link>/genes/2024.6.9/pyrus-betulifolia/gwhpaayt014255/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-betulifolia/gwhpaayt014255/</guid>
+      <description>Gene Details: Gene ID: GWHPAAYT014255 Gene Symbol: PbbZIP4 Gene Name: Genome: Species: Pyrus betulifolia Functional Descriptions: Transcription factor PbbZIP4 is targeted for proteasome-mediated degradation by the ubiquitin ligase PbATL18 to influence pear&amp;rsquo;s resistance to Colletotrichum fructicola by regulating the expression of PbNPR3.</description>
+    </item>
+    <item>
+      <title>PbWoxT1</title>
+      <link>/genes/2024.6.9/pyrus-betulifolia/pbwoxt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-betulifolia/pbwoxt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PbWoxT1 Gene Name: WUSCHEL-RELATEDHOMEOBOX WOX Genome: Species: Pyrus betulifolia Functional Descriptions: PbWoxT1 mRNA from pear (Pyrus betulaefolia) undergoes long-distance transport assisted by a polypyrimidine tract binding protein.</description>
+    </item>
+  </channel>
+</rss>

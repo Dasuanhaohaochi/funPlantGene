@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flavonoid metabolism on funPlantGenes</title>
+    <link>/tags/flavonoid-metabolism/</link>
+    <description>Recent content in flavonoid metabolism on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/flavonoid-metabolism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BnaA03.TT4</title>
+      <link>/genes/brassica_napus/bnaa03.tt4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaa03.tt4/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaA03g04590D Gene Symbol: BnaA03.TT4 Gene Name: Genome: B.</description>
+    </item>
+    <item>
+      <title>BnaC02.TT4</title>
+      <link>/genes/brassica_napus/bnac02.tt4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnac02.tt4/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaC02g05070D Gene Symbol: BnaC02.TT4 Gene Name: Genome: B.</description>
+    </item>
+    <item>
+      <title>BnaC05.UK</title>
+      <link>/genes/brassica_napus/bnac05.uk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnac05.uk/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaC05g43050D Gene Symbol: BnaC05.UK Gene Name: Genome: B.</description>
+    </item>
+    <item>
+      <title>Mict</title>
+      <link>/genes/cucumis_sativus/mict/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/cucumis_sativus/mict/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: Mict Gene Name: Micro-trichome Genome: Species: Cucumis sativus Functional Descriptions: Mict regulates flavonoid metabolism in trichome development Mict regulates trichome development at early stages via its function in cell division or elongation.</description>
+    </item>
+    <item>
+      <title>OsUGT706C2</title>
+      <link>/genes/oryza_sativa/loc_os03g62480/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g62480/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g62480 RAPdb gene ID: Os03g0841600 Gene Symbol: OsUGT706C2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PpbZIP44</title>
+      <link>/genes/2024.6.9/prunus-persica/ppbzip44/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/ppbzip44/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PpbZIP44 Gene Name: Genome: Species: Prunus persica Functional Descriptions: A pear S1-bZIP transcription factor PpbZIP44 modulates carbohydrate metabolism, amino acid, and flavonoid accumulation in fruits.</description>
+    </item>
+    <item>
+      <title>SlDQD;SDH2</title>
+      <link>/genes/solanum_lycopersicum/sldqdsdh2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sldqdsdh2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g038080 Gene Symbol: SlDQD SDH2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYB72</title>
+      <link>/genes/solanum_lycopersicum/slmyb72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb72/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g055000 Gene Symbol: SlMYB72 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlTAGL1</title>
+      <link>/genes/solanum_lycopersicum/sltagl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sltagl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g055920 Gene Symbol: SlTAGL1 Gene Name: TOMATO AGAMOUS-LIKE1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>VvMYB5b</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmyb5b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmyb5b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMYB5b Gene Name: MYB transcription factor5 Genome: Species: Vitis vinifera Functional Descriptions: A single amino acid change within the R2 domain of the VvMYB5b transcription factor modulates affinity for protein partners and target promoters selectivity.</description>
+    </item>
+    <item>
+      <title>VvWRKY70</title>
+      <link>/genes/vitis_vinifera/vvwrky70/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvwrky70/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_213s0067g03140 Gene Symbol: VvWRKY70 Gene Name: Genome: V.</description>
+    </item>
+  </channel>
+</rss>

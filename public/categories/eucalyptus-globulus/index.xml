@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eucalyptus globulus on funPlantGenes</title>
+    <link>/categories/eucalyptus-globulus/</link>
+    <description>Recent content in Eucalyptus globulus on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/eucalyptus-globulus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EgPHI-1</title>
+      <link>/genes/2024.6.9/eucalyptus-globulus/eucgr.f00356/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/eucalyptus-globulus/eucgr.f00356/</guid>
+      <description>Gene Details: Gene ID: Eucgr.F00356 Gene Symbol: EgPHI-1 Gene Name: Eucalyptus globulus PHI-1 Genome: E.</description>
+    </item>
+  </channel>
+</rss>

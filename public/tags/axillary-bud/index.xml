@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>axillary bud on funPlantGenes</title>
+    <link>/tags/axillary-bud/</link>
+    <description>Recent content in axillary bud on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/axillary-bud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT3G18550</title>
+      <link>/genes/arabidopsis_thaliana/at3g18550/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g18550/</guid>
+      <description>Gene Details: Gene ID: AT3G18550 Gene Symbol: AtBRC1, ATTCP18, BRC1, TCP18 Gene Name: BRANCHED 1 Description: TCP family transcription factor;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G18550.</description>
+    </item>
+    <item>
+      <title>AT4G31160</title>
+      <link>/genes/arabidopsis_thaliana/at4g31160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g31160/</guid>
+      <description>Gene Details: Gene ID: AT4G31160 Gene Symbol: DCAF1 Gene Name: DDB1-CUL4 associated factor 1 Description: DDB1-CUL4 associated factor 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G31160.</description>
+    </item>
+  </channel>
+</rss>

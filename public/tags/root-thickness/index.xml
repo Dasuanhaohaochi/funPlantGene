@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>root thickness on funPlantGenes</title>
+    <link>/tags/root-thickness/</link>
+    <description>Recent content in root thickness on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/root-thickness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>qRT9;OsbHLH120</title>
+      <link>/genes/oryza_sativa/loc_os09g28210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g28210/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g28210 RAPdb gene ID: Os09g0455300 Gene Symbol: qRT9 OsbHLH120 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlPYL9</title>
+      <link>/genes/solanum_lycopersicum/slpyl9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slpyl9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g015380 Gene Symbol: SlPYL9 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+  </channel>
+</rss>

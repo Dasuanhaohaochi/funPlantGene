@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malus sieversii on funPlantGenes</title>
+    <link>/categories/malus-sieversii/</link>
+    <description>Recent content in Malus sieversii on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/malus-sieversii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MsDREB6.2</title>
+      <link>/genes/2024.6.9/malus-sieversii/msdreb6.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-sieversii/msdreb6.2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MsDREB6.2 Gene Name: Dehydration-responsive element binding factor 6 Genome: apple sequence database (http://genomics.</description>
+    </item>
+    <item>
+      <title>MsGH3.5</title>
+      <link>/genes/2024.6.9/malus-sieversii/msgh3.5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-sieversii/msgh3.5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MsGH3.5 Gene Name: GRETCHEN HAGEN3 Genome: Species: Malus sieversii Functional Descriptions: MsGH3.</description>
+    </item>
+  </channel>
+</rss>

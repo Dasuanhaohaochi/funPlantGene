@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cunninghamia lanceolata on funPlantGenes</title>
+    <link>/categories/cunninghamia-lanceolata/</link>
+    <description>Recent content in Cunninghamia lanceolata on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/cunninghamia-lanceolata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ClEXPA1</title>
+      <link>/genes/2024.6.9/cunninghamia-lanceolata/clexpa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cunninghamia-lanceolata/clexpa1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ClEXPA1 Gene Name: α-expansin1 Genome: Species: Cunninghamia lanceolata Functional Descriptions: Overexpression of two cambium-abundant Chinese fir (Cunninghamia lanceolata) α-expansin genes ClEXPA1 and ClEXPA2 affect growth and development in transgenic tobacco and increase the amount of cellulose in stem cell walls.</description>
+    </item>
+    <item>
+      <title>ClEXPA2</title>
+      <link>/genes/2024.6.9/cunninghamia-lanceolata/clexpa2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cunninghamia-lanceolata/clexpa2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ClEXPA2 Gene Name: α-expansin2 Genome: Species: Cunninghamia lanceolata Functional Descriptions: Overexpression of two cambium-abundant Chinese fir (Cunninghamia lanceolata) α-expansin genes ClEXPA1 and ClEXPA2 affect growth and development in transgenic tobacco and increase the amount of cellulose in stem cell walls.</description>
+    </item>
+  </channel>
+</rss>

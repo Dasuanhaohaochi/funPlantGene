@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plant ovary placenta on funPlantGenes</title>
+    <link>/tags/plant-ovary-placenta/</link>
+    <description>Recent content in plant ovary placenta on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/plant-ovary-placenta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT3G17010</title>
+      <link>/genes/arabidopsis_thaliana/at3g17010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g17010/</guid>
+      <description>Gene Details: Gene ID: AT3G17010 Gene Symbol: REM22 Gene Name: REPRODUCTIVE MERISTEM 22 Description: AP2/B3-like transcriptional factor family protein;(source:Araport11) TAIR Accession: locus:2086082 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G17010.</description>
+    </item>
+    <item>
+      <title>AT4G25000</title>
+      <link>/genes/arabidopsis_thaliana/at4g25000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g25000/</guid>
+      <description>Gene Details: Gene ID: AT4G25000 Gene Symbol: AMY1, ATAMY1 Gene Name: alpha-amylase-like Description: alpha-amylase-like protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G25000.</description>
+    </item>
+    <item>
+      <title>AT5G37020</title>
+      <link>/genes/arabidopsis_thaliana/at5g37020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g37020/</guid>
+      <description>Gene Details: Gene ID: AT5G37020 Gene Symbol: ARF8, ATARF8 Gene Name: auxin response factor 8 Description: auxin response factor 8;(source:Araport11) TAIR Accession: locus:2152642 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G37020.</description>
+    </item>
+    <item>
+      <title>AT5G42820</title>
+      <link>/genes/arabidopsis_thaliana/at5g42820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g42820/</guid>
+      <description>Gene Details: Gene ID: AT5G42820 Gene Symbol: AtC3H60, ATU2AF35B, U2AF35B Gene Name: Description: Zinc finger C-x8-C-x5-C-x3-H type family protein;(source:Araport11) TAIR Accession: locus:2165447 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G42820.</description>
+    </item>
+  </channel>
+</rss>

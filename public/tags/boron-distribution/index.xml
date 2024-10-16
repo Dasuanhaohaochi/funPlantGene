@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>boron distribution on funPlantGenes</title>
+    <link>/tags/boron-distribution/</link>
+    <description>Recent content in boron distribution on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/boron-distribution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BnaA4.BOR2</title>
+      <link>/genes/brassica_napus/bnaann31830d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaann31830d/</guid>
+      <description>Gene Details: Gene ID: BnaAnn31830D Gene Symbol: BnaA4.BOR2 Gene Name: B efflux transporter Genome: Brassica napus Genome Resources Species: Brassica napus Functional Descriptions: BnaA4.</description>
+    </item>
+    <item>
+      <title>BnaC4.BOR2</title>
+      <link>/genes/brassica_napus/bnac04g21390d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnac04g21390d/</guid>
+      <description>Gene Details: Gene ID: BnaC04g21390D Gene Symbol: BnaC4.BOR2 Gene Name: low-B (LB)-inducible Genome: rapeseed genome Species: Brassica napus Functional Descriptions: BnaC4.</description>
+    </item>
+    <item>
+      <title>OsNIP3;1;DTE1</title>
+      <link>/genes/oryza_sativa/loc_os10g36924/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g36924/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g36924 RAPdb gene ID: Os10g0513200 Gene Symbol: OsNIP3 1 DTE1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

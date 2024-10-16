@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Craterostigma plantagineum on funPlantGenes</title>
+    <link>/categories/craterostigma-plantagineum/</link>
+    <description>Recent content in Craterostigma plantagineum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/craterostigma-plantagineum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CpGLP1</title>
+      <link>/genes/2024.6.9/craterostigma-plantagineum/cpglp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/craterostigma-plantagineum/cpglp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CpGLP1 Gene Name: germin-like protein 1 Genome: Species: Craterostigma plantagineum Functional Descriptions: The dehydration- and ABA-inducible germin-like protein CpGLP1 from Craterostigma plantagineum has SOD activity and may contribute to cell wall integrity during desiccation.</description>
+    </item>
+  </channel>
+</rss>

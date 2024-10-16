@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stipule on funPlantGenes</title>
+    <link>/tags/stipule/</link>
+    <description>Recent content in stipule on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/stipule/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT1G05230</title>
+      <link>/genes/arabidopsis_thaliana/at1g05230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05230/</guid>
+      <description>Gene Details: Gene ID: AT1G05230 Gene Symbol: HDG2 Gene Name: homeodomain GLABROUS 2 Description: homeodomain GLABROUS 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05230.</description>
+    </item>
+    <item>
+      <title>AT2G29890</title>
+      <link>/genes/arabidopsis_thaliana/at2g29890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g29890/</guid>
+      <description>Gene Details: Gene ID: AT2G29890 Gene Symbol: ATVLN1, VLN1 Gene Name: villin 1 Description: villin-like 1;(source:Araport11) TAIR Accession: locus:2052075 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G29890.</description>
+    </item>
+    <item>
+      <title>AT3G06010</title>
+      <link>/genes/arabidopsis_thaliana/at3g06010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g06010/</guid>
+      <description>Gene Details: Gene ID: AT3G06010 Gene Symbol: ATCHR12, CHR12, MINU1 Gene Name: chromatin remodeling 12 Description: SNF2/Brahma-type chromatin-remodeling protein CHR12;(source:Araport11) TAIR Accession: locus:2083033 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G06010.</description>
+    </item>
+    <item>
+      <title>AT3G17840</title>
+      <link>/genes/arabidopsis_thaliana/at3g17840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g17840/</guid>
+      <description>Gene Details: Gene ID: AT3G17840 Gene Symbol: RLK902 Gene Name: receptor-like kinase 902 Description: receptor-like kinase 902;(source:Araport11) TAIR Accession: locus:2088500 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G17840.</description>
+    </item>
+    <item>
+      <title>AT3G50410</title>
+      <link>/genes/arabidopsis_thaliana/at3g50410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g50410/</guid>
+      <description>Gene Details: Gene ID: AT3G50410 Gene Symbol: DOF3.4, OBP1 Gene Name: DOF protein 3.</description>
+    </item>
+  </channel>
+</rss>

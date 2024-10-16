@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anthocyanins on funPlantGenes</title>
+    <link>/tags/anthocyanins/</link>
+    <description>Recent content in anthocyanins on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/anthocyanins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SlAN2-like</title>
+      <link>/genes/solanum_lycopersicum/slan2-like/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slan2-like/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g086290 Gene Symbol: SlAN2-like Gene Name: R2R3-MYB transcription factor SlAN2-like Genome: Tomato Genome version SL4.</description>
+    </item>
+  </channel>
+</rss>

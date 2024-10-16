@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iaa signaling on funPlantGenes</title>
+    <link>/tags/iaa-signaling/</link>
+    <description>Recent content in iaa signaling on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/iaa-signaling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AcTPR2</title>
+      <link>/genes/2024.6.9/actinidia-chinensis/ach25g228601.2-ta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/actinidia-chinensis/ach25g228601.2-ta/</guid>
+      <description>Gene Details: Gene ID: Ach25g228601.2-TA Gene Symbol: AcTPR2 Gene Name: TOPLESS-RELATED 2 Genome: (Ach25g228601.</description>
+    </item>
+    <item>
+      <title>ClGH3.6</title>
+      <link>/genes/citrullus_lanatus/clgh3.6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrullus_lanatus/clgh3.6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cla97C05G096220 Gene Symbol: ClGH3.6 Gene Name: Genome: Citrullus lanatus (Watermelon (97103) v2) Species: Citrullus lanatus Functional Descriptions: Expression of the indole-3-acetic acid-amido synthetase gene ClGH3.</description>
+    </item>
+    <item>
+      <title>MsGH3.5</title>
+      <link>/genes/2024.6.9/malus-sieversii/msgh3.5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-sieversii/msgh3.5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MsGH3.5 Gene Name: GRETCHEN HAGEN3 Genome: Species: Malus sieversii Functional Descriptions: MsGH3.</description>
+    </item>
+    <item>
+      <title>OsIAA25</title>
+      <link>/genes/oryza_sativa/loc_os08g01780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g01780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g01780 RAPdb gene ID: Os08g0109400 Gene Symbol: OsIAA25 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PsAFB6</title>
+      <link>/genes/2024.6.9/pisum-sativum/psafb6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pisum-sativum/psafb6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PsAFB6 Gene Name: TIR1/AFB 6 Genome: Species: Pisum sativum Functional Descriptions: Pericarp PsAFB6 expression was suppressed by seeds and increased in response to deseeding, and exogenous hormone treatments suggest that seed-derived auxin and deseeding-induced ethylene are involved in these responses, respectively.</description>
+    </item>
+    <item>
+      <title>RUM1</title>
+      <link>/genes/zea_mays/rum1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/rum1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb156910 Gene Symbol: RUM1 Gene Name: ROOTLESS WITH UNDETECTABLE MERISTEMS 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>SlWRKY75</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc05g015850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc05g015850/</guid>
+      <description>Gene Details: Gene ID: Solyc05g015850 Gene Symbol: SlWRKY75 Gene Name: WRKY transcription factor75 Genome: Species: Solanum lycopersicum Functional Descriptions: Here, we characterized tomato (Solanum lycopersicum) SlWRKY75, which promotes defenses against P.</description>
+    </item>
+  </channel>
+</rss>

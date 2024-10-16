@@ -1,0 +1,122 @@
+{{ define "main" }}
+<!-- Banner -->
+  {{ with .Params.banner }}
+    <section class="section pt-10" style="padding-top: 50px; padding-bottom: 0px;">
+      <div class="container">
+        <div class="row justify-center">
+          <div class="lg:col-7 mb-7 text-center">
+            <h1 class="mb-4">
+              {{ .title | markdownify }}
+            </h1>
+            <p class="mb-8">
+              {{ .content | markdownify }}
+            </p>
+            {{ with .button }}
+              {{ if .enable }}
+                <a class="btn btn-primary" href="{{ .link | absURL }}">
+                  {{ .label }}
+                  <i class="fa fa-arrow-right pl-2"></i>
+                </a>
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+<!-- /Banner -->
+ 
+<!-- /Search -->
+
+<div style="text-align: center;">
+  
+  
+  <input
+  id="search-modal-input-2"
+  type="text"
+placeholder="Enter search term"
+data-search-input
+autocomplete="on"
+aria-label="Search"
+aria-describedby="Search"
+placeholder="Search Post ..."
+style="width: 800px; /* 设置宽度为800像素 */
+       padding: 10px;
+       border: 2px solid #ccc;
+       border-radius: 20px;
+       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+       outline: none;
+       transition: border-color 0.3s ease-in-out;
+       margin-right: 20px; /* 添加右边距 */"/>
+  <button
+      id="search-button-2"
+      aria-label="search"
+      class="border-border text-dark hover:text-primary dark:border-darkmode-border mr-5 inline-block border-r pr-5 text-xl dark:text-white dark:hover:text-darkmode-primary"
+      data-target="search-modal"
+      onclick="search()">
+      <i class="fa-solid fa-search"></i>
+  </button>
+  
+
+</div>
+
+
+<!-- /Search -->
+
+<!-- /Total Pageviews -->
+<section class="section" style="withd: 100%; padding-top: 80px; padding-bottom: 0px;">
+  <body >
+   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=tt&d=ohql54uOOt6i9CtuAQhzWU44stbZLbckOlpX-yRauGk&co=1173b9"></script>
+  </body>
+ </section>
+<!-- /Total Pageviews -->
+ 
+<!-- Testimonials -->
+  {{ with site.GetPage "sections/testimonial" }}
+    {{ if .Params.enable }}
+      <section class="section" style=" padding-bottom: 20px;">
+        <div class="container">
+          <div class="row">
+            <div class="md:col-10 lg:col-8 xl:col-8 mx-auto mb-12 text-center">
+              <h2 class="mb-4">
+                {{ .Title | markdownify }}
+              </h2>
+              <p>
+                {{ .Params.description | markdownify }}
+              </p>
+            </div>
+            <div class="col-12">
+              <div class="swiper testimonial-slider">
+                <div class="swiper-wrapper">
+                  {{ range .Params.testimonials }}
+                    <div class="swiper-slide">
+                      <div
+                        class="bg-theme-light dark:bg-darkmode-theme-light rounded-lg px-3 py-0">
+                        <div class="mt-11 flex items-center">
+                          <div class="text-dark dark:text-white">
+                              {{ partial "image" (dict "Src" .avatar "Size" "110x110" "Class" "rounded-full" "Alt" .name) }}
+                          </div>
+                          <div class="ml-4">
+                            <h3 class="h5 font-primary font-semibold">
+                              <a href="/infor/{{ replace (lower .name) " " "_" }}">{{ .name }}</a>
+                            </h3>
+                            <p class="text-dark dark:text-white">
+                              {{ .designation | markdownify }}
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  {{ end }}
+                </div>
+                <div
+                  class="testimonial-slider-pagination mt-9 flex items-center justify-center text-center"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    {{ end }}
+  {{ end }}
+  <!-- /Testimonials -->
+{{ end }}

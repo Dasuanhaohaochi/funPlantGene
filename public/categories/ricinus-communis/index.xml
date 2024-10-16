@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricinus communis on funPlantGenes</title>
+    <link>/categories/ricinus-communis/</link>
+    <description>Recent content in Ricinus communis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/ricinus-communis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RcMYB106</title>
+      <link>/genes/ricinus_communis/rcmyb106/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/ricinus_communis/rcmyb106/</guid>
+      <description>Gene Details: Gene ID:&#x9;Rc10G022841 Gene Symbol: RcMYB106 Gene Name: Genome: reference castor bean genomes (http://oilplants.</description>
+    </item>
+    <item>
+      <title>RcWIN1</title>
+      <link>/genes/ricinus_communis/rcwin1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/ricinus_communis/rcwin1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Rc07G0168961 Gene Symbol: RcWIN1 Gene Name: WAX INDUCER1 Genome: reference castor bean genomes (http://oilplants.</description>
+    </item>
+  </channel>
+</rss>

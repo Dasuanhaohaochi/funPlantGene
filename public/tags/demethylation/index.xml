@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demethylation on funPlantGenes</title>
+    <link>/tags/demethylation/</link>
+    <description>Recent content in demethylation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/demethylation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BrCCA1</title>
+      <link>/genes/2024.7.17/brassica-rapa/bra004503/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/brassica-rapa/bra004503/</guid>
+      <description>Gene Details: Gene ID: Bra004503 Gene Symbol: BrCCA1 Gene Name: CIRCADIAN AND CLOCK ASSOCIATED 1 Genome: Species: Brassica rapa Functional Descriptions: Vernalization-mediated demethylation of BrCKA2 (casein kinase II α-subunit) and BrCKB4 (casein kinase II β-subunit) shorten the period of the clock gene BrCCA1 (circadian clock associated 1) in Brassica rapa.</description>
+    </item>
+    <item>
+      <title>FaPE1</title>
+      <link>/genes/2024.6.9/fragaria-ananassa/fape1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fragaria-ananassa/fape1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FaPE1 Gene Name: pectinesterase1 Genome: Species: Fragaria ananassa Functional Descriptions: Concerning hormone regulation, auxin treatment increased FaPE1 mRNA levels in green fruit, whereas exogenous ethylene decreased FaPE1 mRNA levels in ripe and senescing fruits.</description>
+    </item>
+    <item>
+      <title>NAC-NOR</title>
+      <link>/genes/solanum_lycopersicum/nac-nor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/nac-nor/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g006880 Gene Symbol: NAC-NOR Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>NaPME1</title>
+      <link>/genes/2024.6.9/nicotiana-attenuata/napme1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-attenuata/napme1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NaPME1 Gene Name: putative pectin methylesterase Genome: Species: Nicotiana attenuata Functional Descriptions: Pectin methylesterase NaPME1 contributes to the emission of methanol during insect herbivory and to the elicitation of defence responses in Nicotiana attenuata.</description>
+    </item>
+    <item>
+      <title>OsALKBH1</title>
+      <link>/genes/oryza_sativa/loc_os03g60190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g60190/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g60190 RAPdb gene ID: Os03g0816500 Gene Symbol: OsALKBH1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCTF</title>
+      <link>/genes/oryza_sativa/loc_os06g19210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g19210/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g19210 RAPdb gene ID: Os06g0296100 Gene Symbol: OsCTF Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsDML4</title>
+      <link>/genes/oryza_sativa/loc_os06g13070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g13070/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g13070 RAPdb gene ID: Os06g0237900 Gene Symbol: OsDML4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PpFAD3-1</title>
+      <link>/genes/2024.6.9/prunus-persica/prupe.6g056100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/prupe.6g056100/</guid>
+      <description>Gene Details: Gene ID: Prupe.6G056100 Gene Symbol: PpFAD3-1 Gene Name: Genome: Species: Prunus persica Functional Descriptions: Peach fruit PpNAC1 activates PpFAD3-1 transcription to provide ω-3 fatty acids for the synthesis of short-chain flavor volatiles.</description>
+    </item>
+    <item>
+      <title>ZmROS1b;mdr1</title>
+      <link>/genes/zea_mays/zmros1bmdr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmros1bmdr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb202980 Gene Symbol: ZmROS1b mdr1 Gene Name: maternal derepression of R1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWAK02;ZmWAKL03</title>
+      <link>/genes/zea_mays/zmwak02zmwakl03wakl3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmwak02zmwakl03wakl3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb034290 Gene Symbol: ZmWAK02 ZmWAKL03 wakl3 Gene Name: wall-associated receptor kinase-like3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plant epidermal cell on funPlantGenes</title>
+    <link>/tags/plant-epidermal-cell/</link>
+    <description>Recent content in plant epidermal cell on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/plant-epidermal-cell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT3G18780</title>
+      <link>/genes/arabidopsis_thaliana/at3g18780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g18780/</guid>
+      <description>Gene Details: Gene ID: AT3G18780 Gene Symbol: ACT2, DER1, ENL2, FIZ2, LSR2 Gene Name: actin 2, DEFORMED ROOT HAIRS 1, ENHANCER OF LRX1 2, FRIZZY AND KINKED SHOOTS 2, LIGHT STRESS-REGULATED 2 Description: actin 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G18780.</description>
+    </item>
+  </channel>
+</rss>

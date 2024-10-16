@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rooting ability on funPlantGenes</title>
+    <link>/tags/rooting-ability/</link>
+    <description>Recent content in rooting ability on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/rooting-ability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MdORE1</title>
+      <link>/genes/malus_domestica/mdore1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdore1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD06G1196100 Gene Symbol: MdORE1 Gene Name: Malus domestica ORESARA1 Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdWOX4b</title>
+      <link>/genes/malus_domestica/mdwox4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdwox4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD08G1096300 Gene Symbol: MdWOX4b Gene Name: Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+  </channel>
+</rss>

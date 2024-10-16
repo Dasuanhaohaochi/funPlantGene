@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adventitious root formation on funPlantGenes</title>
+    <link>/tags/adventitious-root-formation/</link>
+    <description>Recent content in adventitious root formation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/adventitious-root-formation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AUREA;AU</title>
+      <link>/genes/solanum_lycopersicum/aureaau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/aureaau/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g008930 Gene Symbol: AUREA AU Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>CsARN6.1</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csa6g504460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csa6g504460/</guid>
+      <description>Gene Details: Gene ID: Csa6G504460 Gene Symbol: CsARN6.1 Gene Name: Genome: Species: Cucumis sativus Functional Descriptions: The major-effect quantitative trait locus CsARN6.</description>
+    </item>
+    <item>
+      <title>CsEIL3</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csav3_6g004610/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csav3_6g004610/</guid>
+      <description>Gene Details: Gene ID: CsaV3_6G004610 Gene Symbol: CsEIL3 Gene Name: Genome: Species: Cucumis sativus Functional Descriptions: A CsEIL3-CsARN6.</description>
+    </item>
+    <item>
+      <title>MdARF8</title>
+      <link>/genes/malus_domestica/mdarf8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdarf8/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000550049 Gene Symbol: MdARF8 Gene Name: Malus domestica AUXIN RESPONSE FACTOR8 Genome: Malus × domestica GDDH13 v1.</description>
+    </item>
+    <item>
+      <title>MdBRC1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdbrc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdbrc1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdBRC1 Gene Name: BRANCHED1 Genome: Species: Malus domestica Functional Descriptions: Strigolactone regulates adventitious root formation via the MdSMXL7-MdWRKY6-MdBRC1 signaling cascade in apple.</description>
+    </item>
+    <item>
+      <title>MdBT2</title>
+      <link>/genes/2024.6.9/brassica-napus/mdp0000643281/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-napus/mdp0000643281/</guid>
+      <description>Gene Details: Gene ID: MDP0000643281 Gene Symbol: MdBT2 Gene Name: BROAD-COMPLEX, TRAMTRACK AND BRIC A BRAC2 Genome: Species: Brassica napus Functional Descriptions: MdBT2 is a BTB protein that directly interacts with and stabilizes MdCOP1 by inhibiting self-ubiquitination.</description>
+    </item>
+    <item>
+      <title>MdIAA3</title>
+      <link>/genes/malus_domestica/mdiaa3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdiaa3/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000295589 Gene Symbol: MdIAA3 Gene Name: Genome: Malus × domestica GDDH13 v1.</description>
+    </item>
+    <item>
+      <title>MdORE1</title>
+      <link>/genes/malus_domestica/mdore1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdore1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD06G1196100 Gene Symbol: MdORE1 Gene Name: Malus domestica ORESARA1 Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdSMXL7</title>
+      <link>/genes/2024.6.9/malus-domestica/md03g1068500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md03g1068500/</guid>
+      <description>Gene Details: Gene ID: MD03G1068500 Gene Symbol: MdSMXL7 Gene Name: Genome: Species: Malus domestica Functional Descriptions: Strigolactone regulates adventitious root formation via the MdSMXL7-MdWRKY6-MdBRC1 signaling cascade in apple.</description>
+    </item>
+    <item>
+      <title>MdWOX11</title>
+      <link>/genes/2024.6.9/malus-domestica/mdwox11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdwox11/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdWOX11 Gene Name: WUSCHEL-RELATED HOMEOBOX11 Genome: Species: Malus domestica Functional Descriptions: Cytokinin-responsive MdTCP17 interacts with MdWOX11 to repress adventitious root primordium formation in apple rootstocks.</description>
+    </item>
+    <item>
+      <title>MdWOX4b</title>
+      <link>/genes/malus_domestica/mdwox4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdwox4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD08G1096300 Gene Symbol: MdWOX4b Gene Name: Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdWRKY6</title>
+      <link>/genes/2024.6.9/malus-domestica/md05g1349800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md05g1349800/</guid>
+      <description>Gene Details: Gene ID: MD05G1349800 Gene Symbol: MdWRKY6 Gene Name: Genome: Species: Malus domestica Functional Descriptions: Strigolactone regulates adventitious root formation via the MdSMXL7-MdWRKY6-MdBRC1 signaling cascade in apple.</description>
+    </item>
+    <item>
+      <title>MHZ4</title>
+      <link>/genes/oryza_sativa/loc_os01g03750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g03750/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g03750 RAPdb gene ID: Os01g0128300 Gene Symbol: MHZ4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRR6</title>
+      <link>/genes/oryza_sativa/loc_os04g57720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g57720/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g57720 RAPdb gene ID: Os04g0673300 Gene Symbol: OsRR6 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PagFBL1</title>
+      <link>/genes/2024.6.9/populus-alba-x-populus-glandulosa/pagfbl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-alba-x-populus-glandulosa/pagfbl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PagFBL1 Gene Name: TRANSPORT INHIBITOR RESPONSE 1 Genome: Species: Populus alba x Populus glandulosa Functional Descriptions: The auxin receptor TIR1 homolog (PagFBL1) regulates adventitious rooting through interactions with Aux/IAA28 in Populus.</description>
+    </item>
+    <item>
+      <title>PtrXB38</title>
+      <link>/genes/2024.6.9/populus-trichocarpa/potri.010g070800.6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-trichocarpa/potri.010g070800.6/</guid>
+      <description>Gene Details: Gene ID: Potri.010G070800.6 Gene Symbol: PtrXB38 Gene Name: Genome: Species: Populus trichocarpa Functional Descriptions: Expression quantitative trait loci mapping identified PtrXB38 as a key hub gene in adventitious root development in Populus.</description>
+    </item>
+    <item>
+      <title>PuHox52</title>
+      <link>/genes/2024.6.9/populus-ussuriensis/puhox52/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-ussuriensis/puhox52/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuHox52 Gene Name: Genome: Species: Populus ussuriensis Functional Descriptions: PuHox52 promotes coordinated uptake of nitrate, phosphate, and iron under nitrogen deficiency in Populus ussuriensis.</description>
+    </item>
+  </channel>
+</rss>

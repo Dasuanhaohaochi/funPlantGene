@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secale cereale on funPlantGenes</title>
+    <link>/categories/secale-cereale/</link>
+    <description>Recent content in Secale cereale on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/secale-cereale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PmTR1</title>
+      <link>/genes/secale_cereale/pmtr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/secale_cereale/pmtr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;SECCE6Rv1G0382290 Gene Symbol: PmTR1 Gene Name: Genome: Lo7 reference genome (Rabanus-Wallace et al.</description>
+    </item>
+    <item>
+      <title>PmTR3</title>
+      <link>/genes/secale_cereale/pmtr3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/secale_cereale/pmtr3/</guid>
+      <description>Gene Details: Gene ID:&#x9;SECCE6Rv1G0382290 Gene Symbol: PmTR3 Gene Name: Genome: Lo7 reference genome (Rabanus-Wallace et al.</description>
+    </item>
+  </channel>
+</rss>

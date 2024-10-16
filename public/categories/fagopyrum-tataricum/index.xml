@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fagopyrum tataricum on funPlantGenes</title>
+    <link>/categories/fagopyrum-tataricum/</link>
+    <description>Recent content in Fagopyrum tataricum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/fagopyrum-tataricum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FtbHLH165</title>
+      <link>/genes/2024.6.9/fagopyrum-tataricum/ftping0201231100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fagopyrum-tataricum/ftping0201231100/</guid>
+      <description>Gene Details: Gene ID: FtPinG0201231100 Gene Symbol: FtbHLH165 Gene Name: Genome: reference genome(https://www.</description>
+    </item>
+    <item>
+      <title>FtBPM3</title>
+      <link>/genes/2024.6.9/fagopyrum-tataricum/ftping0808645400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fagopyrum-tataricum/ftping0808645400/</guid>
+      <description>Gene Details: Gene ID: FtPinG0808645400 Gene Symbol: FtBPM3 Gene Name: Genome: Species: Fagopyrum tataricum Functional Descriptions: FtBPM3 modulates the orchestration of FtMYB11-mediated flavonoids biosynthesis in Tartary buckwheat.</description>
+    </item>
+    <item>
+      <title>FtCOMT1</title>
+      <link>/genes/2024.7.17/fagopyrum-tataricum/ftping0009454400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/fagopyrum-tataricum/ftping0009454400/</guid>
+      <description>Gene Details: Gene ID: FtPinG0009454400 Gene Symbol: FtCOMT1 Gene Name: caffeoyl-CoA OMT1 Genome: Pinku1 reference genome Species: Fagopyrum tataricum Functional Descriptions: Genome-wide association studies identified robust associations between FtCOMT1 and the accumulation of S lignin in seed hull.</description>
+    </item>
+    <item>
+      <title>FtGH1</title>
+      <link>/genes/2024.6.9/fagopyrum-tataricum/ftping0201454200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fagopyrum-tataricum/ftping0201454200/</guid>
+      <description>Gene Details: Gene ID: FtPinG0201454200 Gene Symbol: FtGH1 Gene Name: glycosyl hydrolase 1 Genome: reference genome(https://www.</description>
+    </item>
+  </channel>
+</rss>

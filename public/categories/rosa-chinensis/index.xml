@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rosa chinensis on funPlantGenes</title>
+    <link>/categories/rosa-chinensis/</link>
+    <description>Recent content in Rosa chinensis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/rosa-chinensis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RcbHLH59</title>
+      <link>/genes/2024.6.9/rosa-chinensis/rchm_v2.0_chr3g0451111/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/rosa-chinensis/rchm_v2.0_chr3g0451111/</guid>
+      <description>Gene Details: Gene ID: RcHm_v2.0_Chr3g0451111 Gene Symbol: RcbHLH59 Gene Name: Basic helix–loop–helix 59 Genome: Genome Database for Rosaceae (https://www.</description>
+    </item>
+    <item>
+      <title>RcBROG</title>
+      <link>/genes/2024.7.17/rosa-chinensis/rcbrog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/rosa-chinensis/rcbrog/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: RcBROG Gene Name: Black-spot Resistance Orphan Gene Genome: Species: Rosa chinensis Functional Descriptions: The Marssonina rosae effector MrSEP43 suppresses immunity in rose by targeting the orphan protein RcBROG.</description>
+    </item>
+    <item>
+      <title>RcCO</title>
+      <link>/genes/rosa_chinensis/rcco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/rosa_chinensis/rcco/</guid>
+      <description>Gene Details: Gene ID:&#x9;RcChr2g0164091 Gene Symbol: RcCO Gene Name: Genome: genome database of R.</description>
+    </item>
+    <item>
+      <title>RcCOL4</title>
+      <link>/genes/rosa_chinensis/rccol4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/rosa_chinensis/rccol4/</guid>
+      <description>Gene Details: Gene ID:&#x9;RcChr6g0299051 Gene Symbol: RcCOL4 Gene Name: Genome: genome database of R.</description>
+    </item>
+    <item>
+      <title>RcMYB123</title>
+      <link>/genes/rosa_chinensis/rcmyb123/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/rosa_chinensis/rcmyb123/</guid>
+      <description>Gene Details: Gene ID:&#x9;RC0G0132900 Gene Symbol: RcMYB123 Gene Name: Genome: R.</description>
+    </item>
+    <item>
+      <title>RcMYB84</title>
+      <link>/genes/rosa_chinensis/rcmyb84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/rosa_chinensis/rcmyb84/</guid>
+      <description>Gene Details: Gene ID:&#x9;RC6G0583200 Gene Symbol: RcMYB84 Gene Name: Genome: R.</description>
+    </item>
+    <item>
+      <title>RcNAC091</title>
+      <link>/genes/rosa_chinensis/rcnac091/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/rosa_chinensis/rcnac091/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: RcNAC091 Gene Name: Genome: Rosa chinensis Old Blush homozygous Genome v2.</description>
+    </item>
+    <item>
+      <title>RcWRKY71</title>
+      <link>/genes/rosa_chinensis/rcwrky71/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/rosa_chinensis/rcwrky71/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: RcWRKY71 Gene Name: Genome: Rosa chinensis Old Blush homozygous Genome v2.</description>
+    </item>
+  </channel>
+</rss>

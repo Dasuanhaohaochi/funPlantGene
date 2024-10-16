@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ammonium transport on funPlantGenes</title>
+    <link>/tags/ammonium-transport/</link>
+    <description>Recent content in ammonium transport on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ammonium-transport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CitAMT1</title>
+      <link>/genes/2024.6.9/citrus-sinensis-x-poncirus-trifoliata/citamt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis-x-poncirus-trifoliata/citamt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CitAMT1 Gene Name: ammonium transporter1 Genome: Species: Citrus sinensis x Poncirus trifoliata Functional Descriptions: Ammonium transport and CitAMT1 expression are regulated by N in Citrus plants.</description>
+    </item>
+    <item>
+      <title>ZmAMT1</title>
+      <link>/genes/zea_mays/zm00001eb247430/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb247430/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb247430 Gene Symbol: ZmAMT1|3|ZmAMT2 Gene Name: ammonium transporter2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAMT3.1;amt7</title>
+      <link>/genes/zea_mays/zmamt3.1amt7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmamt3.1amt7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb366590 Gene Symbol: ZmAMT3.1 amt7 Gene Name: ammonium transporter7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

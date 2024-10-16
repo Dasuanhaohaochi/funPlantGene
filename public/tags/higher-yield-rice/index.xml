@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>higher yield rice on funPlantGenes</title>
+    <link>/tags/higher-yield-rice/</link>
+    <description>Recent content in higher yield rice on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/higher-yield-rice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HYR</title>
+      <link>/genes/oryza_sativa/loc_os03g02650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g02650/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g02650 RAPdb gene ID: Os03g0117900 Gene Symbol: HYR Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SaVHAc1</title>
+      <link>/genes/2024.6.9/spartina-alterniflora/savhac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/spartina-alterniflora/savhac1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SaVHAc1 Gene Name: vacuolar ATPase subunit c1 Genome: Species: Spartina alterniflora Functional Descriptions: Enhanced salt stress tolerance of rice plants expressing a vacuolar H+-ATPase subunit c1 (SaVHAc1) gene from the halophyte grass Spartina alterniflora.</description>
+    </item>
+    <item>
+      <title>TaGW8-7A</title>
+      <link>/genes/triticum_aestivum/traescs7a02g260500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7a02g260500/</guid>
+      <description>Gene Details: Gene ID: TraesCS7A02G260500 Gene Symbol: TaGW8-7A Gene Name: Grain Weight 8 Genome: Species: Triticum aestivum Functional Descriptions: TaGW8, a member of the SPL gene family, is located on wheat group 7 chromosomes.</description>
+    </item>
+    <item>
+      <title>TaGW8-7B</title>
+      <link>/genes/triticum_aestivum/traescs7b02g158500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7b02g158500/</guid>
+      <description>Gene Details: Gene ID: TraesCS7B02G158500 Gene Symbol: TaGW8-7B Gene Name: Grain Weight 8 Genome: Species: Triticum aestivum Functional Descriptions: TaGW8, a member of the SPL gene family, is located on wheat group 7 chromosomes.</description>
+    </item>
+    <item>
+      <title>TaMOR-A</title>
+      <link>/genes/triticum_aestivum/tamor-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamor-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4A02G415400 Gene Symbol: TaMOR-A Gene Name: MORE ROOT Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaMOR-B</title>
+      <link>/genes/triticum_aestivum/tamor-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamor-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4B02G316200 Gene Symbol: TaMOR-B Gene Name: MORE ROOT Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaMOR-D</title>
+      <link>/genes/triticum_aestivum/tamor-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamor-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4D02G312800 Gene Symbol: TaMOR-D Gene Name: MORE ROOT Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaNOX7-3A</title>
+      <link>/genes/triticum_aestivum/tanox7-3a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanox7-3a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: TaNOX7-3A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apoplast on funPlantGenes</title>
+    <link>/tags/apoplast/</link>
+    <description>Recent content in apoplast on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/apoplast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsiLAC17</title>
+      <link>/genes/2024.6.9/citrus-sinensis/cs8g17630.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/cs8g17630.1/</guid>
+      <description>Gene Details: Gene ID: Cs8g17630.1 Gene Symbol: CsiLAC17 Gene Name: Citrus LACCASE-17 Genome: Orange Genomic Database Species: Citrus sinensis Functional Descriptions: CsiLAC4 and CsiLAC17 are predominantly localized in the apoplast of tobacco epidermal cells.</description>
+    </item>
+    <item>
+      <title>CsiLAC4</title>
+      <link>/genes/2024.6.9/citrus-sinensis/cs6g07800.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/cs6g07800.1/</guid>
+      <description>Gene Details: Gene ID: Cs6g07800.1 Gene Symbol: CsiLAC4 Gene Name: Citrus LACCASE-4 Genome: Orange Genomic Database Species: Citrus sinensis Functional Descriptions: CsiLAC4’s role in xylem lignification was determined by mRNA hybridization and cytochemistry.</description>
+    </item>
+  </channel>
+</rss>

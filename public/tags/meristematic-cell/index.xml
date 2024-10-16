@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meristematic cell on funPlantGenes</title>
+    <link>/tags/meristematic-cell/</link>
+    <description>Recent content in meristematic cell on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/meristematic-cell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT5G23080</title>
+      <link>/genes/arabidopsis_thaliana/at5g23080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g23080/</guid>
+      <description>Gene Details: Gene ID: AT5G23080 Gene Symbol: TGH Gene Name: TOUGH Description: SWAP (Suppressor-of-White-APricot)/surp domain-containing protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G23080.</description>
+    </item>
+  </channel>
+</rss>

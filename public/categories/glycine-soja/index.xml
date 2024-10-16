@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glycine soja on funPlantGenes</title>
+    <link>/categories/glycine-soja/</link>
+    <description>Recent content in Glycine soja on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/glycine-soja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GsERF7</title>
+      <link>/genes/2024.6.9/glycine-soja/gserf7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-soja/gserf7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GsERF7 Gene Name: ethylene-responsive transcription factor 7 Genome: Species: Glycine soja Functional Descriptions: GsSnRK1 interplays with transcription factor GsERF7 from wild soybean to regulate soybean stress resistance.</description>
+    </item>
+    <item>
+      <title>Gshdz4</title>
+      <link>/genes/2024.6.9/glycine-soja/gshdz4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-soja/gshdz4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Gshdz4 Gene Name: transcription factor hdz4 Genome: Species: Glycine soja Functional Descriptions: A novel Glycine soja homeodomain-leucine zipper (HD-Zip) I gene, Gshdz4, positively regulates bicarbonate tolerance and responds to osmotic stress in Arabidopsis.</description>
+    </item>
+    <item>
+      <title>GsSnRK1</title>
+      <link>/genes/2024.6.9/glycine-soja/gssnrk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-soja/gssnrk1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GsSnRK1 Gene Name: sucrose nonfermenting kinase 1 Genome: wild soybean genome database (https://www.</description>
+    </item>
+    <item>
+      <title>GsWRKY40</title>
+      <link>/genes/2024.7.17/glycine-soja/glysopi483463.07g020800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/glycine-soja/glysopi483463.07g020800/</guid>
+      <description>Gene Details: Gene ID: GlysoPI483463.07G020800 Gene Symbol: GsWRKY40 Gene Name: Genome: Species: Glycine soja Functional Descriptions: The different GUS expression levels driven by the truncated promoters suggest that the Box4-1 and Box4-2 are responsible for higher transcriptional activity of GsWRKY40 promoter than GmWRKY40 promoter.</description>
+    </item>
+    <item>
+      <title>Rj4</title>
+      <link>/genes/2024.6.9/glycine-soja/glyma.01g165800-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-soja/glyma.01g165800-d/</guid>
+      <description>Gene Details: Gene ID: Glyma.01g165800-D Gene Symbol: Rj4 Gene Name: Glycine soja thaumatin-like protein Genome: Species: Glycine soja Functional Descriptions: Rj4, a Gene Controlling Nodulation Specificity in Soybeans, Encodes a Thaumatin-Like Protein But Not the One Previously Reported.</description>
+    </item>
+  </channel>
+</rss>

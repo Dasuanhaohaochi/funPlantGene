@@ -1,0 +1,2881 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solanum lycopersicum on funPlantGenes</title>
+    <link>/categories/solanum-lycopersicum/</link>
+    <description>Recent content in Solanum lycopersicum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/solanum-lycopersicum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AGO2a</title>
+      <link>/genes/triticum_aestivum/solyc02g069260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/solyc02g069260/</guid>
+      <description>Gene Details: Gene ID: Solyc02g069260 Gene Symbol: AGO2a Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: AGO2a but not AGO2b mediates antiviral defense against infection of wild-type cucumber mosaic virus in tomato.</description>
+    </item>
+    <item>
+      <title>AGO2b</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc02g069270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc02g069270/</guid>
+      <description>Gene Details: Gene ID: Solyc02g069270 Gene Symbol: AGO2b Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: AGO2a but not AGO2b mediates antiviral defense against infection of wild-type cucumber mosaic virus in tomato.</description>
+    </item>
+    <item>
+      <title>AUREA;AU</title>
+      <link>/genes/solanum_lycopersicum/aureaau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/aureaau/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g008930 Gene Symbol: AUREA AU Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>bk2-ref</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/bk2-ref/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/bk2-ref/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: bk2-ref|BK2 Gene Name: Brittle stalk 2 Genome: Species: Solanum lycopersicum Functional Descriptions: A spontaneous maize mutant, brittle stalk-2 (bk2-ref|BK2), exhibits dramatically reduced tissue mechanical strength.</description>
+    </item>
+    <item>
+      <title>BZR1.7</title>
+      <link>/genes/solanum_lycopersicum/bzr1.7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/bzr1.7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g076390 Gene Symbol: BZR1.7 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>CaM6</title>
+      <link>/genes/solanum_lycopersicum/cam6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/cam6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g098050 Gene Symbol: CaM6 Gene Name: CALMODULIN6 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>CHS1</title>
+      <link>/genes/solanum_lycopersicum/chs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/chs1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g091510 Gene Symbol: CHS1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>CmHRE2-like</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/cmhre2-like/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/cmhre2-like/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CmHRE2-like Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Chrysanthemum (Chrysanthemum morifolium) CmHRE2-like negatively regulates the resistance of chrysanthemum to the aphid (Macrosiphoniella sanborni).</description>
+    </item>
+    <item>
+      <title>CslG2</title>
+      <link>/genes/solanum_lycopersicum/cslg2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/cslg2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g043390 Gene Symbol: CslG2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>CYC-B</title>
+      <link>/genes/solanum_lycopersicum/cyc-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/cyc-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g074240 Gene Symbol: CYC-B Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>Fir1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc12g099830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc12g099830/</guid>
+      <description>Gene Details: Gene ID: Solyc12g099830 Gene Symbol: Fir1 Gene Name: Fls2/Fls3-interacting receptor-like cytoplasmic kinase 1 Genome: Species: Solanum lycopersicum Functional Descriptions: Identified the tomato Fls2/Fls3-interacting receptor-like cytoplasmic kinase 1 (Fir1) protein that is involved in PTI triggered by flagellin perception.</description>
+    </item>
+    <item>
+      <title>FIS1</title>
+      <link>/genes/solanum_lycopersicum/fis1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/fis1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g007570 Gene Symbol: FIS1 Gene Name: FIRM SKIN 1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>GAME36</title>
+      <link>/genes/solanum_lycopersicum/game36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/game36/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g075210 Gene Symbol: GAME36 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>GID1a</title>
+      <link>/genes/solanum_lycopersicum/gid1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/gid1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g098390 Gene Symbol: GID1a Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>GID1b1</title>
+      <link>/genes/solanum_lycopersicum/gid1b1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/gid1b1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g074270 Gene Symbol: GID1b1 Gene Name: GA-activated GIBBERELLIN-INSENSITIVE DWARF1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>GID1b2</title>
+      <link>/genes/solanum_lycopersicum/gid1b2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/gid1b2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g008870 Gene Symbol: GID1b2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>Hair;H</title>
+      <link>/genes/solanum_lycopersicum/hairh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/hairh/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g078970 Gene Symbol: Hair H Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>HL</title>
+      <link>/genes/solanum_lycopersicum/hl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/hl/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g078990 Gene Symbol: HL Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>Hl-2</title>
+      <link>/genes/solanum_lycopersicum/hl-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/hl-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g068720 Gene Symbol: Hl-2 Gene Name: hairless-2 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>ICE1</title>
+      <link>/genes/solanum_lycopersicum/ice1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/ice1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g118310 Gene Symbol: ICE1 Gene Name: INDUCER of CBF EXPRESSION 1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>LeACS2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc01g095080.3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc01g095080.3.1/</guid>
+      <description>Gene Details: Gene ID: Solyc01g095080.3.1 Gene Symbol: LeACS2 Gene Name: 1-aminocyclopropane-1-carboxylate synthase 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Turnover of LeACS2, a wound-inducible 1-aminocyclopropane-1-carboxylic acid synthase in tomato, is regulated by phosphorylation/dephosphorylation.</description>
+    </item>
+    <item>
+      <title>LeAGP-1</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/leagp-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/leagp-1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeAGP-1 Gene Name: Arabinogalactan-protein1 Genome: Species: Solanum lycopersicum Functional Descriptions: Overexpression of tomato LeAGP-1 arabinogalactan-protein promotes lateral branching and hampers reproductive development.</description>
+    </item>
+    <item>
+      <title>LeCCD1A</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/leccd1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/leccd1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeCCD1A Gene Name: carotenoid cleavage dioxygenase 1A Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato carotenoid cleavage dioxygenase 1 genes contribute to the formation of the flavor volatiles β-ionone, pseudoionone, and geranylacetone.</description>
+    </item>
+    <item>
+      <title>LeCCD1B</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/leccd1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/leccd1b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeCCD1B Gene Name: carotenoid cleavage dioxygenase 1B Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato carotenoid cleavage dioxygenase 1 genes contribute to the formation of the flavor volatiles β-ionone, pseudoionone, and geranylacetone.</description>
+    </item>
+    <item>
+      <title>LeCDJ1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lecdj1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lecdj1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeCDJ1 Gene Name: DnaJ protein1 Genome: Species: Solanum lycopersicum Functional Descriptions: The roles of a tomato (Solanum lycopersicum) chloroplast-targeted DnaJ protein (LeCDJ1), whose expression was upregulated by treatment at 4 and 42 °C, and with high light, NaCl, polyethylene glycol, and H2O2, were investigated here using sense and antisense transgenic tomatoes.</description>
+    </item>
+    <item>
+      <title>LeCDPK2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc04g009800.3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc04g009800.3.1/</guid>
+      <description>Gene Details: Gene ID: Solyc04g009800.3.1 Gene Symbol: LeCDPK2|SlCDPK2 Gene Name: Calcium-dependent protein kinase2 Genome: Species: Solanum lycopersicum Functional Descriptions: A calcium-dependent protein kinase (CDPK), LeCDPK2|SlCDPK2, was isolated as one of the protein kinases that are able to phosphorylate LeACS2 at Ser-460.</description>
+    </item>
+    <item>
+      <title>LeEIN2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/leein2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/leein2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeEIN2 Gene Name: ethylene signaling protein2 Genome: Species: Solanum lycopersicum Functional Descriptions: The silencing of the LeEIN2 gene results in the suppression of tomato fruit ripening.</description>
+    </item>
+    <item>
+      <title>LeEix2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leeix2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leeix2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeEix2 Gene Name: receptor-like protein EIX2 Genome: Species: Solanum lycopersicum Functional Descriptions: Endosomal signaling of the tomato leucine-rich repeat receptor-like protein LeEix2.</description>
+    </item>
+    <item>
+      <title>LeEIX2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc07g008630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc07g008630/</guid>
+      <description>Gene Details: Gene ID: Solyc07g008630 Gene Symbol: LeEIX2 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato (Solanum lycopersicum) LeEIX2 is an RLP that binds ethylene-inducing xylanase (EIX), a fungal elicitor.</description>
+    </item>
+    <item>
+      <title>LeERF2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/leerf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/leerf2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeERF2 Gene Name: Ethylene response factor 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Transcriptional Regulation of the Ethylene Response Factor LeERF2 in the Expression of Ethylene Biosynthesis Genes Controls Ethylene Production in Tomato and Tobacco.</description>
+    </item>
+    <item>
+      <title>LeETR4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leetr4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leetr4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeETR4 Gene Name: ethylene receptor4 Genome: Species: Solanum lycopersicum Functional Descriptions: Fruit-specific suppression of the ethylene receptor LeETR4 results in early-ripening tomato fruit.</description>
+    </item>
+    <item>
+      <title>LeFAD7</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lefad7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lefad7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeFAD7 Gene Name: omega-3 fatty acid desaturase7 Genome: Species: Solanum lycopersicum Functional Descriptions: Loss of Function of FATTY ACID DESATURASE7 (LeFAD7) in Tomato Enhances Basal Aphid Resistance in a Salicylate-Dependent Manner.</description>
+    </item>
+    <item>
+      <title>LeFRK2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lefrk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lefrk2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeFRK2 Gene Name: fructokinase2 Genome: Species: Solanum lycopersicum Functional Descriptions: LeFRK2 is required for phloem and xylem differentiation and the transport of both sugar and water.</description>
+    </item>
+    <item>
+      <title>LeFRO1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lefro1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lefro1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeFRO1 Gene Name: ferric-chelate reductase1 Genome: Species: Solanum lycopersicum Functional Descriptions: LeFRO1 encoding an Fe(III)-chelate reductase protein was isolated from the tomato genome.</description>
+    </item>
+    <item>
+      <title>LeGGPS1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leggps1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leggps1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeGGPS1 Gene Name: geranylgeranyl pyrophosphate synthase1 Genome: Species: Solanum lycopersicum Functional Descriptions: LeGGPS1 was predominantly expressed in leaf tissue and LeGGPS2 in ripening fruit and flower tissue.</description>
+    </item>
+    <item>
+      <title>LeGGPS2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leggps2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leggps2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeGGPS2 Gene Name: geranylgeranyl pyrophosphate synthase2 Genome: Species: Solanum lycopersicum Functional Descriptions: LeGGPS1 was predominantly expressed in leaf tissue and LeGGPS2 in ripening fruit and flower tissue.</description>
+    </item>
+    <item>
+      <title>LeGPAT</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/legpat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/legpat/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeGPAT Gene Name: glycerol-3-phosphate acyltransferase Genome: Species: Solanum lycopersicum Functional Descriptions: A tomato (Solanum lycopersicum Mill.</description>
+    </item>
+    <item>
+      <title>LeHB-1</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc02g086930.3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc02g086930.3.1/</guid>
+      <description>Gene Details: Gene ID: Solyc02g086930.3.1 Gene Symbol: LeHB-1 Gene Name: Homeobox-leucine zipper protein Genome: Species: Solanum lycopersicum Functional Descriptions: A tomato HD-Zip homeobox protein, LeHB-1, plays an important role in floral organogenesis and ripening.</description>
+    </item>
+    <item>
+      <title>LeHT1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leht1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leht1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeHT1 Gene Name: hexose transporter 1 Genome: Species: Solanum lycopersicum Functional Descriptions: Involvement of the Hexose Transporter Gene LeHT1 and of Sugars in Resistance of Tomato to Tomato Yellow Leaf Curl Virus.</description>
+    </item>
+    <item>
+      <title>LeIRT1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leirt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leirt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeIRT1 Gene Name: iron-regulated transporter 1 Genome: Species: Solanum lycopersicum Functional Descriptions: LeFRO1 encoding an Fe(III)-chelate reductase protein was isolated from the tomato genome.</description>
+    </item>
+    <item>
+      <title>LeIRT2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leirt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leirt2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeIRT2 Gene Name: iron-regulated transporter 2 Genome: Species: Solanum lycopersicum Functional Descriptions: To extend our molecular knowledge of Fe transport in crop plants, we have isolated two cDNAs (LeIRT1 and LeIRT2) from a library constructed from roots of iron-deficient tomato (Solanum lycopersicum) plants, using the Arabidopsis iron transporter cDNA, IRT1, as a probe.</description>
+    </item>
+    <item>
+      <title>LeMAN2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leman2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leman2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeMAN2 Gene Name: mannan endo-1,4-beta-mannosidase 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Specific role of LeMAN2 in the control of seed germination exposed by overexpression of the LeMAN3 gene in tomato plants.</description>
+    </item>
+    <item>
+      <title>LeMAN4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leman4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leman4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeMAN4 Gene Name: endo-1,4-beta-mannosidase Genome: Species: Solanum lycopersicum Functional Descriptions: Characterisation of an endo-(1,4)-beta-mannanase (LeMAN4) expressed in ripening tomato fruit.</description>
+    </item>
+    <item>
+      <title>LeNCED1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lenced1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lenced1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeNCED1 Gene Name: 9-cis-epoxy-carotenoid dioxygenase Genome: Species: Solanum lycopersicum Functional Descriptions: Abscisic acid levels in tomato ovaries are regulated by LeNCED1 and SlCYP707A1.</description>
+    </item>
+    <item>
+      <title>LeNHX2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lenhx2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lenhx2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeNHX2 Gene Name: Na+/H+ antiporter 2 Genome: Species: Solanum lycopersicum Functional Descriptions: The K+/H+ antiporter LeNHX2 increases salt tolerance by improving K+ homeostasis in transgenic tomato.</description>
+    </item>
+    <item>
+      <title>LePHGPx</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/lephgpx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/lephgpx/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LePHGPx Gene Name: phospholipid hydroperoxide glutathione peroxidase Genome: Species: Solanum lycopersicum Functional Descriptions: We have isolated a tomato (Lycopersicon esculentum) gene encoding a phospholipid hydroperoxide glutathione peroxidase (LePHGPx).</description>
+    </item>
+    <item>
+      <title>LePRK1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leprk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leprk1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LePRK1 Gene Name: receptor-like protein kinase1 Genome: Species: Solanum lycopersicum Functional Descriptions: Pollen Tube Localization Implies a Role in Pollen–Pistil Interactions for the Tomato Receptor-like Protein Kinases LePRK1 and LePRK2.</description>
+    </item>
+    <item>
+      <title>LePRK2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leprk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leprk2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LePRK2 Gene Name: receptor-like protein kinase2 Genome: Species: Solanum lycopersicum Functional Descriptions: The Pollen Receptor Kinase LePRK2 Mediates Growth-Promoting Signals and Positively Regulates Pollen Germination and Tube Growth.</description>
+    </item>
+    <item>
+      <title>LeSPL-CNR</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lespl-cnr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lespl-cnr/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeSPL-CNR Gene Name: SQUAMOSA PROMOTER-BINDING PROTEIN-LIKE Genome: Species: Solanum lycopersicum Functional Descriptions: LeSPL-CNR negatively regulates Cd acquisition through repressing nitrate reductase-mediated nitric oxide production in tomato.</description>
+    </item>
+    <item>
+      <title>LeSUT1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lesut1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lesut1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeSUT1 Gene Name: sucrose transport protein 1 Genome: Species: Solanum lycopersicum Functional Descriptions: Sucrose transporter LeSUT1 and LeSUT2 inhibition affects tomato fruit development in different ways.</description>
+    </item>
+    <item>
+      <title>MED25</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc12g070100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc12g070100/</guid>
+      <description>Gene Details: Gene ID: Solyc12g070100 Gene Symbol: MED25 Gene Name: Genome: tomato reference genome (SL3.</description>
+    </item>
+    <item>
+      <title>MYC2</title>
+      <link>/genes/solanum_lycopersicum/myc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/myc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g076930 Gene Symbol: MYC2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>NAC-NOR</title>
+      <link>/genes/solanum_lycopersicum/nac-nor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/nac-nor/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g006880 Gene Symbol: NAC-NOR Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>NOR-like1</title>
+      <link>/genes/solanum_lycopersicum/nor-like1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/nor-like1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g063420 Gene Symbol: NOR-like1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>OBV</title>
+      <link>/genes/solanum_lycopersicum/obv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/obv/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g054030 Gene Symbol: OBV Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>phyB1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/phyb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/phyb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: phyB1 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We report that SlphyF acts as a red/far-red light reversible low fluence sensor, likely through the formation of heterodimers with SlphyB1 and SlphyB2.</description>
+    </item>
+    <item>
+      <title>PHYB2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/phyb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/phyb2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PHYB2 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We report that SlphyF acts as a red/far-red light reversible low fluence sensor, likely through the formation of heterodimers with SlphyB1 and SlPHYB2.</description>
+    </item>
+    <item>
+      <title>PHYB2</title>
+      <link>/genes/solanum_lycopersicum/phyb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/phyb2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g053410 Gene Symbol: PHYB2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>PHYF</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/phyf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/phyf/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PHYF Gene Name: SlPHYTOCHROME F Genome: Species: Solanum lycopersicum Functional Descriptions: We report that SlPHYF acts as a red/far-red light reversible low fluence sensor, likely through the formation of heterodimers with SlphyB1 and SlphyB2.</description>
+    </item>
+    <item>
+      <title>PMR4</title>
+      <link>/genes/solanum_lycopersicum/pmr4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/pmr4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g053980 Gene Symbol: PMR4 Gene Name: PowderyMildewResistance 4 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>PORK1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g123860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g123860/</guid>
+      <description>Gene Details: Gene ID: Solyc03g123860 Gene Symbol: PORK1 Gene Name: PEPR1/2 ORTHOLOG RECEPTOR-LIKE KINASE1 Genome: Species: Solanum lycopersicum Functional Descriptions: PORK1 Is Required for Tomato Seedling Growth Response to Systemin Peptide.</description>
+    </item>
+    <item>
+      <title>PPC2</title>
+      <link>/genes/solanum_lycopersicum/ppc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/ppc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g062530 Gene Symbol: PPC2 Gene Name: PHOSPHOENOLPYRUVATE CARBOXYLASE 2 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>PT</title>
+      <link>/genes/solanum_lycopersicum/pt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/pt/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g054030 Gene Symbol: PT Gene Name: POINTED TIP Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>pyp1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g098110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g098110/</guid>
+      <description>Gene Details: Gene ID: Solyc01g098110 Gene Symbol: pyp1 Gene Name: PALE YELLOW PETAL 1 Genome: Species: Solanum lycopersicum Functional Descriptions: Identification of the carotenoid modifying gene PALE YELLOW PETAL 1 as an essential factor in xanthophyll esterification and yellow flower pigmentation in tomato.</description>
+    </item>
+    <item>
+      <title>qFIS1</title>
+      <link>/genes/solanum_lycopersicum/qfis1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/qfis1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g007570 Gene Symbol: qFIS1 Gene Name: qFIRM SKIN 1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>qLKR4.1</title>
+      <link>/genes/solanum_lycopersicum/qlkr4.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/qlkr4.1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc04g082000 Gene Symbol: qLKR4.1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>RecQ4</title>
+      <link>/genes/solanum_lycopersicum/recq4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/recq4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g103960 Gene Symbol: RecQ4 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>RIN-MC</title>
+      <link>/genes/solanum_lycopersicum/rin-mc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/rin-mc/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g012020 Gene Symbol: RIN-MC Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SaWRKY1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sawrky1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sawrky1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SaWRKY1 Gene Name: WRKY transcription factor 1 Genome: Species: Solanum lycopersicum Functional Descriptions: SaWRKY1 exhibited induced expression with significant modulation in xyloglucan endotrans hydrolase 5 (XTH5) and MYB2 expressions that correlated with the disease phenotypes.</description>
+    </item>
+    <item>
+      <title>SD1</title>
+      <link>/genes/solanum_lycopersicum/sd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g082510 Gene Symbol: SD1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SE3.1</title>
+      <link>/genes/solanum_lycopersicum/se3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/se3.1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g098070 Gene Symbol: SE3.1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>ShPP2-1</title>
+      <link>/genes/solanum_lycopersicum/shpp2-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/shpp2-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g055870 Gene Symbol: ShPP2-1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SICBF1</title>
+      <link>/genes/solanum_lycopersicum/sicbf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sicbf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g124110 Gene Symbol: SICBF1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SIETR7</title>
+      <link>/genes/solanum_lycopersicum/sietr7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sietr7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g055070 Gene Symbol: SIETR7 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SIWRKY33</title>
+      <link>/genes/solanum_lycopersicum/siwrky33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/siwrky33/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g014990 Gene Symbol: SIWRKY33 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>Sl_HTA11</title>
+      <link>/genes/solanum_lycopersicum/sl_hta11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sl_hta11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g084090 Gene Symbol: Sl_HTA11 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>Sl_HTA8</title>
+      <link>/genes/solanum_lycopersicum/sl_hta8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sl_hta8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g065755 Gene Symbol: Sl_HTA8 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>Sl_HTA9</title>
+      <link>/genes/solanum_lycopersicum/sl_hta9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sl_hta9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g006830 Gene Symbol: Sl_HTA9 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>Sl-AGL11</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g028020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g028020/</guid>
+      <description>Gene Details: Gene ID: Solyc11g028020 Gene Symbol: Sl-AGL11 Gene Name: agamous-like MADS-box protein AGL11 Genome: Species: Solanum lycopersicum Functional Descriptions: Overexpression of the class D MADS-box gene Sl-AGL11 impacts fleshy tissue differentiation and structure in tomato fruits.</description>
+    </item>
+    <item>
+      <title>Sl-AKR9</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g011240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g011240/</guid>
+      <description>Gene Details: Gene ID: Solyc09g011240 Gene Symbol: Sl-AKR9 Gene Name: soluble NAD(P)(H) oxidoreductase Genome: Species: Solanum lycopersicum Functional Descriptions: Natural variations in the Sl-AKR9 aldo/keto reductase gene impact fruit flavor volatile and sugar contents.</description>
+    </item>
+    <item>
+      <title>Sl-ERF.B3</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc05g052030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc05g052030/</guid>
+      <description>Gene Details: Gene ID: Solyc05g052030 Gene Symbol: Sl-ERF.B3 Gene Name: Ethylene Response Factor Genome: Species: Solanum lycopersicum Functional Descriptions: The chimeric repressor version of an Ethylene Response Factor (ERF) family member, Sl-ERF.</description>
+    </item>
+    <item>
+      <title>Sl-ERF2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sl-erf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sl-erf2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Sl-ERF2 Gene Name: Ethylene response factor2 Genome: Species: Solanum lycopersicum Functional Descriptions: Sl-ERF2, a Tomato Ethylene Response Factor Involved in Ethylene Response and Seed Germination.</description>
+    </item>
+    <item>
+      <title>Sl-IAA17</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sl-iaa17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sl-iaa17/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Sl-IAA17 Gene Name: auxin/indole acetic acid 17 Genome: Species: Solanum lycopersicum Functional Descriptions: The Auxin Sl-IAA17 Transcriptional Repressor Controls Fruit Size Via the Regulation of Endoreduplication-Related Cell Expansion.</description>
+    </item>
+    <item>
+      <title>Sl-IAA27</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sl-iaa27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sl-iaa27/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Sl-IAA27 Gene Name: Aux/IAA transcription factor27 Genome: Species: Solanum lycopersicum Functional Descriptions: Phenotypes Associated with Down-Regulation of Sl-IAA27 Support Functional Diversity Among Aux/IAA Family Members in Tomato.</description>
+    </item>
+    <item>
+      <title>Sl-IAA27</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g120500.2.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g120500.2.1/</guid>
+      <description>Gene Details: Gene ID: Solyc03g120500.2.1 Gene Symbol: Sl-IAA27 Gene Name: Aux/IAA gene Genome: Species: Solanum lycopersicum Functional Descriptions: Sl-IAA27 regulates strigolactone biosynthesis and mycorrhization in tomato.</description>
+    </item>
+    <item>
+      <title>Sl-IAA3</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sl-iaa3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sl-iaa3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Sl-IAA3 Gene Name: Aux/IAA3 Genome: Species: Solanum lycopersicum Functional Descriptions: Sl-IAA3, a tomato Aux/IAA at the crossroads of auxin and ethylene signalling involved in differential growth.</description>
+    </item>
+    <item>
+      <title>Sl-PSKR1</title>
+      <link>/genes/solanum_lycopersicum/sl-pskr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sl-pskr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g008140.3 Gene Symbol: Sl-PSKR1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>Sl-PSKR2</title>
+      <link>/genes/solanum_lycopersicum/sl-pskr2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sl-pskr2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g063000.3 Gene Symbol: Sl-PSKR2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>Sl-STIG1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sl-stig1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sl-stig1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Sl-STIG1 Gene Name: STIGMA-SPECIFIC PROTEIN1 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato Pistil Factor STIG1 Promotes in Vivo Pollen Tube Growth by Binding to Phosphatidylinositol 3-Phosphate and the Extracellular Domain of the Pollen Receptor Kinase LePRK2.</description>
+    </item>
+    <item>
+      <title>Sl23DOX</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc02g062460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc02g062460/</guid>
+      <description>Gene Details: Gene ID: Solyc02g062460 Gene Symbol: Sl23DOX Gene Name: C-23 hydroxylase Genome: Sol Genomics Network (http://solgenomics.</description>
+    </item>
+    <item>
+      <title>Sl3-MMP</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sl3-mmp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sl3-mmp/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Sl3-MMP Gene Name: matrix metalloproteinase precursor Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato Sl3-MMP, a member of the Matrix metalloproteinase family, is required for disease resistance against Botrytis cinerea and Pseudomonas syringae pv.</description>
+    </item>
+    <item>
+      <title>Sl5R-1</title>
+      <link>/genes/solanum_lycopersicum/sl5r-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sl5r-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g009740 Gene Symbol: Sl5R-1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlACO1</title>
+      <link>/genes/solanum_lycopersicum/slaco1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slaco1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g049530 Gene Symbol: SlACO1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlACO3</title>
+      <link>/genes/solanum_lycopersicum/slaco3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slaco3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g049550 Gene Symbol: SlACO3 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlACO4</title>
+      <link>/genes/solanum_lycopersicum/slaco4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slaco4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g081190 Gene Symbol: SlACO4 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlACR11A</title>
+      <link>/genes/solanum_lycopersicum/slacr11a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slacr11a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g117890 Gene Symbol: SlACR11A Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlAGL6</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g093960/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g093960/</guid>
+      <description>Gene Details: Gene ID: Solyc01g093960 Gene Symbol: SlAGL6 Gene Name: SlAGAMOUS-LIKE 6 Genome: Species: Solanum lycopersicum Functional Descriptions: SlAGL6 mutations impose no homeotic changes, the seedless fruits are of normal weight and shape, pollen viability is unaffected, and sexual reproduction capacity is maintained, thus making SlAGL6 an attractive gene for facultative parthenocarpy.</description>
+    </item>
+    <item>
+      <title>SlALMT15</title>
+      <link>/genes/solanum_lycopersicum/slalmt15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slalmt15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g068970 Gene Symbol: SlALMT15 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlALMT4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slalmt4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slalmt4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlALMT4 Gene Name: aluminum-activated malate transporter 4 Genome: Species: Solanum lycopersicum Functional Descriptions: Two Members of the Aluminum-Activated Malate Transporter Family, SlALMT4 and SlALMT5, are Expressed during Fruit Development, and the Overexpression of SlALMT5 Alters Organic Acid Contents in Seeds in Tomato.</description>
+    </item>
+    <item>
+      <title>SlALMT5</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slalmt5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slalmt5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlALMT5 Gene Name: aluminum-activated malate transporter 5 Genome: Species: Solanum lycopersicum Functional Descriptions: Two Members of the Aluminum-Activated Malate Transporter Family, SlALMT4 and SlALMT5, are Expressed during Fruit Development, and the Overexpression of SlALMT5 Alters Organic Acid Contents in Seeds in Tomato.</description>
+    </item>
+    <item>
+      <title>SlAN11</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slan11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slan11/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlAN11 Gene Name: TRANSPARENT TESTA GLABRA 1 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato SlAN11 regulates flavonoid biosynthesis and seed dormancy by interaction with bHLH proteins but not with MYB proteins.</description>
+    </item>
+    <item>
+      <title>SlAN2-like</title>
+      <link>/genes/solanum_lycopersicum/slan2-like/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slan2-like/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g086290 Gene Symbol: SlAN2-like Gene Name: R2R3-MYB transcription factor SlAN2-like Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlAN2like</title>
+      <link>/genes/solanum_lycopersicum/slan2like/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slan2like/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g086290.1.1 Gene Symbol: SlAN2like Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlANT2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc04g077490/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc04g077490/</guid>
+      <description>Gene Details: Gene ID: Solyc04g077490 Gene Symbol: SlANT2 Gene Name: ANT homolog2 Genome: Species: Solanum lycopersicum Functional Descriptions: S.</description>
+    </item>
+    <item>
+      <title>SlAOS</title>
+      <link>/genes/solanum_lycopersicum/slaos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slaos/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc04g079730 Gene Symbol: SlAOS Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlAP2a</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/slap2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/slap2a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlAP2a Gene Name: APETALA2 transcription factor Genome: Species: Solanum lycopersicum Functional Descriptions: A tomato (Solanum lycopersicum) APETALA2/ERF gene, SlAP2a, is a negative regulator of fruit ripening.</description>
+    </item>
+    <item>
+      <title>SlAP2c</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc02g093150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc02g093150/</guid>
+      <description>Gene Details: Gene ID: Solyc02g093150 Gene Symbol: SlAP2c Gene Name: APETALA2 transcription factor Genome: ITAG4.</description>
+    </item>
+    <item>
+      <title>SlARC6</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc04g081070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc04g081070/</guid>
+      <description>Gene Details: Gene ID: Solyc04g081070 Gene Symbol: SlARC6 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Mutation of SlARC6 leads to tissue-specific defects in chloroplast development in tomato.</description>
+    </item>
+    <item>
+      <title>SlAREB1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slareb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slareb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlAREB1 Gene Name: ABA-response element binding factor 1 Genome: Species: Solanum lycopersicum Functional Descriptions: The transcription factor AREB1 regulates primary metabolic pathways in tomato fruits.</description>
+    </item>
+    <item>
+      <title>SlARF10</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g069500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g069500/</guid>
+      <description>Gene Details: Gene ID: Solyc11g069500 Gene Symbol: SlARF10 Gene Name: auxin response factor 10 Genome: Species: Solanum lycopersicum Functional Descriptions: SlARF10, an auxin response factor, is involved in chlorophyll and sugar accumulation during tomato fruit development.</description>
+    </item>
+    <item>
+      <title>SlARF4</title>
+      <link>/genes/solanum_lycopersicum/slarf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slarf4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g069190 Gene Symbol: SlARF4 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlARF6</title>
+      <link>/genes/solanum_lycopersicum/slarf6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slarf6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlARF6 Gene Name: Auxin response factor 6 Genome: Species: Solanum lycopersicum Functional Descriptions: SlARF6 and SlIAA23 played a contrary role in strigolactone (SL) synthesis and accumulation in AMF-colonized roots of tomato plants.</description>
+    </item>
+    <item>
+      <title>SlARF6A</title>
+      <link>/genes/solanum_lycopersicum/slarf6a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slarf6a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g006340 Gene Symbol: SlARF6A Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlARF7</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slarf7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slarf7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlARF7 Gene Name: AUXIN RESPONSE FACTOR 7 Genome: Species: Solanum lycopersicum Functional Descriptions: The Solanum lycopersicum auxin response factor 7 (SlARF7) regulates auxin signaling during tomato fruit set and development.</description>
+    </item>
+    <item>
+      <title>SlARF8</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g031970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g031970/</guid>
+      <description>Gene Details: Gene ID: Solyc03g031970 Gene Symbol: SlARF8 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Auxin homeostasis is maintained by sly-miR167-SlARF8A/B-SlGH3.</description>
+    </item>
+    <item>
+      <title>SlARF8B</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc02g037530/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc02g037530/</guid>
+      <description>Gene Details: Gene ID: Solyc02g037530 Gene Symbol: SlARF8B Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Auxin homeostasis is maintained by sly-miR167-SlARF8A/B-SlGH3.</description>
+    </item>
+    <item>
+      <title>SlAS2</title>
+      <link>/genes/solanum_lycopersicum/slas2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slas2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g063140 Gene Symbol: SlAS2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlASMT5</title>
+      <link>/genes/solanum_lycopersicum/slasmt5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slasmt5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g097700 Gene Symbol: SlASMT5 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlASMT7</title>
+      <link>/genes/solanum_lycopersicum/slasmt7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slasmt7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g064500 Gene Symbol: SlASMT7 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlATG7</title>
+      <link>/genes/solanum_lycopersicum/slatg7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slatg7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g068930 Gene Symbol: SlATG7 Gene Name: Genome: reference tomato genome SL4.</description>
+    </item>
+    <item>
+      <title>SlBBX17</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc07g052620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc07g052620/</guid>
+      <description>Gene Details: Gene ID: Solyc07g052620 Gene Symbol: SlBBX17 Gene Name: BBX transcription factor 17 Genome: Species: Solanum lycopersicum Functional Descriptions: SlMPK1- and SlMPK2-mediated SlBBX17 phosphorylation positively regulates CBF-dependent cold tolerance in tomato.</description>
+    </item>
+    <item>
+      <title>SlBBX20</title>
+      <link>/genes/solanum_lycopersicum/slbbx20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbbx20/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g110180 Gene Symbol: SlBBX20 Gene Name: B-BOX (BBX) transcription factor 20 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlBBX21</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc12g089240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc12g089240/</guid>
+      <description>Gene Details: Gene ID: Solyc12g089240 Gene Symbol: SlBBX21 Gene Name: B-BOX (BBX) transcription factor 21 Genome: Sol Genomics Network databases (https://solgenomics.</description>
+    </item>
+    <item>
+      <title>SlBCH1b</title>
+      <link>/genes/solanum_lycopersicum/slbch1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbch1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g036260 Gene Symbol: SlBCH1b Gene Name: β-RING CAROTENE HYDROXYLASE 1b Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlBEL11</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g068950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g068950/</guid>
+      <description>Gene Details: Gene ID: Solyc11g068950 Gene Symbol: SlBEL11 Gene Name: S.</description>
+    </item>
+    <item>
+      <title>SlBEL2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g074120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g074120/</guid>
+      <description>Gene Details: Gene ID: Solyc06g074120 Gene Symbol: SlBEL2 Gene Name: BEL1-LIKE HOMEODOMAIN 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Transcription factor SlBEL2 interferes with GOLDEN2-LIKE and influences green shoulder formation in tomato fruits.</description>
+    </item>
+    <item>
+      <title>SlBES1.8</title>
+      <link>/genes/solanum_lycopersicum/slbes1.8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbes1.8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g076390 Gene Symbol: SlBES1.8 Gene Name: Brassinazole-resistant 1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlbHLH101</title>
+      <link>/genes/solanum_lycopersicum/slbhlh101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbhlh101/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g079680 Gene Symbol: SlbHLH101 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlbHLH114</title>
+      <link>/genes/solanum_lycopersicum/slbhlh114/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbhlh114/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g077790 Gene Symbol: SlbHLH114 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlbHLH22</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slbhlh22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slbhlh22/</guid>
+      <description>Gene Details: Gene ID: Solyc03g097820 Gene Symbol: SlbHLH22 Gene Name: basic helix-loop-helix 12 Genome: Species: Solanum lycopersicum Functional Descriptions: Overexpression of a basic helix–loop–helix transcription factor gene, SlbHLH22, promotes early flowering and accelerates fruit ripening in tomato.</description>
+    </item>
+    <item>
+      <title>SlbHLH59</title>
+      <link>/genes/solanum_lycopersicum/slbhlh59/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbhlh59/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g065820 Gene Symbol: SlbHLH59 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlbHLH95</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g079050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g079050/</guid>
+      <description>Gene Details: Gene ID: Solyc10g079050 Gene Symbol: SlbHLH95 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Identified the SlbHLH95 transcription factor as a negative regulator of trichome formation in tomato.</description>
+    </item>
+    <item>
+      <title>SlbHLH96</title>
+      <link>/genes/solanum_lycopersicum/slbhlh96/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbhlh96/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlbHLH96 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: A bHLH transcription factor, SlbHLH96, promotes drought tolerance in tomato.</description>
+    </item>
+    <item>
+      <title>SlBIN2</title>
+      <link>/genes/solanum_lycopersicum/slbin2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbin2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g055200 Gene Symbol: SlBIN2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlBL4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g065420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g065420/</guid>
+      <description>Gene Details: Gene ID: Solyc08g065420 Gene Symbol: SlBL4 Gene Name: BEL1-LIKE HOMEODOMAIN4 Genome: Species: Solanum lycopersicum Functional Descriptions: Found that down-regulation of a tomato bell-like homeodomain 4 (SlBL4) resulted in a slightly darker-green fruit phenotype and increased accumulation of starch, fructose, and glucose.</description>
+    </item>
+    <item>
+      <title>SlBRI1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slbri1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slbri1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlBRI1 Gene Name: BRASSINOSTEROID INSENSITIVE 1 Genome: Species: Solanum lycopersicum Functional Descriptions: Overexpression of SlBRI1 driven by the Atrd29A promoter could increase the cold resistance of tomato plants during chilling stress but did not improve the expression of SlBRI1 and plant growth under normal conditions.</description>
+    </item>
+    <item>
+      <title>SlbZIP1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g079480.3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g079480.3/</guid>
+      <description>Gene Details: Gene ID: Solyc01g079480.3 Gene Symbol: SlbZIP1 Gene Name: Basic leucine zipper transcription factor 1 Genome: Species: Solanum lycopersicum Functional Descriptions: Induced mutations in the SC-uORF of the tomato transcription factor gene SlbZIP1 by the CRISPR/Cas9 system led to the high accumulation of sugar and amino acid contents in tomato fruits.</description>
+    </item>
+    <item>
+      <title>SlBZR1</title>
+      <link>/genes/solanum_lycopersicum/slbzr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbzr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g089040 Gene Symbol: SlBZR1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCBF1</title>
+      <link>/genes/solanum_lycopersicum/slcbf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcbf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g026280 Gene Symbol: SlCBF1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCBF2</title>
+      <link>/genes/solanum_lycopersicum/slcbf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcbf2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g124110 Gene Symbol: SlCBF2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCBF3</title>
+      <link>/genes/solanum_lycopersicum/slcbf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcbf3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g026270 Gene Symbol: SlCBF3 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCCD7</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slccd7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slccd7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCCD7 Gene Name: carotenoid cleavage dioxygenase 7 Genome: Species: Solanum lycopersicum Functional Descriptions: SlCCD7 controls strigolactone biosynthesis, shoot branching and mycorrhiza-induced apocarotenoid formation in tomato.</description>
+    </item>
+    <item>
+      <title>SlCCD8</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/slccd8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/slccd8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCCD8 Gene Name: CAROTENOID CLEAVAGE DIOXYGENASE8 Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato CAROTENOID CLEAVAGE DIOXYGENASE8 (SlCCD8) regulates rhizosphere signaling, plant architecture and affects reproductive development through strigolactone biosynthesis.</description>
+    </item>
+    <item>
+      <title>SlCDK2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g070140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g070140/</guid>
+      <description>Gene Details: Gene ID: Solyc11g070140 Gene Symbol: SlCDK2 Gene Name: cell division protein kinase 2 Genome: Species: Solanum lycopersicum Functional Descriptions: SlCK2α as a novel substrate for CRL4 E3 ligase (SlCDK2) regulates fruit size through maintenance of cell division homeostasis in tomato This study unravels a novel regulatory module (CRL4-CK2α-CDK2) involving fruit size control by mediating cell division homeostasis (SlCK2α and SlCDK2) in tomato.</description>
+    </item>
+    <item>
+      <title>SlCel2</title>
+      <link>/genes/solanum_lycopersicum/slcel2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcel2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g010210 Gene Symbol: SlCel2 Gene Name: lCellulase2 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCHR1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g079690/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g079690/</guid>
+      <description>Gene Details: Gene ID: Solyc01g079690 Gene Symbol: SlCHR1 Gene Name: chromatin remodelling ATPase 1 Genome: Species: Solanum lycopersicum Functional Descriptions: Transgenic tomato plants (cv.</description>
+    </item>
+    <item>
+      <title>SlCIPK7</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc04g076810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc04g076810/</guid>
+      <description>Gene Details: Gene ID: Solyc04g076810 Gene Symbol: SlCIPK7 Gene Name: CBL interacting protein kinase 7 Genome: Solanaceae Genomics Network Species: Solanum lycopersicum Functional Descriptions: SlCIPK7, the functional homolog of CIPK8 in tomato (Solanum lycopersicum), plays a similar role in ABA-responsive stomatal movement.</description>
+    </item>
+    <item>
+      <title>SlCK2α</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc02g092640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc02g092640/</guid>
+      <description>Gene Details: Gene ID: Solyc02g092640 Gene Symbol: SlCK2α Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlCK2α as a novel substrate for CRL4 E3 ligase regulates fruit size through maintenance of cell division homeostasis in tomato.</description>
+    </item>
+    <item>
+      <title>SlCKX2</title>
+      <link>/genes/solanum_lycopersicum/slckx2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slckx2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g088160 Gene Symbol: SlCKX2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCLV3</title>
+      <link>/genes/solanum_lycopersicum/slclv3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slclv3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g071380 Gene Symbol: SlCLV3 Gene Name: CLAVATA3 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCMT4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g005400.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g005400.2/</guid>
+      <description>Gene Details: Gene ID: Solyc08g005400.2 Gene Symbol: SlCMT4 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: CRISPR/Cas9-targeted mutagenesis of SlCMT4 causes changes in plant architecture and reproductive organs in tomato.</description>
+    </item>
+    <item>
+      <title>SlCOBRA-like</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slcobra-like/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slcobra-like/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCOBRA-like Gene Name: COBRA-like gene Genome: Species: Solanum lycopersicum Functional Descriptions: We identified a tomato gene (SlCOBRA-like) homologous to Arabidopsis COBRA, and determined its role in fleshy fruit biology.</description>
+    </item>
+    <item>
+      <title>SlCOMT2</title>
+      <link>/genes/solanum_lycopersicum/slcomt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcomt2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g85830 Gene Symbol: SlCOMT2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCPN60α1</title>
+      <link>/genes/solanum_lycopersicum/slcpn60%CE%B11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcpn60%CE%B11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g069790.1 Gene Symbol: SlCPN60α1 Gene Name: chaperonin 60α1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCPT1</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/slcpt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/slcpt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCPT1 Gene Name: cis–prenyltransferase1 Genome: Species: Solanum lycopersicum Functional Descriptions: Transcripts of SlCPT2, SlCPT4, SlCPT5 and SlCPT7 are present at low levels in multiple tissues, SlCPT6 is exclusively expressed in red fruit and roots, and SlCPT1, SlCPT3 and SlCPT7 are highly expressed in trichomes.</description>
+    </item>
+    <item>
+      <title>SlCPT3</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slcpt3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slcpt3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCPT3 Gene Name: cis-prenyltransferase 3 Genome: Species: Solanum lycopersicum Functional Descriptions: RNAi-mediated suppression of one member of the tomato CPT family (SlCPT3) resulted in a ~60% decrease in dolichol content.</description>
+    </item>
+    <item>
+      <title>SlCPTBP</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slcptbp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slcptbp/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCPTBP Gene Name: CPT-binding protein Genome: Species: Solanum lycopersicum Functional Descriptions: Designated as CPT-binding protein (SlCPTBP), which is a close homolog of the human Nogo-B receptor.</description>
+    </item>
+    <item>
+      <title>SlCRCa</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slcrca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slcrca/</guid>
+      <description>Gene Details: Gene ID: Solyc01g010240 Gene Symbol: SlCRCa Gene Name: CRABS CLAW (CRC) homologue Genome: Species: Solanum lycopersicum Functional Descriptions: SlCRCa is a key D-class gene controlling ovule fate determination in tomato.</description>
+    </item>
+    <item>
+      <title>SlCSN5-2</title>
+      <link>/genes/solanum_lycopersicum/slcsn5-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcsn5-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g073150 Gene Symbol: SlCSN5-2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCycB2</title>
+      <link>/genes/solanum_lycopersicum/slcycb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcycb2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g083120 Gene Symbol: SlCycB2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCyp1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slcyp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slcyp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCyp1 Gene Name: low-temperature-induced cysteine proteinase Genome: Species: Solanum lycopersicum Functional Descriptions: Here, we show that, in tomato, translocation of a phloem-mobile cyclophilin, SlCyp1, from a wild-type scion into a mutant rootstock results in restoration of vascular development and lateral root initiation.</description>
+    </item>
+    <item>
+      <title>SlCYP707A1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slcyp707a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slcyp707a1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCYP707A1 Gene Name: Abscisic acid 8&amp;rsquo;-hydroxylase CYP707A1 Genome: Species: Solanum lycopersicum Functional Descriptions: Abscisic acid levels in tomato ovaries are regulated by LeNCED1 and SlCYP707A1.</description>
+    </item>
+    <item>
+      <title>SlCYP707A2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slcyp707a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slcyp707a2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCYP707A2 Gene Name: abscisic acid 8&amp;rsquo;-hydroxylase CYP707A2 Genome: Species: Solanum lycopersicum Functional Descriptions: SlNCED1 and SlCYP707A2: key genes involved in ABA metabolism during tomato fruit ripening.</description>
+    </item>
+    <item>
+      <title>SlCYP90B3</title>
+      <link>/genes/solanum_lycopersicum/slcyp90b3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcyp90b3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g085360 Gene Symbol: SlCYP90B3 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCYS8</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slcys8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slcys8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCYS8 Gene Name: Cysteine proteinase inhibitor Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato cystatin SlCYS8 as a stabilizing fusion partner for human serpin expression in plants.</description>
+    </item>
+    <item>
+      <title>SlDAO2</title>
+      <link>/genes/solanum_lycopersicum/sldao2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sldao2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g068320 Gene Symbol: SlDAO2 Gene Name: DIOXYGENASE FOR AUXIN OXIDATION2 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlDCD2</title>
+      <link>/genes/solanum_lycopersicum/sldcd2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sldcd2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g008900 Gene Symbol: SlDCD2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlDDB1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slddb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slddb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlDDB1 Gene Name: DAMAGED DNA BINDING PROTEIN 1 Genome: Species: Solanum lycopersicum Functional Descriptions: SlDDB1 seedlings exhibited delayed growth and smaller cell size, greater chloroplast density, smaller chloroplasts and higher concentration of chlorophyll.</description>
+    </item>
+    <item>
+      <title>SlDEAD39</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc12g056740/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc12g056740/</guid>
+      <description>Gene Details: Gene ID: Solyc12g056740 Gene Symbol: SlDEAD39 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: The res (restored cell structure by salinity) tomato mutant reveals the role of the DEAD-box RNA helicase SlDEAD39 in plant development and salt response.</description>
+    </item>
+    <item>
+      <title>SlDELLA</title>
+      <link>/genes/solanum_lycopersicum/sldella/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sldella/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g011260 Gene Symbol: SlDELLA Gene Name: GAI-like protein Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlDML2</title>
+      <link>/genes/solanum_lycopersicum/sldml2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sldml2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g083630 Gene Symbol: SlDML2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlDMR6-1</title>
+      <link>/genes/solanum_lycopersicum/sldmr6-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sldmr6-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g080190.3 Gene Symbol: SlDMR6-1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlDof1</title>
+      <link>/genes/solanum_lycopersicum/sldof1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sldof1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g096120 Gene Symbol: SlDof1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlDOF9</title>
+      <link>/genes/solanum_lycopersicum/sldof9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sldof9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g090220 Gene Symbol: SlDOF9 Gene Name: DNA-binding with one zinc finger 9 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlDQD;SDH2</title>
+      <link>/genes/solanum_lycopersicum/sldqdsdh2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sldqdsdh2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g038080 Gene Symbol: SlDQD SDH2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlDREB</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/sldreb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/sldreb/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlDREB Gene Name: dehydration-responsive element-binding protein Genome: Species: Solanum lycopersicum Functional Descriptions: Overexpression of SlDREB downregulates GA biosynthesis genes.</description>
+    </item>
+    <item>
+      <title>SlE8</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g089580/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g089580/</guid>
+      <description>Gene Details: Gene ID: Solyc09g089580 Gene Symbol: SlE8|Sl27DOX Gene Name: C-27 hydroxylase Genome: Species: Solanum lycopersicum Functional Descriptions: Induced mutations in SlE8|Sl27DOX and SlACO1 control tomato fruit maturation and shelf-life.</description>
+    </item>
+    <item>
+      <title>SleIF4A2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc12g095990/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc12g095990/</guid>
+      <description>Gene Details: Gene ID: Solyc12g095990 Gene Symbol: SleIF4A2 Gene Name: eukaryotic translation initiation factor Genome: Species: Solanum lycopersicum Functional Descriptions: SlRBP1 promotes translational efficiency via SleIF4A2 to maintain chloroplast function in tomato.</description>
+    </item>
+    <item>
+      <title>SlEIL2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g009170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g009170/</guid>
+      <description>Gene Details: Gene ID: Solyc01g009170 Gene Symbol: SlEIL2 Gene Name: ETHYLENE-INSENSITIVE 3-LIKE 2 Genome: Species: Solanum lycopersicum Functional Descriptions: ETHYLENE-INSENSITIVE 3-LIKE 2 (SlEIL2) regulates β-carotene and ascorbic acid accumulation in tomatoes during ripening.</description>
+    </item>
+    <item>
+      <title>SlEIN4</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/slein4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/slein4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlEIN4 Gene Name: ETHYLENE INSENSITIVE4 Genome: Species: Solanum lycopersicum Functional Descriptions: Our study pinpointed an ethylene receptor gene, SlEIN4, located on chromosome 4 through a genome-wide association study (GWAS) of fruit firmness in the 266 tomato core accessions.</description>
+    </item>
+    <item>
+      <title>SlERF.F12</title>
+      <link>/genes/solanum_lycopersicum/slerf.f12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slerf.f12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g077840 Gene Symbol: SlERF.F12 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlERF.G3-like</title>
+      <link>/genes/solanum_lycopersicum/slerf.g3-like/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slerf.g3-like/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g077790 Gene Symbol: SlERF.G3-like Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlERF.H5</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc05g050830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc05g050830/</guid>
+      <description>Gene Details: Gene ID: Solyc05g050830 Gene Symbol: SlERF.H5 Gene Name: ethylene response factor H.</description>
+    </item>
+    <item>
+      <title>SlERF.H6</title>
+      <link>/genes/solanum_lycopersicum/slerf.h6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slerf.h6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g120840 Gene Symbol: SlERF.H6 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlERF.H7</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc06g066540/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc06g066540/</guid>
+      <description>Gene Details: Gene ID: Solyc06g066540 Gene Symbol: SlERF.H7 Gene Name: ethylene response factor H.</description>
+    </item>
+    <item>
+      <title>SlERF36</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slerf36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slerf36/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlERF36 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato EAR-motif repressor, SlERF36, accelerates growth transitions and reduces plant life cycle by regulating GA levels and responses.</description>
+    </item>
+    <item>
+      <title>SlERF52</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slerf52/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slerf52/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlERF52 Gene Name: ETHYLENE-RESPONSIVE FACTOR 52 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlERF52</title>
+      <link>/genes/solanum_lycopersicum/slerf52/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slerf52/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlERF52 Gene Name: ETHYLENE-RESPONSIVE FACTOR 52 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlETR7</title>
+      <link>/genes/solanum_lycopersicum/sletr7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sletr7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g055070 Gene Symbol: SlETR7 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlExp1</title>
+      <link>/genes/solanum_lycopersicum/slexp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slexp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g051800 Gene Symbol: SlExp1 Gene Name: lExpansin1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlF3HL</title>
+      <link>/genes/solanum_lycopersicum/slf3hl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slf3hl/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g080190 Gene Symbol: SlF3HL Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlFAF1;2a</title>
+      <link>/genes/solanum_lycopersicum/slfaf12a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slfaf12a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g084280 Gene Symbol: SlFAF1 2a Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlFAF1;2b</title>
+      <link>/genes/solanum_lycopersicum/slfaf12b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slfaf12b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g008990 Gene Symbol: SlFAF1 2b Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlFAF1;2c</title>
+      <link>/genes/solanum_lycopersicum/slfaf12c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slfaf12c/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g065140 Gene Symbol: SlFAF1 2c Gene Name: FANTASTIC FOUR 1/2c Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlFAF3;4a</title>
+      <link>/genes/solanum_lycopersicum/slfaf34a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slfaf34a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g079740 Gene Symbol: SlFAF3 4a Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlFAF3;4b</title>
+      <link>/genes/solanum_lycopersicum/slfaf34b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slfaf34b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g054310 Gene Symbol: SlFAF3 4b Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlFERL</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g015830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g015830/</guid>
+      <description>Gene Details: Gene ID: Solyc09g015830 Gene Symbol: SlFERL Gene Name: FERONIA Like Genome: Species: Solanum lycopersicum Functional Descriptions: SlFERL Interacts with S-Adenosylmethionine Synthetase to Regulate Fruit Ripening.</description>
+    </item>
+    <item>
+      <title>SlFERN</title>
+      <link>/genes/solanum_lycopersicum/slfern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slfern/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g075000 Gene Symbol: SlFERN Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlFHY3</title>
+      <link>/genes/solanum_lycopersicum/slfhy3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slfhy3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g043270 Gene Symbol: SlFHY3 Gene Name: FAR-RED ELONGATED HYPOCOTYL3 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlFRK3</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slfrk3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slfrk3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlFRK3 Gene Name: fructokinase3 Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato plastidic fructokinase SlFRK3 plays a role in xylem development.</description>
+    </item>
+    <item>
+      <title>SlGA20ox4</title>
+      <link>/genes/solanum_lycopersicum/slga20ox4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slga20ox4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g093980 Gene Symbol: SlGA20ox4 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlGA2ox1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slga2ox1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slga2ox1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlGA2ox1 Gene Name: gibberellin 2-oxidase Genome: Species: Solanum lycopersicum Functional Descriptions: Identification and characterization of tomato gibberellin 2-oxidases (GA2oxs) and effects of fruit-specific SlGA2ox1 overexpression on fruit and seed growth and development.</description>
+    </item>
+    <item>
+      <title>SlGA2ox4</title>
+      <link>/genes/solanum_lycopersicum/slga2ox4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slga2ox4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g061720 Gene Symbol: SlGA2ox4 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlGA3ox1</title>
+      <link>/genes/solanum_lycopersicum/slga3ox1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slga3ox1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g066820 Gene Symbol: SlGA3ox1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlGA3ox2</title>
+      <link>/genes/solanum_lycopersicum/slga3ox2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slga3ox2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g119910 Gene Symbol: SlGA3ox2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlGAD2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slgad2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slgad2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlGAD2 Gene Name: glutamate decarboxylase isoform2 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato Glutamate Decarboxylase Genes SlGAD2 and SlGAD3 Play Key Roles in Regulating γ-Aminobutyric Acid Levels in Tomato.</description>
+    </item>
+    <item>
+      <title>SlGAD3</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slgad3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slgad3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlGAD3 Gene Name: glutamate decarboxylase isoform3 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato Glutamate Decarboxylase Genes SlGAD2 and SlGAD3 Play Key Roles in Regulating γ-Aminobutyric Acid Levels in Tomato.</description>
+    </item>
+    <item>
+      <title>SlGAMYB1</title>
+      <link>/genes/solanum_lycopersicum/slgamyb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slgamyb1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g009070 Gene Symbol: SlGAMYB1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlGAMYB2</title>
+      <link>/genes/solanum_lycopersicum/slgamyb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slgamyb2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06 g073640 Gene Symbol: SlGAMYB2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlGASA1</title>
+      <link>/genes/solanum_lycopersicum/slgasa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slgasa1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g089350 Gene Symbol: SlGASA1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlGBP1</title>
+      <link>/genes/solanum_lycopersicum/slgbp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slgbp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g008950 Gene Symbol: SlGBP1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlGCR</title>
+      <link>/genes/solanum_lycopersicum/slgcr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slgcr/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g098370 Gene Symbol: SlGCR Gene Name: G2-LIKE CAROTENOID REGULATOR Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlGH3.4</title>
+      <link>/genes/solanum_lycopersicum/slgh3.4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slgh3.4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g092820 Gene Symbol: SlGH3.4 Gene Name: Putative indole-3-acetic acid amido synthetase Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlGLK2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g008160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g008160/</guid>
+      <description>Gene Details: Gene ID: Solyc10g008160 Gene Symbol: SlGLK2 Gene Name: GOLDEN2-LIKE 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato GOLDEN2-LIKE Transcription Factors Reveal Molecular Gradients That Function during Fruit Development and Ripening.</description>
+    </item>
+    <item>
+      <title>SLGlyI</title>
+      <link>/genes/solanum_lycopersicum/slglyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slglyi/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g082120.3.1 Gene Symbol: SLGlyI Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlGLYIII2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc02g081400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc02g081400/</guid>
+      <description>Gene Details: Gene ID: Solyc02g081400 Gene Symbol: SlGLYIII2 Gene Name: glyoxalaseIII2 Genome: Species: Solanum lycopersicum Functional Descriptions: A glutathione-independent DJ-1/PfpI domain-containing tomato glyoxalaseIII2, SlGLYIII2, confers enhanced tolerance under salt and osmotic stresses.</description>
+    </item>
+    <item>
+      <title>SlGRAS4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g100200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g100200/</guid>
+      <description>Gene Details: Gene ID: Solyc01g100200 Gene Symbol: SlGRAS4 Gene Name: GRAS transcription factor 4 Genome: Species: Solanum lycopersicum Functional Descriptions: SlGRAS4 mediates a novel regulatory pathway promoting chilling tolerance in tomato.</description>
+    </item>
+    <item>
+      <title>SlGRAS9</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g036170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g036170/</guid>
+      <description>Gene Details: Gene ID: Solyc06g036170 Gene Symbol: SlGRAS9 Gene Name: GRAS transcription factor 9 Genome: Species: Solanum lycopersicum Functional Descriptions: The SlGRAS9-SlZHD17 transcriptional cascade regulates chlorophyll and carbohydrate metabolism contributing to fruit quality traits in tomato.</description>
+    </item>
+    <item>
+      <title>SlGSTU38</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g011580.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g011580.2/</guid>
+      <description>Gene Details: Gene ID: Solyc09g011580.2 Gene Symbol: SlGSTU38 Gene Name: glutathione S-transferase 38 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato SlGSTU38 interacts with the PepMV coat protein and promotes viral infection.</description>
+    </item>
+    <item>
+      <title>SlGT30</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc11g005380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc11g005380/</guid>
+      <description>Gene Details: Gene ID: Solyc11g005380 Gene Symbol: SlGT30 Gene Name: trihelix transcription factor GT-2 Genome: Species: Solanum lycopersicum Functional Descriptions: CRISPR/Cas9 edited SlGT30 improved both drought resistance and fruit yield through endoreduplication.</description>
+    </item>
+    <item>
+      <title>SlGT31</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g012720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g012720/</guid>
+      <description>Gene Details: Gene ID: Solyc11g012720 Gene Symbol: SlGT31 Gene Name: GT factor31 Genome: Species: Solanum lycopersicum Functional Descriptions: Trihelix transcription factor SlGT31 regulates fruit ripening mediated by ethylene in tomato.</description>
+    </item>
+    <item>
+      <title>SlHair2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g078990/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g078990/</guid>
+      <description>Gene Details: Gene ID: Solyc10g078990 Gene Symbol: SlHair2|H2 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlHair2|H2 Regulates the Initiation and Elongation of Type I Trichomes on Tomato Leaves and Stems.</description>
+    </item>
+    <item>
+      <title>SlHB15A</title>
+      <link>/genes/solanum_lycopersicum/slhb15a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slhb15a/</guid>
+      <description>Gene Details: Gene ID:&#x9;SolyC03g120910 Gene Symbol: SlHB15A Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlHB8</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g066500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g066500/</guid>
+      <description>Gene Details: Gene ID: Solyc08g066500 Gene Symbol: SlHB8 Gene Name: HD-Zip III family transcription factor 8 Genome: Species: Solanum lycopersicum Functional Descriptions: The SlHB8 acts as a negative regulator in tapetum development and pollen wall formation in Tomato.</description>
+    </item>
+    <item>
+      <title>SlHD8</title>
+      <link>/genes/solanum_lycopersicum/slhd8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slhd8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g098200 Gene Symbol: SlHD8 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlHDZ34</title>
+      <link>/genes/solanum_lycopersicum/slhdz34/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slhdz34/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g066500 Gene Symbol: SlHDZ34 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlHDZ45</title>
+      <link>/genes/solanum_lycopersicum/slhdz45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slhdz45/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g069470 Gene Symbol: SlHDZ45 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlHDZIV8</title>
+      <link>/genes/solanum_lycopersicum/slhdziv8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slhdziv8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlHDZIV8 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: The HD-Zip IV transcription factor SlHDZIV8 controls multicellular trichome morphology by regulating the expression of Hairless-2.</description>
+    </item>
+    <item>
+      <title>SlHKT1;1</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc07g014690.2.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc07g014690.2.1/</guid>
+      <description>Gene Details: Gene ID: Solyc07g014690.2.1 Gene Symbol: SlHKT1;1 Gene Name: High-Affinity Potassium Transporter 1;1 Genome: Species: Solanum lycopersicum Functional Descriptions: Two closely linked tomato HKT (SlHKT1;1 and SlHKT1;2) coding genes are positional candidates for the major tomato QTL involved in Na+/K+ homeostasis.</description>
+    </item>
+    <item>
+      <title>SlHKT1;2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc07g014680.2.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc07g014680.2.1/</guid>
+      <description>Gene Details: Gene ID: Solyc07g014680.2.1 Gene Symbol: SlHKT1;2 Gene Name: High-Affinity Potassium Transporter 1;2 Genome: Species: Solanum lycopersicum Functional Descriptions: Two closely linked tomato HKT (SlHKT1;1 and SlHKT1;2) coding genes are positional candidates for the major tomato QTL involved in Na+/K+ homeostasis.</description>
+    </item>
+    <item>
+      <title>SlHSP21.5A</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g113930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g113930/</guid>
+      <description>Gene Details: Gene ID: Solyc03g113930 Gene Symbol: SlHSP21.5A Gene Name: heat shock protein 21 Genome: Species: Solanum lycopersicum Functional Descriptions: WHIRLY1 Regulates HSP21.</description>
+    </item>
+    <item>
+      <title>SlHY5</title>
+      <link>/genes/solanum_lycopersicum/slhy5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slhy5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g061130 Gene Symbol: SlHY5 Gene Name: ELONGATED HYPOCOTYL5 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlIAA15</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/sliaa15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/sliaa15/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlIAA15 Gene Name: Auxin-responsive protein Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato SlIAA15 is involved in trichome formation and axillary shoot development.</description>
+    </item>
+    <item>
+      <title>SlIAA23</title>
+      <link>/genes/solanum_lycopersicum/sliaa23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sliaa23/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g083280 Gene Symbol: SlIAA23 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlIDA</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc05g010000.1.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc05g010000.1.1/</guid>
+      <description>Gene Details: Gene ID: Solyc05g010000.1.1 Gene Symbol: SlIDA Gene Name: IDA homolog Genome: Species: Solanum lycopersicum Functional Descriptions: SlIDA expression during anther development and pollen tube elongation.</description>
+    </item>
+    <item>
+      <title>SlIDI1</title>
+      <link>/genes/solanum_lycopersicum/slidi1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slidi1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc04g056390 Gene Symbol: SlIDI1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlIMP3</title>
+      <link>/genes/solanum_lycopersicum/slimp3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slimp3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlIMP3 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlIPT4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slipt4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slipt4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlIPT4 Gene Name: Isopentenyltransferase 4 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato (Solanum lycopersicum) SlIPT4, encoding an isopentenyltransferase, is involved in leaf senescence and lycopene biosynthesis during fruit ripening.</description>
+    </item>
+    <item>
+      <title>SlIQD21a</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g083100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g083100/</guid>
+      <description>Gene Details: Gene ID: Solyc03g083100 Gene Symbol: SlIQD21a Gene Name: IQ67 DOMAIN 21 Genome: Species: Solanum lycopersicum Functional Descriptions: Microtubule-associated protein SlMAP70 interacts with IQ67-domain protein SlIQD21a to regulate fruit shape in tomato.</description>
+    </item>
+    <item>
+      <title>SlJAF13</title>
+      <link>/genes/solanum_lycopersicum/sljaf13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sljaf13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g081140 Gene Symbol: SlJAF13 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlJAZ1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc07g042170.3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc07g042170.3/</guid>
+      <description>Gene Details: Gene ID: Solyc07g042170.3 Gene Symbol: SlJAZ1 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY81 regulates Spd synthesis and Na+/K+ homeostasis through interaction with SlJAZ1 mediated JA pathway to improve tomato saline-alkali resistance.</description>
+    </item>
+    <item>
+      <title>SlJAZ2</title>
+      <link>/genes/solanum_lycopersicum/sljaz2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sljaz2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g009220 Gene Symbol: SlJAZ2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlJAZ4</title>
+      <link>/genes/solanum_lycopersicum/sljaz4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sljaz4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g049400 Gene Symbol: SlJAZ4 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlJIG</title>
+      <link>/genes/solanum_lycopersicum/sljig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sljig/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g083360 Gene Symbol: SlJIG Gene Name: METHYL JASMONATE (MeJA)-INDUCED GENE Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlJMJ3</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc08g005240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc08g005240/</guid>
+      <description>Gene Details: Gene ID: Solyc08g005240 Gene Symbol: SlJMJ3 Gene Name: jumonji domain–containing demethylase3 Genome: Species: Solanum lycopersicum Functional Descriptions: Histone H3K27 demethylase SlJMJ3 modulates fruit ripening in tomato.</description>
+    </item>
+    <item>
+      <title>SlJMJ4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g076390/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g076390/</guid>
+      <description>Gene Details: Gene ID: Solyc08g076390 Gene Symbol: SlJMJ4 Gene Name: histone H3K27 demethylase Genome: Species: Solanum lycopersicum Functional Descriptions: The histone H3K27 demethylase SlJMJ4 promotes dark- and ABA-induced leaf senescence in tomato.</description>
+    </item>
+    <item>
+      <title>SlJMJ6</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g008490.2.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g008490.2.1/</guid>
+      <description>Gene Details: Gene ID: Solyc06g008490.2.1 Gene Symbol: SlJMJ6 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Found that the tomato (Solanum lycopersicum) SlJMJ6 encodes a histone lysine demethylase that specifically demethylates H3K27 methylation.</description>
+    </item>
+    <item>
+      <title>SlJUL</title>
+      <link>/genes/solanum_lycopersicum/sljul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sljul/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g067180.3.1 Gene Symbol: SlJUL Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlKIX8</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc07g008100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc07g008100/</guid>
+      <description>Gene Details: Gene ID: Solyc07g008100 Gene Symbol: SlKIX8 Gene Name: KINASE-INDUCIBLE DOMAIN INTERACTING 8 Genome: Species: Solanum lycopersicum Functional Descriptions: SlKIX8 and SlKIX9 are negative regulators of leaf and fruit growth in tomato.</description>
+    </item>
+    <item>
+      <title>SlKIX9</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g059700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g059700/</guid>
+      <description>Gene Details: Gene ID: Solyc08g059700 Gene Symbol: SlKIX9 Gene Name: KINASE-INDUCIBLE DOMAIN INTERACTING 9 Genome: Species: Solanum lycopersicum Functional Descriptions: SlKIX8 and SlKIX9 are negative regulators of leaf and fruit growth in tomato.</description>
+    </item>
+    <item>
+      <title>SlKLUH</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g114940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g114940/</guid>
+      <description>Gene Details: Gene ID: Solyc03g114940 Gene Symbol: SlKLUH Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Differential expression of SlKLUH controlling fruit and seed weight is associated with changes in lipid metabolism and photosynthesis-related genes.</description>
+    </item>
+    <item>
+      <title>SlKRP1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slkrp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slkrp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlKRP1 Gene Name: p27KIP1-related-protein 1 Genome: Species: Solanum lycopersicum Functional Descriptions: Functional characterization of the tomato cyclin-dependent kinase inhibitor SlKRP1 domains involved in protein–protein interactions.</description>
+    </item>
+    <item>
+      <title>SlLAM1</title>
+      <link>/genes/solanum_lycopersicum/sllam1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sllam1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g118770 Gene Symbol: SlLAM1 Gene Name: shoot apical meristem1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlLBD40</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc02g085910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc02g085910/</guid>
+      <description>Gene Details: Gene ID: Solyc02g085910 Gene Symbol: SlLBD40 Gene Name: LOB DOMAIN-CONTAINING PROTEIN 40 Genome: Species: Solanum lycopersicum Functional Descriptions: Overexpression of SlLBD40 significantly promoted fruit growth by promoting mesocarp cell expansion, while knockout of SlLBD40 showed the opposite result.</description>
+    </item>
+    <item>
+      <title>SlLCD1</title>
+      <link>/genes/solanum_lycopersicum/sllcd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sllcd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlLCD1 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlLCD1,a nuclear-localized cysteine desulfhydrase plays a role in fruit ripening in tomato.</description>
+    </item>
+    <item>
+      <title>SlLOB1</title>
+      <link>/genes/solanum_lycopersicum/sllob1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sllob1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g120910.2 Gene Symbol: SlLOB1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlLsi1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g013340.2.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g013340.2.1/</guid>
+      <description>Gene Details: Gene ID: Solyc03g013340.2.1 Gene Symbol: SlLsi1 Gene Name: silicon influx transporter LSI1 Genome: Species: Solanum lycopersicum Functional Descriptions: Here, we isolated homologous genes of rice Si influx (SlLsi1) and efflux (SlLsi2) transporter genes in tomato (Solanum lycopersicum L.</description>
+    </item>
+    <item>
+      <title>SlLsi2-L1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sllsi2-l1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sllsi2-l1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlLsi2-L1 Gene Name: silicon efflux transporter LSI2 Genome: Species: Solanum lycopersicum Functional Descriptions: Here, we isolated homologous genes of rice Si influx (SlLsi1) and efflux (SlLsi2) transporter genes in tomato (Solanum lycopersicum L.</description>
+    </item>
+    <item>
+      <title>SlLsi2-L2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sllsi2-l2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sllsi2-l2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlLsi2-L2 Gene Name: silicon efflux transporter LSI2 Genome: Species: Solanum lycopersicum Functional Descriptions: Here, we isolated homologous genes of rice Si influx (SlLsi1) and efflux (SlLsi2) transporter genes in tomato (Solanum lycopersicum L.</description>
+    </item>
+    <item>
+      <title>SlMADS1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slmads1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slmads1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlMADS1 Gene Name: MADS-Box Transcription Factor 1 Genome: Species: Solanum lycopersicum Functional Descriptions: A Tomato MADS-Box Transcription Factor, SlMADS1, Acts as a Negative Regulator of Fruit Ripening.</description>
+    </item>
+    <item>
+      <title>SlMAP70-1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc05g017980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc05g017980/</guid>
+      <description>Gene Details: Gene ID: Solyc05g017980 Gene Symbol: SlMAP70-1 Gene Name: MICROTUBULE-ASSOCIATED PROTEIN 70 Genome: Species: Solanum lycopersicum Functional Descriptions: Microtubule-associated protein SlMAP70 interacts with IQ67-domain protein SlIQD21a to regulate fruit shape in tomato.</description>
+    </item>
+    <item>
+      <title>SlMAP70-2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g005330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g005330/</guid>
+      <description>Gene Details: Gene ID: Solyc01g005330 Gene Symbol: SlMAP70-2 Gene Name: MICROTUBULE-ASSOCIATED PROTEIN 70 Genome: Species: Solanum lycopersicum Functional Descriptions: Microtubule-associated protein SlMAP70 interacts with IQ67-domain protein SlIQD21a to regulate fruit shape in tomato.</description>
+    </item>
+    <item>
+      <title>SlMAP70-3</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc04g008040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc04g008040/</guid>
+      <description>Gene Details: Gene ID: Solyc04g008040 Gene Symbol: SlMAP70-3 Gene Name: MICROTUBULE-ASSOCIATED PROTEIN 70 Genome: Species: Solanum lycopersicum Functional Descriptions: Microtubule-associated protein SlMAP70 interacts with IQ67-domain protein SlIQD21a to regulate fruit shape in tomato.</description>
+    </item>
+    <item>
+      <title>SlMAP70-4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc04g015010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc04g015010/</guid>
+      <description>Gene Details: Gene ID: Solyc04g015010 Gene Symbol: SlMAP70-4 Gene Name: MICROTUBULE-ASSOCIATED PROTEIN 70 Genome: Species: Solanum lycopersicum Functional Descriptions: Microtubule-associated protein SlMAP70 interacts with IQ67-domain protein SlIQD21a to regulate fruit shape in tomato.</description>
+    </item>
+    <item>
+      <title>SlMAP70-5</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g012660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g012660/</guid>
+      <description>Gene Details: Gene ID: Solyc11g012660 Gene Symbol: SlMAP70-5 Gene Name: MICROTUBULE-ASSOCIATED PROTEIN 70 Genome: Species: Solanum lycopersicum Functional Descriptions: Microtubule-associated protein SlMAP70 interacts with IQ67-domain protein SlIQD21a to regulate fruit shape in tomato.</description>
+    </item>
+    <item>
+      <title>SlMAPK11</title>
+      <link>/genes/solanum_lycopersicum/slmapk11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmapk11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g062080 Gene Symbol: SlMAPK11 Gene Name: mitogen-activated protein kinase 11 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMBD5</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g068740.1.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g068740.1.1/</guid>
+      <description>Gene Details: Gene ID: Solyc11g068740.1.1 Gene Symbol: SlMBD5 Gene Name: methyl CpG binding domain protein 5 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato MBD5, a methyl CpG binding domain protein, physically interacting with UV-damaged DNA binding protein-1, functions in multiple processes.</description>
+    </item>
+    <item>
+      <title>SlMBF1c</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc07g062400.3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc07g062400.3.1/</guid>
+      <description>Gene Details: Gene ID: Solyc07g062400.3.1 Gene Symbol: SlMBF1c Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Comprehensive analysis of multiprotein bridging factor 1 family genes and SlMBF1c negatively regulate the resistance to Botrytis cinerea in tomato.</description>
+    </item>
+    <item>
+      <title>SlMBP21</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slmbp21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slmbp21/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlMBP21 Gene Name: MADS-box protein 21 Genome: Species: Solanum lycopersicum Functional Descriptions: The MADS-Box Gene SlMBP21 Regulates Sepal Size Mediated by Ethylene and Auxin in Tomato.</description>
+    </item>
+    <item>
+      <title>SlMBP3</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g064840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g064840/</guid>
+      <description>Gene Details: Gene ID: Solyc06g064840 Gene Symbol: SlMBP3 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlMBP3 was preferentially expressed in the locular tissue of fruit and the seed coat combined with the endoderm.</description>
+    </item>
+    <item>
+      <title>SlMED25</title>
+      <link>/genes/solanum_lycopersicum/slmed25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmed25/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g070100 Gene Symbol: SlMED25 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMET1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g030600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g030600/</guid>
+      <description>Gene Details: Gene ID: Solyc11g030600 Gene Symbol: SlMET1 Gene Name: Methyltransferase 1 Genome: Species: Solanum lycopersicum Functional Descriptions: In leaf tissues, mutations in SlMET1 caused CG hypomethylation and CHH hypermethylation on a whole-genome scale, leading to a disturbed transcriptome including ectopic expression of many RIN target genes such as ACC2 in leaf tissues, which are normally expressed in fruits.</description>
+    </item>
+    <item>
+      <title>SlMIOX4</title>
+      <link>/genes/solanum_lycopersicum/slmiox4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmiox4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g008650.2 Gene Symbol: SlMIOX4 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMIXTA-like</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc02g088190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc02g088190/</guid>
+      <description>Gene Details: Gene ID: Solyc02g088190 Gene Symbol: SlMIXTA-like Gene Name: MIXTA-like R2R3 MYB TF Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato (Solanum lycopersicum) trichome regulator SlMIXTA-like is indicated as a metabolic regulation gene by mGWAS analysis.</description>
+    </item>
+    <item>
+      <title>SlMKK2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slmkk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slmkk2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlMKK2 Gene Name: Mitogen-activated protein kinase 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato SlMKK2 and SlMKK4 contribute to disease resistance against Botrytis cinerea.</description>
+    </item>
+    <item>
+      <title>SlMKK4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slmkk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slmkk4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlMKK4 Gene Name: Mitogen-activated protein kinase 4 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato SlMKK2 and SlMKK4 contribute to disease resistance against Botrytis cinerea.</description>
+    </item>
+    <item>
+      <title>SlMPK1</title>
+      <link>/genes/solanum_lycopersicum/slmpk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmpk1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g019460 Gene Symbol: SlMPK1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMPK2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g014420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g014420/</guid>
+      <description>Gene Details: Gene ID: Solyc08g014420 Gene Symbol: SlMPK2 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlMPK1- and SlMPK2-mediated SlBBX17 phosphorylation positively regulates CBF-dependent cold tolerance in tomato.</description>
+    </item>
+    <item>
+      <title>SlMPK4</title>
+      <link>/genes/solanum_lycopersicum/slmpk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmpk4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlMPK4 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlMPK4 is preferentially and highly expressed in tomato stamens and its mRNA levels increase during early flower development, peaking at the mature pollen stage.</description>
+    </item>
+    <item>
+      <title>SlMYB1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g011780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g011780/</guid>
+      <description>Gene Details: Gene ID: Solyc09g011780 Gene Symbol: SlMYB1 Gene Name: MYB transcription factor 1 Genome: Species: Solanum lycopersicum Functional Descriptions: SlMYB1 regulates the accumulation of lycopene, fruit shape, and resistance to Botrytis cinerea in tomato.</description>
+    </item>
+    <item>
+      <title>SlMYB111</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g009710/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g009710/</guid>
+      <description>Gene Details: Gene ID: Solyc06g009710 Gene Symbol: SlMYB111 Gene Name: S.</description>
+    </item>
+    <item>
+      <title>SlMYB12</title>
+      <link>/genes/solanum_lycopersicum/slmyb12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g019260 Gene Symbol: SlMYB12 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYB15</title>
+      <link>/genes/2024.6.9/solyc03g005570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solyc03g005570/</guid>
+      <description>Gene Details: Gene ID: Solyc03g005570 Gene Symbol: SlMYB15 Gene Name: SlMYB15 transcription factor Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato SlMYB15 transcription factor targeted by sly-miR156e-3p positively regulates ABA-mediated cold tolerance.</description>
+    </item>
+    <item>
+      <title>SlMYB21</title>
+      <link>/genes/solanum_lycopersicum/slmyb21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g067760 Gene Symbol: SlMYB21 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYB31</title>
+      <link>/genes/solanum_lycopersicum/slmyb31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb31/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g116100 Gene Symbol: SlMYB31 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYB52</title>
+      <link>/genes/solanum_lycopersicum/slmyb52/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb52/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g093890 Gene Symbol: SlMYB52 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYB7</title>
+      <link>/genes/solanum_lycopersicum/slmyb7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g111500.3.1 Gene Symbol: SlMYB7 Gene Name: Genome: reference tomato genome SL4.</description>
+    </item>
+    <item>
+      <title>SlMYB72</title>
+      <link>/genes/solanum_lycopersicum/slmyb72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb72/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g055000 Gene Symbol: SlMYB72 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYB75</title>
+      <link>/genes/solanum_lycopersicum/slmyb75/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb75/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g086250 Gene Symbol: SlMYB75 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYB99</title>
+      <link>/genes/solanum_lycopersicum/slmyb99/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb99/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlMYB99 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYBATV</title>
+      <link>/genes/solanum_lycopersicum/slmybatv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmybatv/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g052490 Gene Symbol: SlMYBATV Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYC1</title>
+      <link>/genes/solanum_lycopersicum/slmyc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyc1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g005050 Gene Symbol: SlMYC1 Gene Name: Transcription factor MYC1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYC2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g076930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g076930/</guid>
+      <description>Gene Details: Gene ID: Solyc08g076930 Gene Symbol: SlMYC2 Gene Name: transcription factor MYC2 Genome: Species: Solanum lycopersicum Functional Descriptions: SlMYC2, a master regulator of Jasmonic acid response, has been found to exhibit high expression levels in fruit and has been implicated in the regulation of fruit ripening and resistance to Botrytis.</description>
+    </item>
+    <item>
+      <title>SlNAC1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slnac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slnac1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlNAC1 Gene Name: NAC transcription factor1 Genome: Species: Solanum lycopersicum Functional Descriptions: Overexpression of tomato SlNAC1transcription factor alters fruit pigmentation and softening.</description>
+    </item>
+    <item>
+      <title>SlNAC3</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc07g063420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc07g063420/</guid>
+      <description>Gene Details: Gene ID: Solyc07G063420 Gene Symbol: SlNAC3 Gene Name: NAC transcription factor 3 Genome: Solanum_lycopersicum SL4.</description>
+    </item>
+    <item>
+      <title>SlNAM1</title>
+      <link>/genes/solanum_lycopersicum/slnam1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slnam1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g060230 Gene Symbol: SlNAM1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlNAM2</title>
+      <link>/genes/solanum_lycopersicum/slnam2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slnam2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g115850 Gene Symbol: SlNAM2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlNAM3</title>
+      <link>/genes/solanum_lycopersicum/slnam3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slnam3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g069710 Gene Symbol: SlNAM3 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlNAP1</title>
+      <link>/genes/solanum_lycopersicum/slnap1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slnap1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g007770.2.1 Gene Symbol: SlNAP1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlNCED1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slnced1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slnced1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlNCED1 Gene Name: 9-cis-epoxycarotenoid dioxygenase Genome: Species: Solanum lycopersicum Functional Descriptions: SlNCED1 and SlCYP707A2: key genes involved in ABA metabolism during tomato fruit ripening.</description>
+    </item>
+    <item>
+      <title>SlNFYA10</title>
+      <link>/genes/solanum_lycopersicum/slnfya10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slnfya10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlNFYA10 Gene Name: CCAAT-box transcription factor Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlNPR1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slnpr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slnpr1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlNPR1 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: CRISPR/Cas9-Mediated SlNPR1 mutagenesis reduces tomato plant drought tolerance.</description>
+    </item>
+    <item>
+      <title>SlNRC4a</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc04g007070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc04g007070/</guid>
+      <description>Gene Details: Gene ID: Solyc04g007070 Gene Symbol: SlNRC4a Gene Name: nucleotide-binding leucine-rich repeat receptor 4 Genome: Species: Solanum lycopersicum Functional Descriptions: The intracellular nucleotide-binding leucine-rich repeat receptor (SlNRC4a) enhances immune signalling elicited by extracellular perception.</description>
+    </item>
+    <item>
+      <title>SlOFP20</title>
+      <link>/genes/solanum_lycopersicum/slofp20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slofp20/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g076180 Gene Symbol: SlOFP20 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlOSCA4.1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc02g083430/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc02g083430/</guid>
+      <description>Gene Details: Gene ID: Solyc02g083430 Gene Symbol: SlOSCA4.1 Gene Name: calcium-permeable channel 4.</description>
+    </item>
+    <item>
+      <title>SlOSCA4.1</title>
+      <link>/genes/solanum_lycopersicum/slosca4.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slosca4.1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g083430 Gene Symbol: SlOSCA4.1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlOST1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g108280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g108280/</guid>
+      <description>Gene Details: Gene ID: Solyc01g108280 Gene Symbol: SlOST1 Gene Name: OPEN STOMATA Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato OST1–VOZ1 module regulates drought-mediated flowering.</description>
+    </item>
+    <item>
+      <title>SlP5CR</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/slp5cr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/slp5cr/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlP5CR Gene Name: pyrroline-5-carboxylate reductase Genome: Species: Solanum lycopersicum Functional Descriptions: In tomato (Solanum lycopersicum L.</description>
+    </item>
+    <item>
+      <title>SlP5CS1</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/slp5cs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/slp5cs1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlP5CS1 Gene Name: delta-1-pyrroline-5-carboxylate synthase Genome: Species: Solanum lycopersicum Functional Descriptions: In tomato (Solanum lycopersicum L.</description>
+    </item>
+    <item>
+      <title>SlP5CS2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/slp5cs2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/slp5cs2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlP5CS2 Gene Name: delta-1-pyrroline-5-carboxylate synthase-like Genome: Species: Solanum lycopersicum Functional Descriptions: In tomato (Solanum lycopersicum L.</description>
+    </item>
+    <item>
+      <title>SlPHR1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g060920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g060920/</guid>
+      <description>Gene Details: Gene ID: Solyc08g060920 Gene Symbol: SlPHR1 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We determine that SlSPX1 integrates Pi signaling and AM symbiosis by directly interacting with a set of arbuscule-induced SlPHR proteins (SlPHR1, SlPHR4, SlPHR10, SlPHR11, and SlPHR12).</description>
+    </item>
+    <item>
+      <title>SlPHR10</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g078720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g078720/</guid>
+      <description>Gene Details: Gene ID: Solyc10g078720 Gene Symbol: SlPHR10 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We determine that SlSPX1 integrates Pi signaling and AM symbiosis by directly interacting with a set of arbuscule-induced SlPHR proteins (SlPHR1, SlPHR4, SlPHR10, SlPHR11, and SlPHR12).</description>
+    </item>
+    <item>
+      <title>SlPHR11</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g080460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g080460/</guid>
+      <description>Gene Details: Gene ID: Solyc10g080460 Gene Symbol: SlPHR11 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We determine that SlSPX1 integrates Pi signaling and AM symbiosis by directly interacting with a set of arbuscule-induced SlPHR proteins (SlPHR1, SlPHR4, SlPHR10, SlPHR11, and SlPHR12).</description>
+    </item>
+    <item>
+      <title>SlPHR12</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g083340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g083340/</guid>
+      <description>Gene Details: Gene ID: Solyc10g083340 Gene Symbol: SlPHR12 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We determine that SlSPX1 integrates Pi signaling and AM symbiosis by directly interacting with a set of arbuscule-induced SlPHR proteins (SlPHR1, SlPHR4, SlPHR10, SlPHR11, and SlPHR12).</description>
+    </item>
+    <item>
+      <title>SlPHR4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc02g067160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc02g067160/</guid>
+      <description>Gene Details: Gene ID: Solyc02g067160 Gene Symbol: SlPHR4 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We determine that SlSPX1 integrates Pi signaling and AM symbiosis by directly interacting with a set of arbuscule-induced SlPHR proteins (SlPHR1, SlPHR4, SlPHR10, SlPHR11, and SlPHR12).</description>
+    </item>
+    <item>
+      <title>SlPIF4</title>
+      <link>/genes/solanum_lycopersicum/slpif4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slpif4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g043580 Gene Symbol: SlPIF4 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlPLC2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g051620.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g051620.2/</guid>
+      <description>Gene Details: Gene ID: solyc06g051620.2 Gene Symbol: SlPLC2 Gene Name: Phospholipase C2 Genome: Species: Solanum lycopersicum Functional Descriptions: Silencing of the tomato phosphatidylinositol-phospholipase C2 (SlPLC2) reduces plant susceptibility to Botrytis cinerea.</description>
+    </item>
+    <item>
+      <title>SlPP2C3</title>
+      <link>/genes/solanum_lycopersicum/slpp2c3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slpp2c3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g076400.2.1 Gene Symbol: SlPP2C3 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlPP2C5</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g121880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g121880/</guid>
+      <description>Gene Details: Gene ID: Solyc03g121880 Gene Symbol: SlPP2C5 Gene Name: type 2C protein phosphatase5 Genome: Species: Solanum lycopersicum Functional Descriptions: Overexpression and RNAi of SlPP2C5 affects fruit ripening onset and quality.</description>
+    </item>
+    <item>
+      <title>SlPR-STH2a</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g090970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g090970/</guid>
+      <description>Gene Details: Gene ID: Solyc09g090970 Gene Symbol: SlPR-STH2a Gene Name: significantly upregulated pathogenesis-related protein 2 Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY30 and SlWRKY81 synergistically modulate tomato immunity to Ralstonia solanacearum by directly regulating SlPR-STH2.</description>
+    </item>
+    <item>
+      <title>SlPR-STH2b</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g090980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g090980/</guid>
+      <description>Gene Details: Gene ID: Solyc09g090980 Gene Symbol: SlPR-STH2b Gene Name: significantly upregulated pathogenesis-related protein 2 Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY30 and SlWRKY81 synergistically modulate tomato immunity to Ralstonia solanacearum by directly regulating SlPR-STH2.</description>
+    </item>
+    <item>
+      <title>SlPR-STH2c</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g090990/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g090990/</guid>
+      <description>Gene Details: Gene ID: Solyc09g090990 Gene Symbol: SlPR-STH2c Gene Name: significantly upregulated pathogenesis-related protein 2 Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY30 and SlWRKY81 synergistically modulate tomato immunity to Ralstonia solanacearum by directly regulating SlPR-STH2.</description>
+    </item>
+    <item>
+      <title>SlPR-STH2d</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g091000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g091000/</guid>
+      <description>Gene Details: Gene ID: Solyc09g091000 Gene Symbol: SlPR-STH2d Gene Name: significantly upregulated pathogenesis-related protein 2 Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY30 and SlWRKY81 synergistically modulate tomato immunity to Ralstonia solanacearum by directly regulating SlPR-STH2.</description>
+    </item>
+    <item>
+      <title>SlPSY1</title>
+      <link>/genes/solanum_lycopersicum/slpsy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slpsy1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g031860 Gene Symbol: SlPSY1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlPti4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc05g052050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc05g052050/</guid>
+      <description>Gene Details: Gene ID: Solyc05g052050 Gene Symbol: SlPti4 Gene Name: DNA-binding protein Pti4 Genome: Species: Solanum lycopersicum Functional Descriptions: SlPti4 Affects Regulation of Fruit Ripening, Seed Germination and Stress Responses by Modulating ABA Signaling in Tomato.</description>
+    </item>
+    <item>
+      <title>SlPUB24</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g068940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g068940/</guid>
+      <description>Gene Details: Gene ID: Solyc11g068940 Gene Symbol: SlPUB24 Gene Name: U-box E3 ligase protein 24 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato SlPUB24 enhances resistance to Xanthomonas euvesicatoria pv.</description>
+    </item>
+    <item>
+      <title>SlPYL9</title>
+      <link>/genes/solanum_lycopersicum/slpyl9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slpyl9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g015380 Gene Symbol: SlPYL9 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlRAE1</title>
+      <link>/genes/solanum_lycopersicum/slrae1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slrae1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g076290 Gene Symbol: SlRAE1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlRbcS1</title>
+      <link>/genes/solanum_lycopersicum/slrbcs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slrbcs1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlRbcS1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlRBP1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g109660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g109660/</guid>
+      <description>Gene Details: Gene ID: Solyc01g109660 Gene Symbol: SlRBP1 Gene Name: glycine-rich RNA-binding protein 1 Genome: Species: Solanum lycopersicum Functional Descriptions: SlRBP1 promotes translational efficiency via SleIF4A2 to maintain chloroplast function in tomato.</description>
+    </item>
+    <item>
+      <title>SlRCAR11</title>
+      <link>/genes/solanum_lycopersicum/slrcar11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slrcar11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g055990.1.1 Gene Symbol: SlRCAR11 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlRCAR12</title>
+      <link>/genes/solanum_lycopersicum/slrcar12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slrcar12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g007310.2.1 Gene Symbol: SlRCAR12 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlRCAR13</title>
+      <link>/genes/solanum_lycopersicum/slrcar13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slrcar13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g082180.2.1 Gene Symbol: SlRCAR13 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlRCAR9</title>
+      <link>/genes/solanum_lycopersicum/slrcar9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slrcar9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g095700.2.1 Gene Symbol: SlRCAR9 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlRCM1</title>
+      <link>/genes/solanum_lycopersicum/slrcm1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slrcm1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g005010 Gene Symbol: SlRCM1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlREC2</title>
+      <link>/genes/solanum_lycopersicum/slrec2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slrec2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g006030 Gene Symbol: SlREC2 Gene Name: 9-CIS-EPOXYCAROTENOID DIOXYGENASE 2 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlRIP1b</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc12g014230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc12g014230/</guid>
+      <description>Gene Details: Gene ID: Solyc12g014230 Gene Symbol: SlRIP1b Gene Name: RIP/MORF protein Genome: Species: Solanum lycopersicum Functional Descriptions: SlRIP1b is a global organellar RNA editing factor, required for normal fruit development in tomato plants.</description>
+    </item>
+    <item>
+      <title>SlRIPK</title>
+      <link>/genes/solanum_lycopersicum/slripk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slripk/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g041940 Gene Symbol: SlRIPK Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlRLK-like</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g094920.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g094920.2/</guid>
+      <description>Gene Details: Gene ID: Solyc01g094920.2 Gene Symbol: SlRLK-like Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlRLK-like is a malectin-like domain protein affecting localization and abundance of LeEIX2 receptor resulting in suppression of EIX-induced immune responses.</description>
+    </item>
+    <item>
+      <title>SlRR6</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g048600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g048600/</guid>
+      <description>Gene Details: Gene ID: Solyc06g048600 Gene Symbol: SlRR6 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Cytokinin-inducible response regulator SlRR6 controls plant height through gibberellin and auxin pathways in tomato.</description>
+    </item>
+    <item>
+      <title>SlS5H</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g080190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g080190/</guid>
+      <description>Gene Details: Gene ID: Solyc03g080190 Gene Symbol: SlS5H Gene Name: salicylic acid 5-hydroxylase Genome: Species: Solanum lycopersicum Functional Descriptions: SlS5H silencing reveals specific pathogen-triggered salicylic acid metabolism in tomato.</description>
+    </item>
+    <item>
+      <title>SlSAMT</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slsamt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slsamt/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlSAMT|SAMT Gene Name: salicylic acid methyltransferase Genome: Species: Solanum lycopersicum Functional Descriptions: Silencing of SlSAMT|SAMT led to a major reduction in SlSAMT|SAMT expression and MeSA emission upon herbivory by spider mites, without affecting the induced emission of other volatiles (terpenoids).</description>
+    </item>
+    <item>
+      <title>SlSAP3</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slsap3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slsap3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlSAP3 Gene Name: stress-associated protein 3 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato SlSAP3, a member of the stress-associated protein family, is a positive regulator of immunity against Pseudomonas syringae pv.</description>
+    </item>
+    <item>
+      <title>SlSAUR58</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g053260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g053260/</guid>
+      <description>Gene Details: Gene ID: Solyc06g053260 Gene Symbol: SlSAUR58 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlSAUR58-overexpressing plants were dwarf with decreased internode length.</description>
+    </item>
+    <item>
+      <title>SlSCL3</title>
+      <link>/genes/solanum_lycopersicum/slscl3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slscl3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g099900 Gene Symbol: SlSCL3 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSGR1</title>
+      <link>/genes/solanum_lycopersicum/slsgr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slsgr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g080090 Gene Symbol: SlSGR1 Gene Name: Stay-Green 1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSGT1</title>
+      <link>/genes/solanum_lycopersicum/slsgt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slsgt1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g010660 Gene Symbol: SlSGT1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSIZ1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slsiz1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slsiz1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlSIZ1 Gene Name: E3 SUMO-protein ligase SIZ1 Genome: Species: Solanum lycopersicum Functional Descriptions: SUMO E3 Ligase SlSIZ1 Facilitates Heat Tolerance in Tomato.</description>
+    </item>
+    <item>
+      <title>SlSKIP2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc02g092990.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc02g092990.1/</guid>
+      <description>Gene Details: Gene ID: Solyc02g092990.1 Gene Symbol: SlSKIP2 Gene Name: F-box protein SKIP2 Genome: S.</description>
+    </item>
+    <item>
+      <title>SlSNAT</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g074910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g074910/</guid>
+      <description>Gene Details: Gene ID: Solyc10g074910 Gene Symbol: SlSNAT Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Identified the SlSNAT gene, which is responsible for melatonin biosynthesis in tomato.</description>
+    </item>
+    <item>
+      <title>SlSNAT2</title>
+      <link>/genes/solanum_lycopersicum/slsnat2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slsnat2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g010250 Gene Symbol: SlSNAT2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSnRK1</title>
+      <link>/genes/solanum_lycopersicum/slsnrk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slsnrk1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g067030 Gene Symbol: SlSnRK1 Gene Name: SNF1-related kinase 1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSPL13</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc05g015840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc05g015840/</guid>
+      <description>Gene Details: Gene ID: Solyc05g015840 Gene Symbol: SlSPL13 Gene Name: SQUAMOSA PROMOTER BINDING PROTEIN LIKE 13 Genome: Species: Solanum lycopersicum Functional Descriptions: miR156a-targeted SBP-Box transcription factor SlSPL13 regulates inflorescence morphogenesis by directly activating SFT in tomato.</description>
+    </item>
+    <item>
+      <title>SlSPL13</title>
+      <link>/genes/solanum_lycopersicum/slspl13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slspl13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g015840 Gene Symbol: SlSPL13 Gene Name: SQUAMOSA PROMOTER BINDING PROTEIN-LIKE 13 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSTE1</title>
+      <link>/genes/solanum_lycopersicum/slste1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slste1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlSTE1 Gene Name: SALT TOLERANCE ENHANCER1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSTOP1</title>
+      <link>/genes/solanum_lycopersicum/slstop1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slstop1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g017140 Gene Symbol: SlSTOP1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSTR1</title>
+      <link>/genes/solanum_lycopersicum/slstr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slstr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g053130 Gene Symbol: SlSTR1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSUS4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slsus4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slsus4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlSUS4 Gene Name: sucrose synthase isoform 4 Genome: Species: Solanum lycopersicum Functional Descriptions: Comparison of a novel tomato sucrose synthase, SlSUS4, with previously described SlSUS isoforms reveals distinct sequence features and differential expression patterns in association with stem maturation.</description>
+    </item>
+    <item>
+      <title>SlSUT4</title>
+      <link>/genes/solanum_lycopersicum/slsut4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slsut4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc04g076960.2.1 Gene Symbol: SlSUT4 Gene Name: Sucrose transporter 4 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSWEET14</title>
+      <link>/genes/solanum_lycopersicum/slsweet14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slsweet14/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g097560 Gene Symbol: SlSWEET14 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSWEET15</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g074530/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g074530/</guid>
+      <description>Gene Details: Gene ID: Solyc09g074530 Gene Symbol: SlSWEET15 Gene Name: sugars will eventually be exported transporter 15 Genome: Species: Solanum lycopersicum Functional Descriptions: Transporter SlSWEET15 unloads sucrose from phloem and seed coat for fruit and seed development in tomato.</description>
+    </item>
+    <item>
+      <title>SlSWEET7a</title>
+      <link>/genes/solanum_lycopersicum/slsweet7a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slsweet7a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g082770 Gene Symbol: SlSWEET7a Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSZP1</title>
+      <link>/genes/solanum_lycopersicum/slszp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slszp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc04g056320 Gene Symbol: SlSZP1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlTAF1</title>
+      <link>/genes/solanum_lycopersicum/sltaf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sltaf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g060230 Gene Symbol: SlTAF1 Gene Name: Transcription Activation Factor 1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlTAGL1</title>
+      <link>/genes/solanum_lycopersicum/sltagl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sltagl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g055920 Gene Symbol: SlTAGL1 Gene Name: TOMATO AGAMOUS-LIKE1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlTBP</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g015080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g015080/</guid>
+      <description>Gene Details: Gene ID: Solyc09g015080 Gene Symbol: SlTBP Gene Name: tocopherol-binding protein Genome: Species: Solanum lycopersicum Functional Descriptions: SlTBP encodes a chloroplast-targeted protein of the patellin family and is highly expressed in green tissues.</description>
+    </item>
+    <item>
+      <title>SlTCP24</title>
+      <link>/genes/solanum_lycopersicum/sltcp24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sltcp24/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g048390 Gene Symbol: SlTCP24 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlTCP29</title>
+      <link>/genes/solanum_lycopersicum/sltcp29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sltcp29/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g048370 Gene Symbol: SlTCP29 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlTHM1</title>
+      <link>/genes/solanum_lycopersicum/slthm1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slthm1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g081500 Gene Symbol: SlTHM1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlTIP1;1</title>
+      <link>/genes/solanum_lycopersicum/sltip11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sltip11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlTIP1 1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlTLFP8</title>
+      <link>/genes/solanum_lycopersicum/sltlfp8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sltlfp8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g104670 Gene Symbol: SlTLFP8 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlTPI1</title>
+      <link>/genes/solanum_lycopersicum/sltpi1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sltpi1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g054870 Gene Symbol: SlTPI1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlTPI2</title>
+      <link>/genes/solanum_lycopersicum/sltpi2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sltpi2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g111120 Gene Symbol: SlTPI2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlTPL3</title>
+      <link>/genes/solanum_lycopersicum/sltpl3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sltpl3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g100050.2.1 Gene Symbol: SlTPL3 Gene Name: TOPLESS3 Genome: tomato reference genome (Solanum lycopersicum ITAG3.</description>
+    </item>
+    <item>
+      <title>SlUGT75C1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g092500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g092500/</guid>
+      <description>Gene Details: Gene ID: Solyc09g092500 Gene Symbol: SlUGT75C1 Gene Name: UDP-glycosyltransferase 75C1 Genome: Species: Solanum lycopersicum Functional Descriptions: SlUGT75C1 catalyzes the glucosylation of both ABA and IAA in vitro| SlUGT76E1 can only catalyze the conjugation of ABA| and SlUGT73C4 cannot glycosylate either ABA or IAA.</description>
+    </item>
+    <item>
+      <title>SlVOZ1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc02g077450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc02g077450/</guid>
+      <description>Gene Details: Gene ID: Solyc02g077450 Gene Symbol: SlVOZ1 Gene Name: VASCULAR PLANT ONE-ZINC FINGER 1 Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato OST1–VOZ1 module regulates drought-mediated flowering.</description>
+    </item>
+    <item>
+      <title>SlVPE3</title>
+      <link>/genes/solanum_lycopersicum/slvpe3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slvpe3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g065610 Gene Symbol: SlVPE3 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlVQ15</title>
+      <link>/genes/solanum_lycopersicum/slvq15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slvq15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g043250 Gene Symbol: SlVQ15 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlVQ16</title>
+      <link>/genes/solanum_lycopersicum/slvq16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slvq16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g056600 Gene Symbol: SlVQ16 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlVQ21</title>
+      <link>/genes/solanum_lycopersicum/slvq21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slvq21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g007580 Gene Symbol: SlVQ21 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlWak1</title>
+      <link>/genes/solanum_lycopersicum/slwak1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slwak1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g014720 Gene Symbol: SlWak1 Gene Name: wall-associated kinase 1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlWD40</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc04g005020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc04g005020/</guid>
+      <description>Gene Details: Gene ID: Solyc04g005020 Gene Symbol: SlWD40 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlWD40 overexpression and RNAi lines exhibited substantially accelerated and delayed ripening phenotypes compared with the wild type, respectively.</description>
+    </item>
+    <item>
+      <title>SlWHY1</title>
+      <link>/genes/solanum_lycopersicum/slwhy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slwhy1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlWHY1 Gene Name: WHIRLY1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlWOX13</title>
+      <link>/genes/solanum_lycopersicum/slwox13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slwox13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g082670 Gene Symbol: SlWOX13 Gene Name: Genome: reference tomato genome SL4.</description>
+    </item>
+    <item>
+      <title>SlWRKY30</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g009550/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g009550/</guid>
+      <description>Gene Details: Gene ID: Solyc10g009550 Gene Symbol: SlWRKY30 Gene Name: III SlWRKY TF 30 Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY30 and SlWRKY81 synergistically modulate tomato immunity to Ralstonia solanacearum by directly regulating SlPR-STH2.</description>
+    </item>
+    <item>
+      <title>SlWRKY31</title>
+      <link>/genes/solanum_lycopersicum/slwrky31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slwrky31/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g066370 Gene Symbol: SlWRKY31 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlWRKY35</title>
+      <link>/genes/solanum_lycopersicum/slwrky35/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slwrky35/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g021680 Gene Symbol: SlWRKY35 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlWRKY37</title>
+      <link>/genes/solanum_lycopersicum/slwrky37/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slwrky37/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g079360 Gene Symbol: SlWRKY37 Gene Name: WRKY transcription factor 37 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlWRKY45</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g067360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g067360/</guid>
+      <description>Gene Details: Gene ID: Solyc08g067360 Gene Symbol: SlWRKY45 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY45 interacts with jasmonate-ZIM domain proteins to negatively regulate defense against the root-knot nematode Meloidogyne incognita in tomato.</description>
+    </item>
+    <item>
+      <title>SlWRKY50</title>
+      <link>/genes/solanum_lycopersicum/slwrky50/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slwrky50/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g068460 Gene Symbol: SlWRKY50 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlWRKY53</title>
+      <link>/genes/solanum_lycopersicum/slwrky53/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slwrky53/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g008280 Gene Symbol: SlWRKY53 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlWRKY57</title>
+      <link>/genes/solanum_lycopersicum/slwrky57/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slwrky57/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g012500 Gene Symbol: SlWRKY57 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlWRKY6</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc02g080890.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc02g080890.2/</guid>
+      <description>Gene Details: Gene ID: Solyc02g080890.2 Gene Symbol: SlWRKY6 Gene Name: WRKY transcription factor 6 Genome: Species: Solanum lycopersicum Functional Descriptions: By construction of SlWRKY6 mutants and SlWRKY6-OE lines, we found that SlWRKY6 positively regulates leaf senescence and fruit ripening by activating the transcription of ripening-related genes STAYGREEN 1 (SlSGR1) and Senescence-Associated Gene 12 (SlSAG12).</description>
+    </item>
+    <item>
+      <title>SlWRKY70</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g095770.3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g095770.3/</guid>
+      <description>Gene Details: Gene ID: Solyc03g095770.3 Gene Symbol: SlWRKY70 Gene Name: WRKY DNA-binding transcription factor 70 Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY70 is required for Mi-1-mediated resistance to aphids and nematodes in tomato.</description>
+    </item>
+    <item>
+      <title>SlWRKY75</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc05g015850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc05g015850/</guid>
+      <description>Gene Details: Gene ID: Solyc05g015850 Gene Symbol: SlWRKY75 Gene Name: WRKY transcription factor75 Genome: Species: Solanum lycopersicum Functional Descriptions: Here, we characterized tomato (Solanum lycopersicum) SlWRKY75, which promotes defenses against P.</description>
+    </item>
+    <item>
+      <title>SlWRKY80</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g095770.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g095770.2/</guid>
+      <description>Gene Details: Gene ID: Solyc03g095770.2 Gene Symbol: SlWRKY80 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY80-mediated jasmonic acid pathway positively regulates tomato resistance to saline-alkali stress by enhancing spermidine content and stabilizing Na+/K+ homeostasis.</description>
+    </item>
+    <item>
+      <title>SlWRKY81</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/soly09g014990.3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/soly09g014990.3/</guid>
+      <description>Gene Details: Gene ID: Soly09g014990.3 Gene Symbol: SlWRKY81 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY81 regulates Spd synthesis and Na+/K+ homeostasis through interaction with SlJAZ1 mediated JA pathway to improve tomato saline-alkali resistance.</description>
+    </item>
+    <item>
+      <title>SlWRKY81</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g015770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g015770/</guid>
+      <description>Gene Details: Gene ID: Solyc09g015770 Gene Symbol: SlWRKY81 Gene Name: III WRKY protein 81 Genome: Species: Solanum lycopersicum Functional Descriptions: Four group III WRKY proteins (SlWRKY52, SlWRKY59, SlWRKY80, and SlWRKY81) interacted with SlWRKY30, and SlWRKY81 silencing increased tomato susceptibility to RSI.</description>
+    </item>
+    <item>
+      <title>SlWUS</title>
+      <link>/genes/solanum_lycopersicum/slwus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slwus/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g083950 Gene Symbol: SlWUS Gene Name: WUSCHEL Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlZF3</title>
+      <link>/genes/solanum_lycopersicum/slzf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slzf3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g075780 Gene Symbol: SlZF3 Gene Name: C2H2 zinc-finger protein 3 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlZFP6</title>
+      <link>/genes/solanum_lycopersicum/slzfp6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slzfp6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g009170 Gene Symbol: SlZFP6 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlZHD17</title>
+      <link>/genes/solanum_lycopersicum/slzhd17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slzhd17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc04g080490 Gene Symbol: SlZHD17 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>Style2.1</title>
+      <link>/genes/solanum_lycopersicum/style2.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/style2.1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g087860 Gene Symbol: Style2.1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SUN</title>
+      <link>/genes/solanum_lycopersicum/sun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sun/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g079240 Gene Symbol: SUN Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SUN24</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sun24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sun24/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SUN24 Gene Name: IQ domain-containing calmodulin-binding protein SUN24 Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato IQD gene SUN24 regulates seed germination through ABA signaling pathway.</description>
+    </item>
+    <item>
+      <title>SWEET12c</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc05g024260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc05g024260/</guid>
+      <description>Gene Details: Gene ID: Solyc05g024260 Gene Symbol: SWEET12c Gene Name: Sugars Will Eventually be Exported Transporter Genome: Species: Solanum lycopersicum Functional Descriptions: Further analyses suggested that HY5 represses the accumulation of sugar in tomato fruit by activating Sugars Will Eventually be Exported Transporter (SWEET12c) expression.</description>
+    </item>
+    <item>
+      <title>TPK1b</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/tpk1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/tpk1b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TPK1b Gene Name: TOMATO PROTEIN KINASE 1b Genome: Species: Solanum lycopersicum Functional Descriptions: TPK1b, a key regulator of tomato defense against B.</description>
+    </item>
+    <item>
+      <title>VAHOX1</title>
+      <link>/genes/solanum_lycopersicum/vahox1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/vahox1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: VAHOX1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>Woolly</title>
+      <link>/genes/solanum_lycopersicum/woolly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/woolly/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g080260 Gene Symbol: Woolly Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>WRKY32</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc07g005650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc07g005650/</guid>
+      <description>Gene Details: Gene ID: Solyc07g005650 Gene Symbol: WRKY32 Gene Name: WRKY transcription factor 32 Genome: Species: Solanum lycopersicum Functional Descriptions: The transcription factor WRKY32 affects tomato fruit colour by regulating YELLOW FRUITED-TOMATO 1, a core component of ethylene signal transduction.</description>
+    </item>
+  </channel>
+</rss>

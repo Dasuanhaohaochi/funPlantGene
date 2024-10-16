@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>petal vascular system on funPlantGenes</title>
+    <link>/tags/petal-vascular-system/</link>
+    <description>Recent content in petal vascular system on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/petal-vascular-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT5G26340</title>
+      <link>/genes/arabidopsis_thaliana/at5g26340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g26340/</guid>
+      <description>Gene Details: Gene ID: AT5G26340 Gene Symbol: ATSTP13, MSS1, STP13 Gene Name: SUGAR TRANSPORT PROTEIN 13, SUGAR TRANSPORT PROTEIN 13 Description: Major facilitator superfamily protein;(source:Araport11) TAIR Accession: locus:2151074 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G26340.</description>
+    </item>
+    <item>
+      <title>AT5G37180</title>
+      <link>/genes/arabidopsis_thaliana/at5g37180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g37180/</guid>
+      <description>Gene Details: Gene ID: AT5G37180 Gene Symbol: ATSUS5, SUS5 Gene Name: ARABIDOPSIS THALIANA SUCROSE SYNTHASE 5, sucrose synthase 5 Description: sucrose synthase 5;(source:Araport11) TAIR Accession: locus:2166203 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G37180.</description>
+    </item>
+  </channel>
+</rss>

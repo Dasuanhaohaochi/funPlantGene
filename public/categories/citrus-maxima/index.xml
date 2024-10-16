@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citrus maxima on funPlantGenes</title>
+    <link>/categories/citrus-maxima/</link>
+    <description>Recent content in Citrus maxima on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/citrus-maxima/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CDG1</title>
+      <link>/genes/citrus_maxima/cdg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_maxima/cdg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CDG1 Gene Name: Citrus Delayed Greening gene 1 Genome: Species: Citrus maxima Functional Description: CDG1 gene is involved in controlling the delayed leaf greening phenotype with important functions in chloroplast development.</description>
+    </item>
+    <item>
+      <title>Cm1,2RhaT</title>
+      <link>/genes/citrus_maxima/cm12rhat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_maxima/cm12rhat/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cg1g023820 Gene Symbol: Cm1,2RhaT Gene Name: Genome: Citrus maxima (C.</description>
+    </item>
+    <item>
+      <title>CmdGlcT</title>
+      <link>/genes/citrus_maxima/cmdglct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_maxima/cmdglct/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cg8g018010 Gene Symbol: CmdGlcT Gene Name: Genome: Citrus maxima (C.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>funicle on funPlantGenes</title>
+    <link>/tags/funicle/</link>
+    <description>Recent content in funicle on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/funicle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G39175</title>
+      <link>/genes/arabidopsis_thaliana/at2g39175/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g39175/</guid>
+      <description>Gene Details: Gene ID: AT2G39175 Gene Symbol: FOC, MIR160, MIR160A Gene Name: floral organs in carpels, MICRORNA 160, microRNA160A Description: microRNA ath-MIR160a precursor;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G39175.</description>
+    </item>
+    <item>
+      <title>AT3G05840</title>
+      <link>/genes/arabidopsis_thaliana/at3g05840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g05840/</guid>
+      <description>Gene Details: Gene ID: AT3G05840 Gene Symbol: ATSK12, SK12 Gene Name: SHAGGY-like kinase 12 Description: Protein kinase superfamily protein;(source:Araport11) TAIR Accession: locus:2074464 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G05840.</description>
+    </item>
+    <item>
+      <title>AT4G17788</title>
+      <link>/genes/arabidopsis_thaliana/at4g17788/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g17788/</guid>
+      <description>Gene Details: Gene ID: AT4G17788 Gene Symbol: MIR160, MIR160B Gene Name: MICRORNA 160, microRNA160B Description: microRNA ath-MIR160b precursor;(source:Araport11) TAIR Accession: locus:1009023355 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G17788.</description>
+    </item>
+    <item>
+      <title>AT5G37020</title>
+      <link>/genes/arabidopsis_thaliana/at5g37020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g37020/</guid>
+      <description>Gene Details: Gene ID: AT5G37020 Gene Symbol: ARF8, ATARF8 Gene Name: auxin response factor 8 Description: auxin response factor 8;(source:Araport11) TAIR Accession: locus:2152642 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G37020.</description>
+    </item>
+    <item>
+      <title>AT5G42820</title>
+      <link>/genes/arabidopsis_thaliana/at5g42820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g42820/</guid>
+      <description>Gene Details: Gene ID: AT5G42820 Gene Symbol: AtC3H60, ATU2AF35B, U2AF35B Gene Name: Description: Zinc finger C-x8-C-x5-C-x3-H type family protein;(source:Araport11) TAIR Accession: locus:2165447 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G42820.</description>
+    </item>
+    <item>
+      <title>AT5G42890</title>
+      <link>/genes/arabidopsis_thaliana/at5g42890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g42890/</guid>
+      <description>Gene Details: Gene ID: AT5G42890 Gene Symbol: ATSCP2, SCP2 Gene Name: STEROL CARRIER PROTEIN 2, sterol carrier protein 2 Description: sterol carrier protein 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G42890.</description>
+    </item>
+  </channel>
+</rss>

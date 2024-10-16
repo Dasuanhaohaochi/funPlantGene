@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gland on funPlantGenes</title>
+    <link>/tags/gland/</link>
+    <description>Recent content in gland on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/gland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CGP1a</title>
+      <link>/genes/gossypium_hirsutum/cgp1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/cgp1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A07G0703 Gene Symbol: CGP1a Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>CGP1d</title>
+      <link>/genes/gossypium_hirsutum/cgp1d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/cgp1d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D07G0770 Gene Symbol: CGP1d Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhERF105</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_a12g2166/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_a12g2166/</guid>
+      <description>Gene Details: Gene ID: GH_A12G2166 Gene Symbol: GhERF105 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Silencing of GhERF105 reduced gland formation and gossypol biosynthesis.</description>
+    </item>
+    <item>
+      <title>GhJUB1</title>
+      <link>/genes/gossypium_hirsutum/ghjub1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghjub1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhJUB1 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: Analysis demonstrated that GoPGF targets GhJUB1 to regulate gland morphogenesis.</description>
+    </item>
+    <item>
+      <title>GhVQ22</title>
+      <link>/genes/2024.7.17/gossypium-hirsutum/gh_a12g0470/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/gossypium-hirsutum/gh_a12g0470/</guid>
+      <description>Gene Details: Gene ID: GH_A12G0470 Gene Symbol: GhVQ22 Gene Name: PG-specific valine glutamine 22 Genome: Species: Gossypium hirsutum Functional Descriptions: Gland-specific GhVQ22 negatively regulates gland size and affects secondary metabolic accumulation in cotton.</description>
+    </item>
+    <item>
+      <title>GhVQ22</title>
+      <link>/genes/2024.7.17/gossypium-hirsutum/gh_d12g0482/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/gossypium-hirsutum/gh_d12g0482/</guid>
+      <description>Gene Details: Gene ID: GH_D12G0482 Gene Symbol: GhVQ22 Gene Name: PG-specific valine glutamine 22 Genome: Species: Gossypium hirsutum Functional Descriptions: Gland-specific GhVQ22 negatively regulates gland size and affects secondary metabolic accumulation in cotton.</description>
+    </item>
+    <item>
+      <title>GoPGF</title>
+      <link>/genes/2024.7.17/gossypium-hirsutum/gh_a12g2172/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/gossypium-hirsutum/gh_a12g2172/</guid>
+      <description>Gene Details: Gene ID: Gh_A12G2172 Gene Symbol: GoPGF Gene Name: Gossypium Pigment Gland Formation Genome: NBI_Gossypium_hirsutum_v1.</description>
+    </item>
+    <item>
+      <title>GoPGF</title>
+      <link>/genes/gossypium_hirsutum/gopgf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/gopgf/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GoPGF Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: GoPGF, a key gene regulating gland formation, was expressed in gland cells and roots.</description>
+    </item>
+    <item>
+      <title>GoSPGF</title>
+      <link>/genes/gossypium_hirsutum/gospgf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/gospgf/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_D08G1984 Gene Symbol: GoSPGF Gene Name: Gossypium STEM PIGMENT GLAND FORMING GENE Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The discovery of the novel stem pigment gland-forming gene GoSPGF by map-based cloning.</description>
+    </item>
+  </channel>
+</rss>

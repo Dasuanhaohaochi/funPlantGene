@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>strigolactone biosynthesis on funPlantGenes</title>
+    <link>/tags/strigolactone-biosynthesis/</link>
+    <description>Recent content in strigolactone biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/strigolactone-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sl-IAA27</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g120500.2.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g120500.2.1/</guid>
+      <description>Gene Details: Gene ID: Solyc03g120500.2.1 Gene Symbol: Sl-IAA27 Gene Name: Aux/IAA gene Genome: Species: Solanum lycopersicum Functional Descriptions: Sl-IAA27 regulates strigolactone biosynthesis and mycorrhization in tomato.</description>
+    </item>
+    <item>
+      <title>SLB1;OsMAX1</title>
+      <link>/genes/oryza_sativa/loc_os01g50520/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g50520/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g50520 RAPdb gene ID: Os01g0700900 Gene Symbol: SLB1 OsMAX1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlCCD7</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slccd7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slccd7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCCD7 Gene Name: carotenoid cleavage dioxygenase 7 Genome: Species: Solanum lycopersicum Functional Descriptions: SlCCD7 controls strigolactone biosynthesis, shoot branching and mycorrhiza-induced apocarotenoid formation in tomato.</description>
+    </item>
+    <item>
+      <title>SlCCD8</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/slccd8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/slccd8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCCD8 Gene Name: CAROTENOID CLEAVAGE DIOXYGENASE8 Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato CAROTENOID CLEAVAGE DIOXYGENASE8 (SlCCD8) regulates rhizosphere signaling, plant architecture and affects reproductive development through strigolactone biosynthesis.</description>
+    </item>
+    <item>
+      <title>TaCRTISO-1B</title>
+      <link>/genes/triticum_aestivum/traescs1b02g090300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs1b02g090300/</guid>
+      <description>Gene Details: Gene ID: TraesCS1B02G090300 Gene Symbol: TaCRTISO-1B Gene Name: CAROTENOID ISOMERASE-1B Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>ZmCCD7</title>
+      <link>/genes/zea_mays/zm00001eb074640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb074640/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb074640 Gene Symbol: ZmCCD7 Gene Name: carotenoid cleavage dioxygenase7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shoot lateral meristem on funPlantGenes</title>
+    <link>/tags/shoot-lateral-meristem/</link>
+    <description>Recent content in shoot lateral meristem on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/shoot-lateral-meristem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT5G09970</title>
+      <link>/genes/arabidopsis_thaliana/at5g09970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g09970/</guid>
+      <description>Gene Details: Gene ID: AT5G09970 Gene Symbol: CYP78A7 Gene Name: cytochrome P450, family 78, subfamily A, polypeptide 7 Description: cytochrome P450, family 78, subfamily A, polypeptide 7;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G09970.</description>
+    </item>
+  </channel>
+</rss>

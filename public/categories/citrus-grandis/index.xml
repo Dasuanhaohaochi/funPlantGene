@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citrus grandis on funPlantGenes</title>
+    <link>/categories/citrus-grandis/</link>
+    <description>Recent content in Citrus grandis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/citrus-grandis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CgCaN</title>
+      <link>/genes/citrus_grandis/cgcan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_grandis/cgcan/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cs7g30310 Gene Symbol: CgCaN Gene Name: Ca2+-dependent DNase Genome: Citrus maxima (C.</description>
+    </item>
+    <item>
+      <title>CgMYB58</title>
+      <link>/genes/citrus_grandis/cgmyb58/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_grandis/cgmyb58/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cg9g028980 Gene Symbol: CgMYB58 Gene Name: Genome: Citrus maxima (C.</description>
+    </item>
+  </channel>
+</rss>

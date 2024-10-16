@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Petunia inflata on funPlantGenes</title>
+    <link>/categories/petunia-inflata/</link>
+    <description>Recent content in Petunia inflata on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/petunia-inflata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhACO1</title>
+      <link>/genes/petunia_inflata/phaco1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/petunia_inflata/phaco1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: PhACO1 Gene Name: Genome: Species: Petunia inflata Functional Description: this study increases the understanding of the role of PhACO1 in petunia flower longevity and also points to the CRISPR/Cas9 system being a powerful tool in the improvement of floricultural quality.</description>
+    </item>
+    <item>
+      <title>PhZFP1</title>
+      <link>/genes/petunia_inflata/phzfp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/petunia_inflata/phzfp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: PhZFP1 Gene Name: Genome: Species: Petunia inflata Functional Description: Literature: The C2H2-type zinc finger protein PhZFP1 regulates cold stress tolerance by modulating galactinol synthesis in Petunia hybrida.</description>
+    </item>
+  </channel>
+</rss>

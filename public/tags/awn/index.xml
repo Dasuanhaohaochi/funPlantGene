@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>awn on funPlantGenes</title>
+    <link>/tags/awn/</link>
+    <description>Recent content in awn on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/awn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AL8;RAE2</title>
+      <link>/genes/oryza_sativa/loc_os08g37890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g37890/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g37890 RAPdb gene ID: Os08g0485500 Gene Symbol: AL8 RAE2 GAD1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ALI-1</title>
+      <link>/genes/triticum_aestivum/ali-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ali-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5A02G542800 Gene Symbol: ALI-1 Gene Name: Awn Length Inhibitor 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>An-1</title>
+      <link>/genes/oryza_sativa/loc_os04g28280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g28280/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g28280 RAPdb gene ID: Os04g0350700 Gene Symbol: An-1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>DL</title>
+      <link>/genes/oryza_sativa/loc_os03g11600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g11600/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g11600 RAPdb gene ID: Os03g0215200 Gene Symbol: DL Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>LABA1;OsLOGL6</title>
+      <link>/genes/oryza_sativa/loc_os04g43840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g43840/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g43840 RAPdb gene ID: Os04g0518800 Gene Symbol: LABA1 OsLOGL6 An-2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsEPFL2</title>
+      <link>/genes/oryza_sativa/loc_os02g51950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g51950/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g51950 RAPdb gene ID: Os02g0756100 Gene Symbol: OsEPFL2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsETT2;OsETTIN2</title>
+      <link>/genes/oryza_sativa/loc_os01g48060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g48060/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g48060 RAPdb gene ID: Os01g0670800 Gene Symbol: OsETT2 OsETTIN2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>qSH1;RIL1</title>
+      <link>/genes/oryza_sativa/loc_os01g62920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g62920/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g62920 RAPdb gene ID: Os01g0848400 Gene Symbol: qSH1 RIL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>RAE3</title>
+      <link>/genes/oryza_sativa/loc_os06g48065/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g48065/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g48065 RAPdb gene ID: Os06g0695900 Gene Symbol: RAE3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SLP1</title>
+      <link>/genes/oryza_sativa/loc_os01g50680/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g50680/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g50680 RAPdb gene ID: Os01g0702300 Gene Symbol: SLP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>WFZP-A</title>
+      <link>/genes/triticum_aestivum/wfzp-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wfzp-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2A02G116900 Gene Symbol: WFZP-A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WFZP-D</title>
+      <link>/genes/triticum_aestivum/wfzp-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wfzp-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D01G118200 Gene Symbol: WFZP-D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+  </channel>
+</rss>

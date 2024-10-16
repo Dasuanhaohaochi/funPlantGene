@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>autophagy on funPlantGenes</title>
+    <link>/tags/autophagy/</link>
+    <description>Recent content in autophagy on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/autophagy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MdATG18a</title>
+      <link>/genes/malus_domestica/mdatg18a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdatg18a/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD11G1303400 Gene Symbol: MdATG18a Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdATG8i</title>
+      <link>/genes/malus_domestica/mdatg8i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdatg8i/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD16G1138400 Gene Symbol: MdATG8i Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdHB7-like</title>
+      <link>/genes/malus_domestica/mdhb7-like/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdhb7-like/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD01G1226600 Gene Symbol: MdHB7-like Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>NbBAG5</title>
+      <link>/genes/2024.6.9/nicotiana-benthamiana/nbbag5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-benthamiana/nbbag5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NbBAG5 Gene Name: B-cell lymphoma2-associated athanogenes5 Genome: Species: Nicotiana benthamiana Functional Descriptions: Through overexpression and down-regulation of NbBAG5, results showed that NbBAG5 could negatively regulate ToCV infection.</description>
+    </item>
+    <item>
+      <title>NbCMT3</title>
+      <link>/genes/2024.6.9/nicotiana-benthamiana/nbcmt3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-benthamiana/nbcmt3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NbCMT3 Gene Name: chromomethylase protein 3 Genome: Species: Nicotiana benthamiana Functional Descriptions: Virus-induced gene silencing of NbCMT3/3-2 in N.</description>
+    </item>
+    <item>
+      <title>OsATG5</title>
+      <link>/genes/oryza_sativa/loc_os02g02570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g02570/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g02570 RAPdb gene ID: Os02g0117800 Gene Symbol: OsATG5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsAtg8</title>
+      <link>/genes/oryza_sativa/loc_os07g32800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g32800/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g32800 RAPdb gene ID: Os07g0512200 Gene Symbol: OsAtg8 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlATG7</title>
+      <link>/genes/solanum_lycopersicum/slatg7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slatg7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g068930 Gene Symbol: SlATG7 Gene Name: Genome: reference tomato genome SL4.</description>
+    </item>
+    <item>
+      <title>SlMYC2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g076930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g076930/</guid>
+      <description>Gene Details: Gene ID: Solyc08g076930 Gene Symbol: SlMYC2 Gene Name: transcription factor MYC2 Genome: Species: Solanum lycopersicum Functional Descriptions: SlMYC2, a master regulator of Jasmonic acid response, has been found to exhibit high expression levels in fruit and has been implicated in the regulation of fruit ripening and resistance to Botrytis.</description>
+    </item>
+    <item>
+      <title>TaCDPK27</title>
+      <link>/genes/triticum_aestivum/traescs5b02g109300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5b02g109300/</guid>
+      <description>Gene Details: Gene ID: TraesCS5B02G109300 Gene Symbol: TaCDPK27 Gene Name: calcium-dependent protein kinases 27 Genome: Species: Triticum aestivum Functional Descriptions: The Calcium-Dependent Protein Kinase TaCDPK27 Positively Regulates Salt Tolerance in Wheat.</description>
+    </item>
+    <item>
+      <title>VviNAC33</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_19s0027g00230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_19s0027g00230/</guid>
+      <description>Gene Details: Gene ID: VIT_19s0027g00230 Gene Symbol: VviNAC33 Gene Name: NAC transcription factor 33 Genome: Species: Vitis vinifera Functional Descriptions: VviNAC33 promotes organ de-greening and represses vegetative growth during the vegetative-to-mature phase transition in grapevine.</description>
+    </item>
+    <item>
+      <title>ZmMS39;ms39</title>
+      <link>/genes/zea_mays/zmms39ms39/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmms39ms39/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb157150 Gene Symbol: ZmMS39 ms39 Gene Name: male sterile39 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNBR1</title>
+      <link>/genes/zea_mays/zm00001eb245950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb245950/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb245950 Gene Symbol: ZmNBR1 Gene Name: NEXT TO BRCA1 GENE 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malus xiaojinensis on funPlantGenes</title>
+    <link>/categories/malus-xiaojinensis/</link>
+    <description>Recent content in Malus xiaojinensis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/malus-xiaojinensis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MdLecRK-S.4.3</title>
+      <link>/genes/2024.6.9/malus-xiaojinensis/md01g1137500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-xiaojinensis/md01g1137500/</guid>
+      <description>Gene Details: Gene ID: MD01G1137500 Gene Symbol: MdLecRK-S.4.3 Gene Name: Genome: Species: Malus xiaojinensis Functional Descriptions: MdLecRK-S.</description>
+    </item>
+    <item>
+      <title>MxHA2</title>
+      <link>/genes/2024.6.9/malus-xiaojinensis/md08g1130200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-xiaojinensis/md08g1130200/</guid>
+      <description>Gene Details: Gene ID: MD08G1130200 Gene Symbol: MxHA2 Gene Name: plasma membrane (PM) H+-ATPase Genome: Species: Malus xiaojinensis Functional Descriptions: MxMPK6-2-mediated phosphorylation enhances the response of apple rootstocks to Fe deficiency by activating PM H+-ATPase MxHA2.</description>
+    </item>
+    <item>
+      <title>MxMPK6-2</title>
+      <link>/genes/2024.6.9/malus-xiaojinensis/mxmpk6-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-xiaojinensis/mxmpk6-2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MxMPK6-2 Gene Name: Genome: Species: Malus xiaojinensis Functional Descriptions: MxMPK6-2-bHLH104 interaction is involved in reactive oxygen species signaling in response to iron deficiency in apple rootstock.</description>
+    </item>
+  </channel>
+</rss>

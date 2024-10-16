@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>h2o2 on funPlantGenes</title>
+    <link>/tags/h2o2/</link>
+    <description>Recent content in h2o2 on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/h2o2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AhbHLH112</title>
+      <link>/genes/2024.6.9/arachis-hypogaea/arahy.0i3nz2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/arachis-hypogaea/arahy.0i3nz2/</guid>
+      <description>Gene Details: Gene ID: Arahy.0I3NZ2 Gene Symbol: AhbHLH112 Gene Name: Basic helix-loop-helix transcription factor 112 Genome: PeanutBase(www.</description>
+    </item>
+    <item>
+      <title>BnWRKY33</title>
+      <link>/genes/2024.6.9/brassica-napus/bnwrky33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-napus/bnwrky33/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BnWRKY33 Gene Name: Genome: Species: Brassica napus Functional Descriptions: Overexpression of BnWRKY33 in oilseed rape enhances resistance to Sclerotinia sclerotiorum.</description>
+    </item>
+    <item>
+      <title>CabHLH1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana01g000256/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana01g000256/</guid>
+      <description>Gene Details: Gene ID: Capana01g000256 Gene Symbol: CabHLH1 Gene Name: Genome: Species: Capsicum annuum Functional Descriptions: The CabHLH1-DTX35/DFR module regulates pollen fertility by promoting flavonoid biosynthesis in Capsicum annuum L.</description>
+    </item>
+    <item>
+      <title>CmoAKT1</title>
+      <link>/genes/2024.6.9/cucurbita-moschata/cmoch10g006200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-moschata/cmoch10g006200/</guid>
+      <description>Gene Details: Gene ID: CmoCh10G006200 Gene Symbol: CmoAKT1|2 Gene Name: Genome: Species: Cucurbita moschata Functional Descriptions: CmoNAC1 in pumpkin rootstocks improves salt tolerance of grafted cucumbers by binding to the promoters of CmoRBOHD1, CmoNCED6, CmoAKT1|2|CmoAKT1|2 and CmoHKT1|1 to regulate HCmoAKT1|2OCmoAKT1|2, ABA signaling and K+/Na+ homeostasis.</description>
+    </item>
+    <item>
+      <title>CmoHKT1</title>
+      <link>/genes/2024.6.9/cucurbita-moschata/cmoch10g003830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-moschata/cmoch10g003830/</guid>
+      <description>Gene Details: Gene ID: CmoCh10G003830 Gene Symbol: CmoHKT1|1 Gene Name: Genome: Species: Cucurbita moschata Functional Descriptions: CmoNACCmoHKT1|1 in pumpkin rootstocks improves salt tolerance of grafted cucumbers by binding to the promoters of CmoRBOHDCmoHKT1|1, CmoNCED6, CmoAKTCmoHKT1|1|2 and CmoHKT1|1|CmoHKT1|1 to regulate H2O2, ABA signaling and K+/Na+ homeostasis.</description>
+    </item>
+    <item>
+      <title>CmoNAC1</title>
+      <link>/genes/2024.6.9/cucurbita-moschata/cmocholg014300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-moschata/cmocholg014300/</guid>
+      <description>Gene Details: Gene ID: CmoChOlG014300 Gene Symbol: CmoNAC1 Gene Name: Genome: Species: Cucurbita moschata Functional Descriptions: CmoNAC1 in pumpkin rootstocks improves salt tolerance of grafted cucumbers by binding to the promoters of CmoRBOHD1, CmoNCED6, CmoAKT1|2 and CmoHKT1|1 to regulate H2O2, ABA signaling and K+/Na+ homeostasis.</description>
+    </item>
+    <item>
+      <title>CmoNCED6</title>
+      <link>/genes/2024.6.9/cucurbita-moschata/cmoch16g004950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-moschata/cmoch16g004950/</guid>
+      <description>Gene Details: Gene ID: CmoCh16G004950 Gene Symbol: CmoNCED6 Gene Name: Genome: Species: Cucurbita moschata Functional Descriptions: CmoNAC1 in pumpkin rootstocks improves salt tolerance of grafted cucumbers by binding to the promoters of CmoRBOHD1, CmoNCED6, CmoAKT1|2 and CmoHKT1|1 to regulate H2O2, ABA signaling and K+/Na+ homeostasis.</description>
+    </item>
+    <item>
+      <title>CmoRBOHD1</title>
+      <link>/genes/2024.6.9/cucurbita-moschata/cmoch06g017360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-moschata/cmoch06g017360/</guid>
+      <description>Gene Details: Gene ID: CmoCh06G017360 Gene Symbol: CmoRBOHD1 Gene Name: respiratory burst oxidase homolog D1 Genome: Species: Cucurbita moschata Functional Descriptions: CmoNAC1 in pumpkin rootstocks improves salt tolerance of grafted cucumbers by binding to the promoters of CmoRBOHD1, CmoNCED6, CmoAKT1|2 and CmoHKT1|1 to regulate H2O2, ABA signaling and K+/Na+ homeostasis.</description>
+    </item>
+    <item>
+      <title>CsATAF1</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csa4m361820.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csa4m361820.1/</guid>
+      <description>Gene Details: Gene ID: Csa4M361820.1 Gene Symbol: CsATAF1 Gene Name: Genome: Species: Cucumis sativus Functional Descriptions: CsATAF1 Positively Regulates Drought Stress Tolerance by an ABA-Dependent Pathway and by Promoting ROS Scavenging in Cucumber.</description>
+    </item>
+    <item>
+      <title>CsTM</title>
+      <link>/genes/2024.7.17/cucumis-sativus/csa1g056960/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/cucumis-sativus/csa1g056960/</guid>
+      <description>Gene Details: Gene ID: Csa1G056960 Gene Symbol: CsTM Gene Name: trichome morphology Genome: Species: Cucumis sativus Functional Descriptions: The CsTM alters multicellular trichome morphology and enhances resistance against aphid by interacting with CsTIP1;1 in cucumber.</description>
+    </item>
+    <item>
+      <title>FaGAST2</title>
+      <link>/genes/2024.6.9/fragaria-ananassa/fagast2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fragaria-ananassa/fagast2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FaGAST2 Gene Name: GAST-like gene2 Genome: Species: Fragaria ananassa Functional Descriptions: FaGAST2, a strawberry ripening-related gene, acts together with FaGAST1 to determine cell size of the fruit receptacle.</description>
+    </item>
+    <item>
+      <title>Gh4CL7</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh4cl7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh4cl7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Gh4CL7 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The Gh4CL7-silencing cotton plants showed more sensitive to drought stress, probably due to decreased relative water content (RWC), chlorophyll content and antioxidative enzyme activity, increased stomatal aperture, and the contents of malondialdehyde (MDA) and hydrogen peroxide (H2O2).</description>
+    </item>
+    <item>
+      <title>GhAOC2A</title>
+      <link>/genes/2024.7.17/gossypium-hirsutum/ghir_a08g004050.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/gossypium-hirsutum/ghir_a08g004050.1/</guid>
+      <description>Gene Details: Gene ID: Ghir_A08G004050.1 Gene Symbol: GhAOC2A Gene Name: allene oxide cyclase 2 Genome: Species: Gossypium hirsutum Functional Descriptions: Expression analysis of the GhAOC2 gene in HT-sensitive line (H05) and HT-tolerant line (84021) anthers at TS under NT and HT.</description>
+    </item>
+    <item>
+      <title>GhAOC2D</title>
+      <link>/genes/2024.7.17/gossypium-hirsutum/ghir_d08g004260.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/gossypium-hirsutum/ghir_d08g004260.1/</guid>
+      <description>Gene Details: Gene ID: Ghir_D08G004260.1 Gene Symbol: GhAOC2D Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Expression analysis of the GhAOC2 gene in HT-sensitive line (H05) and HT-tolerant line (84021) anthers at TS under NT and HT.</description>
+    </item>
+    <item>
+      <title>GhAPX1</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghapx1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghapx1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhAPX1 Gene Name: cytosolic ascorbate peroxidase 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Here, a cotton (Gossypium hirsutum) cytosolic APX1 (GhAPX1) was identified to be highly accumulated during cotton fibre elongation by proteomic analysis.</description>
+    </item>
+    <item>
+      <title>GhGST</title>
+      <link>/genes/gossypium_hirsutum/ghgst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghgst/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A09G1509 Gene Symbol: GhGST Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhMKK5</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghmkk5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghmkk5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMKK5 Gene Name: mitogen-activated protein kinase kinase5 Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhMKK5 affects disease resistance, induces HR-like cell death, and reduces the tolerance to salt and drought stress in transgenic Nicotiana benthamiana.</description>
+    </item>
+    <item>
+      <title>GhPAO</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghpao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghpao/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPAO Gene Name: polyamine oxidase Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton polyamine oxidase (GhPAO) is required for spermine and camalexin signalling in the defence response to Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhWRKY17</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghwrky17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghwrky17/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhWRKY17 Gene Name: WRKY transcription factor 17 Genome: Species: Gossypium hirsutum Functional Descriptions: The Cotton WRKY Transcription Factor GhWRKY17 Functions in Drought and Salt Stress in Transgenic Nicotiana benthamiana Through ABA Signaling and the Modulation of Reactive Oxygen Species Production.</description>
+    </item>
+    <item>
+      <title>GmMYB84</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.05g234600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.05g234600/</guid>
+      <description>Gene Details: Gene ID: Glyma.05G234600 Gene Symbol: GmMYB84 Gene Name: R2R3-MYB Transcription Factor 84 Genome: Species: Glycine max Functional Descriptions: Drought Tolerance Conferred in Soybean (Glycine max.</description>
+    </item>
+    <item>
+      <title>GmNTF2B-1</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.08g105100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.08g105100/</guid>
+      <description>Gene Details: Gene ID: Glyma.08G105100 Gene Symbol: GmNTF2B-1 Gene Name: Genome: Species: Glycine max Functional Descriptions: Nuclear transport factor GmNTF2B-1 enhances soybean drought tolerance by interacting with oxidoreductase GmOXR17 to reduce reactive oxygen species content.</description>
+    </item>
+    <item>
+      <title>HvAKT1</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvakt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvakt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvAKT1 Gene Name: Inwardly rectifying K+ channel 1 Genome: Species: Hordeum vulgare Functional Descriptions: Overexpression of HvAKT1 improves drought tolerance in barley by regulating root ion homeostasis and ROS and NO signaling.</description>
+    </item>
+    <item>
+      <title>IbpreproHypSys</title>
+      <link>/genes/2024.6.9/ipomoea-batatas/ibpreprohypsys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/ipomoea-batatas/ibpreprohypsys/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: IbpreproHypSys Gene Name: hydroxyproline-rich preprosystemin Genome: Species: Ipomoea batatas Functional Descriptions: The expression of IbpreproHypSys, encoding the precursor of IbHypSys, was induced in sweet potato (Ipomoea batatas cv.</description>
+    </item>
+    <item>
+      <title>LeCDJ1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lecdj1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lecdj1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeCDJ1 Gene Name: DnaJ protein1 Genome: Species: Solanum lycopersicum Functional Descriptions: The roles of a tomato (Solanum lycopersicum) chloroplast-targeted DnaJ protein (LeCDJ1), whose expression was upregulated by treatment at 4 and 42 °C, and with high light, NaCl, polyethylene glycol, and H2O2, were investigated here using sense and antisense transgenic tomatoes.</description>
+    </item>
+    <item>
+      <title>MdSPDS1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdspds1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdspds1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdSPDS1 Gene Name: spermidine synthase1 Genome: Species: Malus domestica Functional Descriptions: Ectopic expression of MdSPDS1 in sweet orange (Citrus sinensis Osbeck) reduces canker susceptibility: involvement of H2O2 production and transcriptional alteration.</description>
+    </item>
+    <item>
+      <title>MeCAD15</title>
+      <link>/genes/manihot_esculenta/mecad15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/mecad15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: MeCAD15 Gene Name: cinnamyl alcohol dehydrogenase 15 Genome: cassava database of Phytozome v10.</description>
+    </item>
+    <item>
+      <title>MeCatalase1</title>
+      <link>/genes/2024.6.9/manihot-esculenta/me.05g130500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/manihot-esculenta/me.05g130500/</guid>
+      <description>Gene Details: Gene ID: Me.05G130500 Gene Symbol: MeCatalase1 Gene Name: Genome: Species: Manihot esculenta Functional Descriptions: The chaperone MeHSP90 recruits MeWRKY20 and MeCatalase1 to regulate drought stress resistance in cassava.</description>
+    </item>
+    <item>
+      <title>MePOD</title>
+      <link>/genes/manihot_esculenta/mepod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/mepod/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: MePOD Gene Name: Genome: cassava database of Phytozome v10.</description>
+    </item>
+    <item>
+      <title>MeRAV5</title>
+      <link>/genes/2024.6.9/manihot-esculenta/me.06g036900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/manihot-esculenta/me.06g036900/</guid>
+      <description>Gene Details: Gene ID: Me.06G036900 Gene Symbol: MeRAV5 Gene Name: Genome: Species: Manihot esculenta Functional Descriptions: The dual interplay of RAV5 (MeRAV5) in activating nitrate reductases and repressing catalase activity to improve disease resistance in cassava.</description>
+    </item>
+    <item>
+      <title>MeRAV5</title>
+      <link>/genes/manihot_esculenta/merav5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/merav5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Me.06G036900 Gene Symbol: MeRAV5 Gene Name: Genome: cassava database of Phytozome v10.</description>
+    </item>
+    <item>
+      <title>MeWRKY20</title>
+      <link>/genes/2024.6.9/manihot-esculenta/me.15g118300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/manihot-esculenta/me.15g118300/</guid>
+      <description>Gene Details: Gene ID: Me.15G118300 Gene Symbol: MeWRKY20 Gene Name: Genome: Species: Manihot esculenta Functional Descriptions: The chaperone MeHSP90 recruits MeWRKY20 and MeCatalase1 to regulate drought stress resistance in cassava.</description>
+    </item>
+    <item>
+      <title>MtNAC80</title>
+      <link>/genes/2024.7.17/medicago-truncatula/mtnac80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/medicago-truncatula/mtnac80/</guid>
+      <description>Gene Details: Gene ID: Medtr8g094580 Gene Symbol: MtNAC80 Gene Name: NAC domain-containing protein 80 Genome: M.</description>
+    </item>
+    <item>
+      <title>NbALY916</title>
+      <link>/genes/2024.6.9/nicotiana-benthamiana/nbaly916/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-benthamiana/nbaly916/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NbALY916 Gene Name: Genome: Species: Nicotiana benthamiana Functional Descriptions: NbALY916 is involved in potato virus X P25-triggered cell death in Nicotiana benthamiana.</description>
+    </item>
+    <item>
+      <title>PeJAZ2</title>
+      <link>/genes/2024.6.9/populus-euphratica/potri.006g139400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-euphratica/potri.006g139400/</guid>
+      <description>Gene Details: Gene ID: Potri.006G139400 Gene Symbol: PeJAZ2 Gene Name: JASMONATE ZIM-domain protein 2 Genome: Species: Populus euphratica Functional Descriptions: Overexpression of PeJAZ2 in poplar notably increased water deficit tolerance and WUE in both severe and mild drought stress by regulating ABA signaling rather than ABA synthesis.</description>
+    </item>
+    <item>
+      <title>Pm57</title>
+      <link>/genes/triticum_aestivum/pm57/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/pm57/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Pm57 Gene Name: Powdery mildew 57 Genome: Species: Triticum aestivum Functional Descriptions: Pm57 from Aegilops searsii encodes a tandem kinase protein and confers wheat powdery mildew resistance.</description>
+    </item>
+    <item>
+      <title>PuRBOHF</title>
+      <link>/genes/2024.6.9/pyrus-ussuriensis/purbohf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-ussuriensis/purbohf/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuRBOHF Gene Name: respiratory burst oxidase homolog Genome: Species: Pyrus ussuriensis Functional Descriptions: Production of reactive oxygen species by PuRBOHF is critical for stone cell development in pear fruit.</description>
+    </item>
+    <item>
+      <title>PvLOX6</title>
+      <link>/genes/2024.7.17/phaseolus-vulgaris/pvlox6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/phaseolus-vulgaris/pvlox6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PvLOX6 Gene Name: Lipoxygenase 6 Genome: Species: Phaseolus vulgaris Functional Descriptions: Isolated the cDNA of a novel chloroplast-targeted Phaseolus vulgaris LOX, (PvLOX6).</description>
+    </item>
+    <item>
+      <title>RcBROG</title>
+      <link>/genes/2024.7.17/rosa-chinensis/rcbrog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/rosa-chinensis/rcbrog/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: RcBROG Gene Name: Black-spot Resistance Orphan Gene Genome: Species: Rosa chinensis Functional Descriptions: The Marssonina rosae effector MrSEP43 suppresses immunity in rose by targeting the orphan protein RcBROG.</description>
+    </item>
+    <item>
+      <title>ScAREB4</title>
+      <link>/genes/2024.6.9/solanum-tuberosum/soltu.dm.11g016910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-tuberosum/soltu.dm.11g016910/</guid>
+      <description>Gene Details: Gene ID: Soltu.DM.11G016910 Gene Symbol: ScAREB4 Gene Name: ABA-responsive element binding protein 4 Genome: Species: Solanum tuberosum Functional Descriptions: ScAREB4 promotes potato constitutive and acclimated freezing tolerance associated with enhancing trehalose synthesis and oxidative stress tolerance.</description>
+    </item>
+    <item>
+      <title>SlERF52</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slerf52/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slerf52/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlERF52 Gene Name: ETHYLENE-RESPONSIVE FACTOR 52 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlNPR1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slnpr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slnpr1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlNPR1 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: CRISPR/Cas9-Mediated SlNPR1 mutagenesis reduces tomato plant drought tolerance.</description>
+    </item>
+    <item>
+      <title>SlRIP1b</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc12g014230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc12g014230/</guid>
+      <description>Gene Details: Gene ID: Solyc12g014230 Gene Symbol: SlRIP1b Gene Name: RIP/MORF protein Genome: Species: Solanum lycopersicum Functional Descriptions: SlRIP1b is a global organellar RNA editing factor, required for normal fruit development in tomato plants.</description>
+    </item>
+    <item>
+      <title>SlWRKY30</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g009550/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g009550/</guid>
+      <description>Gene Details: Gene ID: Solyc10g009550 Gene Symbol: SlWRKY30 Gene Name: III SlWRKY TF 30 Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY30 and SlWRKY81 synergistically modulate tomato immunity to Ralstonia solanacearum by directly regulating SlPR-STH2.</description>
+    </item>
+    <item>
+      <title>TaAQP8</title>
+      <link>/genes/triticum_aestivum/taaqp8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taaqp8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaAQP8 Gene Name: aquaporin 8 Genome: Species: Triticum aestivum Functional Descriptions: Overexpression of a Wheat Aquaporin Gene, TaAQP8, Enhances Salt Stress Tolerance in Transgenic Tobacco.</description>
+    </item>
+    <item>
+      <title>TaCZSOD2-7A</title>
+      <link>/genes/triticum_aestivum/traescs7a02g292100.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7a02g292100.1/</guid>
+      <description>Gene Details: Gene ID: TraesCs7A02G292100.1 Gene Symbol: TaCZSOD2-7A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCZSOD2-7B</title>
+      <link>/genes/triticum_aestivum/traescs7b02g197300.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7b02g197300.1/</guid>
+      <description>Gene Details: Gene ID: TraesCs7B02G197300.1 Gene Symbol: TaCZSOD2-7B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCZSOD2-7D</title>
+      <link>/genes/triticum_aestivum/traescs7d02g290700.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7d02g290700.1/</guid>
+      <description>Gene Details: Gene ID: TraesCs7D02G290700.1 Gene Symbol: TaCZSOD2-7D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaMPK6</title>
+      <link>/genes/triticum_aestivum/tampk6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tampk6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaMPK6 Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: The Wheat Mitogen-Activated Protein Kinases TaMPK3 and TaMPK6 Are Differentially Regulated at Multiple Levels during Compatible Disease Interactions with Mycosphaerella graminicola.</description>
+    </item>
+    <item>
+      <title>VvMLO3</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmlo3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmlo3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMLO3 Gene Name: mildew resistance Locus O 3 Genome: Species: Vitis vinifera Functional Descriptions: CRISPR/Cas9-mediated mutagenesis of VvMLO3 results in enhanced resistance to powdery mildew in grapevine.</description>
+    </item>
+    <item>
+      <title>ZmCCaMK</title>
+      <link>/genes/zea_mays/zm00001eb200350/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb200350/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb200350 Gene Symbol: ZmCCaMK Gene Name: calmodulin dependent protein kinase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmDHN13</title>
+      <link>/genes/zea_mays/zm00001eb052790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb052790/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb052790 Gene Symbol: ZmDHN13 Gene Name: dehydrin 13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMPK7</title>
+      <link>/genes/zea_mays/zm00001eb232260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb232260/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb232260 Gene Symbol: ZmMPK7|ZmMPK14 Gene Name: MAP kinase14 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPAO</title>
+      <link>/genes/zea_mays/zmpao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpao/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZmPAO Gene Name: polyamine oxidase Genome: Species: Zea mays Functional Descriptions: Maize (Zea mays) PAO (ZmPAO) is a developmentally regulated flavoprotein abundant in primary and secondary cell walls of several tissues.</description>
+    </item>
+  </channel>
+</rss>

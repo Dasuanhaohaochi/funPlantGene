@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>internode length on funPlantGenes</title>
+    <link>/tags/internode-length/</link>
+    <description>Recent content in internode length on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/internode-length/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CYP94C2b</title>
+      <link>/genes/oryza_sativa/loc_os12g05440/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os12g05440/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g05440 RAPdb gene ID: Os12g0150200 Gene Symbol: CYP94C2b Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>D3</title>
+      <link>/genes/oryza_sativa/loc_os06g06050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g06050/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g06050 RAPdb gene ID: Os06g0154200 Gene Symbol: D3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>GhPRF1</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghprf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghprf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPRF1 Gene Name: Gossypium profilin 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Domestication-driven Gossypium profilin 1 (GhPRF1) gene transduces early flowering phenotype in tobacco by spatial alteration of apical/floral-meristem related gene expression.</description>
+    </item>
+    <item>
+      <title>GmAP1a</title>
+      <link>/genes/glycine_max/gmap1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmap1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.16G091300 Gene Symbol: GmAP1a Gene Name: APETALA1 Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: APETALA1 (AP1) functions as a class A gene in the ABCE model for floral organ development, helping to specify carpel, stamen, petal, and sepal identities.</description>
+    </item>
+    <item>
+      <title>GmAP1b</title>
+      <link>/genes/glycine_max/gmap1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmap1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.08G269800 Gene Symbol: GmAP1b Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: APETALA1 (AP1) functions as a class A gene in the ABCE model for floral organ development, helping to specify carpel, stamen, petal, and sepal identities.</description>
+    </item>
+    <item>
+      <title>GmAP1c</title>
+      <link>/genes/glycine_max/gmap1c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmap1c/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.01G064200 Gene Symbol: GmAP1c Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: APETALA1 (AP1) functions as a class A gene in the ABCE model for floral organ development, helping to specify carpel, stamen, petal, and sepal identities.</description>
+    </item>
+    <item>
+      <title>GmAP1d</title>
+      <link>/genes/glycine_max/gmap1d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmap1d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.02G121600 Gene Symbol: GmAP1d Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: APETALA1 (AP1) functions as a class A gene in the ABCE model for floral organ development, helping to specify carpel, stamen, petal, and sepal identities.</description>
+    </item>
+    <item>
+      <title>GmHY2a;Gmlin1</title>
+      <link>/genes/glycine_max/gmhy2agmlin1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmhy2agmlin1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.02G304700 Gene Symbol: GmHY2a Gmlin1 Gene Name: Glycine max long internode 1 Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: Mutation of GmHY2a results in failure of the de-etiolation response under both red and far-red light.</description>
+    </item>
+    <item>
+      <title>GmMYB14</title>
+      <link>/genes/glycine_max/gmmyb14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmmyb14/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.19g164600 Gene Symbol: GmMYB14 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: GmMYB14-OX plants showed reduced endogenous BR contents, while exogenous application of brassinolide could partly rescue the phenotype of GmMYB14-OX plants.</description>
+    </item>
+    <item>
+      <title>OsbZIP49</title>
+      <link>/genes/oryza_sativa/loc_os06g41100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g41100/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g41100 RAPdb gene ID: Os06g0614100 Gene Symbol: OsbZIP49 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCOLE1</title>
+      <link>/genes/oryza_sativa/loc_os05g45280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g45280/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g45280 RAPdb gene ID: Os05g0529000 Gene Symbol: OsCOLE1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsmiR535</title>
+      <link>/genes/oryza_sativa/osmir535/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/osmir535/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: None Gene Symbol: OsmiR535 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PttEXPA1</title>
+      <link>/genes/2024.6.9/populus-tremula-x-populus-tremuloides/pttexpa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-tremula-x-populus-tremuloides/pttexpa1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PttEXPA1 Gene Name: alpha-expansin 1 Genome: Species: Populus tremula x Populus tremuloides Functional Descriptions: Ectopic expression of a wood-abundant expansin PttEXPA1 promotes cell expansion in primary and secondary tissues in aspen.</description>
+    </item>
+    <item>
+      <title>PvWOX3a</title>
+      <link>/genes/2024.6.9/panicum-virgatum/pavir.8kg017200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/panicum-virgatum/pavir.8kg017200/</guid>
+      <description>Gene Details: Gene ID: Pavir.8KG017200 Gene Symbol: PvWOX3a Gene Name: WUSCHEL-related homeobox transcription factor Genome: Species: Panicum virgatum Functional Descriptions: Overexpression of PvWOX3a in switchgrass promotes stem development and increases plant height.</description>
+    </item>
+    <item>
+      <title>RIN1</title>
+      <link>/genes/glycine_max/rin1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/rin1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.12G224600.1 Gene Symbol: RIN1 Gene Name: reduced internode 1 Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: Soybean reduced internode 1 (RIN1) determines internode length and improves grain yield at dense planting.</description>
+    </item>
+    <item>
+      <title>SlRR6</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g048600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g048600/</guid>
+      <description>Gene Details: Gene ID: Solyc06g048600 Gene Symbol: SlRR6 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Cytokinin-inducible response regulator SlRR6 controls plant height through gibberellin and auxin pathways in tomato.</description>
+    </item>
+    <item>
+      <title>SlSAUR58</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g053260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g053260/</guid>
+      <description>Gene Details: Gene ID: Solyc06g053260 Gene Symbol: SlSAUR58 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlSAUR58-overexpressing plants were dwarf with decreased internode length.</description>
+    </item>
+    <item>
+      <title>TOE4b</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.13g329700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.13g329700/</guid>
+      <description>Gene Details: Gene ID: Glyma.13G329700 Gene Symbol: TOE4b Gene Name: The AP2/ERF transcription factor Genome: Wm82.</description>
+    </item>
+    <item>
+      <title>TOE4b</title>
+      <link>/genes/glycine_max/toe4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/toe4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.13G329700 Gene Symbol: TOE4b Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: This new transcription factor, which we named TOE4b, is localized in the nucleus.</description>
+    </item>
+    <item>
+      <title>ZmAMP1_grmm</title>
+      <link>/genes/zea_mays/zmamp1_grmm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmamp1_grmm/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb060210 Gene Symbol: ZmAMP1_grmm Gene Name: LBD-transcription factor 13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAMP1;vp8</title>
+      <link>/genes/zea_mays/zmamp1vp8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmamp1vp8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb060200 Gene Symbol: ZmAMP1 vp8 Gene Name: viviparous8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBELL10;hb38</title>
+      <link>/genes/zea_mays/zmbell10hb38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmbell10hb38/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb268690 Gene Symbol: ZmBELL10 hb38 Gene Name: Homeobox-transcription factor 38 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmD1;ZmCYP90D1</title>
+      <link>/genes/zea_mays/zmd1zmcyp90d1cyp45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmd1zmcyp90d1cyp45/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb120890 Gene Symbol: ZmD1 ZmCYP90D1 cyp45 Gene Name: cytochrome P450 45 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLBD18</title>
+      <link>/genes/zea_mays/zm00001eb123060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb123060/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb123060 Gene Symbol: ZmLBD18|ra2 Gene Name: ramosa2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

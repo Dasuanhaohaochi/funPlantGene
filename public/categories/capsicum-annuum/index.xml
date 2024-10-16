@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capsicum annuum on funPlantGenes</title>
+    <link>/categories/capsicum-annuum/</link>
+    <description>Recent content in Capsicum annuum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/capsicum-annuum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CaADIK1</title>
+      <link>/genes/capsicum_annuum/caadik1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/caadik1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CaADIK1 Gene Name: Genome: Species: Capsicum annuum Functional Description: CaADIP1-dependent CaADIK1-kinase activation is required for abscisic acid signalling and drought stress response in Capsicum annuum.</description>
+    </item>
+    <item>
+      <title>CaADIK1;CaMEKK22</title>
+      <link>/genes/capsicum_annuum/caadik1camekk22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/caadik1camekk22/</guid>
+      <description>Gene Details: Gene ID:&#x9;CA07g11530 Gene Symbol: CaADIK1;CaMEKK22 Gene Name: Capsicum annuum ADIP1 Interacting MAP3 Kinase 1 Genome: Pepper.</description>
+    </item>
+    <item>
+      <title>CaADIP1</title>
+      <link>/genes/capsicum_annuum/caadip1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/caadip1/</guid>
+      <description>Gene Details: Gene ID:&#x9;CA03g35550 Gene Symbol: CaADIP1 Gene Name: Genome: Species: Capsicum annuum Functional Description: The Pepper RING-Type E3 Ligase CaAIRF1 Regulates ABA and Drought Signaling via CaADIP1 Protein Phosphatase Degradation.</description>
+    </item>
+    <item>
+      <title>CaAGL8</title>
+      <link>/genes/2024.7.17/capsicum-annuum/caagl8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/capsicum-annuum/caagl8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaAGL8 Gene Name: Agamous-like MADS-box protein AGL8-like protein Genome: Species: Capsicum annuum Functional Descriptions: MADS-box protein AGL8 interacts with chromatin-remodelling component SWC4 to activate thermotolerance and environment-dependent immunity in pepper.</description>
+    </item>
+    <item>
+      <title>CaAIL1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca12g04370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca12g04370/</guid>
+      <description>Gene Details: Gene ID: Ca12g04370 Gene Symbol: CaAIL1 Gene Name: AP2 transcription factor 1 Genome: Species: Capsicum annuum Functional Descriptions: CaAIL1 Acts Positively in Pepper Immunity against Ralstonia solanacearum by Repressing Negative Regulators.</description>
+    </item>
+    <item>
+      <title>CaAIPP1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/caaipp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/caaipp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaAIPP1 Gene Name: protein phosphatase 2C 37 Genome: Species: Capsicum annuum Functional Descriptions: Functional analysis of the pepper protein phosphatase, CaAIPP1, and its interacting partner CaAIRF1: Modulation of ABA signalling and the drought stress response.</description>
+    </item>
+    <item>
+      <title>CaAIRE1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca05g17640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca05g17640/</guid>
+      <description>Gene Details: Gene ID: CA05g17640 Gene Symbol: CaAIRE1 Gene Name: ABA Induced RING-type E3 ligase 1 Genome: Species: Capsicum annuum Functional Descriptions: Pepper E3 ligase CaAIRE1 promotes ABA sensitivity and drought tolerance by degradation of protein phosphatase CaAITP1.</description>
+    </item>
+    <item>
+      <title>CaAIRF1</title>
+      <link>/genes/capsicum_annuum/caairf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/caairf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;CA01g23600 Gene Symbol: CaAIRF1 Gene Name: Capsicum annuum ADIP1 Interacting RING Finger Protein 1 Genome: Pepper Genome Database version 1.</description>
+    </item>
+    <item>
+      <title>CaARF9</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana00g000236/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana00g000236/</guid>
+      <description>Gene Details: Gene ID: Capana00g000236 Gene Symbol: CaARF9 Gene Name: Genome: Species: Capsicum annuum Functional Descriptions: Demonstrate that an auxin response factor, CaARF9, has dual roles in enhancing the immune resistance to Ralstonia solanacearum infection and in retarding plant growth by repressing the expression of its target genes as exemplified by Casmc4, CaLBD37, CaAPK1b and CaRROP1.</description>
+    </item>
+    <item>
+      <title>CaASR1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/caasr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/caasr1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaASR1 Gene Name: Genome: Species: Capsicum annuum Functional Descriptions: CaASR1 promotes salicylic acid- but represses jasmonic acid-dependent signaling to enhance the resistance of Capsicum annuum to bacterial wilt by modulating CabZIP63.</description>
+    </item>
+    <item>
+      <title>CaATL1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/caatl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/caatl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaATL1 Gene Name: AT-hook-Like gene 1 Genome: Species: Capsicum annuum Functional Descriptions: The chili pepper CaATL1: an AT-hook motif-containing transcription factor implicated in defence responses against pathogens.</description>
+    </item>
+    <item>
+      <title>CabHLH1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana01g000256/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana01g000256/</guid>
+      <description>Gene Details: Gene ID: Capana01g000256 Gene Symbol: CabHLH1 Gene Name: Genome: Species: Capsicum annuum Functional Descriptions: The CabHLH1-DTX35/DFR module regulates pollen fertility by promoting flavonoid biosynthesis in Capsicum annuum L.</description>
+    </item>
+    <item>
+      <title>CaBLIND</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cablind/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cablind/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaBLIND|CaBL Gene Name: BLIND Genome: Species: Capsicum annuum Functional Descriptions: CaBLIND|CaBL regulates axillary meristem initiation and transition to flowering in pepper.</description>
+    </item>
+    <item>
+      <title>CabZIP63</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca01g21080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca01g21080/</guid>
+      <description>Gene Details: Gene ID: CA01g21080 Gene Symbol: CabZIP63 Gene Name: Genome: Species: Capsicum annuum Functional Descriptions: Pepper CabZIP63 acts as a positive regulator during Ralstonia solanacearum or high temperature–high humidity challenge in a positive feedback loop with CaWRKY40.</description>
+    </item>
+    <item>
+      <title>CaC3H14</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cac3h14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cac3h14/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaC3H14 Gene Name: zinc finger CCCH domain-containing protein 14 Genome: Species: Capsicum annuum Functional Descriptions: CaC3H14 encoding a tandem CCCH zinc finger protein is directly targeted by CaWRKY40 and positively regulates the response of pepper to inoculation by Ralstonia solanacearum.</description>
+    </item>
+    <item>
+      <title>CaCAF1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cacaf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cacaf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaCAF1 Gene Name: CCR4-associated factor Genome: Species: Capsicum annuum Functional Descriptions: Capsicum annuum CCR4-associated factor CaCAF1 is necessary for plant development and defence response.</description>
+    </item>
+    <item>
+      <title>CaCDPK29</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cacdpk29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cacdpk29/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaCDPK29 Gene Name: calcium-dependent protein kinase 29 Genome: Species: Capsicum annuum Functional Descriptions: A CaCDPK29–CaWRKY27b module promotes CaWRKY40-mediated thermotolerance and immunity to Ralstonia solanacearum in pepper.</description>
+    </item>
+    <item>
+      <title>CaCIPK13</title>
+      <link>/genes/capsicum_annuum/cacipk13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/cacipk13/</guid>
+      <description>Gene Details: Gene ID:&#x9;CA05g16710 Gene Symbol: CaCIPK13 Gene Name: Capsicum annuum CBL-interacting protein kinases Genome: Pepper.</description>
+    </item>
+    <item>
+      <title>CaCIPK3</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca01g29520/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca01g29520/</guid>
+      <description>Gene Details: Gene ID: CA01g29520 Gene Symbol: CaCIPK3 Gene Name: CBL-interacting protein kinase 3 Genome: Species: Capsicum annuum Functional Descriptions: The CaCIPK3 gene positively regulates drought tolerance in pepper.</description>
+    </item>
+    <item>
+      <title>CaCKR5</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca02g17820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca02g17820/</guid>
+      <description>Gene Details: Gene ID: CA02g17820 Gene Symbol: CaCKR5 Gene Name: cysteine-rich receptor-like protein kinase Genome: cultivar CM334 genome Species: Capsicum annuum Functional Descriptions: A cysteine-rich receptor-like protein kinase CaCKR5 modulates immune response against Ralstonia solanacearum infection in pepper.</description>
+    </item>
+    <item>
+      <title>CaERF28</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana02g000700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana02g000700/</guid>
+      <description>Gene Details: Gene ID: Capana02g000700 Gene Symbol: CaERF28 Gene Name: ethylene-responsive factor 28 Genome: Species: Capsicum annuum Functional Descriptions: A single transcript CRISPR/Cas9 mediated mutagenesis of CaERF28 confers anthracnose resistance in chilli pepper.</description>
+    </item>
+    <item>
+      <title>CaERF3</title>
+      <link>/genes/2024.6.9/capsicum-annuum/caerf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/caerf3/</guid>
+      <description>Gene Details: Gene ID: T459_19920 Gene Symbol: CaERF3 Gene Name: Ethylene-responsive transcription factor 3 Genome: Species: Capsicum annuum Functional Descriptions: Herein, we showed that immunity against R.</description>
+    </item>
+    <item>
+      <title>CaFAF1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca06g22610/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca06g22610/</guid>
+      <description>Gene Details: Gene ID: CA06g22610 Gene Symbol: CaFAF1 Gene Name: C.</description>
+    </item>
+    <item>
+      <title>CaFFN</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca02g14540/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca02g14540/</guid>
+      <description>Gene Details: Gene ID: CA02g14540 Gene Symbol: CaFFN Gene Name: APETALA2 (AP2) homolog Genome: Species: Capsicum annuum Functional Descriptions: The APETALA2 homolog CaFFN regulates flowering time in pepper.</description>
+    </item>
+    <item>
+      <title>CaFIRF1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca02g30250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca02g30250/</guid>
+      <description>Gene Details: Gene ID: CA02g30250 Gene Symbol: CaFIRF1 Gene Name: FAF1 Interacting RING Finger protein 1 Genome: Species: Capsicum annuum Functional Descriptions: A pepper RING-finger E3 ligase, CaFIRF1, negatively regulates the high-salt stress response by modulating the stability of CaFAF1.</description>
+    </item>
+    <item>
+      <title>CaHAT1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca01g05840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca01g05840/</guid>
+      <description>Gene Details: Gene ID: CA01g05840 Gene Symbol: CaHAT1 Gene Name: homeobox ABA signalling related- transcription factor 1 Genome: Solanaceae Genomics Network (http://solgenomics.</description>
+    </item>
+    <item>
+      <title>CaHDZ15</title>
+      <link>/genes/2024.6.9/cahdz15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cahdz15/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaHDZ15 Gene Name: HD-Zip I TF 15 Genome: Species: Capsicum annuum Functional Descriptions: Transcription factor CaHDZ15 promotes pepper basal thermotolerance by activating HEAT SHOCK FACTORA6a.</description>
+    </item>
+    <item>
+      <title>CaHMA1</title>
+      <link>/genes/capsicum_annuum/cahma1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/cahma1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Capana02g003033 Gene Symbol: CaHMA1 Gene Name: Genome: Species: Capsicum annuum Functional Description: CaHMA1 promotes Cd accumulation in pepper fruit.</description>
+    </item>
+    <item>
+      <title>CaHsfA2</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cahsfa2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cahsfa2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaHsfA2 Gene Name: heat stress transcription factor A2 Genome: Species: Capsicum annuum Functional Descriptions: CaHsfA2 was located in the nucleus and had transcriptional activity, consistent with the typical features of Hsfs.</description>
+    </item>
+    <item>
+      <title>CaHsfB2a</title>
+      <link>/genes/capsicum_annuum/cahsfb2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/cahsfb2a/</guid>
+      <description>Gene Details: Gene ID:&#x9;CA03g16300 Gene Symbol: CaHsfB2a Gene Name: Genome: Pepper.</description>
+    </item>
+    <item>
+      <title>CaHY5</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca03g10440/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca03g10440/</guid>
+      <description>Gene Details: Gene ID: CA03g10440 ; apana08g000273 Gene Symbol: CaHY5 Gene Name: hypocotyl5 Genome: Species: Capsicum annuum Functional Descriptions: Red light induces salicylic acid accumulation by activating CaHY5 to enhance pepper resistance against Phytophthora capsici.</description>
+    </item>
+    <item>
+      <title>CaJOINTLESS</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cajointless/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cajointless/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaJOINTLESS Gene Name: Cajointless Genome: Species: Capsicum annuum Functional Descriptions: CaJOINTLESS is a MADS-box gene involved in suppression of vegetative growth in all shoot meristems in pepper.</description>
+    </item>
+    <item>
+      <title>CaLecRK-S.5</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca04g04250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca04g04250/</guid>
+      <description>Gene Details: Gene ID: CA04g04250 Gene Symbol: CaLecRK-S.5 Gene Name: lectin receptor kinase Genome: Species: Capsicum annuum Functional Descriptions: CaLecRK-S.</description>
+    </item>
+    <item>
+      <title>CaLOX2</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana03g000103/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana03g000103/</guid>
+      <description>Gene Details: Gene ID: Capana03g000103 Gene Symbol: CaLOX2 Gene Name: lipoxygenase 2 Genome: Species: Capsicum annuum Functional Descriptions: Involvement of sweet pepper CaLOX2 in jasmonate-dependent induced defence against Western flower thrips.</description>
+    </item>
+    <item>
+      <title>CaLRR-RLK1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/calrr-rlk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/calrr-rlk1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaLRR-RLK1 Gene Name: Genome: Species: Capsicum annuum Functional Descriptions: CaLRR-RLK1, a novel RD receptor-like kinase from Capsicum annuum and transcriptionally activated by CaHDZ27, act as positive regulator in Ralstonia solanacearum resistance.</description>
+    </item>
+    <item>
+      <title>CaMLO1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana08g000221/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana08g000221/</guid>
+      <description>Gene Details: Gene ID: Capana08g000221 Gene Symbol: CaMLO1 Gene Name: mildew resistance locus O 1 Genome: Genome assembly Pepper Zunla 1 Ref_v1.</description>
+    </item>
+    <item>
+      <title>CaMYB12-like</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca05g18430/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca05g18430/</guid>
+      <description>Gene Details: Gene ID: Ca05g18430 Gene Symbol: CaMYB12-like Gene Name: Genome: Species: Capsicum annuum Functional Descriptions: CaMYB12-like underlies a major QTL for flavonoid content in pepper (Capsicum annuum) fruit.</description>
+    </item>
+    <item>
+      <title>CaMYB31</title>
+      <link>/genes/2024.7.17/capsicum-annuum/camyb31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/capsicum-annuum/camyb31/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaMYB31 Gene Name: MYB transcription factor Cap1 Genome: Species: Capsicum annuum Functional Descriptions: Natural variations in the MYB transcription factor MYB31 determine the evolution of extremely pungent peppers.</description>
+    </item>
+    <item>
+      <title>CaMYB340</title>
+      <link>/genes/capsicum_annuum/camyb340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/camyb340/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CaMYB340 Gene Name: Genome: Species: Capsicum annuum Functional Description: Transient CaMYB340 silencing increased FA desaturation and lowered electrolyte leakage, enhancing cold tolerance in CaMYB340 knockdown fruits.</description>
+    </item>
+    <item>
+      <title>CaMYB48</title>
+      <link>/genes/capsicum_annuum/camyb48/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/camyb48/</guid>
+      <description>Gene Details: Gene ID:&#x9;CA11g12490 Gene Symbol: CaMYB48 Gene Name: Genome: Pepper.</description>
+    </item>
+    <item>
+      <title>CaNAC1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/canac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/canac1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaNAC1 Gene Name: NAC domain protein 1 Genome: Species: Capsicum annuum Functional Descriptions: Transcription factor CaNAC1 regulates low-temperature-induced phospholipid degradation in green bell pepper.</description>
+    </item>
+    <item>
+      <title>CaNAC2c</title>
+      <link>/genes/capsicum_annuum/canac2c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/canac2c/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CaNAC2c Gene Name: Genome: Pepper.</description>
+    </item>
+    <item>
+      <title>Capana10g000198</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana10g000198/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana10g000198/</guid>
+      <description>Gene Details: Gene ID: Capana10g000198 Gene Symbol: Capana10g000198 Gene Name: R2R3-MYB transcription factor Genome: Species: Capsicum annuum Functional Descriptions: Gene expression and structure variation analyses indicate the Capana10g000198, encoding a R2R3-MYB transcription factor, is the best candidate gene for the msc-3 locus.</description>
+    </item>
+    <item>
+      <title>CaPIF1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capif1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capif1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaPIF1 Gene Name: Pathogen-Induced Factor 1 Genome: Species: Capsicum annuum Functional Descriptions: A plant EPF-type zinc-finger protein, CaPIF1, involved in defence against pathogens.</description>
+    </item>
+    <item>
+      <title>CaPMEI1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capmei1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capmei1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaPMEI1 Gene Name: pectin methlyesterase inhibitor protein 1 Genome: Species: Capsicum annuum Functional Descriptions: Pepper pectin methylesterase inhibitor protein CaPMEI1 is required for antifungal activity, basal disease resistance and abiotic stress tolerance.</description>
+    </item>
+    <item>
+      <title>CaPti1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capti1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capti1/</guid>
+      <description>Gene Details: Gene ID: PHT85140 Gene Symbol: CaPti1 Gene Name: PTI1-like tyrosine-protein kinase 3 Genome: Species: Capsicum annuum Functional Descriptions: Herein, we showed that immunity against R.</description>
+    </item>
+    <item>
+      <title>CaPUB21</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana08g000105/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana08g000105/</guid>
+      <description>Gene Details: Gene ID: Capana08g000105 Gene Symbol: CaPUB21 Gene Name: U-box domain-containing protein 21 Genome: Species: Capsicum annuum Functional Descriptions: CaPUB21 acted positively in immunity at 28 °C but negatively at 37 °C.</description>
+    </item>
+    <item>
+      <title>CaRLP1</title>
+      <link>/genes/capsicum_annuum/carlp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/carlp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;CA08g08290 Gene Symbol: CaRLP1 Gene Name: Capsicum annuum RCAR-Like Protein 1 Genome: Species: Capsicum annuum Functional Description: CaADIP1 and its interacting partner CaRLP1 antagonistically regulate the ABA-dependent defense signalling response to drought stress.</description>
+    </item>
+    <item>
+      <title>CaSAP14</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca10g19590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca10g19590/</guid>
+      <description>Gene Details: Gene ID: CA10g19590 Gene Symbol: CaSAP14 Gene Name: Pepper stress-associated protein 14 Genome: Species: Capsicum annuum Functional Descriptions: Pepper stress-associated protein 14 (CaSAP14) is a substrate of CaSnRK2.</description>
+    </item>
+    <item>
+      <title>CaSnRK2.6</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca08g17680/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca08g17680/</guid>
+      <description>Gene Details: Gene ID: CA08g17680 Gene Symbol: CaSnRK2.6 Gene Name: SNF1-related kinase 2.</description>
+    </item>
+    <item>
+      <title>CaSRP1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/casrp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/casrp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaSRP1 Gene Name: stress-related protein 1 Genome: Species: Capsicum annuum Functional Descriptions: Constitutive expression of CaSRP1, a hot pepper small rubber particle protein homolog, resulted in fast growth and improved drought tolerance in transgenic Arabidopsis plants.</description>
+    </item>
+    <item>
+      <title>CaSWC4</title>
+      <link>/genes/2024.7.17/capsicum-annuum/caswc4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/capsicum-annuum/caswc4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaSWC4 Gene Name: SWR1-complex protein 4 Genome: Species: Capsicum annuum Functional Descriptions: CaSWC4 regulates the immunity-thermotolerance tradeoff by recruiting CabZIP63/CaWRKY40 to target genes and activating chromatin in pepper.</description>
+    </item>
+    <item>
+      <title>CaUBP12</title>
+      <link>/genes/capsicum_annuum/caubp12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/caubp12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CaUBP12 Gene Name: Capsicum annuum ubiquitin-specific protease 12 Genome: Species: Capsicum annuum Functional Description: CaUBP12 positively modulates ABA signaling and dehydration tolerance, mainly by suppressing CaSnRK2.</description>
+    </item>
+    <item>
+      <title>CaWDP1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cawdp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cawdp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaWDP1 Gene Name: WPP Domain Protein 1 Genome: Species: Capsicum annuum Functional Descriptions: The Pepper WPP Domain Protein, CaWDP1, Acts as a Novel Negative Regulator of Drought Stress via ABA Signaling.</description>
+    </item>
+    <item>
+      <title>CaWRKY1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cawrky1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cawrky1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaWRKY1 Gene Name: WRKY transcription factor1 Genome: Species: Capsicum annuum Functional Descriptions: Capsicum annuum WRKY protein CaWRKY1 is a negative regulator of pathogen defense.</description>
+    </item>
+    <item>
+      <title>CaWRKY27b</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca03g20260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca03g20260/</guid>
+      <description>Gene Details: Gene ID: CA03g20260 Gene Symbol: CaWRKY27b Gene Name: Genome: Species: Capsicum annuum Functional Descriptions: A CaCDPK29–CaWRKY27b module promotes CaWRKY40-mediated thermotolerance and immunity to Ralstonia solanacearum in pepper.</description>
+    </item>
+    <item>
+      <title>CaWRKY40</title>
+      <link>/genes/capsicum_annuum/cawrky40/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/cawrky40/</guid>
+      <description>Gene Details: Gene ID:&#x9;CA00g87690 Gene Symbol: CaWRKY40 Gene Name: WRKY family transcription factor44 Genome: Species: Capsicum annuum Functional Description: A conserved double-W box in the promoter of CaWRKY40 mediates autoregulation during response to pathogen attack and heat stress in pepper.</description>
+    </item>
+    <item>
+      <title>CaWRKY6</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cawrky6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cawrky6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaWRKY6 Gene Name: WRKY transcription factor 6 Genome: Species: Capsicum annuum Functional Descriptions: CaWRKY6 transcriptionally activates CaWRKY40, regulates Ralstonia solanacearum resistance, and confers high-temperature and high-humidity tolerance in pepper.</description>
+    </item>
+    <item>
+      <title>DFR</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana02g002763/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana02g002763/</guid>
+      <description>Gene Details: Gene ID: Capana02g002763 Gene Symbol: DFR Gene Name: dihydroflavonol 4-reductase Genome: Species: Capsicum annuum Functional Descriptions: The bHLH1-DTX35/DFR module regulates pollen fertility by promoting flavonoid biosynthesis in Capsicum annuum L.</description>
+    </item>
+    <item>
+      <title>DIVARICATA1</title>
+      <link>/genes/capsicum_annuum/divaricata1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/divaricata1/</guid>
+      <description>Gene Details: Gene ID:&#x9;CA12g06700 Gene Symbol: DIVARICATA1 Gene Name: Genome: Pepper Genome Database version 1.</description>
+    </item>
+    <item>
+      <title>DTX35</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana03g002183/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana03g002183/</guid>
+      <description>Gene Details: Gene ID: Capana03g002183 Gene Symbol: DTX35 Gene Name: Genome: Species: Capsicum annuum Functional Descriptions: The CabHLH1-DTX35/DFR module regulates pollen fertility by promoting flavonoid biosynthesis in Capsicum annuum L.</description>
+    </item>
+    <item>
+      <title>GPAT</title>
+      <link>/genes/2024.6.9/capsicum-annuum/gpat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/gpat/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GPAT Gene Name: glycerol-3-phosphate acyltransferase Genome: Species: Capsicum annuum Functional Descriptions: Overexpression of Sweet Pepper Glycerol-3-Phosphate Acyltransferase Gene Enhanced Thermotolerance of Photosynthetic Apparatus in Transgenic Tobacco.</description>
+    </item>
+    <item>
+      <title>MYB31</title>
+      <link>/genes/capsicum_annuum/myb31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/myb31/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: MYB31 Gene Name: Genome: Species: Capsicum annuum Functional Description: The Capsicum MYB31 regulates capsaicinoid biosynthesis in the pepper pericarp.</description>
+    </item>
+    <item>
+      <title>OVATE</title>
+      <link>/genes/capsicum_annuum/ovate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/ovate/</guid>
+      <description>Gene Details: Gene ID:&#x9;Caz10g08850 Gene Symbol: OVATE Gene Name: Genome: Species: Capsicum annuum Functional Description: OVATE dentified to be highly associated with fruit shape and has been under selection in different types of C.</description>
+    </item>
+  </channel>
+</rss>

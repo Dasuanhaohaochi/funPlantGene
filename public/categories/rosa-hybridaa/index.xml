@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rosa hybridaa on funPlantGenes</title>
+    <link>/categories/rosa-hybridaa/</link>
+    <description>Recent content in Rosa hybridaa on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/rosa-hybridaa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rh-PIP2</title>
+      <link>/genes/2024.6.9/rosa-hybridaa/rh-pip2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/rosa-hybridaa/rh-pip2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Rh-PIP2|1 Gene Name: plasma membrane aquaporin Genome: Species: Rosa hybridaa Functional Descriptions: Rh-PIP2|1|Rh-PIP2|1, a Rose Aquaporin Gene, Is Involved in Ethylene-Regulated Petal Expansion.</description>
+    </item>
+    <item>
+      <title>RhERF1</title>
+      <link>/genes/2024.6.9/rosa-hybridaa/rherf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/rosa-hybridaa/rherf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: RhERF1 Gene Name: ethylene response factor 1 Genome: Species: Rosa hybridaa Functional Descriptions: Rosa hybridaaa RhERF1 and RhERF4 mediate ethylene- and auxin-regulated petal abscission by influencing pectin degradation.</description>
+    </item>
+    <item>
+      <title>RhERF113</title>
+      <link>/genes/2024.6.9/rosa-hybridaa/rherf113/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/rosa-hybridaa/rherf113/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: RhERF113 Gene Name: cultivar cultivar Samantha ERF113 Genome: Species: Rosa hybridaa Functional Descriptions: RhERF113 Functions in Ethylene-Induced Petal Senescence by Modulating Cytokinin Content in Rose.</description>
+    </item>
+    <item>
+      <title>RhERF4</title>
+      <link>/genes/2024.6.9/rosa-hybridaa/rherf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/rosa-hybridaa/rherf4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: RhERF4 Gene Name: ethylene response factor 4 Genome: Species: Rosa hybridaa Functional Descriptions: Rosa hybridaaa RhERF1 and RhERF4 mediate ethylene- and auxin-regulated petal abscission by influencing pectin degradation.</description>
+    </item>
+  </channel>
+</rss>

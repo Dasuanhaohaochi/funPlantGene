@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GA deactivation on funPlantGenes</title>
+    <link>/tags/ga-deactivation/</link>
+    <description>Recent content in GA deactivation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ga-deactivation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsMADS57</title>
+      <link>/genes/oryza_sativa/loc_os02g49840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g49840/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g49840 RAPdb gene ID: Os02g0731200 Gene Symbol: OsMADS57 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMCA1;PAD</title>
+      <link>/genes/oryza_sativa/loc_os03g06120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g06120/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g06120 RAPdb gene ID: Os03g0157300 Gene Symbol: OsMCA1 PAD OsDMT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Rht12</title>
+      <link>/genes/triticum_aestivum/rht12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/rht12/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5A02G543100 Gene Symbol: Rht12 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+  </channel>
+</rss>

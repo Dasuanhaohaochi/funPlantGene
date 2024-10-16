@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stomatal complex on funPlantGenes</title>
+    <link>/tags/stomatal-complex/</link>
+    <description>Recent content in stomatal complex on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/stomatal-complex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G30420</title>
+      <link>/genes/arabidopsis_thaliana/at2g30420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g30420/</guid>
+      <description>Gene Details: Gene ID: AT2G30420 Gene Symbol: ETC2 Gene Name: ENHANCER OF TRY AND CPC 2 Description: Homeodomain-like superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G30420.</description>
+    </item>
+    <item>
+      <title>AT2G39450</title>
+      <link>/genes/arabidopsis_thaliana/at2g39450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g39450/</guid>
+      <description>Gene Details: Gene ID: AT2G39450 Gene Symbol: ATMTP11, MTP11 Gene Name: Description: Cation efflux family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G39450.</description>
+    </item>
+    <item>
+      <title>AT3G26744</title>
+      <link>/genes/arabidopsis_thaliana/at3g26744/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g26744/</guid>
+      <description>Gene Details: Gene ID: AT3G26744 Gene Symbol: ATICE1, ICE1, SCREAM, SCRM Gene Name: A.</description>
+    </item>
+    <item>
+      <title>AT5G11300</title>
+      <link>/genes/arabidopsis_thaliana/at5g11300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g11300/</guid>
+      <description>Gene Details: Gene ID: AT5G11300 Gene Symbol: CYC2BAT, CYC3B, CYCA2;2 Gene Name: mitotic-like cyclin 3B from Arabidopsis, CYCLIN A2;2 Description: mitotic-like cyclin 3B from Arabidopsi;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G11300.</description>
+    </item>
+  </channel>
+</rss>

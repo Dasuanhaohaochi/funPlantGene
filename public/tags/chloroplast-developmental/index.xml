@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chloroplast developmental on funPlantGenes</title>
+    <link>/tags/chloroplast-developmental/</link>
+    <description>Recent content in chloroplast developmental on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/chloroplast-developmental/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASL2</title>
+      <link>/genes/oryza_sativa/loc_os02g15900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g15900/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g15900 RAPdb gene ID: Os02g0259600 Gene Symbol: ASL2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>NbBTF3</title>
+      <link>/genes/2024.6.9/nicotiana-benthamiana/nbbtf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-benthamiana/nbbtf3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NbBTF3 Gene Name: basic transcription factor 3 Genome: Species: Nicotiana benthamiana Functional Descriptions: Silencing of NbBTF3 results in developmental defects and disturbed gene expression in chloroplasts and mitochondria of higher plants.</description>
+    </item>
+    <item>
+      <title>WSP1</title>
+      <link>/genes/oryza_sativa/loc_os04g51280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g51280/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g51280 RAPdb gene ID: Os04g0601800 Gene Symbol: WSP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

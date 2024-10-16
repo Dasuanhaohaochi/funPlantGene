@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>leaf sinus on funPlantGenes</title>
+    <link>/tags/leaf-sinus/</link>
+    <description>Recent content in leaf sinus on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/leaf-sinus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT5G06250</title>
+      <link>/genes/arabidopsis_thaliana/at5g06250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g06250/</guid>
+      <description>Gene Details: Gene ID: AT5G06250 Gene Symbol: DPA4, NGAL3 Gene Name: DEVELOPMENT-RELATED PcG TARGET IN THE APEX 4, NGATHA-like protein 3 Description: AP2/B3-like transcriptional factor family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G06250.</description>
+    </item>
+  </channel>
+</rss>

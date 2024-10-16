@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seed coat epidermis on funPlantGenes</title>
+    <link>/tags/seed-coat-epidermis/</link>
+    <description>Recent content in seed coat epidermis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/seed-coat-epidermis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT4G28370</title>
+      <link>/genes/arabidopsis_thaliana/at4g28370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g28370/</guid>
+      <description>Gene Details: Gene ID: AT4G28370 Gene Symbol: FLY1 Gene Name: FLYING SAUCER 1 Description: RING/U-box superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G28370.</description>
+    </item>
+    <item>
+      <title>AT5G09870</title>
+      <link>/genes/arabidopsis_thaliana/at5g09870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g09870/</guid>
+      <description>Gene Details: Gene ID: AT5G09870 Gene Symbol: CESA5, MUM3 Gene Name: cellulose synthase 5, MUCILAGE-MODIFIED 3 Description: cellulose synthase 5;(source:Araport11) TAIR Accession: locus:2178193 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G09870.</description>
+    </item>
+  </channel>
+</rss>

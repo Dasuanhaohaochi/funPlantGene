@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fe efficiency on funPlantGenes</title>
+    <link>/tags/fe-efficiency/</link>
+    <description>Recent content in fe efficiency on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/fe-efficiency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AhFRDL1</title>
+      <link>/genes/2024.6.9/arachis-hypogaea/ahfrdl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/arachis-hypogaea/ahfrdl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: AhFRDL1 Gene Name: Genome: Species: Arachis hypogaea Functional Descriptions: AhFRDL1-mediated citrate secretion contributes to adaptation to iron deficiency and aluminum stress in peanuts.</description>
+    </item>
+    <item>
+      <title>MtCIPK12</title>
+      <link>/genes/2024.6.9/medicago-truncatula/medtr8g086380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/medtr8g086380/</guid>
+      <description>Gene Details: Gene ID: Medtr8g086380 Gene Symbol: MtCIPK12 Gene Name: Genome: Species: Medicago truncatula Functional Descriptions: Protein kinase MtCIPK12 modulates iron reduction in Medicago truncatula by regulating riboflavin biosynthesis.</description>
+    </item>
+    <item>
+      <title>OsHORZ1</title>
+      <link>/genes/oryza_sativa/loc_os01g64250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g64250/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g64250 RAPdb gene ID: Os01g0861700 Gene Symbol: OsHORZ1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmFDR4</title>
+      <link>/genes/zea_mays/zmfdr4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmfdr4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZmFDR4 Gene Name: Fe deficiency-related 4 Genome: Species: Zea mays Functional Descriptions: Zea mays Fe deficiency-related 4 (ZmFDR4) functions as an iron transporter in the plastids of monocots.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juglans regia on funPlantGenes</title>
+    <link>/categories/juglans-regia/</link>
+    <description>Recent content in Juglans regia on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/juglans-regia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JrGRAS2</title>
+      <link>/genes/2024.6.9/juglans-regia/jrgras2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/juglans-regia/jrgras2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: JrGRAS2 Gene Name: GRAS TF 2 Genome: Species: Juglans regia Functional Descriptions: JrGRAS2 improves plant HT tolerance involving in HSP expression.</description>
+    </item>
+    <item>
+      <title>JrLAC12–1</title>
+      <link>/genes/2024.6.9/juglans-regia/jrlac121/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/juglans-regia/jrlac121/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: JrLAC12–1 Gene Name: laccase-12-like Genome: Species: Juglans regia Functional Descriptions: JrLAC12–1, JrLAC12–2 and JrLAC16 showed a significant change in expression at the lignification stage.</description>
+    </item>
+    <item>
+      <title>JrPPO1</title>
+      <link>/genes/2024.6.9/juglans-regia/jrppo1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/juglans-regia/jrppo1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: JrPPO1 Gene Name: Genome: Species: Juglans regia Functional Descriptions: JrPPO1 was highly expressed in stems, young leaves, mature leaves, catkins, pistils, and hulls.</description>
+    </item>
+    <item>
+      <title>JrPPO2</title>
+      <link>/genes/2024.6.9/juglans-regia/jrppo2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/juglans-regia/jrppo2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: JrPPO2 Gene Name: Genome: Species: Juglans regia Functional Descriptions: JrPPO2 was highly expressed in mature leaves and pistils.</description>
+    </item>
+    <item>
+      <title>JrVHAG1</title>
+      <link>/genes/2024.6.9/juglans-regia/jrvhag1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/juglans-regia/jrvhag1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: JrVHAG1 Gene Name: vacuolar H+-ATPase G 1 Genome: Species: Juglans regia Functional Descriptions: JrVHAG1 is involved in plant abiotic strss response.</description>
+    </item>
+    <item>
+      <title>JrWRKY21</title>
+      <link>/genes/juglans_regia/jrwrky21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/juglans_regia/jrwrky21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: JrWRKY21 Gene Name: Genome: Juglans regia reference genome Walnut 2.</description>
+    </item>
+  </channel>
+</rss>

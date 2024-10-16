@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stigma length on funPlantGenes</title>
+    <link>/tags/stigma-length/</link>
+    <description>Recent content in stigma length on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/stigma-length/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsGT45</title>
+      <link>/genes/2024.6.9/crocus-sativus/csgt45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/crocus-sativus/csgt45/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsGT45 Gene Name: flavonoid glucosyltransferase Genome: Species: Crocus sativus Functional Descriptions: Using degenerate primers designed to match the plant secondary product glucosyltransferase (PSPG) box we cloned a full length cDNA encoding CsGT45 from C.</description>
+    </item>
+    <item>
+      <title>OsMADS72;qSTL3</title>
+      <link>/genes/oryza_sativa/loc_os03g14850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g14850/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g14850 RAPdb gene ID: None Gene Symbol: OsMADS72 qSTL3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theanine on funPlantGenes</title>
+    <link>/tags/theanine/</link>
+    <description>Recent content in theanine on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/theanine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsAlaDC</title>
+      <link>/genes/2024.6.9/camellia-sinensis/csaladc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/csaladc/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsAlaDC Gene Name: Alanine decarboxylase Genome: Species: Camellia sinensis Functional Descriptions: Comparing to CsAlaDC, its ancestral enzyme CsSDC exhibited a higher specific activity and a better thermal and pH stability, indicating that CsSDC acquired the optimized function after a longer evolutionary period.</description>
+    </item>
+    <item>
+      <title>CsGGT2</title>
+      <link>/genes/2024.6.9/camellia-sinensis/csggt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/csggt2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsGGT2 Gene Name: γ-glutamyl-transpeptidase Genome: Species: Camellia sinensis Functional Descriptions: γ-Glutamyl-transpeptidase CsGGT2 functions as light-activated theanine hydrolase in tea plant.</description>
+    </item>
+    <item>
+      <title>CsMYB73</title>
+      <link>/genes/2024.6.9/camellia-sinensis/tea014193.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/tea014193.1/</guid>
+      <description>Gene Details: Gene ID: TEA014193.1 Gene Symbol: CsMYB73 Gene Name: R2R3-MYB transcription factor 73 Genome: Species: Camellia sinensis Functional Descriptions: CsMYB73 negatively regulates theanine accumulation mediated by CsGGT2 and CsGGT4 in tea shoots.</description>
+    </item>
+    <item>
+      <title>CsWRKY40</title>
+      <link>/genes/2024.6.9/camellia-sinensis/css004414/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/css004414/</guid>
+      <description>Gene Details: Gene ID: CSS004414 Gene Symbol: CsWRKY40 Gene Name: WRKY transcription factor 40 Genome: Species: Camellia sinensis Functional Descriptions: Transcription factor CsWRKY40 regulates L-theanine hydrolysis by activating the CsPDX2.</description>
+    </item>
+  </channel>
+</rss>

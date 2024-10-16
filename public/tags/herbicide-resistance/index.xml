@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>herbicide resistance on funPlantGenes</title>
+    <link>/tags/herbicide-resistance/</link>
+    <description>Recent content in herbicide resistance on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/herbicide-resistance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HIS1</title>
+      <link>/genes/oryza_sativa/loc_os02g17940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g17940/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g17940 RAPdb gene ID: Os02g0280700 Gene Symbol: HIS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Kn1</title>
+      <link>/genes/zea_mays/kn1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/kn1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb055920 Gene Symbol: Kn1 Gene Name: Knotted1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>OsACCase</title>
+      <link>/genes/oryza_sativa/loc_os05g22940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g22940/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g22940 RAPdb gene ID: Os05g0295300 Gene Symbol: OsACCase Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCCA1;Nhd1</title>
+      <link>/genes/oryza_sativa/loc_os08g06110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g06110/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g06110 RAPdb gene ID: Os08g0157600 Gene Symbol: OsCCA1 Nhd1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsHPPD</title>
+      <link>/genes/oryza_sativa/loc_os02g07160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g07160/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g07160 RAPdb gene ID: Os02g0168100 Gene Symbol: OsHPPD Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPPO1</title>
+      <link>/genes/oryza_sativa/loc_os01g18320/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g18320/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g18320 RAPdb gene ID: Os01g0286600 Gene Symbol: OsPPO1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTIR1</title>
+      <link>/genes/oryza_sativa/loc_os05g05800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g05800/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g05800 RAPdb gene ID: Os05g0150500 Gene Symbol: OsTIR1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TID1;SRS5</title>
+      <link>/genes/oryza_sativa/loc_os11g14220/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g14220/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g14220 RAPdb gene ID: Os11g0247300 Gene Symbol: TID1 SRS5 OsTubA2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

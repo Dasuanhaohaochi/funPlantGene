@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nutritional quality on funPlantGenes</title>
+    <link>/tags/nutritional-quality/</link>
+    <description>Recent content in nutritional quality on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/nutritional-quality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BnC09.TT8b</title>
+      <link>/genes/brassica_napus/bnc09.tt8b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnc09.tt8b/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaC09g24870D Gene Symbol: BnC09.TT8b Gene Name: Genome: reference genome Darmor-bzh Species: Brassica napus Functional Descriptions: The simultaneous targeted mutation of BnA09.</description>
+    </item>
+    <item>
+      <title>CaABCC3(6)</title>
+      <link>/genes/2024.7.17/cicer-arietinum/ca_09705/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/cicer-arietinum/ca_09705/</guid>
+      <description>Gene Details: Gene ID: Ca_09705 Gene Symbol: CaABCC3(6) Gene Name: ABC transporter 3 Genome: Cicer_arietinum_GA_v1.</description>
+    </item>
+    <item>
+      <title>GW2;OsGW2</title>
+      <link>/genes/oryza_sativa/loc_os02g14720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g14720/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g14720 RAPdb gene ID: Os02g0244100 Gene Symbol: GW2 OsGW2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>LsWRKY70</title>
+      <link>/genes/2024.6.9/lactuca-sativa/lswrky70/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lactuca-sativa/lswrky70/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LsWRKY70 Gene Name: Genome: Species: Lactuca sativa Functional Descriptions: GA signaling protein LsRGL1 interacts with the abscisic acid signaling-related gene LsWRKY70 to affect the bolting of leaf lettuce.</description>
+    </item>
+    <item>
+      <title>O7</title>
+      <link>/genes/zea_mays/zm00001eb434030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb434030/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb434030 Gene Symbol: O7|opaque7 Gene Name: opaque endosperm7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>OCD1;ZmOCD1</title>
+      <link>/genes/zea_mays/ocd1zmocd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/ocd1zmocd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb336870 Gene Symbol: OCD1 ZmOCD1 Gene Name: oxalyl-CoA decarboxylase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>OsAAP6;qPC1</title>
+      <link>/genes/oryza_sativa/loc_os01g65670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g65670/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g65670 RAPdb gene ID: Os01g0878700 Gene Symbol: OsAAP6 qPC1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTPR</title>
+      <link>/genes/oryza_sativa/loc_os02g50799/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g50799/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g50799 RAPdb gene ID: Os02g0741500 Gene Symbol: OsTPR Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlEIL2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g009170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g009170/</guid>
+      <description>Gene Details: Gene ID: Solyc01g009170 Gene Symbol: SlEIL2 Gene Name: ETHYLENE-INSENSITIVE 3-LIKE 2 Genome: Species: Solanum lycopersicum Functional Descriptions: ETHYLENE-INSENSITIVE 3-LIKE 2 (SlEIL2) regulates β-carotene and ascorbic acid accumulation in tomatoes during ripening.</description>
+    </item>
+    <item>
+      <title>SlMYB75</title>
+      <link>/genes/solanum_lycopersicum/slmyb75/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb75/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g086250 Gene Symbol: SlMYB75 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>ZmAAP6;aaap55</title>
+      <link>/genes/zea_mays/zmaap6aaap55/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmaap6aaap55/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb366300 Gene Symbol: ZmAAP6 aaap55 Gene Name: amino acid/auxin permease55 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCGT1;cgt2</title>
+      <link>/genes/zea_mays/zmcgt1cgt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmcgt1cgt2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb280950 Gene Symbol: ZmCGT1 cgt2 Gene Name: C-glucosyl transferase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ovule on funPlantGenes</title>
+    <link>/tags/ovule/</link>
+    <description>Recent content in ovule on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ovule/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFO1;OsMADS32</title>
+      <link>/genes/oryza_sativa/loc_os01g52680/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g52680/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g52680 RAPdb gene ID: Os01g0726400 Gene Symbol: CFO1 OsMADS32 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>CsSPL</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csa3m850670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csa3m850670/</guid>
+      <description>Gene Details: Gene ID: Csa3M850670 Gene Symbol: CsSPL Gene Name: SPOROCYTELESS Genome: Species: Cucumis sativus Functional Descriptions: CsSPL functions as an adaptor between HD-ZIP III and CsWUS transcription factors regulating anther and ovule development in cucumber.</description>
+    </item>
+    <item>
+      <title>CsWUS</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csa6m505860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csa6m505860/</guid>
+      <description>Gene Details: Gene ID: Csa6M505860 Gene Symbol: CsWUS Gene Name: WUSCHEL Genome: Species: Cucumis sativus Functional Descriptions: CsSPL functions as an adaptor between HD-ZIP III and CsWUS transcription factors regulating anther and ovule development in cucumber.</description>
+    </item>
+    <item>
+      <title>DELLA1</title>
+      <link>/genes/vitis_vinifera/della1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/della1/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_211s0016g04630 Gene Symbol: DELLA1 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>GhBLH1_3</title>
+      <link>/genes/gossypium_hirsutum/ghblh1_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghblh1_3/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_59721 Gene Symbol: GhBLH1_3 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhBLH1_4</title>
+      <link>/genes/gossypium_hirsutum/ghblh1_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghblh1_4/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_48024 Gene Symbol: GhBLH1_4 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhSWEET12</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gorai.005g195100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gorai.005g195100/</guid>
+      <description>Gene Details: Gene ID: Gorai.005G195100 Gene Symbol: GhSWEET12 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: RNA-seq and protein−DNA binding assays revealed that GhMYB212 was closely linked to the pathways of sucrose and starch transportation and metabolism, directly controling the expression of a sucrose transporter gene GhSWEET12.</description>
+    </item>
+    <item>
+      <title>GhVIN1</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghvin1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghvin1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhVIN1 Gene Name: vacuolar invertase1 Genome: Species: Gossypium hirsutum Functional Descriptions: Silencing the vacuolar invertase gene GhVIN1 blocks cotton fiber initiation from the ovule epidermis, probably by suppressing a cohort of regulatory genes via sugar signaling.</description>
+    </item>
+    <item>
+      <title>GhWRKY16</title>
+      <link>/genes/gossypium_hirsutum/ghwrky16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghwrky16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G0175 Gene Symbol: GhWRKY16 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: Our data demonstrate that GhWRKY16 plays a crucial role in fiber initiation and elongation, and that GhWRKY16 phosphorylation by GhMPK3-1 is essential for the transcriptional activation on downstream genes during the fiber development of cotton.</description>
+    </item>
+    <item>
+      <title>GhWRKY16-A</title>
+      <link>/genes/gossypium_hirsutum/ghwrky16-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghwrky16-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A06G0179 Gene Symbol: GhWRKY16-A Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhWRKY16-D</title>
+      <link>/genes/gossypium_hirsutum/ghwrky16-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghwrky16-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G0175 Gene Symbol: GhWRKY16-D Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>INO</title>
+      <link>/genes/vitis_vinifera/ino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/ino/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_201s0127g00330 Gene Symbol: INO Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>OsIG1</title>
+      <link>/genes/oryza_sativa/loc_os01g66590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g66590/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g66590 RAPdb gene ID: Os01g0889400 Gene Symbol: OsIG1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsLG3b;OsMADS1</title>
+      <link>/genes/oryza_sativa/loc_os03g11614/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g11614/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g11614 RAPdb gene ID: Os03g0215400 Gene Symbol: OsLG3b OsMADS1 LHS1 AFO Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMADS13</title>
+      <link>/genes/oryza_sativa/loc_os12g10540/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os12g10540/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g10540 RAPdb gene ID: Os12g0207000 Gene Symbol: OsMADS13 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OSMADS3</title>
+      <link>/genes/oryza_sativa/loc_os01g10504/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g10504/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g10504 RAPdb gene ID: Os01g0201700 Gene Symbol: OSMADS3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OSMADS58</title>
+      <link>/genes/oryza_sativa/loc_os05g11414/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g11414/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g11414 RAPdb gene ID: Os05g0203800 Gene Symbol: OSMADS58 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>P450 CYP78A5</title>
+      <link>/genes/vitis_vinifera/p450-cyp78a5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/p450-cyp78a5/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_215s0021g01625 Gene Symbol: P450 CYP78A5 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>PbCysp1</title>
+      <link>/genes/2024.6.9/pyrus-bretschneideri/pbcysp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-bretschneideri/pbcysp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PbCysp1 Gene Name: ENESCENCE-ASSOCIATED CYSTEINE PROTEINASE 1 Genome: Species: Pyrus bretschneideri Functional Descriptions: PbEIL1 acts upstream of PbCysp1 to regulate ovule senescence in seedless pear.</description>
+    </item>
+    <item>
+      <title>PbEIL1</title>
+      <link>/genes/2024.6.9/pyrus-bretschneideri/pbeil1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-bretschneideri/pbeil1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PbEIL1 Gene Name: ethylene-insensitive 3-like Genome: Species: Pyrus bretschneideri Functional Descriptions: PbEIL1 acts upstream of PbCysp1 to regulate ovule senescence in seedless pear.</description>
+    </item>
+    <item>
+      <title>PeDL2</title>
+      <link>/genes/2024.6.9/phalaenopsis-equestris/pedl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phalaenopsis-equestris/pedl2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PeDL2 Gene Name: Genome: Species: Phalaenopsis equestris Functional Descriptions: Virus-induced gene silencing (VIGS) of PeDL1 and PeDL2 affected the number of protuberant ovule initials differentiated from the placenta.</description>
+    </item>
+    <item>
+      <title>PgBEL1</title>
+      <link>/genes/punica_granatum/pgbel1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/punica_granatum/pgbel1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Pg029909.1 Gene Symbol: PgBEL1 Gene Name: Genome: Species: Punica granatum Functional Description: We report the function of PgCRC and PgINO in ovule and seed development and show that PgCRC and PgINO interact with PgBEL1.</description>
+    </item>
+    <item>
+      <title>PgCRC</title>
+      <link>/genes/punica_granatum/pgcrc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/punica_granatum/pgcrc/</guid>
+      <description>Gene Details: Gene ID:&#x9;Pg016200.1 Gene Symbol: PgCRC Gene Name: Genome: Species: Punica granatum Functional Description: We report the function of PgCRC and PgINO in ovule and seed development and show that PgCRC and PgINO interact with PgBEL1.</description>
+    </item>
+    <item>
+      <title>PgINO</title>
+      <link>/genes/punica_granatum/pgino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/punica_granatum/pgino/</guid>
+      <description>Gene Details: Gene ID:&#x9;Pg016102.1 Gene Symbol: PgINO Gene Name: Genome: Species: Punica granatum Functional Description: We report the function of PgCRC and PgINO in ovule and seed development and show that PgCRC and PgINO interact with PgBEL1.</description>
+    </item>
+    <item>
+      <title>ScFRK2</title>
+      <link>/genes/2024.6.9/solanum-chacoense/scfrk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-chacoense/scfrk2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ScFRK2 Gene Name: Fertilization-related kinase 2 Genome: Species: Solanum chacoense Functional Descriptions: The ScFRK2 MAP kinase kinase kinase from Solanum chacoense affects pollen development and viability.</description>
+    </item>
+    <item>
+      <title>ScRALF3</title>
+      <link>/genes/2024.6.9/solanum-chacoense/scralf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-chacoense/scralf3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ScRALF3 Gene Name: rapid alkalinization factor 3 Genome: Species: Solanum chacoense Functional Descriptions: ScRALF3, a secreted RALF-like peptide involved in cell–cell communication between the sporophyte and the female gametophyte in a solanaceous species.</description>
+    </item>
+    <item>
+      <title>Sl-IAA27</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sl-iaa27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sl-iaa27/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Sl-IAA27 Gene Name: Aux/IAA transcription factor27 Genome: Species: Solanum lycopersicum Functional Descriptions: Phenotypes Associated with Down-Regulation of Sl-IAA27 Support Functional Diversity Among Aux/IAA Family Members in Tomato.</description>
+    </item>
+    <item>
+      <title>SlANT2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc04g077490/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc04g077490/</guid>
+      <description>Gene Details: Gene ID: Solyc04g077490 Gene Symbol: SlANT2 Gene Name: ANT homolog2 Genome: Species: Solanum lycopersicum Functional Descriptions: S.</description>
+    </item>
+    <item>
+      <title>SlCRCa</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slcrca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slcrca/</guid>
+      <description>Gene Details: Gene ID: Solyc01g010240 Gene Symbol: SlCRCa Gene Name: CRABS CLAW (CRC) homologue Genome: Species: Solanum lycopersicum Functional Descriptions: SlCRCa is a key D-class gene controlling ovule fate determination in tomato.</description>
+    </item>
+    <item>
+      <title>SlHB15A</title>
+      <link>/genes/solanum_lycopersicum/slhb15a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slhb15a/</guid>
+      <description>Gene Details: Gene ID:&#x9;SolyC03g120910 Gene Symbol: SlHB15A Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYB21</title>
+      <link>/genes/solanum_lycopersicum/slmyb21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g067760 Gene Symbol: SlMYB21 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>TaAGO1b</title>
+      <link>/genes/triticum_aestivum/taago1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taago1b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaAGO1b Gene Name: Argonaute1 Genome: Species: Triticum aestivum Functional Descriptions: Two putative wheat Argonaute genes, TaAGO1b and TaAGO4, were cloned.</description>
+    </item>
+    <item>
+      <title>TaAGO4</title>
+      <link>/genes/triticum_aestivum/taago4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taago4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaAGO4 Gene Name: Argonaute4 Genome: Species: Triticum aestivum Functional Descriptions: Two putative wheat Argonaute genes, TaAGO1b and TaAGO4, were cloned.</description>
+    </item>
+    <item>
+      <title>VviINO</title>
+      <link>/genes/vitis_vinifera/vviino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vviino/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_201s0127g00330 Gene Symbol: VviINO Gene Name: Vitis vinifera INNER NO OUTER Genome: Vitis vinifera genome 12X V2 Species: Vitis vinifera Functional Descriptions: We conclusively demonstrated that the grapevine orthologue VviINO retains similar protein targets and activity in the grape as in Arabidopsis, since it could fully restore the outer integument growth in Arabidopsis ino-1 mutant.</description>
+    </item>
+    <item>
+      <title>VvMADS28</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmads28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmads28/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMADS28 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: In this study, we demonstrate an essential role for the grapevine MADS-box gene VvMADS28 in morphogenesis of the ovule.</description>
+    </item>
+    <item>
+      <title>WUSCHEL</title>
+      <link>/genes/vitis_vinifera/wuschel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/wuschel/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_217s0000g02460 Gene Symbol: WUSCHEL Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>Zm.ov1;H2B</title>
+      <link>/genes/zea_mays/zm.ov1h2bhis2b5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm.ov1h2bhis2b5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb188570 Gene Symbol: Zm.ov1 H2B his2b5 Gene Name: histone 2B5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Zm.ov5;H2A</title>
+      <link>/genes/zea_mays/zm.ov5h2ahis2a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm.ov5h2ahis2a1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb397500 Gene Symbol: Zm.ov5 H2A his2a1 Gene Name: histone2A1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

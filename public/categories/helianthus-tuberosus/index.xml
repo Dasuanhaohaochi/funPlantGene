@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helianthus tuberosus on funPlantGenes</title>
+    <link>/categories/helianthus-tuberosus/</link>
+    <description>Recent content in Helianthus tuberosus on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/helianthus-tuberosus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HtMYB2</title>
+      <link>/genes/2024.6.9/helianthus-tuberosus/unigene44371_all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/helianthus-tuberosus/unigene44371_all/</guid>
+      <description>Gene Details: Gene ID: Unigene44371_All Gene Symbol: HtMYB2 Gene Name: Genome: Species: Helianthus tuberosus Functional Descriptions: HtMYB2 (Unigene44371_All) was the only MYB transcription factor, homologous to the MYB transcription factor regulating anthocyanin biosynthesis, expressed in the red tuber epidermis of ‘QY1’.</description>
+    </item>
+  </channel>
+</rss>

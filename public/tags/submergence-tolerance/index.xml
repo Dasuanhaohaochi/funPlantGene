@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>submergence tolerance on funPlantGenes</title>
+    <link>/tags/submergence-tolerance/</link>
+    <description>Recent content in submergence tolerance on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/submergence-tolerance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BnERF2.4</title>
+      <link>/genes/2024.7.17/brassica-napus/bnerf2.4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/brassica-napus/bnerf2.4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BnERF2.4 Gene Name: Ethylene response factor BnERF2-like Genome: Species: Brassica napus Functional Descriptions: Ethylene response factor BnERF2-like (ERF2.</description>
+    </item>
+    <item>
+      <title>GID1;OsGID1</title>
+      <link>/genes/oryza_sativa/loc_os05g33730/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g33730/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g33730 RAPdb gene ID: Os05g0407500 Gene Symbol: GID1 OsGID1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsEREBP1</title>
+      <link>/genes/oryza_sativa/loc_os02g54160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g54160/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g54160 RAPdb gene ID: Os02g0782700 Gene Symbol: OsEREBP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsETOL1</title>
+      <link>/genes/oryza_sativa/loc_os03g18360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g18360/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g18360 RAPdb gene ID: Os03g0294700 Gene Symbol: OsETOL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsHSD1;LGF1</title>
+      <link>/genes/oryza_sativa/loc_os11g30560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g30560/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g30560 RAPdb gene ID: Os11g0499600 Gene Symbol: OsHSD1 LGF1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsUGT75A</title>
+      <link>/genes/oryza_sativa/loc_os11g25990/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g25990/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g25990 RAPdb gene ID: Os11g0446700 Gene Symbol: OsUGT75A Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Sub1A</title>
+      <link>/genes/oryza_sativa/sub1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/sub1a/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: None Gene Symbol: Sub1A Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Sub1B</title>
+      <link>/genes/oryza_sativa/loc_os09g11480/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g11480/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g11480 RAPdb gene ID: Os09g0287000 Gene Symbol: Sub1B Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmEREB180;ZmERF4</title>
+      <link>/genes/zea_mays/zmereb180zmerf4ereb180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmereb180zmerf4ereb180/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb006180 Gene Symbol: ZmEREB180 ZmERF4 ereb180 Gene Name: AP2-EREBP-transcription factor 180 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

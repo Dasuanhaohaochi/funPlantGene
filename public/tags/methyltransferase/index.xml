@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>methyltransferase on funPlantGenes</title>
+    <link>/tags/methyltransferase/</link>
+    <description>Recent content in methyltransferase on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/methyltransferase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BrEBM3</title>
+      <link>/genes/2024.6.9/brassica-rapa/braa04g017190.3c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/braa04g017190.3c/</guid>
+      <description>Gene Details: Gene ID: BraA04g017190.3C Gene Symbol: BrEBM3 Gene Name: Genome: B.</description>
+    </item>
+    <item>
+      <title>Bx10b;Bx11</title>
+      <link>/genes/zea_mays/bx10bbx11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/bx10bbx11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb018640 Gene Symbol: Bx10b Bx11 Gene Name: benzoxazinone synthesis11 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>CcOMT1</title>
+      <link>/genes/2024.7.17/citrus-clementina/czg_jg17822/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/citrus-clementina/czg_jg17822/</guid>
+      <description>Gene Details: Gene ID: CZG_jg17822 Gene Symbol: CcOMT1 Gene Name: O-methyltransferase Genome: Species: Citrus reticulata Functional Descriptions: Using multi-omics resources, we discover a putative caffeic acid O-methyltransferase (CcOMT1) that can transfer a methyl group to the 3-hydroxyl of natsudaidain to form 3,5,6,7,8,3’,4’-heptamethoxyflavone (HPMF).</description>
+    </item>
+    <item>
+      <title>COMT;OsCOMT</title>
+      <link>/genes/oryza_sativa/loc_os08g06100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g06100/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g06100 RAPdb gene ID: Os08g0157500 Gene Symbol: COMT OsCOMT OsCAldOMT1 ROMT9 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>CsCAD</title>
+      <link>/genes/citrus_sinensis/cscad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_sinensis/cscad/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cs1g20590 Gene Symbol: CsCAD Gene Name: Genome: Species: Citrus sinensis Functional Descriptions: The transcript levels of lignin biosynthetic genes, namely, hydroxycinnamoyl transferase (CsHCT, CAP ID: Cs1g14450), cinnamyl alcohol dehydrogenase (CsCAD, CAP ID: Cs1g20590) and caffeoyl-CoA O-methyltransferase (CsCCoAOMT, CAP ID: Cs4g13430), were elevated in the leaves of the transgenic lines after mock inoculation and Xcc infection.</description>
+    </item>
+    <item>
+      <title>CsCCoAOMT</title>
+      <link>/genes/citrus_sinensis/csccoaomt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_sinensis/csccoaomt/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cs4g13430 Gene Symbol: CsCCoAOMT Gene Name: Genome: Species: Citrus sinensis Functional Descriptions: The transcript levels of lignin biosynthetic genes, namely, hydroxycinnamoyl transferase (CsHCT, CAP ID: Cs1g14450), cinnamyl alcohol dehydrogenase (CsCAD, CAP ID: Cs1g20590) and caffeoyl-CoA O-methyltransferase (CsCCoAOMT, CAP ID: Cs4g13430), were elevated in the leaves of the transgenic lines after mock inoculation and Xcc infection.</description>
+    </item>
+    <item>
+      <title>CsCCoAOMT1</title>
+      <link>/genes/2024.7.17/citrus-sinensis/cs8g05410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/citrus-sinensis/cs8g05410/</guid>
+      <description>Gene Details: Gene ID: Cs8g05410 Gene Symbol: CsCCoAOMT1 Gene Name: caffeoyl-CoA O-methyltransferase 1 Genome: Citrus sinensis reference genome Species: Citrus sinensis Functional Descriptions: A multifunctional true caffeoyl coenzyme A O-methyltransferase (CsCCoAOMT1) enzyme participates in the biosynthesis of polymethoxylated flavones in citrus.</description>
+    </item>
+    <item>
+      <title>CsHCT</title>
+      <link>/genes/citrus_sinensis/cshct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_sinensis/cshct/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cs1g14450 Gene Symbol: CsHCT Gene Name: Genome: Reference genome of sweet orange Species: Citrus sinensis Functional Descriptions: CsHCT,lignin biosynthetic genes, namely, hydroxycinnamoyl transferase.</description>
+    </item>
+    <item>
+      <title>FaOMT</title>
+      <link>/genes/2024.7.17/vitis-vinifera/faomt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/faomt/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FaOMT Gene Name: O-methyltransferase Genome: Species: Vitis vinifera Functional Descriptions: It is methylated further by FaOMT (Fragaria×ananassa O-methyltransferase) to 2,5-dimethyl-4-methoxy-3(2H)-furanone (DMMF) during the ripening process.</description>
+    </item>
+    <item>
+      <title>FtCOMT1</title>
+      <link>/genes/2024.7.17/fagopyrum-tataricum/ftping0009454400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/fagopyrum-tataricum/ftping0009454400/</guid>
+      <description>Gene Details: Gene ID: FtPinG0009454400 Gene Symbol: FtCOMT1 Gene Name: caffeoyl-CoA OMT1 Genome: Pinku1 reference genome Species: Fagopyrum tataricum Functional Descriptions: Genome-wide association studies identified robust associations between FtCOMT1 and the accumulation of S lignin in seed hull.</description>
+    </item>
+    <item>
+      <title>GhOMT1</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_a01g2052/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_a01g2052/</guid>
+      <description>Gene Details: Gene ID: GH_A01G2052 Gene Symbol: GhOMT1 Gene Name: flavonoid O-methyltransferase 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Function deficiency of GhOMT1 causes anthocyanidins over-accumulation and diversifies fibre colours in cotton.</description>
+    </item>
+    <item>
+      <title>MeASMT1</title>
+      <link>/genes/manihot_esculenta/measmt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/measmt1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.13G140900 Gene Symbol: MeASMT1 Gene Name: N-aceylserotonin O-methyltransferase 1 Genome: Species: Manihot esculenta Functional Descriptions: Melatonin synthesis genes N-aceylserotonin O-methyltransferase 1 (MeASMT1) expression and antiviral response.</description>
+    </item>
+    <item>
+      <title>MeCAT6</title>
+      <link>/genes/manihot_esculenta/mecat6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/mecat6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.01G154400 Gene Symbol: MeCAT6 Gene Name: catalases 6 Genome: Species: Manihot esculenta Functional Descriptions: Antioxidant gene catalases 6 (MeCAT6) expression and antiviral response.</description>
+    </item>
+    <item>
+      <title>MeCAT7</title>
+      <link>/genes/manihot_esculenta/mecat7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/mecat7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.02G113300 Gene Symbol: MeCAT7 Gene Name: catalases 7 Genome: Species: Manihot esculenta Functional Descriptions: Antioxidant gene catalases 7 (MeCAT7) expression and antiviral response.</description>
+    </item>
+    <item>
+      <title>MeHDZ14</title>
+      <link>/genes/manihot_esculenta/mehdz14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/mehdz14/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.01G242300 Gene Symbol: MeHDZ14 Gene Name: Genome: Manihot esculenta, v8.</description>
+    </item>
+    <item>
+      <title>MeT5H</title>
+      <link>/genes/manihot_esculenta/met5h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/met5h/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.06G111700 Gene Symbol: MeT5H Gene Name: tryptamine 5-hydroxylase Genome: Species: Manihot esculenta Functional Descriptions: Melatonin synthesis genes tryptamine 5-hydroxylase (MeT5H) expression and antiviral response.</description>
+    </item>
+    <item>
+      <title>MeTDC2</title>
+      <link>/genes/manihot_esculenta/metdc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/metdc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.12G038600 Gene Symbol: MeTDC2 Gene Name: tryptophan decarboxylase 2 Genome: Species: Manihot esculenta Functional Descriptions: Melatonin synthesis genes tryptophan decarboxylase 2 (MeTDC2) expression and antiviral response.</description>
+    </item>
+    <item>
+      <title>NtMET1</title>
+      <link>/genes/2024.7.17/nicotiana-tabacum/ntmet1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/nicotiana-tabacum/ntmet1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtMET1 Gene Name: DNA (cytosine-5)-methyltransferase1 Genome: Species: Nicotiana tabacum Functional Descriptions: A Tobacco NtMET1 cDNA Encoding a DNA Methyltransferase: Molecular Characterization and Abnormal Phenotypes of Transgenic Tobacco Plants.</description>
+    </item>
+    <item>
+      <title>OsFIP</title>
+      <link>/genes/oryza_sativa/loc_os06g27970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g27970/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g27970 RAPdb gene ID: Os06g0474200 Gene Symbol: OsFIP Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMet1-2;OsMET1b</title>
+      <link>/genes/oryza_sativa/loc_os07g08500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g08500/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g08500 RAPdb gene ID: Os07g0182900 Gene Symbol: OsMet1-2 OsMET1b Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMTA2</title>
+      <link>/genes/oryza_sativa/loc_os02g45110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g45110/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g45110 RAPdb gene ID: Os02g0672600 Gene Symbol: OsMTA2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNSUN2</title>
+      <link>/genes/oryza_sativa/loc_os09g29630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g29630/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g29630 RAPdb gene ID: Os09g0471900 Gene Symbol: OsNSUN2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPMT16</title>
+      <link>/genes/oryza_sativa/loc_os06g49860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g49860/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g49860 RAPdb gene ID: Os06g0712800 Gene Symbol: OsPMT16 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSDG721;SDG721</title>
+      <link>/genes/oryza_sativa/loc_os01g11952/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g11952/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g11952 RAPdb gene ID: Os01g0218800 Gene Symbol: OsSDG721 SDG721 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTSD2;OsQUA2</title>
+      <link>/genes/oryza_sativa/loc_os02g51860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g51860/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g51860 RAPdb gene ID: Os02g0755000 Gene Symbol: OsTSD2 OsQUA2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsULT1</title>
+      <link>/genes/oryza_sativa/loc_os01g57240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g57240/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g57240 RAPdb gene ID: Os01g0780800 Gene Symbol: OsULT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PhCCoAOMT1</title>
+      <link>/genes/2024.6.9/petunia-hybrida/phccoaomt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/petunia-hybrida/phccoaomt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhCCoAOMT1 Gene Name: caffeoyl-coenzyme A O-methyltransferase 1 Genome: Species: Petunia hybrida Functional Descriptions: Cloned and characterized a caffeoyl-coenzyme A O-methyltransferase (PhCCoAOMT1) from the petals of the fragrant petunia ‘Mitchell’.</description>
+    </item>
+    <item>
+      <title>PrCCoAOMT</title>
+      <link>/genes/2024.6.9/pinus-radiata/prccoaomt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pinus-radiata/prccoaomt/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PrCCoAOMT Gene Name: caffeoyl-CoA O-methyltransferase Genome: Species: Pinus radiata Functional Descriptions: A cDNA clone encoding the lignin-related enzyme caffeoyl CoA 3-O-methyltransferase (CCoAOMT) was isolated from a Pinus radiata cDNA library derived from differentiating xylem.</description>
+    </item>
+    <item>
+      <title>SDG701</title>
+      <link>/genes/oryza_sativa/loc_os08g08210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g08210/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g08210 RAPdb gene ID: Os08g0180100 Gene Symbol: SDG701 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SDG708</title>
+      <link>/genes/oryza_sativa/loc_os04g34980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g34980/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g34980 RAPdb gene ID: None Gene Symbol: SDG708 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SIP1;OsSUF4</title>
+      <link>/genes/oryza_sativa/loc_os09g38790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g38790/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g38790 RAPdb gene ID: Os09g0560900 Gene Symbol: SIP1 OsSUF4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlCOMT2</title>
+      <link>/genes/solanum_lycopersicum/slcomt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcomt2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g85830 Gene Symbol: SlCOMT2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMET1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g030600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g030600/</guid>
+      <description>Gene Details: Gene ID: Solyc11g030600 Gene Symbol: SlMET1 Gene Name: Methyltransferase 1 Genome: Species: Solanum lycopersicum Functional Descriptions: In leaf tissues, mutations in SlMET1 caused CG hypomethylation and CHH hypermethylation on a whole-genome scale, leading to a disturbed transcriptome including ectopic expression of many RIN target genes such as ACC2 in leaf tissues, which are normally expressed in fruits.</description>
+    </item>
+    <item>
+      <title>TaSAMT1</title>
+      <link>/genes/triticum_aestivum/traescs3b02g445100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs3b02g445100/</guid>
+      <description>Gene Details: Gene ID: TraesCS3B02G445100 Gene Symbol: TaSAMT1 Gene Name: SA methyltransferase 1 Genome: Species: Triticum aestivum Functional Descriptions: Methyltransferase TaSAMT1 mediates wheat freezing tolerance by integrating brassinosteroid and salicylic acid signaling.</description>
+    </item>
+    <item>
+      <title>Vde3</title>
+      <link>/genes/zea_mays/vde3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/vde3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb361490 Gene Symbol: Vde3 Gene Name: violaxanthin de-epoxidase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPEAMT;peamt1</title>
+      <link>/genes/zea_mays/zmpeamtpeamt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpeamtpeamt1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb155940 Gene Symbol: ZmPEAMT peamt1 Gene Name: phosphoethanolamine N-methyltransferase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

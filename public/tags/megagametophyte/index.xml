@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>megagametophyte on funPlantGenes</title>
+    <link>/tags/megagametophyte/</link>
+    <description>Recent content in megagametophyte on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/megagametophyte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT4G29040</title>
+      <link>/genes/arabidopsis_thaliana/at4g29040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g29040/</guid>
+      <description>Gene Details: Gene ID: AT4G29040 Gene Symbol: RPT2a Gene Name: regulatory particle AAA-ATPase 2A Description: regulatory particle AAA-ATPase 2A;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G29040.</description>
+    </item>
+    <item>
+      <title>OsIG1</title>
+      <link>/genes/oryza_sativa/loc_os01g66590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g66590/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g66590 RAPdb gene ID: Os01g0889400 Gene Symbol: OsIG1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Pta1-MMP</title>
+      <link>/genes/2024.6.9/pinus-taeda/pta1-mmp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pinus-taeda/pta1-mmp/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Pta1-MMP Gene Name: matrix metalloproteinase 1 Genome: Species: Pinus taeda Functional Descriptions: Pta1-MMP protein has the structural characteristics of other plant MMPs, the recombinant protein exhibits Zn2+-dependent protease activity, and is inhibited by EDTA and the active site-binding hydroxamate inhibitor GM6001.</description>
+    </item>
+  </channel>
+</rss>

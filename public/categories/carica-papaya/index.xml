@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carica papaya on funPlantGenes</title>
+    <link>/categories/carica-papaya/</link>
+    <description>Recent content in Carica papaya on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/carica-papaya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CpbHLH1</title>
+      <link>/genes/2024.6.9/carica-papaya/evm.model.supercontig_131.7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/carica-papaya/evm.model.supercontig_131.7/</guid>
+      <description>Gene Details: Gene ID: evm.model.supercontig_131.7 Gene Symbol: CpbHLH1 Gene Name: Genome: papaya genomic DNA (ftp://ftp.</description>
+    </item>
+    <item>
+      <title>CpbHLH2</title>
+      <link>/genes/2024.6.9/carica-papaya/evm.model.supercontig_8.253/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/carica-papaya/evm.model.supercontig_8.253/</guid>
+      <description>Gene Details: Gene ID: evm.model.supercontig_8.253 Gene Symbol: CpbHLH2 Gene Name: Genome: papaya genomic DNA (ftp://ftp.</description>
+    </item>
+    <item>
+      <title>CpMS1</title>
+      <link>/genes/2024.6.9/carica-papaya/cpms1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/carica-papaya/cpms1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CpMS1 Gene Name: MALE STERILITY 1 Genome: Species: Carica papaya Functional Descriptions: No amplification of the CpMS1 gene was detected in any of the female flower samples, supporting the RNA-Seq results and CpMS1 participation on male flower organ development.</description>
+    </item>
+    <item>
+      <title>CpPI</title>
+      <link>/genes/2024.6.9/carica-papaya/cppi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/carica-papaya/cppi/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CpPI Gene Name: B-class MADS-box protein PI Genome: Species: Carica papaya Functional Descriptions: CpPI is the ortholog of the Arabidopsis gene PI, the CpTM6-1 and CpTM6-2 loci are representatives of the paralogous TM6 lineage that contain paleoAP3 motifs unlike the euAP3 gene observed in Arabidopsis.</description>
+    </item>
+    <item>
+      <title>CpTGG1</title>
+      <link>/genes/2024.6.9/carica-papaya/cptgg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/carica-papaya/cptgg1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CpTGG1 Gene Name: beta-thioglucoside glucohydrolase1 Genome: Species: Carica papaya Functional Descriptions: Characterization of a Novel β-thioglucosidase CpTGG1 in Carica papaya and its Substrate-dependent and Ascorbic Acid-independent O-β-glucosidase Activity.</description>
+    </item>
+    <item>
+      <title>CpTM6-1</title>
+      <link>/genes/2024.6.9/carica-papaya/cptm6-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/carica-papaya/cptm6-1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CpTM6-1 Gene Name: B-class MADS-box protein TM6-1 Genome: Species: Carica papaya Functional Descriptions: While phylogenetic analyses show that CpPI is the ortholog of the Arabidopsis gene PI, the CpTM6-1 and CpTM6-2 loci are representatives of the paralogous TM6 lineage that contain paleoAP3 motifs unlike the euAP3 gene observed in Arabidopsis.</description>
+    </item>
+    <item>
+      <title>CpTM6-2</title>
+      <link>/genes/2024.6.9/carica-papaya/cptm6-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/carica-papaya/cptm6-2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CpTM6-2 Gene Name: B-class MADS-box protein TM6-2 Genome: Species: Carica papaya Functional Descriptions: While phylogenetic analyses show that CpPI is the ortholog of the Arabidopsis gene PI, the CpTM6-1 and CpTM6-2 loci are representatives of the paralogous TM6 lineage that contain paleoAP3 motifs unlike the euAP3 gene observed in Arabidopsis.</description>
+    </item>
+  </channel>
+</rss>

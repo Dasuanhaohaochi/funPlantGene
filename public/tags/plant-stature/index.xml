@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plant stature on funPlantGenes</title>
+    <link>/tags/plant-stature/</link>
+    <description>Recent content in plant stature on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/plant-stature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AN1</title>
+      <link>/genes/zea_mays/an1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/an1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb048020 Gene Symbol: AN1 Gene Name: anther ear1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>HvGA20ox2</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvga20ox2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvga20ox2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvGA20ox2|sdw1 Gene Name: gibberellin 20 oxidase 2-like protein Genome: Species: Hordeum vulgare Functional Descriptions: The HvGA20ox2|sdw1.</description>
+    </item>
+    <item>
+      <title>HvGA3ox1</title>
+      <link>/genes/hordeum_vulgare/hvga3ox1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/hordeum_vulgare/hvga3ox1/</guid>
+      <description>Gene Details: Gene ID:&#x9;HORVU.MOREX.r3.2HG0208900 Gene Symbol: HvGA3ox1 Gene Name: Genome: genome sequence of barley cv.</description>
+    </item>
+    <item>
+      <title>MOC3;OsWUS</title>
+      <link>/genes/oryza_sativa/loc_os04g56780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g56780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g56780 RAPdb gene ID: Os04g0663600 Gene Symbol: MOC3 OsWUS TAB1 OsTAB1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsER1</title>
+      <link>/genes/oryza_sativa/loc_os06g10230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g10230/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g10230 RAPdb gene ID: Os06g0203800 Gene Symbol: OsER1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsER2</title>
+      <link>/genes/oryza_sativa/loc_os02g53720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g53720/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g53720 RAPdb gene ID: Os02g0777400 Gene Symbol: OsER2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsGA20ox3;GA20ox3</title>
+      <link>/genes/oryza_sativa/loc_os07g07420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g07420/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g07420 RAPdb gene ID: Os07g0169700 Gene Symbol: OsGA20ox3 GA20ox3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsIAAGLU;OsIAGT1</title>
+      <link>/genes/oryza_sativa/loc_os03g48740/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g48740/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g48740 RAPdb gene ID: Os03g0693600 Gene Symbol: OsIAAGLU OsIAGT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

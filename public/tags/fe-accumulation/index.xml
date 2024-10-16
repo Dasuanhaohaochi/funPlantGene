@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fe accumulation on funPlantGenes</title>
+    <link>/tags/fe-accumulation/</link>
+    <description>Recent content in fe accumulation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/fe-accumulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsMTP7</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csmtp7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csmtp7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsMTP7 Gene Name: metal tolerance protein 7 Genome: Species: Cucumis sativus Functional Descriptions: Cucumber metal tolerance protein 7 (CsMTP7) is involved in the accumulation of Fe in mitochondria under Fe excess.</description>
+    </item>
+    <item>
+      <title>MdBT2</title>
+      <link>/genes/malus_domestica/mdbt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdbt2/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD06G1161300 Gene Symbol: MdBT2 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MtCIPK12</title>
+      <link>/genes/2024.6.9/medicago-truncatula/medtr8g086380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/medtr8g086380/</guid>
+      <description>Gene Details: Gene ID: Medtr8g086380 Gene Symbol: MtCIPK12 Gene Name: Genome: Species: Medicago truncatula Functional Descriptions: Protein kinase MtCIPK12 modulates iron reduction in Medicago truncatula by regulating riboflavin biosynthesis.</description>
+    </item>
+    <item>
+      <title>OsbHLH061;OsbHLHq11</title>
+      <link>/genes/oryza_sativa/loc_os11g38870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g38870/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g38870 RAPdb gene ID: Os11g0601650 ,Os11g0601700 Gene Symbol: OsbHLH061 OsbHLHq11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsHORZ1</title>
+      <link>/genes/oryza_sativa/loc_os01g64250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g64250/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g64250 RAPdb gene ID: Os01g0861700 Gene Symbol: OsHORZ1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRab6a</title>
+      <link>/genes/oryza_sativa/loc_os03g09140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g09140/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g09140 RAPdb gene ID: Os03g0191400 Gene Symbol: OsRab6a Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmIRT1</title>
+      <link>/genes/zea_mays/zm00001eb052440/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb052440/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb052440 Gene Symbol: ZmIRT1 Gene Name: iron-regulated transporter1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmIRT2</title>
+      <link>/genes/zea_mays/zm00001eb065410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb065410/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb065410 Gene Symbol: ZmIRT2|ZmZIP3 Gene Name: Zm00001eb065410 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmYSL2;sh4</title>
+      <link>/genes/zea_mays/zmysl2sh4crk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmysl2sh4crk4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb248990 Gene Symbol: ZmYSL2 sh4 crk4 Gene Name: shrunken4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmZIP5</title>
+      <link>/genes/zea_mays/zm00001eb277370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb277370/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb277370 Gene Symbol: ZmZIP5 Gene Name: zinc-regulated, iron-regulated transporter-like protein5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hevea brasiliensis on funPlantGenes</title>
+    <link>/categories/hevea-brasiliensis/</link>
+    <description>Recent content in Hevea brasiliensis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/hevea-brasiliensis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HbNAC1</title>
+      <link>/genes/2024.6.9/hevea-brasiliensis/hbnac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hevea-brasiliensis/hbnac1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HbNAC1 Gene Name: strain Reyan 7-33-97 dehydrin 1 Genome: Species: Hevea brasiliensis Functional Descriptions: HbNAC1 is a transcription factor in rubber plants whose expression is induced by dehydration, leading to latex biosynthesis.</description>
+    </item>
+    <item>
+      <title>HbPLT1</title>
+      <link>/genes/2024.6.9/hevea-brasiliensis/hbplt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hevea-brasiliensis/hbplt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HbPLT1 Gene Name: putative polyol transporter protein 1 Genome: Species: Hevea brasiliensis Functional Descriptions: Screening a latex-derived cDNA library using polyol transporter-specific probes, two full-length cDNAs were isolated, and named HbPLT1 and HbPLT2 (for Hevea brasiliensis polyol transporter 1 and 2, respectively).</description>
+    </item>
+    <item>
+      <title>HbPLT2</title>
+      <link>/genes/2024.6.9/hevea-brasiliensis/hbplt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hevea-brasiliensis/hbplt2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HbPLT2 Gene Name: putative polyol transporter protein 2 Genome: Species: Hevea brasiliensis Functional Descriptions: Screening a latex-derived cDNA library using polyol transporter-specific probes, two full-length cDNAs were isolated, and named HbPLT1 and HbPLT2 (for Hevea brasiliensis polyol transporter 1 and 2, respectively).</description>
+    </item>
+    <item>
+      <title>HbSUT3</title>
+      <link>/genes/2024.6.9/hevea-brasiliensis/hbsut3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hevea-brasiliensis/hbsut3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HbSUT3 Gene Name: sucrose transporter 3 Genome: Species: Hevea brasiliensis Functional Descriptions: HbSUT3 encodes a functional sucrose transporter that exhibits high sucrose affinity with a Km value of 1.</description>
+    </item>
+  </channel>
+</rss>

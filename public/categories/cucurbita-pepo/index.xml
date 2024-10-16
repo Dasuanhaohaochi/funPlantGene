@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cucurbita pepo on funPlantGenes</title>
+    <link>/categories/cucurbita-pepo/</link>
+    <description>Recent content in Cucurbita pepo on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/cucurbita-pepo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CpACS27A</title>
+      <link>/genes/2024.6.9/cucurbita-pepo/cpacs27a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-pepo/cpacs27a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CpACS27A Gene Name: Argo 1-aminocyclopropane-1-carboxylate synthase Genome: Species: Cucurbita pepo Functional Descriptions: Molecular and functional characterization of CpACS27A gene reveals its involvement in monoecy instability and other associated traits in squash.</description>
+    </item>
+  </channel>
+</rss>

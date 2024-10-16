@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>floral organ primordium on funPlantGenes</title>
+    <link>/tags/floral-organ-primordium/</link>
+    <description>Recent content in floral organ primordium on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/floral-organ-primordium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT5G01305</title>
+      <link>/genes/arabidopsis_thaliana/at5g01305/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g01305/</guid>
+      <description>Gene Details: Gene ID: AT5G01305 Gene Symbol: ROX Gene Name: REGULATOR OF AXILLARY MERISTEM FORMATION Description: transcription factor bHLH140-like protein;(source:Araport11) TAIR Accession: locus:6532565409 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G01305.</description>
+    </item>
+    <item>
+      <title>AT5G67600</title>
+      <link>/genes/arabidopsis_thaliana/at5g67600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g67600/</guid>
+      <description>Gene Details: Gene ID: AT5G67600 Gene Symbol: AthCYSTM13, WIH1 Gene Name: Cysteine-Rich Transmembrane Module 13, WINDHOSE 1 Description: cysteine-rich TM module stress tolerance protein;(source:Araport11) TAIR Accession: locus:2158631 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G67600.</description>
+    </item>
+  </channel>
+</rss>

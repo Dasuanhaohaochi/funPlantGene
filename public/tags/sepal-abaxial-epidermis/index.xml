@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sepal abaxial epidermis on funPlantGenes</title>
+    <link>/tags/sepal-abaxial-epidermis/</link>
+    <description>Recent content in sepal abaxial epidermis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/sepal-abaxial-epidermis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT5G01747</title>
+      <link>/genes/arabidopsis_thaliana/at5g01747/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g01747/</guid>
+      <description>Gene Details: Gene ID: AT5G01747 Gene Symbol: MIR164, MIR164B Gene Name: MICRORNA 164, microRNA164B Description: microRNA ath-MIR164b precursor;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G01747.</description>
+    </item>
+  </channel>
+</rss>

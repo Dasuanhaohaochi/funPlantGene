@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grain growth on funPlantGenes</title>
+    <link>/tags/grain-growth/</link>
+    <description>Recent content in grain growth on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/grain-growth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GL3.2</title>
+      <link>/genes/oryza_sativa/loc_os03g30420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g30420/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g30420 RAPdb gene ID: Os03g0417700 Gene Symbol: GL3.</description>
+    </item>
+    <item>
+      <title>GmPT7</title>
+      <link>/genes/2024.6.9/glycine-max/gmpt7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/gmpt7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GmPT7 Gene Name: phosphate transporter 7 Genome: Species: Glycine max Functional Descriptions: A nodule-localized phosphate transporter GmPT7 plays an important role in enhancing symbiotic N2 fixation and yield in soybean.</description>
+    </item>
+    <item>
+      <title>GNI-A1</title>
+      <link>/genes/triticum_aestivum/gni-a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/gni-a1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCSU02G009800 Gene Symbol: GNI-A1 Gene Name: Grain Number Increase 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>GNI-B1</title>
+      <link>/genes/triticum_aestivum/gni-b1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/gni-b1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G405700 Gene Symbol: GNI-B1 Gene Name: Grain Number Increase 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>GNI-D1</title>
+      <link>/genes/triticum_aestivum/gni-d1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/gni-d1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D02G385500 Gene Symbol: GNI-D1 Gene Name: Grain Number Increase 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>LYS3</title>
+      <link>/genes/triticum_aestivum/lys3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/lys3/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G161000 Gene Symbol: LYS3 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>SbPSTOL1</title>
+      <link>/genes/2024.6.9/sorghum-bicolor/sb03g006765/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/sorghum-bicolor/sb03g006765/</guid>
+      <description>Gene Details: Gene ID: Sb03g006765 Gene Symbol: SbPSTOL1 Gene Name: PHOSPHORUS-STARVATION TOLERANCE1 Genome: Species: Sorghum bicolor Functional Descriptions: SbPSTOL1 genes colocalized with quantitative trait loci for traits underlying root morphology and dry weight accumulation under low P via linkage mapping.</description>
+    </item>
+    <item>
+      <title>TabZIP60</title>
+      <link>/genes/triticum_aestivum/tabzip60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tabzip60/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: TabZIP60 Gene Name: basic leucine zipper transcription factor 60 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCYP78A5-2A</title>
+      <link>/genes/triticum_aestivum/tacyp78a5-2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacyp78a5-2a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2A02G175700 Gene Symbol: TaCYP78A5-2A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCYP78A5-2B</title>
+      <link>/genes/triticum_aestivum/tacyp78a5-2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacyp78a5-2b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G201900 Gene Symbol: TaCYP78A5-2B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCYP78A5-2D</title>
+      <link>/genes/triticum_aestivum/tacyp78a5-2d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacyp78a5-2d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D02G183000 Gene Symbol: TaCYP78A5-2D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaGAMYB3</title>
+      <link>/genes/triticum_aestivum/tagamyb3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tagamyb3/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3A02G336500 Gene Symbol: TaGAMYB3 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaGS2-2Aa</title>
+      <link>/genes/triticum_aestivum/tags2-2aa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tags2-2aa/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaGS2-2Aa Gene Name: glutamine synthetase 2 Genome: Species: Triticum aestivum Functional Descriptions: Transgenic expression of TaGS2-2Ab significantly increased GS2 abundance and GS activity in leaves.</description>
+    </item>
+    <item>
+      <title>TaGS2-2Ab</title>
+      <link>/genes/triticum_aestivum/tags2-2ab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tags2-2ab/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaGS2-2Ab Gene Name: glutamine synthetase 2 Genome: Species: Triticum aestivum Functional Descriptions: Transgenic expression of TaGS2-2Ab significantly increased GS2 abundance and GS activity in leaves.</description>
+    </item>
+    <item>
+      <title>TaHDZipI-2</title>
+      <link>/genes/triticum_aestivum/tahdzipi-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahdzipi-2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaHDZipI-2 Gene Name: Homeodomain leucine zipper class I-2 Genome: Species: Triticum aestivum Functional Descriptions: The homeodomain transcription factor TaHDZipI-2 from wheat regulates frost tolerance, flowering time and spike development in transgenic barley.</description>
+    </item>
+    <item>
+      <title>TaNAC2-5A</title>
+      <link>/genes/triticum_aestivum/tanac2-5a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanac2-5a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaNAC2-5A Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: The Nitrate-Inducible NAC Transcription Factor TaNAC2-5A Controls Nitrate Response and Increases Wheat Yield.</description>
+    </item>
+    <item>
+      <title>TaNF-YB4</title>
+      <link>/genes/triticum_aestivum/tanf-yb4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanf-yb4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaNF-YB4 Gene Name: Nuclear Factor Gamma4 Genome: Species: Triticum aestivum Functional Descriptions: Constitutive overexpression of the TaNF-YB4 gene in transgenic wheat significantly improves grain yield.</description>
+    </item>
+    <item>
+      <title>TaPRR95</title>
+      <link>/genes/triticum_aestivum/traescs5b02g320500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5b02g320500/</guid>
+      <description>Gene Details: Gene ID: TraesCS5B02G320500 Gene Symbol: TaPRR95 Gene Name: pseudo-response regulator 95 Genome: Species: Triticum aestivum Functional Descriptions: Genome-editing of a circadian clock gene TaPRR95 facilitates wheat peduncle growth and heading date.</description>
+    </item>
+    <item>
+      <title>TaSINA</title>
+      <link>/genes/triticum_aestivum/tasina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tasina/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3B02G572900 Gene Symbol: TaSINA Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaTAR2.1-3A</title>
+      <link>/genes/triticum_aestivum/tatar2.1-3a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tatar2.1-3a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaTAR2.1-3A Gene Name: RYPTOPHAN AMINOTRANSFERASE RELATED Genome: Species: Triticum aestivum Functional Descriptions: The Auxin Biosynthetic TRYPTOPHAN AMINOTRANSFERASE RELATED TaTAR2.</description>
+    </item>
+    <item>
+      <title>TaTMT3B</title>
+      <link>/genes/triticum_aestivum/tatmt3b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tatmt3b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4B02G322000 Gene Symbol: TaTMT3B Gene Name: Tonoplast monosaccharide transporter 3 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>ZAR1</title>
+      <link>/genes/zea_mays/zm00001eb423180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb423180/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb423180 Gene Symbol: ZAR1|ARGOS1 Gene Name: Zea mays ARGOS1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmACS7</title>
+      <link>/genes/zea_mays/zmacs7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmacs7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb428490 Gene Symbol: ZmACS7 Gene Name: 1-aminocyclopropane-1-carboxylate synthase7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAuxRP1</title>
+      <link>/genes/zea_mays/zmauxrp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmauxrp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb053610 Gene Symbol: ZmAuxRP1 Gene Name: auxin-regulated protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmD1;ZmCYP90D1</title>
+      <link>/genes/zea_mays/zmd1zmcyp90d1cyp45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmd1zmcyp90d1cyp45/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb120890 Gene Symbol: ZmD1 ZmCYP90D1 cyp45 Gene Name: cytochrome P450 45 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmDRO1;ZmLAZY1</title>
+      <link>/genes/zea_mays/zmdro1zmlazy1dro1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmdro1zmlazy1dro1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb314060 Gene Symbol: ZmDRO1 ZmLAZY1 DRO1 Gene Name: deeper rooting1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLEC1</title>
+      <link>/genes/zea_mays/zmlec1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmlec1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZmLEC1 Gene Name: LEAFY COTYLEDON1 Genome: Species: Zea mays Functional Descriptions: Expression of ZmLEC1 and ZmWRI1 Increases Seed Oil Production in Maize.</description>
+    </item>
+    <item>
+      <title>ZmMADS67;ZMM28</title>
+      <link>/genes/zea_mays/zmmads67zmm28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmmads67zmm28/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb327040 Gene Symbol: ZmMADS67 ZMM28 Gene Name: MADS-transcription factor 67 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMS26;MS26</title>
+      <link>/genes/zea_mays/zmms26ms26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmms26ms26/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb005300 Gene Symbol: ZmMS26 MS26 Gene Name: male sterile26 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSUT4</title>
+      <link>/genes/zea_mays/zmsut4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmsut4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb259340 Gene Symbol: ZmSUT4 Gene Name: sucrose transporter4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmXLG1;xlg1</title>
+      <link>/genes/zea_mays/zmxlg1xlg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmxlg1xlg1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb030570 Gene Symbol: ZmXLG1 xlg1 Gene Name: extra-large guanine nucleotide-binding protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

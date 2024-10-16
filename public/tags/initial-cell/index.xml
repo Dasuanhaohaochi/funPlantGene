@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>initial cell on funPlantGenes</title>
+    <link>/tags/initial-cell/</link>
+    <description>Recent content in initial cell on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/initial-cell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT1G05230</title>
+      <link>/genes/arabidopsis_thaliana/at1g05230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05230/</guid>
+      <description>Gene Details: Gene ID: AT1G05230 Gene Symbol: HDG2 Gene Name: homeodomain GLABROUS 2 Description: homeodomain GLABROUS 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05230.</description>
+    </item>
+    <item>
+      <title>AT3G06120</title>
+      <link>/genes/arabidopsis_thaliana/at3g06120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g06120/</guid>
+      <description>Gene Details: Gene ID: AT3G06120 Gene Symbol: MUTE Gene Name: MUTE Description: basic helix-loop-helix (bHLH) DNA-binding superfamily protein;(source:Araport11) TAIR Accession: locus:2082400 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G06120.</description>
+    </item>
+    <item>
+      <title>AT5G43810</title>
+      <link>/genes/arabidopsis_thaliana/at5g43810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g43810/</guid>
+      <description>Gene Details: Gene ID: AT5G43810 Gene Symbol: AGO10, PNH, ZLL Gene Name: ARGONAUTE 10, PINHEAD, ZWILLE Description: Stabilizer of iron transporter SufD / Polynucleotidyl transferase;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G43810.</description>
+    </item>
+  </channel>
+</rss>

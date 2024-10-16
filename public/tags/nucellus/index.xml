@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nucellus on funPlantGenes</title>
+    <link>/tags/nucellus/</link>
+    <description>Recent content in nucellus on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/nucellus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT1G05230</title>
+      <link>/genes/arabidopsis_thaliana/at1g05230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05230/</guid>
+      <description>Gene Details: Gene ID: AT1G05230 Gene Symbol: HDG2 Gene Name: homeodomain GLABROUS 2 Description: homeodomain GLABROUS 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05230.</description>
+    </item>
+    <item>
+      <title>AT3G51060</title>
+      <link>/genes/arabidopsis_thaliana/at3g51060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g51060/</guid>
+      <description>Gene Details: Gene ID: AT3G51060 Gene Symbol: AtSTY1, SRS1, STY1 Gene Name: SHI RELATED SEQUENCE 1, STYLISH 1 Description: Lateral root primordium (LRP) protein-like protein;(source:Araport11) TAIR Accession: locus:2080818 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G51060.</description>
+    </item>
+    <item>
+      <title>AT5G67600</title>
+      <link>/genes/arabidopsis_thaliana/at5g67600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g67600/</guid>
+      <description>Gene Details: Gene ID: AT5G67600 Gene Symbol: AthCYSTM13, WIH1 Gene Name: Cysteine-Rich Transmembrane Module 13, WINDHOSE 1 Description: cysteine-rich TM module stress tolerance protein;(source:Araport11) TAIR Accession: locus:2158631 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G67600.</description>
+    </item>
+  </channel>
+</rss>

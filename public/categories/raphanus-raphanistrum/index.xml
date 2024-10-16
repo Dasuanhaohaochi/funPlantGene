@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raphanus raphanistrum on funPlantGenes</title>
+    <link>/categories/raphanus-raphanistrum/</link>
+    <description>Recent content in Raphanus raphanistrum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/raphanus-raphanistrum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rr2ODD1</title>
+      <link>/genes/raphanus_raphanistrum/rr2odd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/raphanus_raphanistrum/rr2odd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;RrC702_p3-1 Gene Symbol: Rr2ODD1 Gene Name: Genome: radish reference genome Species: Raphanus raphanistrum Functional Description: RNA sequencing (RNA-Seq) and Arabidopsis genetic transformation were deployed to identify, clone, and characterize potential genes involved in metabolic resistance to HPPD-inhibiting herbicides.</description>
+    </item>
+    <item>
+      <title>RrCYP704C1</title>
+      <link>/genes/raphanus_raphanistrum/rrcyp704c1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/raphanus_raphanistrum/rrcyp704c1/</guid>
+      <description>Gene Details: Gene ID:&#x9;RrC640_p4 Gene Symbol: RrCYP704C1 Gene Name: Genome: radish reference genome Species: Raphanus raphanistrum Functional Description: RNA sequencing (RNA-Seq) and Arabidopsis genetic transformation were deployed to identify, clone, and characterize potential genes involved in metabolic resistance to HPPD-inhibiting herbicides.</description>
+    </item>
+    <item>
+      <title>RrCYP709B1</title>
+      <link>/genes/raphanus_raphanistrum/rrcyp709b1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/raphanus_raphanistrum/rrcyp709b1/</guid>
+      <description>Gene Details: Gene ID:&#x9;RrC11027_p1 Gene Symbol: RrCYP709B1 Gene Name: Genome: radish reference genome Species: Raphanus raphanistrum Functional Description: RNA sequencing (RNA-Seq) and Arabidopsis genetic transformation were deployed to identify, clone, and characterize potential genes involved in metabolic resistance to HPPD-inhibiting herbicides.</description>
+    </item>
+  </channel>
+</rss>

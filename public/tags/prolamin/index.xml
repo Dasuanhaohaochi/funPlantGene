@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prolamin on funPlantGenes</title>
+    <link>/tags/prolamin/</link>
+    <description>Recent content in prolamin on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/prolamin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LYS3</title>
+      <link>/genes/triticum_aestivum/lys3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/lys3/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G161000 Gene Symbol: LYS3 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>OsAAP6;qPC1</title>
+      <link>/genes/oryza_sativa/loc_os01g65670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g65670/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g65670 RAPdb gene ID: Os01g0878700 Gene Symbol: OsAAP6 qPC1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsDML4</title>
+      <link>/genes/oryza_sativa/loc_os06g13070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g13070/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g13070 RAPdb gene ID: Os06g0237900 Gene Symbol: OsDML4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsERdj7</title>
+      <link>/genes/oryza_sativa/loc_os12g15590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os12g15590/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g15590 RAPdb gene ID: Os12g0258200 Gene Symbol: OsERdj7 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>RISBZ1;OsbZIP58</title>
+      <link>/genes/oryza_sativa/loc_os07g08420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g08420/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g08420 RAPdb gene ID: Os07g0182000 Gene Symbol: RISBZ1 OsbZIP58 OsSMF1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

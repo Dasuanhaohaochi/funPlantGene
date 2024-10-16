@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesophyll cell on funPlantGenes</title>
+    <link>/tags/mesophyll-cell/</link>
+    <description>Recent content in mesophyll cell on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/mesophyll-cell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT3G18780</title>
+      <link>/genes/arabidopsis_thaliana/at3g18780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g18780/</guid>
+      <description>Gene Details: Gene ID: AT3G18780 Gene Symbol: ACT2, DER1, ENL2, FIZ2, LSR2 Gene Name: actin 2, DEFORMED ROOT HAIRS 1, ENHANCER OF LRX1 2, FRIZZY AND KINKED SHOOTS 2, LIGHT STRESS-REGULATED 2 Description: actin 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G18780.</description>
+    </item>
+    <item>
+      <title>AT4G23650</title>
+      <link>/genes/arabidopsis_thaliana/at4g23650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g23650/</guid>
+      <description>Gene Details: Gene ID: AT4G23650 Gene Symbol: AtCDPK6, CDPK6, CPK3 Gene Name: calcium-dependent protein kinase 6, Calcium dependent protein kinase 3 Description: calcium-dependent protein kinase 6;(source:Araport11) TAIR Accession: locus:2128409 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G23650.</description>
+    </item>
+    <item>
+      <title>AT4G27750</title>
+      <link>/genes/arabidopsis_thaliana/at4g27750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g27750/</guid>
+      <description>Gene Details: Gene ID: AT4G27750 Gene Symbol: ISI1 Gene Name: IMPAIRED SUCROSE INDUCTION 1 Description: binding protein;(source:Araport11) TAIR Accession: locus:2137757 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G27750.</description>
+    </item>
+    <item>
+      <title>AT4G30190</title>
+      <link>/genes/arabidopsis_thaliana/at4g30190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g30190/</guid>
+      <description>Gene Details: Gene ID: AT4G30190 Gene Symbol: AHA2, AtHA2, HA2, PMA2 Gene Name: H(+)-ATPase 2, H(+)-ATPase 2, PLASMA MEMBRANE PROTON ATPASE 2 Description: H[+]-ATPase 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G30190.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethylene production on funPlantGenes</title>
+    <link>/tags/ethylene-production/</link>
+    <description>Recent content in ethylene production on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ethylene-production/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACS1</title>
+      <link>/genes/vitis_vinifera/acs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/acs1/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_215s0046g02220 Gene Symbol: ACS1 Gene Name: Genome: genome assembly 12X.</description>
+    </item>
+    <item>
+      <title>AdMsrB1</title>
+      <link>/genes/actinidia_chinensis/admsrb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/actinidia_chinensis/admsrb1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Acc04318 Gene Symbol: AdMsrB1 Gene Name: Genome: Actinidia chinensis (Red5) Species: Actinidia chinensis Functional Descriptions: AdMsrB1 is a novel ethylene-regulated gene expressed in ripening kiwifruit.</description>
+    </item>
+    <item>
+      <title>AdNAC72</title>
+      <link>/genes/actinidia_chinensis/adnac72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/actinidia_chinensis/adnac72/</guid>
+      <description>Gene Details: Gene ID:&#x9;Acc13705 Gene Symbol: AdNAC72 Gene Name: Genome: Genome_version:Actinidia chinensis (Red5) Species: Actinidia chinensis Functional Descriptions: Upregulation of AdMsrB1 in response to ethylene requires TFs AdNAC2 and AdNAC72.</description>
+    </item>
+    <item>
+      <title>CitACS4</title>
+      <link>/genes/2024.6.9/citrus-sinensis/cla011230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/cla011230/</guid>
+      <description>Gene Details: Gene ID: Cla011230 Gene Symbol: CitACS4 Gene Name: 1-aminocyclopropane-1-carboxylate synthase 4 Genome: watermelon genome() Species: Citrus sinensis Functional Descriptions: Mutation in the gene encoding 1-aminocyclopropane-1-carboxylate synthase 4 (CitACS4) led to andromonoecy in watermelon.</description>
+    </item>
+    <item>
+      <title>Cm-ERS1</title>
+      <link>/genes/2024.7.17/cucumis-melo/cm-ers1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/cucumis-melo/cm-ers1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Cm-ERS1 Gene Name: ethylene response sensor 1 Genome: Species: Cucumis melo Functional Descriptions: Transgenic Lotus japonicus with an Ethylene Receptor Gene Cm-ERS1/H70A Enhances Formation of Infection Threads and Nodule Primordia.</description>
+    </item>
+    <item>
+      <title>Cm-ETR1</title>
+      <link>/genes/2024.7.17/cucumis-melo/cm-etr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/cucumis-melo/cm-etr1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Cm-ETR1 Gene Name: ethylene receptor 1 Genome: Species: Cucumis melo Functional Descriptions: In fully enlarged fruit the level of Cm-ERS1 mRNA was low in all tissues, whereas that of Cm-ETR1 mRNA was very high in the seeds and placenta.</description>
+    </item>
+    <item>
+      <title>CmACS7</title>
+      <link>/genes/cucumis_melo/cmacs7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/cucumis_melo/cmacs7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CmACS7 Gene Name: Genome: Melon (Charmono) v1.</description>
+    </item>
+    <item>
+      <title>CmMYB44</title>
+      <link>/genes/cucumis_melo/cmmyb44/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/cucumis_melo/cmmyb44/</guid>
+      <description>Gene Details: Gene ID:&#x9;MELO3C016789 Gene Symbol: CmMYB44 Gene Name: MYB44 transcription factor Genome: Melon (DHL92) v3.</description>
+    </item>
+    <item>
+      <title>CsEIL3</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csav3_6g004610/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csav3_6g004610/</guid>
+      <description>Gene Details: Gene ID: CsaV3_6G004610 Gene Symbol: CsEIL3 Gene Name: Genome: Species: Cucumis sativus Functional Descriptions: A CsEIL3-CsARN6.</description>
+    </item>
+    <item>
+      <title>ERF4</title>
+      <link>/genes/malus_domestica/erf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/erf4/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD03G1231800 Gene Symbol: ERF4 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>GhERF-IIb3</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gherf-iib3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gherf-iib3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhERF-IIb3 Gene Name: cultivar Reba B50 ethylene-responsive transcription factor-IIb3 Genome: Species: Gossypium hirsutum Functional Descriptions: GhERF-IIb3 regulates the accumulation of jasmonate and leads to enhanced cotton resistance to blight diseas.</description>
+    </item>
+    <item>
+      <title>LeACS2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc01g095080.3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc01g095080.3.1/</guid>
+      <description>Gene Details: Gene ID: Solyc01g095080.3.1 Gene Symbol: LeACS2 Gene Name: 1-aminocyclopropane-1-carboxylate synthase 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Turnover of LeACS2, a wound-inducible 1-aminocyclopropane-1-carboxylic acid synthase in tomato, is regulated by phosphorylation/dephosphorylation.</description>
+    </item>
+    <item>
+      <title>LeERF2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/leerf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/leerf2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeERF2 Gene Name: Ethylene response factor 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Transcriptional Regulation of the Ethylene Response Factor LeERF2 in the Expression of Ethylene Biosynthesis Genes Controls Ethylene Production in Tomato and Tobacco.</description>
+    </item>
+    <item>
+      <title>MaACO1</title>
+      <link>/genes/2024.6.9/musa-acuminata/ma07_t19730.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/musa-acuminata/ma07_t19730.1/</guid>
+      <description>Gene Details: Gene ID: Ma07_t19730.1 Gene Symbol: MaACO1 Gene Name: aminocyclopropane-1-carboxylate oxidase 1 Genome: Species: Musa acuminata Functional Descriptions: CRISPR/Cas9-mediated genome editing of MaACO1 (aminocyclopropane-1-carboxylate oxidase 1) promotes the shelf life of banana fruit.</description>
+    </item>
+    <item>
+      <title>MaBEL1</title>
+      <link>/genes/2024.6.9/musa-acuminata/ma01_g01710/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/musa-acuminata/ma01_g01710/</guid>
+      <description>Gene Details: Gene ID: Ma01_g01710 Gene Symbol: MaBEL1 Gene Name: BEL1-LIKE HOMEODOMAIN transcription factor 1 Genome: Species: Musa acuminata Functional Descriptions: MaBEL1 regulates banana fruit ripening by activating cell wall and starch degradation-related genes.</description>
+    </item>
+    <item>
+      <title>MaMADS1</title>
+      <link>/genes/2024.6.9/musa-acuminata/mamads1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/musa-acuminata/mamads1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MaMADS1 Gene Name: Genome: Species: Musa acuminata Functional Descriptions: MaMADS1–MaNAC083 transcriptional regulatory cascade regulates ethylene biosynthesis during banana fruit ripening.</description>
+    </item>
+    <item>
+      <title>MaNAC083</title>
+      <link>/genes/2024.6.9/musa-acuminata/ma10_g12120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/musa-acuminata/ma10_g12120/</guid>
+      <description>Gene Details: Gene ID: Ma10_g12120 Gene Symbol: MaNAC083 Gene Name: Genome: Species: Musa acuminata Functional Descriptions: MaMADS1–MaNAC083 transcriptional regulatory cascade regulates ethylene biosynthesis during banana fruit ripening.</description>
+    </item>
+    <item>
+      <title>MdACO1</title>
+      <link>/genes/malus_domestica/mdaco1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdaco1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000195885 Gene Symbol: MdACO1 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdACS1</title>
+      <link>/genes/malus_domestica/mdacs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdacs1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000321088 Gene Symbol: MdACS1 Gene Name: ACC synthase 1 Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdACS3a</title>
+      <link>/genes/malus_domestica/mdacs3a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdacs3a/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD15G1203500 Gene Symbol: MdACS3a Gene Name: Genome: Malus × domestica GDDH13 v1.</description>
+    </item>
+    <item>
+      <title>MdACS5A</title>
+      <link>/genes/malus_domestica/mdacs5a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdacs5a/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000923426 Gene Symbol: MdACS5A Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdACS6</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000133334/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000133334/</guid>
+      <description>Gene Details: Gene ID: MDP0000133334 Gene Symbol: MdACS6 Gene Name: ACC synthase6 Genome: Species: Malus domestica Functional Descriptions: Apple MdACS6 Regulates Ethylene Biosynthesis During Fruit Development Involving Ethylene-Responsive Factor.</description>
+    </item>
+    <item>
+      <title>MdbHLH3</title>
+      <link>/genes/malus_domestica/mdbhlh3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdbhlh3/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000225680 Gene Symbol: MdbHLH3 Gene Name: basic helix-loop-helix transcription factor 3 Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdDEP1</title>
+      <link>/genes/malus_domestica/mddep1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mddep1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000180420 Gene Symbol: MdDEP1 Gene Name: Malus domestica dehydratase-enolase-phosphatase complex 1 Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdERF4</title>
+      <link>/genes/malus_domestica/mderf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mderf4/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD03G1231800 Gene Symbol: MdERF4 Gene Name: ethylene response factor 4 Genome: Malus × domestica GDDH13 v1.</description>
+    </item>
+    <item>
+      <title>MdHDA19</title>
+      <link>/genes/malus_domestica/mdhda19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdhda19/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD10G1145400 Gene Symbol: MdHDA19 Gene Name: histone deacetylase 19 Genome: Malus × domestica GDDH13 v1.</description>
+    </item>
+    <item>
+      <title>MdMYC2</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000029168/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000029168/</guid>
+      <description>Gene Details: Gene ID: MDP0000029168 Gene Symbol: MdMYC2 Gene Name: Jasmonate-Activated Transcription Factor 2 Genome: Species: Malus domestica Functional Descriptions: MdMYC2 is a homology of Arabidopsis MYC2 in apple, it has highly similarity in structure and function to the Arabidopsis MYC2.</description>
+    </item>
+    <item>
+      <title>MYB108A</title>
+      <link>/genes/vitis_vinifera/myb108a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/myb108a/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_205s0077g00500 Gene Symbol: MYB108A Gene Name: Genome: genome assembly 12X.</description>
+    </item>
+    <item>
+      <title>OsCRTISO;ZEBRA2</title>
+      <link>/genes/oryza_sativa/loc_os11g36440/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g36440/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g36440 RAPdb gene ID: Os11g0572700 Gene Symbol: OsCRTISO ZEBRA2 MHZ5 MIT3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsWAK112d;OsWAK112</title>
+      <link>/genes/oryza_sativa/loc_os10g10130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g10130/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g10130 RAPdb gene ID: Os10g0180800 Gene Symbol: OsWAK112d OsWAK112 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PhACO1</title>
+      <link>/genes/2024.6.9/petunia-hybrida/phaco1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/petunia-hybrida/phaco1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhACO1 Gene Name: 1-aminocyclopropane-1-carboxylate oxidase1 Genome: Species: Petunia hybrida Functional Descriptions: PhACO1 was subsequently edited using the CRISPR/Cas9 system, and its role in ethylene production was investigated.</description>
+    </item>
+    <item>
+      <title>PhBPBT</title>
+      <link>/genes/2024.7.17/petunia-hybrida/phbpbt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/petunia-hybrida/phbpbt/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhBPBT Gene Name: benzoyl CoA:benzyl alcohol/phenylethanol benzoyltransferase Genome: Species: Petunia hybrida Functional Descriptions: Tissue-specific PhBPBT expression is differentially regulated in response to endogenous ethylene.</description>
+    </item>
+    <item>
+      <title>PhOBF1</title>
+      <link>/genes/2024.6.9/petunia-hybrida/peaxi162scf00285g00011/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/petunia-hybrida/peaxi162scf00285g00011/</guid>
+      <description>Gene Details: Gene ID: Peaxi162Scf00285g00011 Gene Symbol: PhOBF1 Gene Name: Genome: Sol Genomics Network (https://solgenomics.</description>
+    </item>
+    <item>
+      <title>PuWRKY31</title>
+      <link>/genes/2024.6.9/pyrus-ussuriensis/puwrky31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-ussuriensis/puwrky31/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuWRKY31 Gene Name: WRKY transcription factor 31 Genome: Species: Pyrus ussuriensis Functional Descriptions: The expression of the transcription factor PuWRKY31 was higher in BNG fruit than in NG fruit, and was induced by sucrose treatment.</description>
+    </item>
+    <item>
+      <title>ScFBH1</title>
+      <link>/genes/2024.6.9/saccharum-officinarum/scfbh1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/saccharum-officinarum/scfbh1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ScFBH1 Gene Name: flowering BHLH 1 Genome: Species: Saccharum officinarum Functional Descriptions: Protein–protein interaction assays showed that sugarcane FBH1 (ScFBH1), ScFBH2, and ScFBH3 form homo- and heterodimers in the nucleus.</description>
+    </item>
+    <item>
+      <title>ScFBH2</title>
+      <link>/genes/2024.6.9/saccharum-officinarum/scfbh2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/saccharum-officinarum/scfbh2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ScFBH2 Gene Name: flowering BHLH 2 Genome: Species: Saccharum officinarum Functional Descriptions: Protein–protein interaction assays showed that sugarcane FBH1 (ScFBH1), ScFBH2, and ScFBH3 form homo- and heterodimers in the nucleus.</description>
+    </item>
+    <item>
+      <title>ScFBH3</title>
+      <link>/genes/2024.6.9/saccharum-officinarum/scfbh3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/saccharum-officinarum/scfbh3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ScFBH3 Gene Name: flowering BHLH 3 Genome: Species: Saccharum officinarum Functional Descriptions: Protein–protein interaction assays showed that sugarcane FBH1 (ScFBH1), ScFBH2, and ScFBH3 form homo- and heterodimers in the nucleus.</description>
+    </item>
+    <item>
+      <title>SIT1</title>
+      <link>/genes/oryza_sativa/loc_os02g42780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g42780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g42780 RAPdb gene ID: Os02g0640500 Gene Symbol: SIT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlARF6A</title>
+      <link>/genes/solanum_lycopersicum/slarf6a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slarf6a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g006340 Gene Symbol: SlARF6A Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlbHLH22</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slbhlh22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slbhlh22/</guid>
+      <description>Gene Details: Gene ID: Solyc03g097820 Gene Symbol: SlbHLH22 Gene Name: basic helix-loop-helix 12 Genome: Species: Solanum lycopersicum Functional Descriptions: Overexpression of a basic helix–loop–helix transcription factor gene, SlbHLH22, promotes early flowering and accelerates fruit ripening in tomato.</description>
+    </item>
+    <item>
+      <title>SlCYP90B3</title>
+      <link>/genes/solanum_lycopersicum/slcyp90b3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcyp90b3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g085360 Gene Symbol: SlCYP90B3 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlDCD2</title>
+      <link>/genes/solanum_lycopersicum/sldcd2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sldcd2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g008900 Gene Symbol: SlDCD2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlE8</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g089580/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g089580/</guid>
+      <description>Gene Details: Gene ID: Solyc09g089580 Gene Symbol: SlE8|Sl27DOX Gene Name: C-27 hydroxylase Genome: Species: Solanum lycopersicum Functional Descriptions: Induced mutations in SlE8|Sl27DOX and SlACO1 control tomato fruit maturation and shelf-life.</description>
+    </item>
+    <item>
+      <title>SlFERL</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g015830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g015830/</guid>
+      <description>Gene Details: Gene ID: Solyc09g015830 Gene Symbol: SlFERL Gene Name: FERONIA Like Genome: Species: Solanum lycopersicum Functional Descriptions: SlFERL Interacts with S-Adenosylmethionine Synthetase to Regulate Fruit Ripening.</description>
+    </item>
+    <item>
+      <title>SlMADS1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slmads1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slmads1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlMADS1 Gene Name: MADS-Box Transcription Factor 1 Genome: Species: Solanum lycopersicum Functional Descriptions: A Tomato MADS-Box Transcription Factor, SlMADS1, Acts as a Negative Regulator of Fruit Ripening.</description>
+    </item>
+    <item>
+      <title>SlRLK-like</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g094920.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g094920.2/</guid>
+      <description>Gene Details: Gene ID: Solyc01g094920.2 Gene Symbol: SlRLK-like Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlRLK-like is a malectin-like domain protein affecting localization and abundance of LeEIX2 receptor resulting in suppression of EIX-induced immune responses.</description>
+    </item>
+    <item>
+      <title>SmERF73</title>
+      <link>/genes/2024.6.9/salvia-miltiorrhiza/smerf73/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/salvia-miltiorrhiza/smerf73/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SmERF73 Gene Name: ethylene response factor 73 Genome: Species: Salvia miltiorrhiza Functional Descriptions: The ERF-VII transcription factor SmERF73 coordinately regulates tanshinone biosynthesis in response to stress elicitors in Salvia miltiorrhiza.</description>
+    </item>
+    <item>
+      <title>TPL4</title>
+      <link>/genes/malus_domestica/tpl4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/tpl4/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD04G1197000 Gene Symbol: TPL4 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>ZmACO2;ZmACOB</title>
+      <link>/genes/zea_mays/zmaco2zmacobacco2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmaco2zmacobacco2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb314610 Gene Symbol: ZmACO2 ZmACOB acco2 Gene Name: 1-aminocyclopropane-1-carboxylate oxidase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

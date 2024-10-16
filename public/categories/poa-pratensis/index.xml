@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poa pratensis on funPlantGenes</title>
+    <link>/categories/poa-pratensis/</link>
+    <description>Recent content in Poa pratensis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/poa-pratensis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PpGS1.1</title>
+      <link>/genes/2024.6.9/poa-pratensis/ppgs1.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/poa-pratensis/ppgs1.1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PpGS1.1 Gene Name: Glutamine synthetase Genome: Species: Poa pratensis Functional Descriptions: Glutamine synthetase gene PpGS1.</description>
+    </item>
+  </channel>
+</rss>

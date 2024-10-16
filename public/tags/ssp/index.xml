@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ssp on funPlantGenes</title>
+    <link>/tags/ssp/</link>
+    <description>Recent content in ssp on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ssp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BcMF2</title>
+      <link>/genes/2024.6.9/brassica-campestris/bcmf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-campestris/bcmf2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BcMF2 Gene Name: Male Fertility 2 Genome: Species: Brassica campestris Functional Descriptions: The polygalacturonase gene BcMF2 from Brassica campestris is associated with intine development.</description>
+    </item>
+    <item>
+      <title>BrABF3</title>
+      <link>/genes/2024.6.9/brassica-rapa/bra011485/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/bra011485/</guid>
+      <description>Gene Details: Gene ID: Bra011485 Gene Symbol: BrABF3 Gene Name: transcription activator ABF3 Genome: Species: Brassica rapa Functional Descriptions: The BrABF3 promoter is specifically active in the Arabidopsis leaf vascular tissue, where CO is mainly expressed.</description>
+    </item>
+    <item>
+      <title>BrAO1</title>
+      <link>/genes/2024.6.9/brassica-rapa/brao1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/brao1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BrAO1 Gene Name: aldehyde oxidase1 Genome: Species: Brassica rapa Functional Descriptions: Increase in BrAO1 gene expression and aldehyde oxidase activity during clubroot development in Chinese cabbage.</description>
+    </item>
+    <item>
+      <title>BrAO2</title>
+      <link>/genes/2024.6.9/brassica-rapa/brao2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/brao2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BrAO2 Gene Name: aldehyde oxidase2 Genome: Species: Brassica rapa Functional Descriptions: Increase in BrAO1 gene expression and aldehyde oxidase activity during clubroot development in Chinese cabbage.</description>
+    </item>
+    <item>
+      <title>BrOG1A</title>
+      <link>/genes/2024.6.9/brassica-rapa/braa08002322/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/braa08002322/</guid>
+      <description>Gene Details: Gene ID: BraA08002322 Gene Symbol: BrOG1A Gene Name: Orphan gene 1 Genome: B.</description>
+    </item>
+    <item>
+      <title>BrOG1B</title>
+      <link>/genes/2024.6.9/brassica-rapa/brasca000221/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/brasca000221/</guid>
+      <description>Gene Details: Gene ID: BraSca000221 Gene Symbol: BrOG1B Gene Name: Orphan gene 2 Genome: B.</description>
+    </item>
+    <item>
+      <title>BrpSPL9</title>
+      <link>/genes/2024.6.9/brassica-rapa/brpspl9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/brpspl9/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BrpSPL9 Gene Name: squamosa promoter-binding-like protein 9 Genome: Species: Brassica rapa Functional Descriptions: BrpSPL9-2 (B.</description>
+    </item>
+    <item>
+      <title>LGP1</title>
+      <link>/genes/triticum_aestivum/lgp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/lgp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1D02G001200 Gene Symbol: LGP1 Gene Name: low gluten protein 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaFUSCA3-3A</title>
+      <link>/genes/triticum_aestivum/tafusca3-3a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tafusca3-3a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3A02G249100 Gene Symbol: TaFUSCA3-3A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaFUSCA3-3B</title>
+      <link>/genes/triticum_aestivum/tafusca3-3b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tafusca3-3b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3B02G278000 Gene Symbol: TaFUSCA3-3B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaFUSCA3-3D</title>
+      <link>/genes/triticum_aestivum/tafusca3-3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tafusca3-3d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3D02G249100 Gene Symbol: TaFUSCA3-3D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaNAC019-A</title>
+      <link>/genes/triticum_aestivum/tanac019-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanac019-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3A02G077900 Gene Symbol: TaNAC019-A Gene Name: NAC domain-containing protein 19 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaNAC019-B</title>
+      <link>/genes/triticum_aestivum/tanac019-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanac019-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3B02G092800 Gene Symbol: TaNAC019-B Gene Name: NAC domain-containing protein 19 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaNAC019-D</title>
+      <link>/genes/triticum_aestivum/tanac019-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanac019-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3D02G078500 Gene Symbol: TaNAC019-D Gene Name: NAC domain-containing protein 19 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaNAC77-7A</title>
+      <link>/genes/triticum_aestivum/tanac77-7a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanac77-7a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7A02G152500 Gene Symbol: TaNAC77-7A Gene Name: NAC domain protein 77 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaNAC77-7B</title>
+      <link>/genes/triticum_aestivum/tanac77-7b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanac77-7b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7B02G056300 Gene Symbol: TaNAC77-7B Gene Name: NAC domain protein 77 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaNAC77-7D</title>
+      <link>/genes/triticum_aestivum/tanac77-7d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanac77-7d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7D02G154200 Gene Symbol: TaNAC77-7D Gene Name: NAC domain protein 77 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaSPR-A</title>
+      <link>/genes/triticum_aestivum/taspr-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taspr-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCSU02G137200 Gene Symbol: TaSPR-A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaSPR-B</title>
+      <link>/genes/triticum_aestivum/taspr-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taspr-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G616900 Gene Symbol: TaSPR-B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaSPR-D</title>
+      <link>/genes/triticum_aestivum/taspr-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taspr-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D02G567000 Gene Symbol: TaSPR-D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>ZmCCD7</title>
+      <link>/genes/zea_mays/zm00001eb074640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb074640/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb074640 Gene Symbol: ZmCCD7 Gene Name: carotenoid cleavage dioxygenase7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

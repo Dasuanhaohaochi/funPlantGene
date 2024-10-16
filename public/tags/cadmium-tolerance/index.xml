@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cadmium tolerance on funPlantGenes</title>
+    <link>/tags/cadmium-tolerance/</link>
+    <description>Recent content in cadmium tolerance on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/cadmium-tolerance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BjCdR15</title>
+      <link>/genes/2024.6.9/brassica-juncea/bjcdr15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-juncea/bjcdr15/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BjCdR15 Gene Name: BZIP transcription factor15 Genome: Species: Brassica juncea Functional Descriptions: The Brassica juncea BjCdR15, an ortholog of Arabidopsis TGA3, is a regulator of cadmium uptake, transport and accumulation in shoots and confers cadmium tolerance in transgenic plants.</description>
+    </item>
+    <item>
+      <title>BjCET1</title>
+      <link>/genes/2024.6.9/brassica-juncea/bjcet1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-juncea/bjcet1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BjCET1 Gene Name: cation-efflux transporter 1 Genome: Species: Brassica juncea Functional Descriptions: BjCET1 contains 382 amino acid residues, including a signature motif of the cation diffusion facilitator protein family, six classic trans-membrane-spanning structures and a cation-efflux domain.</description>
+    </item>
+    <item>
+      <title>JrVHAG1</title>
+      <link>/genes/2024.6.9/juglans-regia/jrvhag1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/juglans-regia/jrvhag1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: JrVHAG1 Gene Name: vacuolar H+-ATPase G 1 Genome: Species: Juglans regia Functional Descriptions: JrVHAG1 is involved in plant abiotic strss response.</description>
+    </item>
+    <item>
+      <title>MdSOS2L1</title>
+      <link>/genes/malus_domestica/mdsos2l1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdsos2l1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: MdSOS2L1 Gene Name: Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>OsCTF</title>
+      <link>/genes/oryza_sativa/loc_os06g19210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g19210/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g19210 RAPdb gene ID: Os06g0296100 Gene Symbol: OsCTF Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSRK</title>
+      <link>/genes/oryza_sativa/loc_os02g10100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g10100/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g10100 RAPdb gene ID: Os02g0194400 Gene Symbol: OsSRK Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PvERF15</title>
+      <link>/genes/2024.6.9/phaseolus-vulgaris/phavu_007g193300g/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phaseolus-vulgaris/phavu_007g193300g/</guid>
+      <description>Gene Details: Gene ID: PHAVU_007G193300g Gene Symbol: PvERF15 Gene Name: ETHYLENE RESPONSE FACTOR15 Genome: Species: Phaseolus vulgaris Functional Descriptions: Transcription Factors PvERF15 and PvMTF-1 Form a Cadmium Stress Transcriptional Pathway.</description>
+    </item>
+    <item>
+      <title>TaSRG1A</title>
+      <link>/genes/triticum_aestivum/tasrg1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tasrg1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7A02G140500 Gene Symbol: TaSRG1A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaSRG1B</title>
+      <link>/genes/triticum_aestivum/tasrg1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tasrg1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7B02G042200 Gene Symbol: TaSRG1B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaSRG1D</title>
+      <link>/genes/triticum_aestivum/tasrg1d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tasrg1d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TracesCS7D02G142000 Gene Symbol: TaSRG1D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+  </channel>
+</rss>

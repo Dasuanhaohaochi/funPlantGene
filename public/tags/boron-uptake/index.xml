@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>boron uptake on funPlantGenes</title>
+    <link>/tags/boron-uptake/</link>
+    <description>Recent content in boron uptake on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/boron-uptake/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BnaA9.WRKY47</title>
+      <link>/genes/brassica_napus/bnaa9.wrky47/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaa9.wrky47/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaA09g00350D Gene Symbol: BnaA9.WRKY47 Gene Name: WRKY transcription factor 47 Genome: B.</description>
+    </item>
+    <item>
+      <title>BnaC4.BOR2</title>
+      <link>/genes/brassica_napus/bnac04g21390d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnac04g21390d/</guid>
+      <description>Gene Details: Gene ID: BnaC04g21390D Gene Symbol: BnaC4.BOR2 Gene Name: low-B (LB)-inducible Genome: rapeseed genome Species: Brassica napus Functional Descriptions: BnaC4.</description>
+    </item>
+    <item>
+      <title>OsBOR1</title>
+      <link>/genes/oryza_sativa/loc_os12g37840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os12g37840/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g37840 RAPdb gene ID: Os12g0566000 Gene Symbol: OsBOR1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

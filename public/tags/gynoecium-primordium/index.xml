@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gynoecium primordium on funPlantGenes</title>
+    <link>/tags/gynoecium-primordium/</link>
+    <description>Recent content in gynoecium primordium on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/gynoecium-primordium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G31650</title>
+      <link>/genes/arabidopsis_thaliana/at2g31650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g31650/</guid>
+      <description>Gene Details: Gene ID: AT2G31650 Gene Symbol: ATX1, SDG27 Gene Name: Arabidopsis TRITHORAX 1, SET DOMAIN PROTEIN 27 Description: homologue of trithorax;(source:Araport11) TAIR Accession: locus:2065923 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G31650.</description>
+    </item>
+    <item>
+      <title>AT3G51060</title>
+      <link>/genes/arabidopsis_thaliana/at3g51060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g51060/</guid>
+      <description>Gene Details: Gene ID: AT3G51060 Gene Symbol: AtSTY1, SRS1, STY1 Gene Name: SHI RELATED SEQUENCE 1, STYLISH 1 Description: Lateral root primordium (LRP) protein-like protein;(source:Araport11) TAIR Accession: locus:2080818 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G51060.</description>
+    </item>
+  </channel>
+</rss>

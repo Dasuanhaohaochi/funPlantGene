@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oil bodies on funPlantGenes</title>
+    <link>/tags/oil-bodies/</link>
+    <description>Recent content in oil bodies on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/oil-bodies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bnlpat2</title>
+      <link>/genes/brassica_napus/bnlpat2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnlpat2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: Bnlpat2 Gene Name: Genome: Brassica_napus_v4.</description>
+    </item>
+    <item>
+      <title>BnLPAT5</title>
+      <link>/genes/brassica_napus/bnlpat5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnlpat5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: BnLPAT5 Gene Name: Genome: Brassica_napus_v4.</description>
+    </item>
+    <item>
+      <title>OLE16</title>
+      <link>/genes/oryza_sativa/loc_os04g46200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g46200/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g46200 RAPdb gene ID: Os04g0546500 Gene Symbol: OLE16 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OLE18</title>
+      <link>/genes/oryza_sativa/loc_os03g49190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g49190/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g49190 RAPdb gene ID: Os03g0699000 Gene Symbol: OLE18 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

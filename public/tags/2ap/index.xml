@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2ap on funPlantGenes</title>
+    <link>/tags/2ap/</link>
+    <description>Recent content in 2ap on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/2ap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GmAMADH2</title>
+      <link>/genes/2024.6.9/glycine-max/glyma06g19820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma06g19820/</guid>
+      <description>Gene Details: Gene ID: Glyma06g19820 Gene Symbol: GmAMADH2 Gene Name: amino aldehyde dehydrogenase2 Genome: Species: Glycine max Functional Descriptions: Deficiency in the amino aldehyde dehydrogenase encoded by GmAMADH2, the homologue of rice Os2AP, enhances 2-acetyl-1-pyrroline biosynthesis in soybeans.</description>
+    </item>
+  </channel>
+</rss>

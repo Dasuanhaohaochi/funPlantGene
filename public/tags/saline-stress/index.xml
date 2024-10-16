@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>saline stress on funPlantGenes</title>
+    <link>/tags/saline-stress/</link>
+    <description>Recent content in saline stress on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/saline-stress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GmDnaJA6</title>
+      <link>/genes/glycine_max/gmdnaja6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmdnaja6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.08G134400 Gene Symbol: GmDnaJA6 Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: Overexpressing GmDnaJA6 and investigate their response to saline–alkaline stress, and identify proteins that interact with GmDnaJA6.</description>
+    </item>
+    <item>
+      <title>GmPIP1</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.08g015300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.08g015300/</guid>
+      <description>Gene Details: Gene ID: Glyma.08g015300 Gene Symbol: GmPIP1|6 Gene Name: plasma membrane intrinsic protein 1|6 Genome: Species: Glycine max Functional Descriptions: The effects of constitutive overexpression of GmPIP1|6|GmPIP1|6 in soybean was examined under normal and salt stress conditions.</description>
+    </item>
+    <item>
+      <title>LeNHX2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lenhx2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lenhx2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeNHX2 Gene Name: Na+/H+ antiporter 2 Genome: Species: Solanum lycopersicum Functional Descriptions: The K+/H+ antiporter LeNHX2 increases salt tolerance by improving K+ homeostasis in transgenic tomato.</description>
+    </item>
+    <item>
+      <title>MsFLS13</title>
+      <link>/genes/medicago_sativa/msfls13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/medicago_sativa/msfls13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: MsFLS13 Gene Name: Genome: Species: Medicago sativa Functional Descriptions: Our findings highlight the crucial role of MsFLS13 in alfalfa in response to saline-alkali stress and provide a novel genetic resource for creating saline-alkali-resistant alfalfa through genetic engineering.</description>
+    </item>
+    <item>
+      <title>OsLOX10</title>
+      <link>/genes/oryza_sativa/loc_os11g36719/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g36719/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g36719 RAPdb gene ID: Os11g0575600 Gene Symbol: OsLOX10 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PutHKT2</title>
+      <link>/genes/2024.6.9/puccinellia-tenuiflora/puthkt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/puccinellia-tenuiflora/puthkt2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PutHKT2|1 Gene Name: high-affinity K+ transporter Genome: Species: Puccinellia tenuiflora Functional Descriptions: A high-affinity K+transporter PutHKT2|1|PutHKT2|1 cDNA was isolated from the salt-tolerant plant Puccinellia tenuiflora.</description>
+    </item>
+    <item>
+      <title>SlJAZ1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc07g042170.3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc07g042170.3/</guid>
+      <description>Gene Details: Gene ID: Solyc07g042170.3 Gene Symbol: SlJAZ1 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY81 regulates Spd synthesis and Na+/K+ homeostasis through interaction with SlJAZ1 mediated JA pathway to improve tomato saline-alkali resistance.</description>
+    </item>
+    <item>
+      <title>SlWRKY80</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g095770.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g095770.2/</guid>
+      <description>Gene Details: Gene ID: Solyc03g095770.2 Gene Symbol: SlWRKY80 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY80-mediated jasmonic acid pathway positively regulates tomato resistance to saline-alkali stress by enhancing spermidine content and stabilizing Na+/K+ homeostasis.</description>
+    </item>
+    <item>
+      <title>SlWRKY81</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/soly09g014990.3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/soly09g014990.3/</guid>
+      <description>Gene Details: Gene ID: Soly09g014990.3 Gene Symbol: SlWRKY81 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlWRKY81 regulates Spd synthesis and Na+/K+ homeostasis through interaction with SlJAZ1 mediated JA pathway to improve tomato saline-alkali resistance.</description>
+    </item>
+    <item>
+      <title>TaCHP</title>
+      <link>/genes/triticum_aestivum/traescs7d02g545700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7d02g545700/</guid>
+      <description>Gene Details: Gene ID: TraesCS7D02G545700 Gene Symbol: TaCHP Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>ZmEREB57</title>
+      <link>/genes/zea_mays/zm00001eb193060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb193060/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb193060 Gene Symbol: ZmEREB57 Gene Name: AP2-EREBP-transcription factor 57 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

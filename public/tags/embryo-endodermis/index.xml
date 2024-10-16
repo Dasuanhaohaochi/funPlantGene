@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embryo endodermis on funPlantGenes</title>
+    <link>/tags/embryo-endodermis/</link>
+    <description>Recent content in embryo endodermis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/embryo-endodermis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G29090</title>
+      <link>/genes/arabidopsis_thaliana/at2g29090/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g29090/</guid>
+      <description>Gene Details: Gene ID: AT2G29090 Gene Symbol: CYP707A2 Gene Name: cytochrome P450, family 707, subfamily A, polypeptide 2 Description: cytochrome P450, family 707, subfamily A, polypeptide 2;(source:Araport11) TAIR Accession: locus:2066138 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G29090.</description>
+    </item>
+  </channel>
+</rss>

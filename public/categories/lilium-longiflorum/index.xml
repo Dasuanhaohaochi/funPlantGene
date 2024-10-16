@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lilium longiflorum on funPlantGenes</title>
+    <link>/categories/lilium-longiflorum/</link>
+    <description>Recent content in Lilium longiflorum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/lilium-longiflorum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LdPMaT1</title>
+      <link>/genes/lilium_longiflorum/ldpmat1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/lilium_longiflorum/ldpmat1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TRINITY_DN1640_c0_g1 Gene Symbol: LdPMaT1 Gene Name: Phenolic glucoside malonyltransferase 1 Genome: Species: Lilium longiflorum Functional Description: ldi-miR396b-LdPMaT1 potentially enhances ROS-scavenging ability, which contributes to improved stress adaptation in autotetraploid lilies.</description>
+    </item>
+    <item>
+      <title>LhWRKY44</title>
+      <link>/genes/2024.6.9/lilium-longiflorum/lhwrky44/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lilium-longiflorum/lhwrky44/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LhWRKY44 Gene Name: WRKY transcription factor 44 Genome: Species: Lilium longiflorum Functional Descriptions: Multifaceted roles of LhWRKY44 in promoting anthocyanin accumulation in Asiatic hybrid lilies.</description>
+    </item>
+    <item>
+      <title>LlHB16</title>
+      <link>/genes/lilium_longiflorum/llhb16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/lilium_longiflorum/llhb16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: LlHB16 Gene Name: Genome: Species: Lilium longiflorum Functional Description: The expression of the core thermal response factors LlHSFA2 and LlMBF1c are involved in the mechanism of establishing the heat resistance of lily.</description>
+    </item>
+    <item>
+      <title>LlHOX6</title>
+      <link>/genes/lilium_longiflorum/llhox6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/lilium_longiflorum/llhox6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: LlHOX6 Gene Name: Genome: Species: Lilium longiflorum Functional Description: Two HD-Zip I transcription factors, LlHOX6 and LlHB16, antagonize the expression of core thermal response factors, LlHSFA2 and LlMBF1c, which are involved in the establishment of heat resistance of lily.</description>
+    </item>
+    <item>
+      <title>LlHSFA2</title>
+      <link>/genes/lilium_longiflorum/llhsfa2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/lilium_longiflorum/llhsfa2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: LlHSFA2 Gene Name: HEAT STRESS TRANSCRIPTION FACTOR A2 Genome: Species: Lilium longiflorum Functional Description: The expression of the core thermal response factors LlHSFA2 and LlMBF1c are involved in the mechanism of establishing the heat resistance of lily.</description>
+    </item>
+    <item>
+      <title>LlMBF1c</title>
+      <link>/genes/lilium_longiflorum/llmbf1c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/lilium_longiflorum/llmbf1c/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: LlMBF1c Gene Name: MULTIPROTEIN BRIDGING FACTOR 1C Genome: Species: Lilium longiflorum Functional Description: The expression of the core thermal response factors LlHSFA2 and LlMBF1c are involved in the mechanism of establishing the heat resistance of lily.</description>
+    </item>
+    <item>
+      <title>LlWRKY39</title>
+      <link>/genes/lilium_longiflorum/llwrky39/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/lilium_longiflorum/llwrky39/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: LlWRKY39 Gene Name: Genome: Species: Lilium longiflorum Functional Description: the promoter of LlMBF1c was isolated from lily, and LlWRKY39 was found to bind to the conserved W-box element in its promoter to activate its activity, suggesting that LlWRKY39 is an upstream regulator of LlMBF1c.</description>
+    </item>
+  </channel>
+</rss>

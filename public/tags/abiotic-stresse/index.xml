@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abiotic stresse on funPlantGenes</title>
+    <link>/tags/abiotic-stresse/</link>
+    <description>Recent content in abiotic stresse on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/abiotic-stresse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VvMYB14</title>
+      <link>/genes/vitis_vinifera/vvmyb14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvmyb14/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_207s0005g03340 Gene Symbol: VvMYB14 Gene Name: MYB transcription factor 14 Genome: V.</description>
+    </item>
+    <item>
+      <title>VvMYB30</title>
+      <link>/genes/vitis_vinifera/vvmyb30/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvmyb30/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_217s0000g06190 Gene Symbol: VvMYB30 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvWRKY8</title>
+      <link>/genes/vitis_vinifera/vvwrky8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvwrky8/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_201s0010g03930 Gene Symbol: VvWRKY8 Gene Name: WRKY transcription factor 8 Genome: V.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crown root elongation on funPlantGenes</title>
+    <link>/tags/crown-root-elongation/</link>
+    <description>Recent content in crown root elongation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/crown-root-elongation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AP37;OsERF3</title>
+      <link>/genes/oryza_sativa/loc_os01g58420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g58420/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g58420 RAPdb gene ID: Os01g0797600 Gene Symbol: AP37 OsERF3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRR2</title>
+      <link>/genes/oryza_sativa/loc_os02g35180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g35180/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g35180 RAPdb gene ID: Os02g0557800 Gene Symbol: OsRR2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

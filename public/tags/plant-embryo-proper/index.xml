@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plant embryo proper on funPlantGenes</title>
+    <link>/tags/plant-embryo-proper/</link>
+    <description>Recent content in plant embryo proper on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/plant-embryo-proper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G27300</title>
+      <link>/genes/arabidopsis_thaliana/at2g27300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g27300/</guid>
+      <description>Gene Details: Gene ID: AT2G27300 Gene Symbol: ANAC040, NTL8 Gene Name: Arabidopsis NAC domain containing protein 40, NTM1-like 8 Description: NTM1-like 8;(source:Araport11) TAIR Accession: locus:2039600 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G27300.</description>
+    </item>
+    <item>
+      <title>AT2G38280</title>
+      <link>/genes/arabidopsis_thaliana/at2g38280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g38280/</guid>
+      <description>Gene Details: Gene ID: AT2G38280 Gene Symbol: FAC1 Gene Name: EMBRYONIC FACTOR1 Description: AMP deaminase, putative / myoadenylate deaminase;(source:Araport11) TAIR Accession: locus:2042902 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G38280.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solanum chacoense on funPlantGenes</title>
+    <link>/categories/solanum-chacoense/</link>
+    <description>Recent content in Solanum chacoense on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/solanum-chacoense/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ScFRK2</title>
+      <link>/genes/2024.6.9/solanum-chacoense/scfrk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-chacoense/scfrk2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ScFRK2 Gene Name: Fertilization-related kinase 2 Genome: Species: Solanum chacoense Functional Descriptions: The ScFRK2 MAP kinase kinase kinase from Solanum chacoense affects pollen development and viability.</description>
+    </item>
+    <item>
+      <title>ScRALF3</title>
+      <link>/genes/2024.6.9/solanum-chacoense/scralf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-chacoense/scralf3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ScRALF3 Gene Name: rapid alkalinization factor 3 Genome: Species: Solanum chacoense Functional Descriptions: ScRALF3, a secreted RALF-like peptide involved in cell–cell communication between the sporophyte and the female gametophyte in a solanaceous species.</description>
+    </item>
+  </channel>
+</rss>

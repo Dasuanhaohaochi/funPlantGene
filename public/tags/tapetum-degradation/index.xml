@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tapetum degradation on funPlantGenes</title>
+    <link>/tags/tapetum-degradation/</link>
+    <description>Recent content in tapetum degradation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/tapetum-degradation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhNSP</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghir_d02g025140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghir_d02g025140/</guid>
+      <description>Gene Details: Gene ID: Ghir_D02G025140 Gene Symbol: GhNSP Gene Name: NO SPINE POLLEN Genome: Species: Gossypium hirsutum Functional Descriptions: Degradation of de-esterified pctin/homogalacturonan by the polygalacturonase GhNSP is necessary for pollen exine formation and male fertility in cotton.</description>
+    </item>
+    <item>
+      <title>OsTKPR1;OsDFR2</title>
+      <link>/genes/oryza_sativa/loc_os09g32020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g32020/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g32020 RAPdb gene ID: Os09g0493500 Gene Symbol: OsTKPR1 OsDFR2 OS-DFR2 OsCCRL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsUGE1</title>
+      <link>/genes/oryza_sativa/loc_os05g51670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g51670/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g51670 RAPdb gene ID: Os05g0595100 Gene Symbol: OsUGE1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlATG7</title>
+      <link>/genes/solanum_lycopersicum/slatg7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slatg7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g068930 Gene Symbol: SlATG7 Gene Name: Genome: reference tomato genome SL4.</description>
+    </item>
+    <item>
+      <title>SlHB8</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g066500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g066500/</guid>
+      <description>Gene Details: Gene ID: Solyc08g066500 Gene Symbol: SlHB8 Gene Name: HD-Zip III family transcription factor 8 Genome: Species: Solanum lycopersicum Functional Descriptions: The SlHB8 acts as a negative regulator in tapetum development and pollen wall formation in Tomato.</description>
+    </item>
+    <item>
+      <title>STS1;OsLDDT1</title>
+      <link>/genes/oryza_sativa/loc_os03g02170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g02170/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g02170 RAPdb gene ID: Os03g0112800 Gene Symbol: STS1 OsLDDT1 OsSTS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

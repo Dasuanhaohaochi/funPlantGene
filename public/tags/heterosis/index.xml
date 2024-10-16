@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>heterosis on funPlantGenes</title>
+    <link>/tags/heterosis/</link>
+    <description>Recent content in heterosis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/heterosis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSA</title>
+      <link>/genes/oryza_sativa/loc_os01g16810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g16810/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g16810 RAPdb gene ID: Os01g0274800 Gene Symbol: CSA Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>GhCYP703A2</title>
+      <link>/genes/gossypium_hirsutum/ghcyp703a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghcyp703a2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir D12G012350.1 Gene Symbol: GhCYP703A2 Gene Name: Genome: Gossypium hirsutum (TM-1) reference genome Species: Gossypium hirsutum Functional Descriptions: Cytochrome P450 mono-oxygenase CYP703A2 plays a central role in sporopollenin formation and ms5ms6 fertility in cotton.</description>
+    </item>
+    <item>
+      <title>GmPPR576</title>
+      <link>/genes/glycine_max/gmppr576/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmppr576/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.16G161900 Gene Symbol: GmPPR576 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: GmPPR576 is a fertility restorer gene of NJCMS1A.</description>
+    </item>
+    <item>
+      <title>Ne2</title>
+      <link>/genes/triticum_aestivum/ne2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ne2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G182800 Gene Symbol: Ne2 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>SiNP1</title>
+      <link>/genes/setaria_italica/sinp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/setaria_italica/sinp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Seita.9G347800 Gene Symbol: SiNP1 Gene Name: Genome: Setaria italica v2.</description>
+    </item>
+    <item>
+      <title>YSA</title>
+      <link>/genes/oryza_sativa/loc_os03g40020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g40020/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g40020 RAPdb gene ID: Os03g0597200 Gene Symbol: YSA Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmARF25;ZmARF32</title>
+      <link>/genes/zea_mays/zmarf25zmarf32arftf25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmarf25zmarf32arftf25/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb363810 Gene Symbol: ZmARF25 ZmARF32 arftf25 Gene Name: ARF-transcription factor 25 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmKOB1;kob1</title>
+      <link>/genes/zea_mays/zmkob1kob1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmkob1kob1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb119140 Gene Symbol: ZmKOB1 kob1 Gene Name: kobito1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMs30</title>
+      <link>/genes/zea_mays/zm00001eb195900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb195900/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb195900 Gene Symbol: ZmMs30 Gene Name: male sterile30 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

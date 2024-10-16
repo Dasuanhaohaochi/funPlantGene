@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anthocyanin biosynthesis on funPlantGenes</title>
+    <link>/tags/anthocyanin-biosynthesis/</link>
+    <description>Recent content in anthocyanin biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/anthocyanin-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AaYABBY5</title>
+      <link>/genes/2024.6.9/artemisia-annua/aayabby5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/artemisia-annua/aayabby5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: AaYABBY5 Gene Name: YABBY family transcription factor 5 Genome: Species: Artemisia annua Functional Descriptions: Transcriptional regulation of flavonoid biosynthesis in Artemisia annua by AaYABBY5.</description>
+    </item>
+    <item>
+      <title>AcMADS68</title>
+      <link>/genes/2024.6.9/acmads68/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/acmads68/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: AcMADS68 Gene Name: Genome: Species: Actinidia chinensis Functional Descriptions: A new SEP gene, AcMADS68, was identified as a regulatory candidate for anthocyanin biosynthesis in the kiwifruit by transcriptome data and bioinformatic analyses.</description>
+    </item>
+    <item>
+      <title>AN2</title>
+      <link>/genes/2024.6.9/petunia-hybrida/an2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/petunia-hybrida/an2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: AN2 Gene Name: ANTHOCYANIN2 Genome: Species: Petunia hybrida Functional Descriptions: The anthocyanin biosynthesis pathway was strongly downregulated in star petals, including its major regulator ANTHOCYANIN2 (AN2).</description>
+    </item>
+    <item>
+      <title>BnaA05.CPC</title>
+      <link>/genes/brassica_napus/bnaa05.cpc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaa05.cpc/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaA05g01400D Gene Symbol: BnaA05.CPC Gene Name: CAPRICE Genome: B.</description>
+    </item>
+    <item>
+      <title>BnbHLH92a</title>
+      <link>/genes/2024.7.17/brassica-napus/bnaa06t0441000zs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/brassica-napus/bnaa06t0441000zs/</guid>
+      <description>Gene Details: Gene ID: BnaA06T0441000ZS Gene Symbol: BnbHLH92a Gene Name: Genome: BnPIR Species: Brassica napus Functional Descriptions: BnbHLH92a is a candidate regulator for yellow-seeded B.</description>
+    </item>
+    <item>
+      <title>BoMYB2</title>
+      <link>/genes/2024.6.9/brassica-oleracea/bomyb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-oleracea/bomyb2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BoMYB2 Gene Name: Graffiti MYB2 Genome: Species: Brassica oleracea Functional Descriptions: Characterization of the regulatory network of BoMYB2 in controlling anthocyanin biosynthesis in purple cauliflower.</description>
+    </item>
+    <item>
+      <title>BrMYB2</title>
+      <link>/genes/brassica_rapa/brmyb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_rapa/brmyb2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Bra004162 Gene Symbol: BrMYB2 Gene Name: Genome: B.</description>
+    </item>
+    <item>
+      <title>CmbHLH16</title>
+      <link>/genes/chrysanthemum_morifolium/cmbhlh16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/chrysanthemum_morifolium/cmbhlh16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CmbHLH16 Gene Name: Chrysanthemum morifolium basic helix-loop-helix16 Genome: Chrysanthemum genome v2.</description>
+    </item>
+    <item>
+      <title>CmDFR</title>
+      <link>/genes/chrysanthemum_morifolium/cmdfr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/chrysanthemum_morifolium/cmdfr/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CmDFR Gene Name: Genome: Species: Chrysanthemum morifolium Functional Descriptions: CmDFR, which encodes the key enzyme in anthocyanin biosynthesis.</description>
+    </item>
+    <item>
+      <title>CmMYB6</title>
+      <link>/genes/chrysanthemum_morifolium/cmmyb6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/chrysanthemum_morifolium/cmmyb6/</guid>
+      <description>Gene Details: Gene ID:&#x9;CL4673.Contig1_All homolog Gene Symbol: CmMYB6 Gene Name: Genome: Species: Chrysanthemum morifolium Functional Descriptions: CmMYB6, a core member of the MBW protein complex that promotes anthocyanin biosynthesis in chrysanthemum, to activate its expression.</description>
+    </item>
+    <item>
+      <title>CmNAC25</title>
+      <link>/genes/chrysanthemum_morifolium/cmnac25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/chrysanthemum_morifolium/cmnac25/</guid>
+      <description>Gene Details: Gene ID:&#x9;Unigene39896_All Gene Symbol: CmNAC25 Gene Name: Genome: Species: Chrysanthemum morifolium Functional Descriptions: CmNAC25 targets CmMYB6 to positively regulate anthocyanin biosynthesis during the post-flowering stage in chrysanthemum.</description>
+    </item>
+    <item>
+      <title>CsANSa</title>
+      <link>/genes/camellia_sinensis/csansa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/csansa/</guid>
+      <description>Gene Details: Gene ID:&#x9;CSS0010687 Gene Symbol: CsANSa Gene Name: Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>CsF3Ha</title>
+      <link>/genes/camellia_sinensis/csf3ha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/csf3ha/</guid>
+      <description>Gene Details: Gene ID:&#x9;CSS0016177 Gene Symbol: CsF3Ha Gene Name: Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>CsMYB113</title>
+      <link>/genes/camellia_sinensis/csmyb113/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/csmyb113/</guid>
+      <description>Gene Details: Gene ID:&#x9;CSS0046378 Gene Symbol: CsMYB113 Gene Name: Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>CsMYB3</title>
+      <link>/genes/2024.6.9/citrus-sinensis/csmyb3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/csmyb3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsMYB3 Gene Name: Genome: Species: Citrus sinensis Functional Descriptions: CsMYB3 and CsRuby1 form an ‘Activator-and-Repressor’ Loop for the Regulation of Anthocyanin Biosynthesis in Citrus.</description>
+    </item>
+    <item>
+      <title>CsMYB75</title>
+      <link>/genes/2024.6.9/camellia-sinensis/unigene017036/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/unigene017036/</guid>
+      <description>Gene Details: Gene ID: Unigene017036 Gene Symbol: CsMYB75 Gene Name: MYB75 protein Genome: Species: Camellia sinensis Functional Descriptions: A coupled role for CsMYB75 and CsGSTF1 in anthocyanin hyperaccumulation in purple tea.</description>
+    </item>
+    <item>
+      <title>CsMYBL2a</title>
+      <link>/genes/2024.6.9/camellia-sinensis/csmybl2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/csmybl2a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsMYBL2a Gene Name: Genome: Species: Camellia sinensis Functional Descriptions: CsMYBL2 homologs modulate the light and temperature stress-regulated anthocyanin and catechins biosynthesis in tea plants.</description>
+    </item>
+    <item>
+      <title>CsMYBL2b</title>
+      <link>/genes/2024.6.9/camellia-sinensis/csmybl2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/csmybl2b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsMYBL2b Gene Name: Genome: Species: Camellia sinensis Functional Descriptions: CsMYBL2 homologs modulate the light and temperature stress-regulated anthocyanin and catechins biosynthesis in tea plants.</description>
+    </item>
+    <item>
+      <title>CsTCP14</title>
+      <link>/genes/2024.6.9/camellia-sinensis/cstcp14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/cstcp14/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsTCP14 Gene Name: Genome: Species: Camellia sinensis Functional Descriptions: CsTCPs regulate shoot tip development and catechin biosynthesis in tea plant.</description>
+    </item>
+    <item>
+      <title>CsTCP3</title>
+      <link>/genes/2024.6.9/camellia-sinensis/cstcp3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/cstcp3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsTCP3 Gene Name: Genome: Species: Camellia sinensis Functional Descriptions: CsTCPs regulate shoot tip development and catechin biosynthesis in tea plant.</description>
+    </item>
+    <item>
+      <title>CsTCP4</title>
+      <link>/genes/2024.6.9/camellia-sinensis/cstcp4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/cstcp4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsTCP4 Gene Name: Genome: Species: Camellia sinensis Functional Descriptions: CsTCPs regulate shoot tip development and catechin biosynthesis in tea plant.</description>
+    </item>
+    <item>
+      <title>CsTT8</title>
+      <link>/genes/2024.6.9/citrus-sinensis/cs5g31400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/cs5g31400/</guid>
+      <description>Gene Details: Gene ID: Cs5g31400 Gene Symbol: CsTT8 Gene Name: Genome: Species: Citrus sinensis Functional Descriptions: CsTT8 regulates anthocyanin accumulation in blood orange through alternative splicing transcription.</description>
+    </item>
+    <item>
+      <title>CsUGT75L43</title>
+      <link>/genes/camellia_sinensis/csugt75l43/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/csugt75l43/</guid>
+      <description>Gene Details: Gene ID:&#x9;CSS0043878 Gene Symbol: CsUGT75L43 Gene Name: Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>CsUGT78A15</title>
+      <link>/genes/camellia_sinensis/csugt78a15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/csugt78a15/</guid>
+      <description>Gene Details: Gene ID:&#x9;CSS0010045 Gene Symbol: CsUGT78A15 Gene Name: Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>DcMYB113</title>
+      <link>/genes/2024.6.9/daucus-carota/dcar_008994/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dcar_008994/</guid>
+      <description>Gene Details: Gene ID: DCAR_008994 Gene Symbol: DcMYB113 Gene Name: MYB transcription factor 113 Genome: carrot genome (V2.</description>
+    </item>
+    <item>
+      <title>DcMYB7</title>
+      <link>/genes/2024.6.9/daucus-carota/dcar_010745/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dcar_010745/</guid>
+      <description>Gene Details: Gene ID: DCAR_010745 Gene Symbol: DcMYB7 Gene Name: MYB transcription factor 7 Genome: DH1 (orange) carrot genome Species: Daucus carota Functional Descriptions: Changing Carrot Color: Insertions in DcMYB7 Alter the Regulation of Anthocyanin Biosynthesis and Modification1.</description>
+    </item>
+    <item>
+      <title>DkMyb4</title>
+      <link>/genes/2024.6.9/diospyros-kaki/dkmyb4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/diospyros-kaki/dkmyb4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: DkMyb4 Gene Name: Myb transcription factor4 Genome: Species: Diospyros kaki Functional Descriptions: DkMyb4 Is a Myb Transcription Factor Involved in Proanthocyanidin Biosynthesis in Persimmon Fruit.</description>
+    </item>
+    <item>
+      <title>F3GGT1</title>
+      <link>/genes/2024.6.9/actinidia-chinensis/f3ggt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/actinidia-chinensis/f3ggt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: F3GGT1 Gene Name: anthocyanidin 3-O-galactoside-2′’-O-xylosyltransferase Genome: Species: Actinidia chinensis Functional Descriptions: Identification and characterisation of F3GT1 and F3GGT1, two glycosyltransferases responsible for anthocyanin biosynthesis in red-fleshed kiwifruit.</description>
+    </item>
+    <item>
+      <title>F3GT1</title>
+      <link>/genes/2024.6.9/actinidia-chinensis/f3gt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/actinidia-chinensis/f3gt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: F3GT1 Gene Name: flavonoid 3-0-galactosyltransferase1 Genome: Species: Actinidia chinensis Functional Descriptions: Identification and characterisation of F3GT1 and F3GGT1, two glycosyltransferases responsible for anthocyanin biosynthesis in red-fleshed kiwifruit.</description>
+    </item>
+    <item>
+      <title>FabHLH3</title>
+      <link>/genes/2024.6.9/fragaria-ananassa/fabhlh3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fragaria-ananassa/fabhlh3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FabHLH3 Gene Name: Genome: Species: Fragaria ananassa Functional Descriptions: FaMYB123 interacts with FabHLH3 to regulate the late steps of anthocyanin and flavonol biosynthesis during ripening.</description>
+    </item>
+    <item>
+      <title>FaMYB10</title>
+      <link>/genes/2024.6.9/fragaria-ananassa/famyb10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fragaria-ananassa/famyb10/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FaMYB10 Gene Name: MYB transcription factor10 Genome: Species: Fragaria ananassa Functional Descriptions: This insertion introduced a predicted premature termination codon, which suggested the loss of intact FaMYB10 protein playing a critical role in the loss of red colour in white octoploid strawberry.</description>
+    </item>
+    <item>
+      <title>FaMYB123</title>
+      <link>/genes/2024.6.9/fragaria-ananassa/fvh4_5g32460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fragaria-ananassa/fvh4_5g32460/</guid>
+      <description>Gene Details: Gene ID: FvH4_5g32460 Gene Symbol: FaMYB123 Gene Name: R2R3 MYB transcription factor 123 Genome: Species: Fragaria ananassa Functional Descriptions: FaMYB123 interacts with FabHLH3 to regulate the late steps of anthocyanin and flavonol biosynthesis during ripening.</description>
+    </item>
+    <item>
+      <title>FhPAP1</title>
+      <link>/genes/2024.6.9/freesia-hybrida/fhpap1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/freesia-hybrida/fhpap1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FhPAP1 Gene Name: Genome: Species: Freesia hybrida Functional Descriptions: The Conserved and Particular Roles of the R2R3-MYB Regulator FhPAP1 from Freesia hybrida in Flower Anthocyanin Biosynthesis.</description>
+    </item>
+    <item>
+      <title>FveMYB10</title>
+      <link>/genes/2024.6.9/fragaria-ananassa/fvh4_1g22020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fragaria-ananassa/fvh4_1g22020/</guid>
+      <description>Gene Details: Gene ID: FvH4_1g22020 Gene Symbol: FveMYB10 Gene Name: R2R3-MYB transcription factor 10 Genome: Species: Fragaria ananassa Functional Descriptions: The R2R3-MYB transcription factor FveMYB10 is a major regulator of anthocyanin pigmentation in the red fruits of strawberry.</description>
+    </item>
+    <item>
+      <title>FveMYB10L</title>
+      <link>/genes/2024.6.9/fragaria-ananassa/fvh4_1g22040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fragaria-ananassa/fvh4_1g22040/</guid>
+      <description>Gene Details: Gene ID: FvH4_1g22040 Gene Symbol: FveMYB10L Gene Name: R2R3-MYB transcription factor 10 Like Genome: Species: Fragaria ananassa Functional Descriptions: Using mapping-by-sequencing and transient functional assays, we confirmed that the causative mutation resides in a FveMYB10-Like (FveMYB10L) gene and that FveMYB10 and FveMYB10L function independently in the fruit and petiole, respectively.</description>
+    </item>
+    <item>
+      <title>FvMYB10</title>
+      <link>/genes/2024.6.9/fragaria-vesca/fvh4_1g22020-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fragaria-vesca/fvh4_1g22020-/</guid>
+      <description>Gene Details: Gene ID: FvH4_1g22020 Gene Symbol: FvMYB10 Gene Name: MYB transcription factor 10 Genome: Fragaria vesca ID (v4.</description>
+    </item>
+    <item>
+      <title>GbBM</title>
+      <link>/genes/2024.6.9/gossypium-barbadense/gbar_a07g008330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-barbadense/gbar_a07g008330/</guid>
+      <description>Gene Details: Gene ID: Gbar_A07G008330 Gene Symbol: GbBM Gene Name: Beauty Mark Genome: Species: Gossypium barbadense Functional Descriptions: Demonstrate that GbBM directly targets the promoter of four flavonoid biosynthesis genes to positively regulate petal spot development.</description>
+    </item>
+    <item>
+      <title>GmMYBA3</title>
+      <link>/genes/2024.7.17/glycine-max/glyma.18g262000.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/glycine-max/glyma.18g262000.1/</guid>
+      <description>Gene Details: Gene ID: Glyma.18G262000.1 Gene Symbol: GmMYBA3 Gene Name: Genome: Phytozyme 13 Species: Glycine max Functional Descriptions: Molecular and genetic studies have characterized two antagonistic regulators, the positive activator GmMYBA3 and the negative repressor GmMYBR1, that modulate the gene expression of anthocyanin biosynthesis in soybean flowers.</description>
+    </item>
+    <item>
+      <title>GmMYBR1</title>
+      <link>/genes/2024.7.17/glycine-max/glyma.02g247100.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/glycine-max/glyma.02g247100.1/</guid>
+      <description>Gene Details: Gene ID: Glyma.02G247100.1 Gene Symbol: GmMYBR1 Gene Name: Genome: Species: Glycine max Functional Descriptions: Molecular and genetic studies have characterized two antagonistic regulators, the positive activator GmMYBA3 and the negative repressor GmMYBR1, that modulate the gene expression of anthocyanin biosynthesis in soybean flowers.</description>
+    </item>
+    <item>
+      <title>HtMYB2</title>
+      <link>/genes/2024.6.9/helianthus-tuberosus/unigene44371_all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/helianthus-tuberosus/unigene44371_all/</guid>
+      <description>Gene Details: Gene ID: Unigene44371_All Gene Symbol: HtMYB2 Gene Name: Genome: Species: Helianthus tuberosus Functional Descriptions: HtMYB2 (Unigene44371_All) was the only MYB transcription factor, homologous to the MYB transcription factor regulating anthocyanin biosynthesis, expressed in the red tuber epidermis of ‘QY1’.</description>
+    </item>
+    <item>
+      <title>LfMYB113</title>
+      <link>/genes/2024.6.9/liquidambar-formosana/lfmyb113/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/liquidambar-formosana/lfmyb113/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LfMYB113 Gene Name: MYB transcription factor 113 Genome: Species: Liquidambar formosana Functional Descriptions: A R2R3-MYB Gene LfMYB113 is Responsible for Autumn Leaf Coloration in Formosan sweet gum.</description>
+    </item>
+    <item>
+      <title>LhMYBSPLATTER</title>
+      <link>/genes/2024.6.9/lilium-hybrid/lhmybsplatter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lilium-hybrid/lhmybsplatter/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LhMYBSPLATTER|LhMYB12-Lat Gene Name: Genome: Species: Lilium hybrid Functional Descriptions: Transcription factor (TF) LhMYBSPLATTER|LhMYB12-Lat (formerly known as LhMYBSPLATTER|LhMYB12-Lat), identified as the major kernel protein, regulating the anthocyanin biosynthesis pathway in ‘Tiny Padhye’ of Tango Series cultivars, which the pigmentation density is high in the lower half of tepals and this patterning is of exceptional ornamental value.</description>
+    </item>
+    <item>
+      <title>McHDA6</title>
+      <link>/genes/malus_domestica/mchda6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mchda6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: McHDA6 Gene Name: Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdARF13</title>
+      <link>/genes/malus_domestica/mdarf13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdarf13/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000412781 Gene Symbol: MdARF13 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdARF5-1</title>
+      <link>/genes/malus_domestica/mdarf5-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdarf5-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000143749 Gene Symbol: MdARF5-1 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdBBX20</title>
+      <link>/genes/malus_domestica/mdbbx20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdbbx20/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000800387 Gene Symbol: MdBBX20 Gene Name: B-box zinc finger protein 20 Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdBBX22</title>
+      <link>/genes/malus_domestica/mdbbx22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdbbx22/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD11G1269800 , MDP0000298804 Gene Symbol: MdBBX22 Gene Name: B-box gene 22 Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdbHLH162</title>
+      <link>/genes/2024.6.9/md09g1233000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/md09g1233000/</guid>
+      <description>Gene Details: Gene ID: MD09G1233000 Gene Symbol: MdbHLH162 Gene Name: Genome: Species: Malus domestica Functional Descriptions: MdbHLH162 connects the gibberellin and jasmonic acid signals to regulate anthocyanin biosynthesis in apple.</description>
+    </item>
+    <item>
+      <title>MdbHLH3</title>
+      <link>/genes/malus_domestica/mdbhlh3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdbhlh3/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000225680 Gene Symbol: MdbHLH3 Gene Name: basic helix-loop-helix transcription factor 3 Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdBT2</title>
+      <link>/genes/2024.6.9/brassica-napus/mdp0000643281/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-napus/mdp0000643281/</guid>
+      <description>Gene Details: Gene ID: MDP0000643281 Gene Symbol: MdBT2 Gene Name: BROAD-COMPLEX, TRAMTRACK AND BRIC A BRAC2 Genome: Species: Brassica napus Functional Descriptions: MdBT2 is a BTB protein that directly interacts with and stabilizes MdCOP1 by inhibiting self-ubiquitination.</description>
+    </item>
+    <item>
+      <title>MdBT2</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000151000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000151000/</guid>
+      <description>Gene Details: Gene ID: MDP0000151000 Gene Symbol: MdBT2 Gene Name: bric-a-brac/tramtrack/broad protein 2 Genome: Species: Malus domestica Functional Descriptions: Dynamic regulation of anthocyanin biosynthesis at different light intensities by the BT2-TCP46-MYB1 module in apple.</description>
+    </item>
+    <item>
+      <title>MdCCR</title>
+      <link>/genes/malus_domestica/mdccr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdccr/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: MdCCR Gene Name: Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdCIP1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000230486/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000230486/</guid>
+      <description>Gene Details: Gene ID: MDP0000230486 Gene Symbol: MdCIP1 Gene Name: COP1-interacting protein 1 Genome: Species: Malus domestica Functional Descriptions: Expression pattern analysis showed that MdCIP1 was constitutively expressed in various tissues of apple, and responded to stress and hormone signals at the transcriptional level.</description>
+    </item>
+    <item>
+      <title>MdCIPK20</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000320872/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000320872/</guid>
+      <description>Gene Details: Gene ID: MDP0000320872 Gene Symbol: MdCIPK20 Gene Name: CBL-interacting protein kinase 20 Genome: Species: Malus domestica Functional Descriptions: A protein kinase MdCIPK20 was found to phosphorylate and protect MdRGL2a from degradation, and it was essential for MdRGL2a-promoting anthocyanin accumulation.</description>
+    </item>
+    <item>
+      <title>MdCOP1</title>
+      <link>/genes/2024.6.9/brassica-napus/mdp0000245133/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-napus/mdp0000245133/</guid>
+      <description>Gene Details: Gene ID: MDP0000245133 Gene Symbol: MdCOP1 Gene Name: CONSTITUTIVELY PHOTOMORPHOGENIC 1 Genome: Genome Database for Rosaceae (GDR| https://www.</description>
+    </item>
+    <item>
+      <title>MdEIL1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000423881/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000423881/</guid>
+      <description>Gene Details: Gene ID: MDP0000423881 Gene Symbol: MdEIL1 Gene Name: EIN3-LIKE1 Genome: Species: Malus domestica Functional Descriptions: Ethylene precisely regulates anthocyanin synthesis in apple via a module comprising MdEIL1, MdMYB1, and MdMYB17.</description>
+    </item>
+    <item>
+      <title>MdERF1B</title>
+      <link>/genes/2024.6.9/malus-domestica/mderf1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mderf1b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdERF1B Gene Name: Genome: Species: Malus domestica Functional Descriptions: The ethylene response factor MdERF1B regulates anthocyanin and proanthocyanidin biosynthesis in apple.</description>
+    </item>
+    <item>
+      <title>MdERF3</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000787281/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000787281/</guid>
+      <description>Gene Details: Gene ID: MDP0000787281 Gene Symbol: MdERF3 Gene Name: ETHYLENE RESPONSE FACTOR3 Genome: Species: Malus domestica Functional Descriptions: EIN3-LIKE1, MYB1, and ETHYLENE RESPONSE FACTOR3 Act in a Regulatory Loop That Synergistically Modulates Ethylene Biosynthesis and Anthocyanin Accumulation.</description>
+    </item>
+    <item>
+      <title>MdERF38</title>
+      <link>/genes/malus_domestica/mderf38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mderf38/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000644807 Gene Symbol: MdERF38 Gene Name: Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdGRF11</title>
+      <link>/genes/2024.6.9/malus-domestica/md10g1280300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md10g1280300/</guid>
+      <description>Gene Details: Gene ID: MD10G1280300 Gene Symbol: MdGRF11 Gene Name: Genome: Species: Malus domestica Functional Descriptions: The apple 14-3-3 protein MdGRF11 interacts with the BTB protein MdBT2 to regulate nitrate deficiency-induced anthocyanin accumulation.</description>
+    </item>
+    <item>
+      <title>MdHB1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdhb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdhb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdHB1 Gene Name: homeodomain leucine zipper protein 1 Genome: Species: Malus domestica Functional Descriptions: MdHB1 down-regulation activates anthocyanin biosynthesis in the white-fleshed apple cultivar ‘Granny Smith’.</description>
+    </item>
+    <item>
+      <title>MdHY5</title>
+      <link>/genes/malus_domestica/mdhy5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdhy5/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000586302 Gene Symbol: MdHY5 Gene Name: Malus domestica LONG HYPOCOTYL 5 Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdIAA121</title>
+      <link>/genes/malus_domestica/mdiaa121/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdiaa121/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000131759 Gene Symbol: MdIAA121 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdIAA29</title>
+      <link>/genes/malus_domestica/mdiaa29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdiaa29/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000543718 Gene Symbol: MdIAA29 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdJAZ1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000452772/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000452772/</guid>
+      <description>Gene Details: Gene ID: MDP0000452772 Gene Symbol: MdJAZ1 Gene Name: jasmonate-ZIM domain (JAZ) protein 1 Genome: Species: Malus domestica Functional Descriptions: The jasmonate-ZIM domain (JAZ) proteins MdJAZ1 and MdJAZ2 negatively modulate MdABI4-improved cold tolerance in apple by interacting with the MdABI4 protein.</description>
+    </item>
+    <item>
+      <title>MdJAZ18</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000757701/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000757701/</guid>
+      <description>Gene Details: Gene ID: MDP0000757701 Gene Symbol: MdJAZ18 Gene Name: jasmonate ZIM-domain protein 18 Genome: Species: Malus domestica Functional Descriptions: MdSnRK1.</description>
+    </item>
+    <item>
+      <title>MdMPK4-06G</title>
+      <link>/genes/malus_domestica/mdmpk4-06g/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdmpk4-06g/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD06G1089500 Gene Symbol: MdMPK4-06G Gene Name: MAP KINASE4 Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdMPK4-14G</title>
+      <link>/genes/malus_domestica/mdmpk4-14g/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdmpk4-14g/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD14G1110400 Gene Symbol: MdMPK4-14G Gene Name: MAP KINASE4 Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdMRLK2</title>
+      <link>/genes/malus_domestica/mdmrlk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdmrlk2/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD12G1190700 Gene Symbol: MdMRLK2 Gene Name: Malus domestica FERONIA receptor-like kinase 2 Genome: Malus × domestica GDDH13 v1.</description>
+    </item>
+    <item>
+      <title>MdMYB1</title>
+      <link>/genes/malus_domestica/mdmyb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdmyb1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000259614 Gene Symbol: MdMYB1 Gene Name: R2R3-MYB transcription factor 1 Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdMYB1–1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdmyb11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdmyb11/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdMYB1–1 Gene Name: Genome: Species: Malus domestica Functional Descriptions: The effect of promoter methylation on MdMYB1 expression determines the level of anthocyanin accumulation in skins of two non-red apple cultivars.</description>
+    </item>
+    <item>
+      <title>MdMYB1–2</title>
+      <link>/genes/2024.6.9/malus-domestica/mdmyb12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdmyb12/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdMYB1–2 Gene Name: Genome: Species: Malus domestica Functional Descriptions: The effect of promoter methylation on MdMYB1 expression determines the level of anthocyanin accumulation in skins of two non-red apple cultivars.</description>
+    </item>
+    <item>
+      <title>MdMYB10</title>
+      <link>/genes/2024.6.9/malus-domestica/mdmyb10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdmyb10/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdMYB10 Gene Name: MYB transcription factor 10 Genome: Species: Malus domestica Functional Descriptions: Efficient induction of anthocyanin biosynthesis in transient assays by MdMYB10 was dependent on the co-expression of two distinct bHLH proteins from apple, MdbHLH3 and MdbHLH33.</description>
+    </item>
+    <item>
+      <title>MdMYB16</title>
+      <link>/genes/malus_domestica/mdmyb16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdmyb16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: MdMYB16 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdMYB3</title>
+      <link>/genes/2024.6.9/malus-domestica/mdmyb3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdmyb3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdMYB3 Gene Name: MYB domain class transcription factor3 Genome: Species: Malus domestica Functional Descriptions: An apple MYB transcription factor, MdMYB3, is involved in regulation of anthocyanin biosynthesis and flower development.</description>
+    </item>
+    <item>
+      <title>MdMYB6</title>
+      <link>/genes/malus_domestica/mdmyb6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdmyb6/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD15G1288600 Gene Symbol: MdMYB6 Gene Name: Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdMYB90-like</title>
+      <link>/genes/malus_domestica/mdmyb90-like/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdmyb90-like/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: MdMYB90-like Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdMYBPA1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdmybpa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdmybpa1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdMYBPA1 Gene Name: PA1-type MYB transcription factor 1 Genome: Species: Malus domestica Functional Descriptions: The proanthocyanidin-specific transcription factor MdMYBPA1 initiates anthocyanin synthesis under low-temperature conditions in red-fleshed apples.</description>
+    </item>
+    <item>
+      <title>MdMYC2</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000029168/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000029168/</guid>
+      <description>Gene Details: Gene ID: MDP0000029168 Gene Symbol: MdMYC2 Gene Name: Jasmonate-Activated Transcription Factor 2 Genome: Species: Malus domestica Functional Descriptions: MdMYC2 is a homology of Arabidopsis MYC2 in apple, it has highly similarity in structure and function to the Arabidopsis MYC2.</description>
+    </item>
+    <item>
+      <title>MdPHR1</title>
+      <link>/genes/2024.6.9/malus-domestica/md05g1189400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md05g1189400/</guid>
+      <description>Gene Details: Gene ID: MD05G1189400 Gene Symbol: MdPHR1 Gene Name: PHOSPHATE STARVATION RESPONSE1 Genome: Species: Malus domestica Functional Descriptions: determined that MdPHR1 was essential for Pi deficiency-induced anthocyanin accumulation in apple (Malus × domestica).</description>
+    </item>
+    <item>
+      <title>MdPHR1</title>
+      <link>/genes/malus_domestica/mdphr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdphr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD05G1189400 Gene Symbol: MdPHR1 Gene Name: Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdPIF7</title>
+      <link>/genes/malus_domestica/mdpif7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdpif7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: MdPIF7 Gene Name: Malus domestica phytochrome interacting factor 7 Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdRGL2a</title>
+      <link>/genes/malus_domestica/mdrgl2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdrgl2a/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD09G1264800 Gene Symbol: MdRGL2a Gene Name: DELLA protein Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdSINA1</title>
+      <link>/genes/2024.6.9/malus-domestica/md01g1082000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md01g1082000/</guid>
+      <description>Gene Details: Gene ID: MD01G1082000 Gene Symbol: MdSINA1 Gene Name: E3 ubiquitin ligase 1 Genome: Species: Malus domestica Functional Descriptions: MdRGL2a and MdCIPK20 were ubiquitinated and degraded by E3 ubiquitin ligases MdSINA1 and MdSINA2, respectively, both of which were activated in the presence of GA.</description>
+    </item>
+    <item>
+      <title>MdSINA11</title>
+      <link>/genes/2024.6.9/malus-domestica/md14g1054300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md14g1054300/</guid>
+      <description>Gene Details: Gene ID: MD14G1054300 Gene Symbol: MdSINA11 Gene Name: E3 ubiquitin ligase 11 Genome: Species: Malus domestica Functional Descriptions: E3 ubiquitin ligases MdSINA4 and MdSINA11 regulate anthocyanin biosynthesis by targeting the IAA29-ARF5-1-ERF3 module in apple.</description>
+    </item>
+    <item>
+      <title>MdSINA2</title>
+      <link>/genes/2024.6.9/malus-domestica/md01g1218700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md01g1218700/</guid>
+      <description>Gene Details: Gene ID: MD01G1218700 Gene Symbol: MdSINA2 Gene Name: E3 ubiquitin ligase 2 Genome: Species: Malus domestica Functional Descriptions: MdRGL2a and MdCIPK20 were ubiquitinated and degraded by E3 ubiquitin ligases MdSINA1 and MdSINA2, respectively, both of which were activated in the presence of GA.</description>
+    </item>
+    <item>
+      <title>MdTCP46</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000319941/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000319941/</guid>
+      <description>Gene Details: Gene ID: MDP0000319941 Gene Symbol: MdTCP46 Gene Name: Teosinte branched1/cycloidea/proliferating transcription factor 46 Genome: Species: Malus domestica Functional Descriptions: The expression of MdTCP46 was responsive to high light intensity, and under these conditions it promoted anthocyanin biosynthesis by direct interactions with MdMYB1 that enhanced the binding of the latter to its target genes.</description>
+    </item>
+    <item>
+      <title>MdTMT1</title>
+      <link>/genes/malus_domestica/mdtmt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdtmt1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD06G1005100 Gene Symbol: MdTMT1 Gene Name: Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdWRKY75</title>
+      <link>/genes/malus_domestica/mdwrky75/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdwrky75/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000123888 Gene Symbol: MdWRKY75 Gene Name: WRKY transcription factor 75 Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MeTT8</title>
+      <link>/genes/manihot_esculenta/mett8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/mett8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.01G208400 Gene Symbol: MeTT8 Gene Name: Genome: Manihot esculenta, v6.</description>
+    </item>
+    <item>
+      <title>NsMYB1</title>
+      <link>/genes/2024.6.9/nitraria-sibirica/cluster-8422.10600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nitraria-sibirica/cluster-8422.10600/</guid>
+      <description>Gene Details: Gene ID: Cluster 8422.10600 Gene Symbol: NsMYB1 Gene Name: Genome: Species: Nitraria sibirica Functional Descriptions: Functional R2R3-MYB transcription factor NsMYB1, regulating anthocyanin biosynthesis, was relative to the fruit color differentiation in Nitraria sibirica Pall.</description>
+    </item>
+    <item>
+      <title>NtbHLH1</title>
+      <link>/genes/2024.6.9/nicotiana-tabacum/ntbhlh1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-tabacum/ntbhlh1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtbHLH1 Gene Name: basic helix-loop-helix 1 Genome: Species: Nicotiana tabacum Functional Descriptions: NtbHLH1, a JAF13-like bHLH, interacts with NtMYB6 to enhance proanthocyanidin accumulation in Chinese Narcissus.</description>
+    </item>
+    <item>
+      <title>PacCYP707A2</title>
+      <link>/genes/2024.6.9/prunus-avium/paccyp707a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-avium/paccyp707a2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PacCYP707A2 Gene Name: Genome: Species: Prunus avium Functional Descriptions: PacCYP707A2 negatively regulates cherry fruit ripening while PacCYP707A1 mediates drought tolerance.</description>
+    </item>
+    <item>
+      <title>PaMYB10</title>
+      <link>/genes/2024.6.9/prunus-avium/pamyb10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-avium/pamyb10/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PaMYB10 Gene Name: MYB transcriptional regulator 10 Genome: Species: Prunus avium Functional Descriptions: The R2R3-MYB transcription factor PaMYB10 is involved in anthocyanin biosynthesis in apricots and determines red blushed skin.</description>
+    </item>
+    <item>
+      <title>PbGA2ox8</title>
+      <link>/genes/2024.6.9/pyrus-bretschneideri/pbga2ox8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-bretschneideri/pbga2ox8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PbGA2ox8 Gene Name: pear GA 2-beta-dioxygenase 8 Genome: Species: Pyrus bretschneideri Functional Descriptions: PbGA2ox8 overexpression reduced the GA4 level and induced anthocyanin accumulation in pear fruit.</description>
+    </item>
+    <item>
+      <title>PbMYB10b</title>
+      <link>/genes/2024.6.9/pyrus-bretschneideri/pbmyb10b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-bretschneideri/pbmyb10b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PbMYB10b Gene Name: MYB10b transcription factor Genome: Species: Pyrus bretschneideri Functional Descriptions: Among these MYB-like genes, the specific functions of two novel MYB TFs, designated as PbMYB10b and PbMYB9, were further verified by both overexpression and RNAi transient assays.</description>
+    </item>
+    <item>
+      <title>PpERF105</title>
+      <link>/genes/2024.6.9/pyrus-pyrifolia/pperf105/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-pyrifolia/pperf105/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PpERF105 Gene Name: Genome: Species: Pyrus pyrifolia Functional Descriptions: Ethylene-activated PpERF105 induces the expression of the repressor-type R2R3-MYB gene PpMYB140 to inhibit anthocyanin biosynthesis in red pear fruit.</description>
+    </item>
+    <item>
+      <title>PpMYB140</title>
+      <link>/genes/2024.6.9/pyrus-pyrifolia/pbr000876.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-pyrifolia/pbr000876.1/</guid>
+      <description>Gene Details: Gene ID: Pbr000876.1 Gene Symbol: PpMYB140 Gene Name: Genome: Species: Pyrus pyrifolia Functional Descriptions: Ethylene-activated PpERF105 induces the expression of the repressor-type R2R3-MYB gene PpMYB140 to inhibit anthocyanin biosynthesis in red pear fruit.</description>
+    </item>
+    <item>
+      <title>PsbHLH3</title>
+      <link>/genes/2024.6.9/prunus-salicina/evm.tu.chr8.2504/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-salicina/evm.tu.chr8.2504/</guid>
+      <description>Gene Details: Gene ID: evm.TU.Chr8.2504 Gene Symbol: PsbHLH3 Gene Name: Genome: ‘Sanyueli’ plum (https://www.</description>
+    </item>
+    <item>
+      <title>PsERF1B</title>
+      <link>/genes/2024.6.9/prunus-salicina/evm.tu.chr8.2346/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-salicina/evm.tu.chr8.2346/</guid>
+      <description>Gene Details: Gene ID: evm.TU.Chr8.2346 Gene Symbol: PsERF1B Gene Name: Genome: ‘Sanyueli’ plum (https://www.</description>
+    </item>
+    <item>
+      <title>PsMYB10.1</title>
+      <link>/genes/2024.6.9/prunus-salicina/novel_g001502/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-salicina/novel_g001502/</guid>
+      <description>Gene Details: Gene ID: novel_G001502 Gene Symbol: PsMYB10.1 Gene Name: Genome: ‘Sanyueli’ plum (https://www.</description>
+    </item>
+    <item>
+      <title>PsMYB10.2</title>
+      <link>/genes/2024.6.9/prunus-salicina/psmyb10.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-salicina/psmyb10.2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PsMYB10.2 Gene Name: Genome: Species: Prunus salicina Functional Descriptions: An LTR retrotransposon in the promoter of a PsMYB10.</description>
+    </item>
+    <item>
+      <title>PsMYB30</title>
+      <link>/genes/2024.6.9/paeonia-suffruticosa/cluster_9455/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/paeonia-suffruticosa/cluster_9455/</guid>
+      <description>Gene Details: Gene ID: Cluster_9455 Gene Symbol: PsMYB30 Gene Name: R2R3-MYB Transcription Factor30 Genome: Species: Paeonia suffruticosa Functional Descriptions: Tree Peony R2R3-MYB Transcription Factor PsMYB30 Promotes Petal Blotch Formation by Activating the Transcription of the Anthocyanin Synthase Gene.</description>
+    </item>
+    <item>
+      <title>PuHB40</title>
+      <link>/genes/2024.7.17/pyrus-ussuriensis/evm0020592.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/pyrus-ussuriensis/evm0020592.1/</guid>
+      <description>Gene Details: Gene ID: EVM0020592.1 Gene Symbol: PuHB40 Gene Name: Phosphorylated transcription factor Genome: pear genome database Species: Pyrus ussuriensis Functional Descriptions: Phosphorylated transcription factor PuHB40 mediates ROS-dependent anthocyanin biosynthesis in pear exposed to high light.</description>
+    </item>
+    <item>
+      <title>PuRBOHF</title>
+      <link>/genes/2024.6.9/pyrus-ussuriensis/purbohf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-ussuriensis/purbohf/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuRBOHF Gene Name: respiratory burst oxidase homolog Genome: Species: Pyrus ussuriensis Functional Descriptions: Production of reactive oxygen species by PuRBOHF is critical for stone cell development in pear fruit.</description>
+    </item>
+    <item>
+      <title>PybHLH3</title>
+      <link>/genes/2024.6.9/pyrus-communis/pybhlh3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-communis/pybhlh3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PybHLH3 Gene Name: Genome: Species: Pyrus communis Functional Descriptions: PyWRKY26 and PybHLH3 cotargeted the PyMYB114 promoter to regulate anthocyanin biosynthesis and transport in red-skinned pears.</description>
+    </item>
+    <item>
+      <title>PyMYB114</title>
+      <link>/genes/2024.6.9/pyrus-communis/pymyb114/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-communis/pymyb114/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PyMYB114 Gene Name: Genome: Species: Pyrus communis Functional Descriptions: PyWRKY26 and PybHLH3 cotargeted the PyMYB114 promoter to regulate anthocyanin biosynthesis and transport in red-skinned pears.</description>
+    </item>
+    <item>
+      <title>PyWRKY26</title>
+      <link>/genes/2024.6.9/pyrus-communis/pbr013092.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-communis/pbr013092.1/</guid>
+      <description>Gene Details: Gene ID: Pbr013092.1 Gene Symbol: PyWRKY26 Gene Name: Genome: Species: Pyrus communis Functional Descriptions: PyWRKY26 and PybHLH3 cotargeted the PyMYB114 promoter to regulate anthocyanin biosynthesis and transport in red-skinned pears.</description>
+    </item>
+    <item>
+      <title>RcMYB1</title>
+      <link>/genes/2024.6.9/rosa-hybridaaa/rcmyb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/rosa-hybridaaa/rcmyb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: RcMYB1 Gene Name: R2R3-MYB transcription factor 1 Genome: Species: Rosa hybridaaa Functional Descriptions: The MYB transcription factor RcMYB1 plays a central role in rose anthocyanin biosynthesis.</description>
+    </item>
+    <item>
+      <title>RH1</title>
+      <link>/genes/medicago_truncatula/rh1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/medicago_truncatula/rh1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: RH1 Gene Name: RED HEART1 Genome: Species: Medicago truncatula Functional Descriptions: Our findings reveal the molecular mechanism of the antagonistic gene paralogs RH1 and RH2 in determining anthocyanin leaf markings in M.</description>
+    </item>
+    <item>
+      <title>RH2</title>
+      <link>/genes/medicago_truncatula/rh2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/medicago_truncatula/rh2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: RH2 Gene Name: RED HEART2 Genome: Medicago genome sequences MtrunA17r5.</description>
+    </item>
+    <item>
+      <title>RLL1</title>
+      <link>/genes/lactuca_sativa/rll1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/lactuca_sativa/rll1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: RLL1 Gene Name: Red Lettuce Leaves 1 Genome: Lsat_Salinas_v8 Species: Lactuca sativa Functional Descriptions: The characterization of multiple polymorphic genes in this study provides the necessary molecular resources for the rational breeding of lettuce cultivars with distinct levels of red pigments and green cultivars with high levels of health-promoting flavonoids.</description>
+    </item>
+    <item>
+      <title>RLL2</title>
+      <link>/genes/lactuca_sativa/rll2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/lactuca_sativa/rll2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: RLL2 Gene Name: Red Lettuce Leaves 2 Genome: Lsat_Salinas_v8 Species: Lactuca sativa Functional Descriptions: The characterization of multiple polymorphic genes in this study provides the necessary molecular resources for the rational breeding of lettuce cultivars with distinct levels of red pigments and green cultivars with high levels of health-promoting flavonoids.</description>
+    </item>
+    <item>
+      <title>RLL3</title>
+      <link>/genes/lactuca_sativa/rll3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/lactuca_sativa/rll3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: RLL3 Gene Name: Red Lettuce Leaves 3 Genome: Lsat_Salinas_v8 Species: Lactuca sativa Functional Descriptions: The characterization of multiple polymorphic genes in this study provides the necessary molecular resources for the rational breeding of lettuce cultivars with distinct levels of red pigments and green cultivars with high levels of health-promoting flavonoids.</description>
+    </item>
+    <item>
+      <title>RLL4</title>
+      <link>/genes/lactuca_sativa/rll4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/lactuca_sativa/rll4/</guid>
+      <description>Gene Details: Gene ID:&#x9;LG9804161 Gene Symbol: RLL4 Gene Name: Red Lettuce Leaves 4 Genome: Lsat_Salinas_v8 Species: Lactuca sativa Functional Descriptions: The characterization of multiple polymorphic genes in this study provides the necessary molecular resources for the rational breeding of lettuce cultivars with distinct levels of red pigments and green cultivars with high levels of health-promoting flavonoids.</description>
+    </item>
+    <item>
+      <title>RsMYB1</title>
+      <link>/genes/2024.6.9/raphanus-sativus/rsmyb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/raphanus-sativus/rsmyb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: RsMYB1 Gene Name: Bordeaux anthocyanin regulator Genome: Species: Raphanus sativus Functional Descriptions: Transposon-induced methylation of the RsMYB1 promoter disturbs anthocyanin accumulation in red-fleshed radish.</description>
+    </item>
+    <item>
+      <title>SlAN11</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slan11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slan11/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlAN11 Gene Name: TRANSPARENT TESTA GLABRA 1 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato SlAN11 regulates flavonoid biosynthesis and seed dormancy by interaction with bHLH proteins but not with MYB proteins.</description>
+    </item>
+    <item>
+      <title>SlCSN5-2</title>
+      <link>/genes/solanum_lycopersicum/slcsn5-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcsn5-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g073150 Gene Symbol: SlCSN5-2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlJAF13</title>
+      <link>/genes/solanum_lycopersicum/sljaf13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sljaf13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g081140 Gene Symbol: SlJAF13 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYB7</title>
+      <link>/genes/solanum_lycopersicum/slmyb7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g111500.3.1 Gene Symbol: SlMYB7 Gene Name: Genome: reference tomato genome SL4.</description>
+    </item>
+    <item>
+      <title>SmMYB35</title>
+      <link>/genes/2024.6.9/solanum-melongena/sme2.5_00216.1_g00001.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-melongena/sme2.5_00216.1_g00001.1/</guid>
+      <description>Gene Details: Gene ID: Sme2.5_00216.1_g00001.1 Gene Symbol: SmMYB35 Gene Name: Genome: Species: Solanum melongena Functional Descriptions: A light-responsive transcription factor SmMYB35 enhances anthocyanin biosynthesis in eggplant.</description>
+    </item>
+    <item>
+      <title>SmMYB5</title>
+      <link>/genes/2024.6.9/solanum-melongena/smechr0800147/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-melongena/smechr0800147/</guid>
+      <description>Gene Details: Gene ID: Smechr0800147 Gene Symbol: SmMYB5 Gene Name: MYB TF 5 Genome: eggplant genome website (http://eggplant-hq.</description>
+    </item>
+    <item>
+      <title>StAN11</title>
+      <link>/genes/2024.6.9/solanum-tuberosum/stan11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-tuberosum/stan11/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: StAN11 Gene Name: Genome: Species: Solanum tuberosum Functional Descriptions: StAN11, a WD40-repeat gene, was cloned from potato cultivar Chieftain (Solanum tuberosum L.</description>
+    </item>
+    <item>
+      <title>StMYB44-1</title>
+      <link>/genes/2024.6.9/solanum-tuberosum/pgsc0003dmg400003316/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-tuberosum/pgsc0003dmg400003316/</guid>
+      <description>Gene Details: Gene ID: PGSC0003DMG400003316 Gene Symbol: StMYB44-1 Gene Name: Genome: Species: Solanum tuberosum Functional Descriptions: StMYB44 negatively regulates anthocyanin biosynthesis at high temperatures in tuber flesh of potato.</description>
+    </item>
+    <item>
+      <title>StMYB44-2</title>
+      <link>/genes/2024.6.9/solanum-tuberosum/pgsc0003dmg400007994/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-tuberosum/pgsc0003dmg400007994/</guid>
+      <description>Gene Details: Gene ID: PGSC0003DMG400007994 Gene Symbol: StMYB44-2 Gene Name: Genome: Species: Solanum tuberosum Functional Descriptions: StMYB44 negatively regulates anthocyanin biosynthesis at high temperatures in tuber flesh of potato.</description>
+    </item>
+    <item>
+      <title>TaPpb1a</title>
+      <link>/genes/triticum_aestivum/tappb1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tappb1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaPpb1a Gene Name: purple pericarp-bHLH 1 Genome: Species: Triticum aestivum Functional Descriptions: Two transcription factors TaPpm1 and TaPpb1 co-regulate anthocyanin biosynthesis in purple pericarps of wheat.</description>
+    </item>
+    <item>
+      <title>TaPpb1b</title>
+      <link>/genes/triticum_aestivum/tappb1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tappb1b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaPpb1b Gene Name: purple pericarp-bHLH 1 Genome: Species: Triticum aestivum Functional Descriptions: Two transcription factors TaPpm1 and TaPpb1 co-regulate anthocyanin biosynthesis in purple pericarps of wheat.</description>
+    </item>
+    <item>
+      <title>TaPpm1a</title>
+      <link>/genes/triticum_aestivum/traescs7d02g166500.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7d02g166500.1/</guid>
+      <description>Gene Details: Gene ID: TraesCS7D02G166500.1 Gene Symbol: TaPpm1a Gene Name: purple pericarp-MYB 1 Genome: Species: Triticum aestivum Functional Descriptions: Two transcription factors TaPpm1 and TaPpb1 co-regulate anthocyanin biosynthesis in purple pericarps of wheat.</description>
+    </item>
+    <item>
+      <title>TaPpm1b</title>
+      <link>/genes/triticum_aestivum/tappm1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tappm1b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaPpm1b Gene Name: purple pericarp-MYB 1 Genome: Species: Triticum aestivum Functional Descriptions: Two transcription factors TaPpm1 and TaPpb1 co-regulate anthocyanin biosynthesis in purple pericarps of wheat.</description>
+    </item>
+    <item>
+      <title>TaPpm1c</title>
+      <link>/genes/triticum_aestivum/tappm1c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tappm1c/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaPpm1c Gene Name: purple pericarp-MYB 1 Genome: Species: Triticum aestivum Functional Descriptions: Two transcription factors TaPpm1 and TaPpb1 co-regulate anthocyanin biosynthesis in purple pericarps of wheat.</description>
+    </item>
+    <item>
+      <title>TaPpm1d</title>
+      <link>/genes/triticum_aestivum/tappm1d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tappm1d/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaPpm1d Gene Name: purple pericarp-MYB 1 Genome: Species: Triticum aestivum Functional Descriptions: Two transcription factors TaPpm1 and TaPpb1 co-regulate anthocyanin biosynthesis in purple pericarps of wheat.</description>
+    </item>
+    <item>
+      <title>VrMYB90</title>
+      <link>/genes/2024.6.9/vigna-radiata/vrmyb90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vigna-radiata/vrmyb90/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VrMYB90 Gene Name: transcription factor MYB90 Genome: Species: Vigna radiata Functional Descriptions: VrMYB90 Functions Synergistically with VrbHLHA and VrMYB3 to Regulate Anthocyanin Biosynthesis in Mung Bean.</description>
+    </item>
+    <item>
+      <title>VvBBX44</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_200s0347g00030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_200s0347g00030/</guid>
+      <description>Gene Details: Gene ID: VIT_200s0347g00030 Gene Symbol: VvBBX44 Gene Name: Vitis vinifera B-box protein 44 Genome: Species: Vitis vinifera Functional Descriptions: Our previous work has shown that Vitis vinifera B-box protein 44 (VvBBX44) inhibits anthocyanin synthesis and represses VvHY5 expression in grape calli.</description>
+    </item>
+    <item>
+      <title>VvbZIP36</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_18s0122g00500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_18s0122g00500/</guid>
+      <description>Gene Details: Gene ID: VIT_18s0122g00500 Gene Symbol: VvbZIP36 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: CRISPR/Cas9-mediated mutagenesis of VvbZIP36 promotes anthocyanin accumulation in grapevine.</description>
+    </item>
+    <item>
+      <title>VvMybA1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmyba1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmyba1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMybA1 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: Color recovery in berries of grape (Vitis vinifera L.</description>
+    </item>
+    <item>
+      <title>VvMYBA1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_02s0033g00410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_02s0033g00410/</guid>
+      <description>Gene Details: Gene ID: VIT_02s0033g00410 Gene Symbol: VvMYBA1 Gene Name: Myb-related transcription factor 1 Genome: Species: Vitis vinifera Functional Descriptions: VvBBX44 and VvMYBA1 form a regulatory feedback loop to balance anthocyanin biosynthesis in grape.</description>
+    </item>
+    <item>
+      <title>VvMYBA2r</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmyba2r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmyba2r/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMYBA2r Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: The role of VvMYBA2r and VvMYBA2w alleles of the MYBA2 locus in the regulation of anthocyanin biosynthesis for molecular breeding of grape (Vitis spp.</description>
+    </item>
+    <item>
+      <title>VvMYBA2w</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmyba2w/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmyba2w/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMYBA2w Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: The role of VvMYBA2r and VvMYBA2w alleles of the MYBA2 locus in the regulation of anthocyanin biosynthesis for molecular breeding of grape (Vitis spp.</description>
+    </item>
+    <item>
+      <title>VvSBP13</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvsbp13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvsbp13/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvSBP13 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: miR156b-targeted VvSBP8/VvSBP13 functions downstream of the abscisic acid signal to regulate anthocyanins biosynthesis in grapevine fruit under drought.</description>
+    </item>
+    <item>
+      <title>VvSBP8</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvsbp8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvsbp8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvSBP8 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: miR156b-targeted VvSBP8/VvSBP13 functions downstream of the abscisic acid signal to regulate anthocyanins biosynthesis in grapevine fruit under drought.</description>
+    </item>
+  </channel>
+</rss>

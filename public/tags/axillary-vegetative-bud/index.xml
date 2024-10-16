@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>axillary vegetative bud on funPlantGenes</title>
+    <link>/tags/axillary-vegetative-bud/</link>
+    <description>Recent content in axillary vegetative bud on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/axillary-vegetative-bud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G42890</title>
+      <link>/genes/arabidopsis_thaliana/at2g42890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g42890/</guid>
+      <description>Gene Details: Gene ID: AT2G42890 Gene Symbol: AML2, ML2 Gene Name: MEI2-like 2, MEI2-like 2 Description: MEI2-like 2;(source:Araport11) TAIR Accession: locus:2045605 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G42890.</description>
+    </item>
+    <item>
+      <title>AT4G18120</title>
+      <link>/genes/arabidopsis_thaliana/at4g18120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g18120/</guid>
+      <description>Gene Details: Gene ID: AT4G18120 Gene Symbol: AML3, ML3 Gene Name: MEI2-like 3, MEI2-like 3 Description: MEI2-like 3;(source:Araport11) TAIR Accession: locus:2117706 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G18120.</description>
+    </item>
+    <item>
+      <title>AT5G07290</title>
+      <link>/genes/arabidopsis_thaliana/at5g07290/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g07290/</guid>
+      <description>Gene Details: Gene ID: AT5G07290 Gene Symbol: AML4, ML4 Gene Name: MEI2-like 4, MEI2-like 4 Description: MEI2-like 4;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G07290.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chlorophyll on funPlantGenes</title>
+    <link>/tags/chlorophyll/</link>
+    <description>Recent content in chlorophyll on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/chlorophyll/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABF2</title>
+      <link>/genes/citrus_sinensis/abf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_sinensis/abf2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cs3g23480 Gene Symbol: ABF2 Gene Name: Genome: Reference genome of sweet orange Species: Citrus sinensis Functional Descriptions: A model was proposed to illustrate how ABF2 mediates the ABA signalling involved in sucrose transport, chlorophyll degradation, auxin homoeostasis, carotenoid and ABA biosynthesis, and cell wall metabolism during citrus fruit development.</description>
+    </item>
+    <item>
+      <title>AcHZP45</title>
+      <link>/genes/2024.6.9/achzp45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/achzp45/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: AcHZP45 Gene Name: Genome: Species: Actinidia chinensis Functional Descriptions: AcHZP45 is a repressor of chlorophyll biosynthesis and activator of chlorophyll degradation in kiwifruit.</description>
+    </item>
+    <item>
+      <title>AUREA;AU</title>
+      <link>/genes/solanum_lycopersicum/aureaau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/aureaau/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g008930 Gene Symbol: AUREA AU Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>BnGLK1a</title>
+      <link>/genes/brassica_napus/bnaa07g00410d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaa07g00410d/</guid>
+      <description>Gene Details: Gene ID: BnaA07g00410D Gene Symbol: BnGLK1a Gene Name: Golden2-like 1a Genome: Species: Brassica napus Functional Descriptions: A Golden2-like transcription factor, BnGLK1a, improves chloroplast development, photosynthesis, and seed weight in rapeseed.</description>
+    </item>
+    <item>
+      <title>BnGRF2a1</title>
+      <link>/genes/2024.6.9/brassica-napus/bngrf2a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-napus/bngrf2a1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BnGRF2a1 Gene Name: growth-regulating factor 2 Genome: Species: Brassica napus Functional Descriptions: The BnGRF2 gene (GRF2-like gene from Brassica napus) enhances seed oil production through regulating cell number and plant photosynthesis.</description>
+    </item>
+    <item>
+      <title>BnGRF2a2</title>
+      <link>/genes/2024.6.9/brassica-napus/bngrf2a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-napus/bngrf2a2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BnGRF2a2 Gene Name: growth-regulating factor 2 Genome: Species: Brassica napus Functional Descriptions: The BnGRF2 gene (GRF2-like gene from Brassica napus) enhances seed oil production through regulating cell number and plant photosynthesis.</description>
+    </item>
+    <item>
+      <title>BnGRF2b1</title>
+      <link>/genes/2024.6.9/brassica-napus/bngrf2b1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-napus/bngrf2b1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BnGRF2b1 Gene Name: growth-regulating factor 2 Genome: Species: Brassica napus Functional Descriptions: The BnGRF2 gene (GRF2-like gene from Brassica napus) enhances seed oil production through regulating cell number and plant photosynthesis.</description>
+    </item>
+    <item>
+      <title>BnGRF2b2</title>
+      <link>/genes/2024.6.9/brassica-napus/bngrf2b2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-napus/bngrf2b2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BnGRF2b2 Gene Name: growth-regulating factor 2 Genome: Species: Brassica napus Functional Descriptions: The BnGRF2 gene (GRF2-like gene from Brassica napus) enhances seed oil production through regulating cell number and plant photosynthesis.</description>
+    </item>
+    <item>
+      <title>BnLACS9-C06</title>
+      <link>/genes/brassica_napus/bnlacs9-c06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnlacs9-c06/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaC06g20910D Gene Symbol: BnLACS9-C06 Gene Name: long-chain acyl-CoA synthetase9 Genome: Brassica_napus_v4.</description>
+    </item>
+    <item>
+      <title>BrFC2</title>
+      <link>/genes/2024.7.17/brassica-rapa/braa09005565/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/brassica-rapa/braa09005565/</guid>
+      <description>Gene Details: Gene ID: BraA09005565 Gene Symbol: BrFC2 Gene Name: mutated form of BrFC2 Genome: Species: Brassica rapa Functional Descriptions: A nonsynonymous homozygous mutation of BrFC2 results in increased heme and chlorophyll.</description>
+    </item>
+    <item>
+      <title>CcLOL1</title>
+      <link>/genes/2024.6.9/capsicum-chinense/ca00g77830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-chinense/ca00g77830/</guid>
+      <description>Gene Details: Gene ID: CA00g77830 Gene Symbol: CcLOL1 Gene Name: LSD ONE LIKE1 Genome: Species: Capsicum chinense Functional Descriptions: CcLOL1, CaGLK2 and CcAPRR2 are highly diverged and are associated with immature fruit color variation in C.</description>
+    </item>
+    <item>
+      <title>CmHSFA4</title>
+      <link>/genes/chrysanthemum_morifolium/cmhsfa4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/chrysanthemum_morifolium/cmhsfa4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CmHSFA4 Gene Name: heat-shock factor A4 Genome: Species: Chrysanthemum morifolium Functional Descriptions: Chrysanthemum CmHSFA4 gene positively regulates salt stress tolerance in transgenic chrysanthemum.</description>
+    </item>
+    <item>
+      <title>CmPPR1</title>
+      <link>/genes/2024.6.9/cucumis-melo/melo3c00306970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-melo/melo3c00306970/</guid>
+      <description>Gene Details: Gene ID: MELO3C003069–70 Gene Symbol: CmPPR1 Gene Name: white-flesh Genome: Species: Cucumis melo Functional Descriptions: QTL analysis of flesh color intensity identified a candidate white-flesh gene (CmPPR1), one of two major loci determining fruit flesh color in melon.</description>
+    </item>
+    <item>
+      <title>COMT;OsCOMT</title>
+      <link>/genes/oryza_sativa/loc_os08g06100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g06100/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g06100 RAPdb gene ID: Os08g0157500 Gene Symbol: COMT OsCOMT OsCAldOMT1 ROMT9 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>CrWRKY42</title>
+      <link>/genes/2024.6.9/citrus-sinensis/crwrky42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/crwrky42/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CrWRKY42 Gene Name: WRKY transcription factor 42 Genome: Species: Citrus clementina Functional Descriptions: Transcription factor CrWRKY42 coregulates chlorophyll degradation and carotenoid biosynthesis in citrus.</description>
+    </item>
+    <item>
+      <title>CsMADS3</title>
+      <link>/genes/citrus_sinensis/csmads3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_sinensis/csmads3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cs7g10980.3 Gene Symbol: CsMADS3 Gene Name: MADS-box transcription factor 3 Genome: Citrus sinensis Valencia genome v1.</description>
+    </item>
+    <item>
+      <title>CsSGRa</title>
+      <link>/genes/2024.7.17/citrus-sinensis/cs5g10040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/citrus-sinensis/cs5g10040/</guid>
+      <description>Gene Details: Gene ID: Cs5g10040 Gene Symbol: CsSGRa Gene Name: STAY-GREEN Genome: C.</description>
+    </item>
+    <item>
+      <title>CsSGRb</title>
+      <link>/genes/2024.7.17/citrus-sinensis/cs3g20450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/citrus-sinensis/cs3g20450/</guid>
+      <description>Gene Details: Gene ID: Cs3g20450 Gene Symbol: CsSGRb Gene Name: STAY-GREEN Genome: C.</description>
+    </item>
+    <item>
+      <title>CYP707A4</title>
+      <link>/genes/brassica_juncea/cyp707a4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_juncea/cyp707a4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Bra022407 Gene Symbol: CYP707A4 Gene Name: Genome: Braju_tum_V1.</description>
+    </item>
+    <item>
+      <title>FaDREB2</title>
+      <link>/genes/2024.6.9/festuca-arundinacea/fadreb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/festuca-arundinacea/fadreb2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FaDREB2 Gene Name: dehydration-responsive element binding protein 2 Genome: Species: Festuca arundinacea Functional Descriptions: Ectopic Expression of FaDREB2 Enhances Osmotic Tolerance in Paper Mulberry.</description>
+    </item>
+    <item>
+      <title>Gh4CL7</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh4cl7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh4cl7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Gh4CL7 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The Gh4CL7-silencing cotton plants showed more sensitive to drought stress, probably due to decreased relative water content (RWC), chlorophyll content and antioxidative enzyme activity, increased stomatal aperture, and the contents of malondialdehyde (MDA) and hydrogen peroxide (H2O2).</description>
+    </item>
+    <item>
+      <title>GhWRKY27</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghwrky27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghwrky27/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhWRKY27 Gene Name: WRKY transcription factor 27 Genome: Species: Gossypium hirsutum Functional Descriptions: GhWRKY27, was isolated and characterized.</description>
+    </item>
+    <item>
+      <title>GhYGL1d</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/cotad_30325/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/cotad_30325/</guid>
+      <description>Gene Details: Gene ID: CotAD_30325 Gene Symbol: GhYGL1d Gene Name: YELLOW-GREEN LEAF Genome: Species: Gossypium hirsutum Functional Descriptions: GhYGL1d, a pentatricopeptide repeat protein, is required for chloroplast development in cotton.</description>
+    </item>
+    <item>
+      <title>GmCHLI1</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.13g232500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.13g232500/</guid>
+      <description>Gene Details: Gene ID: Glyma.13g232500 Gene Symbol: GmCHLI1 Gene Name: Genome: Wm82.</description>
+    </item>
+    <item>
+      <title>GmDREB3</title>
+      <link>/genes/2024.6.9/glycine-max/gmdreb3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/gmdreb3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GmDREB3 Gene Name: dehydration-responsive element binding protein 3 Genome: Species: Glycine max Functional Descriptions: Cold-induced modulation and functional analyses of the DRE-binding transcription factor gene, GmDREB3, in soybean.</description>
+    </item>
+    <item>
+      <title>GmERF75</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.10g016500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.10g016500/</guid>
+      <description>Gene Details: Gene ID: Glyma.10G016500 Gene Symbol: GmERF75 Gene Name: Ethylene-responsive factor gene 75 Genome: Species: Glycine max Functional Descriptions: The ABA-induced soybean ERF transcription factor gene GmERF75 plays a role in enhancing osmotic stress tolerance in Arabidopsis and soybean.</description>
+    </item>
+    <item>
+      <title>GmRCAβ</title>
+      <link>/genes/2024.6.9/glycine-max/gmrca%CE%B2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/gmrca%CE%B2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GmRCAβ Gene Name: Rubisco activase Genome: Species: Glycine max Functional Descriptions: GmRCAβ was expressed at higher mRNA and protein levels.</description>
+    </item>
+    <item>
+      <title>GmRPA3a</title>
+      <link>/genes/2024.6.9/glycine-max/glyma19g38100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma19g38100/</guid>
+      <description>Gene Details: Gene ID: Glyma19g38100 Gene Symbol: GmRPA3a Gene Name: Replication Protein A subunit 3 Genome: Species: Glycine max Functional Descriptions: Replication protein A subunit 3 and the iron efficiency response in soybean.</description>
+    </item>
+    <item>
+      <title>GmRPA3b</title>
+      <link>/genes/2024.6.9/glycine-max/glyma03g35460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma03g35460/</guid>
+      <description>Gene Details: Gene ID: Glyma03g35460 Gene Symbol: GmRPA3b Gene Name: Replication Protein A subunit 3 Genome: Species: Glycine max Functional Descriptions: Replication protein A subunit 3 and the iron efficiency response in soybean.</description>
+    </item>
+    <item>
+      <title>GmRPA3c</title>
+      <link>/genes/2024.6.9/glycine-max/glyma20g24590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma20g24590/</guid>
+      <description>Gene Details: Gene ID: Glyma20g24590 Gene Symbol: GmRPA3c Gene Name: Replication Protein A subunit 3 Genome: Species: Glycine max Functional Descriptions: Replication protein A subunit 3 and the iron efficiency response in soybean.</description>
+    </item>
+    <item>
+      <title>GmRPA3d</title>
+      <link>/genes/2024.6.9/glycine-max/glyma10g42530/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma10g42530/</guid>
+      <description>Gene Details: Gene ID: Glyma10g42530 Gene Symbol: GmRPA3d Gene Name: Replication Protein A subunit 3 Genome: Species: Glycine max Functional Descriptions: Replication protein A subunit 3 and the iron efficiency response in soybean.</description>
+    </item>
+    <item>
+      <title>LLS1</title>
+      <link>/genes/zea_mays/lls1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/lls1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb003760 Gene Symbol: LLS1 Gene Name: LETHAL LEAF SPOT1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>MaBAH1</title>
+      <link>/genes/2024.6.9/musa-acuminata/ma05_g02600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/musa-acuminata/ma05_g02600/</guid>
+      <description>Gene Details: Gene ID: Ma05_g02600 Gene Symbol: MaBAH1 Gene Name: benzoic acid hypersensitive 1 Genome: Species: Musa acuminata Functional Descriptions: Proteasomal degradation of MaMYB60 mediated by the E3 ligase MaBAH1 causes high temperature-induced repression of chlorophyll catabolism and green ripening in banana.</description>
+    </item>
+    <item>
+      <title>MaMYB60</title>
+      <link>/genes/2024.6.9/musa-acuminata/ma04_g00460.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/musa-acuminata/ma04_g00460.1/</guid>
+      <description>Gene Details: Gene ID: Ma04_g00460.1 Gene Symbol: MaMYB60 Gene Name: Musa acuminata Genome: Species: Musa acuminata Functional Descriptions: Proteasomal degradation of MaMYB60 mediated by the E3 ligase MaBAH1 causes high temperature-induced repression of chlorophyll catabolism and green ripening in banana.</description>
+    </item>
+    <item>
+      <title>MaNIP1</title>
+      <link>/genes/2024.6.9/musa-acuminata/ma10_p07000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/musa-acuminata/ma10_p07000/</guid>
+      <description>Gene Details: Gene ID: Ma10_p07000 Gene Symbol: MaNIP1 Gene Name: NYC1-interacting protein 1 Genome: banana genome database (https://banana-genome-hub.</description>
+    </item>
+    <item>
+      <title>MaNYC1</title>
+      <link>/genes/2024.6.9/musa-acuminata/ma07_p10650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/musa-acuminata/ma07_p10650/</guid>
+      <description>Gene Details: Gene ID: Ma07_p10650 Gene Symbol: MaNYC1 Gene Name: NON-YELLOW COLORING 1 Genome: banana genome database (https://banana-genome-hub.</description>
+    </item>
+    <item>
+      <title>MaRZF1</title>
+      <link>/genes/2024.6.9/musa-acuminata/ma02_p05740/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/musa-acuminata/ma02_p05740/</guid>
+      <description>Gene Details: Gene ID: Ma02_p05740 Gene Symbol: MaRZF1 Gene Name: RING Zinc Finger 1 Genome: Species: Musa acuminata Functional Descriptions: RING-type ubiquitin E3 ligase MaRZF1 interacts with chlorophyll catabolic enzyme MaSGR1, which promotes the ubiquitination and proteasomal degradation of MaSGR1, causing the green ripening of banana fruit under high temperature.</description>
+    </item>
+    <item>
+      <title>MaSGR1</title>
+      <link>/genes/2024.6.9/musa-acuminata/masgr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/musa-acuminata/masgr1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MaSGR1 Gene Name: STAY-GREEN 1 Genome: Species: Musa acuminata Functional Descriptions: RING-type ubiquitin E3 ligase MaRZF1 interacts with chlorophyll catabolic enzyme MaSGR1, which promotes the ubiquitination and proteasomal degradation of MaSGR1, causing the green ripening of banana fruit under high temperature.</description>
+    </item>
+    <item>
+      <title>MdBBX23</title>
+      <link>/genes/malus_domestica/mdbbx23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdbbx23/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000222881 Gene Symbol: MdBBX23 Gene Name: Genome: Malus × domestica GDDH13 v1.</description>
+    </item>
+    <item>
+      <title>MdMEK2</title>
+      <link>/genes/2024.6.9/malus-domestica/md02g1084700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md02g1084700/</guid>
+      <description>Gene Details: Gene ID: Md02G1084700 Gene Symbol: MdMEK2 Gene Name: Genome: Species: Malus domestica Functional Descriptions: The MdMEK2–MdMPK6–MdWRKY17 pathway stabilizes chlorophyll levels by directly regulating MdSUFB in apple under drought stress.</description>
+    </item>
+    <item>
+      <title>MdMPK6</title>
+      <link>/genes/2024.6.9/malus-domestica/md02g1004000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md02g1004000/</guid>
+      <description>Gene Details: Gene ID: Md02G1004000 Gene Symbol: MdMPK6 Gene Name: Genome: Species: Malus domestica Functional Descriptions: The MdMEK2–MdMPK6–MdWRKY17 pathway stabilizes chlorophyll levels by directly regulating MdSUFB in apple under drought stress.</description>
+    </item>
+    <item>
+      <title>MdPSY1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000177623/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000177623/</guid>
+      <description>Gene Details: Gene ID: MDP0000177623 Gene Symbol: MdPSY1 Gene Name: phytoene synthase1 Genome: Species: Malus domestica Functional Descriptions: The first committed carotenoid pathway step in apple is controlled by MdPSY1 and MdPSY2, while MdPSY4 play little or no role in this respect.</description>
+    </item>
+    <item>
+      <title>MdPSY2</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000237124/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000237124/</guid>
+      <description>Gene Details: Gene ID: MDP0000237124 Gene Symbol: MdPSY2 Gene Name: phytoene synthase2 Genome: Species: Malus domestica Functional Descriptions: The first committed carotenoid pathway step in apple is controlled by MdPSY1 and MdPSY2, while MdPSY4 play little or no role in this respect.</description>
+    </item>
+    <item>
+      <title>MdPUB24</title>
+      <link>/genes/2024.6.9/malus-domestica/mdpub24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdpub24/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdPUB24 Gene Name: U-box type E3 ubiquitin ligase Genome: Species: Malus domestica Functional Descriptions: Ethylene-activated MdPUB24 mediates ubiquitination of MdBEL7 to promote chlorophyll degradation in apple fruit.</description>
+    </item>
+    <item>
+      <title>MdSnRK1.1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000191788/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000191788/</guid>
+      <description>Gene Details: Gene ID: MDP0000191788 Gene Symbol: MdSnRK1.1 Gene Name: SNF1-related protein kinase 1 Genome: Species: Malus domestica Functional Descriptions: An Apple Protein Kinase MdSnRK1.</description>
+    </item>
+    <item>
+      <title>MdWRKY17</title>
+      <link>/genes/2024.6.9/malus-domestica/md12g1181000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md12g1181000/</guid>
+      <description>Gene Details: Gene ID: Md12G1181000 Gene Symbol: MdWRKY17 Gene Name: Genome: Species: Malus domestica Functional Descriptions: The MdMEK2–MdMPK6–MdWRKY17 pathway stabilizes chlorophyll levels by directly regulating MdSUFB in apple under drought stress.</description>
+    </item>
+    <item>
+      <title>NbBTF3</title>
+      <link>/genes/2024.6.9/nicotiana-benthamiana/nbbtf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-benthamiana/nbbtf3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NbBTF3 Gene Name: basic transcription factor 3 Genome: Species: Nicotiana benthamiana Functional Descriptions: Silencing of NbBTF3 results in developmental defects and disturbed gene expression in chloroplasts and mitochondria of higher plants.</description>
+    </item>
+    <item>
+      <title>NOL</title>
+      <link>/genes/oryza_sativa/loc_os03g45194/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g45194/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g45194 RAPdb gene ID: Os03g0654600 Gene Symbol: NOL Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>NYC3;OsNYC3</title>
+      <link>/genes/oryza_sativa/loc_os06g24730/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g24730/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g24730 RAPdb gene ID: Os06g0354700 Gene Symbol: NYC3 OsNYC3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OBV</title>
+      <link>/genes/solanum_lycopersicum/obv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/obv/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g054030 Gene Symbol: OBV Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>OsACE1</title>
+      <link>/genes/oryza_sativa/loc_os10g01920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g01920/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g01920 RAPdb gene ID: Os10g0108700 Gene Symbol: OsACE1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsbHLH061;OsbHLHq11</title>
+      <link>/genes/oryza_sativa/loc_os11g38870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g38870/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g38870 RAPdb gene ID: Os11g0601650 ,Os11g0601700 Gene Symbol: OsbHLH061 OsbHLHq11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCOI2</title>
+      <link>/genes/oryza_sativa/loc_os03g15880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g15880/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g15880 RAPdb gene ID: Os03g0265500 Gene Symbol: OsCOI2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCRS2;CRS2</title>
+      <link>/genes/oryza_sativa/loc_os01g04130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g04130/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g04130 RAPdb gene ID: Os01g0132800 Gene Symbol: OsCRS2 CRS2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCSL1</title>
+      <link>/genes/oryza_sativa/os3g0703400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/os3g0703400/</guid>
+      <description>Gene Details: MSU gene ID: NONE RAPdb gene ID: Os3g0703400 Gene Symbol: OsCSL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsGRDP1;LSL1</title>
+      <link>/genes/oryza_sativa/loc_os11g40590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g40590/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g40590 RAPdb gene ID: Os11g0621300 Gene Symbol: OsGRDP1 LSL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsHIPP16</title>
+      <link>/genes/oryza_sativa/loc_os02g37330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g37330/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g37330 RAPdb gene ID: Os02g0585200 Gene Symbol: OsHIPP16 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMYB60</title>
+      <link>/genes/oryza_sativa/loc_os12g03150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os12g03150/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g03150 RAPdb gene ID: Os12g0125000 Gene Symbol: OsMYB60 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSG1</title>
+      <link>/genes/oryza_sativa/loc_os07g27790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g27790/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g27790 RAPdb gene ID: Os07g0462000 Gene Symbol: OsSG1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsWHY1</title>
+      <link>/genes/oryza_sativa/loc_os06g05350/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g05350/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g05350 RAPdb gene ID: Os06g0145800 Gene Symbol: OsWHY1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsWSS1</title>
+      <link>/genes/oryza_sativa/loc_os11g26130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g26130/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g26130 RAPdb gene ID: Os11g0448000 Gene Symbol: OsWSS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsXDH;OsSAC3</title>
+      <link>/genes/oryza_sativa/loc_os03g31550/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g31550/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g31550 RAPdb gene ID: Os03g0429800 Gene Symbol: OsXDH OsSAC3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsZIP11</title>
+      <link>/genes/oryza_sativa/loc_os05g25194/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g25194/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g25194 RAPdb gene ID: Os05g0316100 Gene Symbol: OsZIP11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PbrGA2ox1</title>
+      <link>/genes/2024.6.9/pyrus-bretschneideri/pbr025274.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-bretschneideri/pbr025274.1/</guid>
+      <description>Gene Details: Gene ID: pbr025274.1 Gene Symbol: PbrGA2ox1 Gene Name: Genome: Species: Pyrus bretschneideri Functional Descriptions: Genome-wide identification of GA2ox genes family and analysis of PbrGA2ox1-mediated enhanced chlorophyll accumulation by promoting chloroplast development in pear.</description>
+    </item>
+    <item>
+      <title>PdGNC</title>
+      <link>/genes/2024.6.9/populus-trichocarpa/potri.006g229200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-trichocarpa/potri.006g229200/</guid>
+      <description>Gene Details: Gene ID: Potri.006G229200 Gene Symbol: PdGNC Gene Name: Genome: Species: Populus trichocarpa Functional Descriptions: The GATA transcription factor GNC (PdGNC) plays an important role in photosynthesis and growth in poplar.</description>
+    </item>
+    <item>
+      <title>PHYB2</title>
+      <link>/genes/solanum_lycopersicum/phyb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/phyb2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g053410 Gene Symbol: PHYB2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>PHYC;OsphyC</title>
+      <link>/genes/oryza_sativa/loc_os03g54084/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g54084/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g54084 RAPdb gene ID: Os03g0752100 Gene Symbol: PHYC OsphyC LHD3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PoCAB151</title>
+      <link>/genes/2024.6.9/paeonia-ostii/unigene0026374/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/paeonia-ostii/unigene0026374/</guid>
+      <description>Gene Details: Gene ID: Unigene0026374 Gene Symbol: PoCAB151 Gene Name: chlorophyll a/b-binding 151 Genome: Species: Paeonia ostii Functional Descriptions: A homologous system indicated that drought treatment increased PoCAB151 promoter activity.</description>
+    </item>
+    <item>
+      <title>PoWRKY71</title>
+      <link>/genes/2024.6.9/paeonia-ostii/unigene0031821/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/paeonia-ostii/unigene0031821/</guid>
+      <description>Gene Details: Gene ID: Unigene0031821 Gene Symbol: PoWRKY71 Gene Name: WRKY transcription factor 71 Genome: Species: Paeonia ostii Functional Descriptions: PoWRKY71 is involved in Paeonia ostii resistance to drought stress by directly regulating light-harvesting chlorophyll a/b-binding 151 gene.</description>
+    </item>
+    <item>
+      <title>SbMYB15</title>
+      <link>/genes/2024.6.9/salicornia-brachiata/sbmyb15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/salicornia-brachiata/sbmyb15/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SbMYB15 Gene Name: R2R3 type MYB15 Genome: Species: Salicornia brachiata Functional Descriptions: Overexpression of a novel SbMYB15 from Salicornia brachiata confers salinity and dehydration tolerance by reduced oxidative damage and improved photosynthesis in transgenic tobacco.</description>
+    </item>
+    <item>
+      <title>SbSOS1</title>
+      <link>/genes/2024.6.9/salicornia-brachiata/sbsos1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/salicornia-brachiata/sbsos1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SbSOS1 Gene Name: salt overly sensitive 1 Genome: Species: Salicornia brachiata Functional Descriptions: The SbSOS1 gene from the extreme halophyte Salicornia brachiata enhances Na+loading in xylem and confers salt tolerance in transgenic tobacco.</description>
+    </item>
+    <item>
+      <title>SlARF10</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g069500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g069500/</guid>
+      <description>Gene Details: Gene ID: Solyc11g069500 Gene Symbol: SlARF10 Gene Name: auxin response factor 10 Genome: Species: Solanum lycopersicum Functional Descriptions: SlARF10, an auxin response factor, is involved in chlorophyll and sugar accumulation during tomato fruit development.</description>
+    </item>
+    <item>
+      <title>SlARF4</title>
+      <link>/genes/solanum_lycopersicum/slarf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slarf4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g069190 Gene Symbol: SlARF4 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlBL4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g065420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g065420/</guid>
+      <description>Gene Details: Gene ID: Solyc08g065420 Gene Symbol: SlBL4 Gene Name: BEL1-LIKE HOMEODOMAIN4 Genome: Species: Solanum lycopersicum Functional Descriptions: Found that down-regulation of a tomato bell-like homeodomain 4 (SlBL4) resulted in a slightly darker-green fruit phenotype and increased accumulation of starch, fructose, and glucose.</description>
+    </item>
+    <item>
+      <title>SlDCD2</title>
+      <link>/genes/solanum_lycopersicum/sldcd2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sldcd2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g008900 Gene Symbol: SlDCD2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlDDB1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slddb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slddb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlDDB1 Gene Name: DAMAGED DNA BINDING PROTEIN 1 Genome: Species: Solanum lycopersicum Functional Descriptions: SlDDB1 seedlings exhibited delayed growth and smaller cell size, greater chloroplast density, smaller chloroplasts and higher concentration of chlorophyll.</description>
+    </item>
+    <item>
+      <title>SlGLK2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g008160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g008160/</guid>
+      <description>Gene Details: Gene ID: Solyc10g008160 Gene Symbol: SlGLK2 Gene Name: GOLDEN2-LIKE 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato GOLDEN2-LIKE Transcription Factors Reveal Molecular Gradients That Function during Fruit Development and Ripening.</description>
+    </item>
+    <item>
+      <title>SlGRAS9</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g036170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g036170/</guid>
+      <description>Gene Details: Gene ID: Solyc06g036170 Gene Symbol: SlGRAS9 Gene Name: GRAS transcription factor 9 Genome: Species: Solanum lycopersicum Functional Descriptions: The SlGRAS9-SlZHD17 transcriptional cascade regulates chlorophyll and carbohydrate metabolism contributing to fruit quality traits in tomato.</description>
+    </item>
+    <item>
+      <title>SlMYB72</title>
+      <link>/genes/solanum_lycopersicum/slmyb72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb72/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g055000 Gene Symbol: SlMYB72 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlRBP1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g109660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g109660/</guid>
+      <description>Gene Details: Gene ID: Solyc01g109660 Gene Symbol: SlRBP1 Gene Name: glycine-rich RNA-binding protein 1 Genome: Species: Solanum lycopersicum Functional Descriptions: SlRBP1 promotes translational efficiency via SleIF4A2 to maintain chloroplast function in tomato.</description>
+    </item>
+    <item>
+      <title>SlRCM1</title>
+      <link>/genes/solanum_lycopersicum/slrcm1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slrcm1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g005010 Gene Symbol: SlRCM1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSGR1</title>
+      <link>/genes/solanum_lycopersicum/slsgr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slsgr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g080090 Gene Symbol: SlSGR1 Gene Name: Stay-Green 1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSKIP2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc02g092990.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc02g092990.1/</guid>
+      <description>Gene Details: Gene ID: Solyc02g092990.1 Gene Symbol: SlSKIP2 Gene Name: F-box protein SKIP2 Genome: S.</description>
+    </item>
+    <item>
+      <title>SlSTE1</title>
+      <link>/genes/solanum_lycopersicum/slste1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slste1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlSTE1 Gene Name: SALT TOLERANCE ENHANCER1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlWRKY53</title>
+      <link>/genes/solanum_lycopersicum/slwrky53/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slwrky53/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g008280 Gene Symbol: SlWRKY53 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlZHD17</title>
+      <link>/genes/solanum_lycopersicum/slzhd17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slzhd17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc04g080490 Gene Symbol: SlZHD17 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SPL42</title>
+      <link>/genes/oryza_sativa/loc_os02g07230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g07230/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g07230 RAPdb gene ID: Os02g0168800 Gene Symbol: SPL42 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>StTST3.1</title>
+      <link>/genes/2024.6.9/solanum-tuberosum/soltu.dm.02g022370.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-tuberosum/soltu.dm.02g022370.1/</guid>
+      <description>Gene Details: Gene ID: Soltu.DM.02G022370.1 Gene Symbol: StTST3.1 Gene Name: TST3-type isoform Genome: Species: Solanum tuberosum Functional Descriptions: Suppression of the tonoplast sugar transporter, StTST3.</description>
+    </item>
+    <item>
+      <title>SvSTL1</title>
+      <link>/genes/2024.6.9/setaria-viridis/sevir.4g056900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/setaria-viridis/sevir.4g056900/</guid>
+      <description>Gene Details: Gene ID: Sevir.4G056900 Gene Symbol: SvSTL1 Gene Name: Sucrose Transporter-like 1 Genome: The reference genome of S.</description>
+    </item>
+    <item>
+      <title>Ta2CP</title>
+      <link>/genes/triticum_aestivum/traescs2a02g297500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs2a02g297500/</guid>
+      <description>Gene Details: Gene ID: TraesCS2A02G297500 Gene Symbol: Ta2CP Gene Name: 2-cysteine peroxiredoxin Genome: Species: Triticum aestivum Functional Descriptions: Both Ta2CP silencing and overexpression inferred the involvement of Ta2CP in plant growth and chlorophyll biosynthesis.</description>
+    </item>
+    <item>
+      <title>VviNAC60</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_08s0007g07670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_08s0007g07670/</guid>
+      <description>Gene Details: Gene ID: VIT_08s0007g07670 Gene Symbol: VviNAC60 Gene Name: NAC transcription factor 60 Genome: 12X.</description>
+    </item>
+    <item>
+      <title>WAL3</title>
+      <link>/genes/oryza_sativa/loc_os03g44210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g44210/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g44210 RAPdb gene ID: Os03g0644200 Gene Symbol: WAL3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>WFSL1;STRIPE3</title>
+      <link>/genes/oryza_sativa/loc_os01g01920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g01920/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g01920 RAPdb gene ID: Os01g0109300 Gene Symbol: WFSL1 STRIPE3 WSL214 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>YGL138(t);OscpSRP54a</title>
+      <link>/genes/oryza_sativa/loc_os11g05552/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g05552/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g05552 RAPdb gene ID: Os11g0153600 Gene Symbol: YGL138(t) OscpSRP54a TSYL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZjSEP3</title>
+      <link>/genes/2024.6.9/ziziphus-jujuba/zjsep3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/ziziphus-jujuba/zjsep3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZjSEP3 Gene Name: SEPALLATA3 Genome: Species: Ziziphus jujuba Functional Descriptions: ZjSEP3 modulates flowering time by regulating the LHY promoter.</description>
+    </item>
+    <item>
+      <title>ZmERF21;C48</title>
+      <link>/genes/zea_mays/zmerf21c48ereb240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmerf21c48ereb240/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb423100 Gene Symbol: ZmERF21 C48 ereb240 Gene Name: AP2-EREBP-transcription factor 240 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMKK4</title>
+      <link>/genes/zea_mays/zm00001eb257340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb257340/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb257340 Gene Symbol: ZmMKK4 Gene Name: MAP kinase kinase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNF-YB2;ZmNF-YB5</title>
+      <link>/genes/zea_mays/zmnf-yb2zmnf-yb5cadtfr11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmnf-yb2zmnf-yb5cadtfr11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb042490 Gene Symbol: ZmNF-YB2 ZmNF-YB5 cadtfr11 Gene Name: CCAAT-DR1-transcription factor 11 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPORB2</title>
+      <link>/genes/zea_mays/zm00001eb220940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb220940/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb220940 Gene Symbol: ZmPORB2 Gene Name: protochlorophyllide reductase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPP2C26;ZmPP8</title>
+      <link>/genes/zea_mays/zmpp2c26zmpp8zmorphan42zmpp2c02zmpp2c06prh25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpp2c26zmpp8zmorphan42zmpp2c02zmpp2c06prh25/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb013450 Gene Symbol: ZmPP2C26 ZmPP8 ZmOrphan42 ZmPP2C02 ZmPP2C06 prh25 Gene Name: protein phosphatase homolog25 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSUT1;sut1</title>
+      <link>/genes/zea_mays/zmsut1sut1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmsut1sut1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb005460 Gene Symbol: ZmSUT1 sut1 Gene Name: sucrose transporter1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTPI4</title>
+      <link>/genes/zea_mays/zm00001eb124410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb124410/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb124410 Gene Symbol: ZmTPI4 Gene Name: Triosephosphate isomerase 4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

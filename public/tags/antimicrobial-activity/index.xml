@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>antimicrobial activity on funPlantGenes</title>
+    <link>/tags/antimicrobial-activity/</link>
+    <description>Recent content in antimicrobial activity on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/antimicrobial-activity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LrDef1</title>
+      <link>/genes/2024.6.9/lilium-regale/lrdef1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lilium-regale/lrdef1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LrDef1 Gene Name: Genome: Species: Lilium regale Functional Descriptions: Lilium regale Wilson WRKY3 modulates an antimicrobial peptide gene, LrDef1, during response to Fusarium oxysporum.</description>
+    </item>
+    <item>
+      <title>LrWRKY3</title>
+      <link>/genes/2024.6.9/lilium-regale/lrwrky3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lilium-regale/lrwrky3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LrWRKY3 Gene Name: Genome: Species: Lilium regale Functional Descriptions: Lilium regale Wilson WRKY3 (LrWRKY3) modulates an antimicrobial peptide gene, LrDef1, during response to Fusarium oxysporum.</description>
+    </item>
+    <item>
+      <title>OsDEF8</title>
+      <link>/genes/oryza_sativa/loc_os03g03810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g03810/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g03810 RAPdb gene ID: Os03g0130300 Gene Symbol: OsDEF8 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SN1</title>
+      <link>/genes/2024.6.9/solanum-tuberosum/sn1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-tuberosum/sn1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SN1 Gene Name: Snakin-1 Genome: Species: Solanum tuberosum Functional Descriptions: Snakin-1 (SN1), a cysteine-rich peptide with broad-spectrum antimicrobial activity in vitro, was evaluated for its ability to confer resistance to pathogens in transgenic potatoes.</description>
+    </item>
+    <item>
+      <title>ZmGns</title>
+      <link>/genes/zea_mays/zm00001eb141500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb141500/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb141500 Gene Symbol: ZmGns Gene Name: glucan endo-1,3-beta-glucosidase homolog2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

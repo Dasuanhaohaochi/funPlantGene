@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Populus deltoides × Populus euramericana on funPlantGenes</title>
+    <link>/categories/populus-deltoides-populus-euramericana/</link>
+    <description>Recent content in Populus deltoides × Populus euramericana on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/populus-deltoides-populus-euramericana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PdePHT1:9</title>
+      <link>/genes/2024.6.9/populus-deltoides-populus-euramericana/potri.005g256100.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-deltoides-populus-euramericana/potri.005g256100.1/</guid>
+      <description>Gene Details: Gene ID: Potri.005G256100.1 Gene Symbol: PdePHT1:9 Gene Name: Pi transporter (PHT) Genome: Species: Populus deltoides × Populus euramericana Functional Descriptions: A gene encoding a Pi transporter (PHT), PdePHT1:9, was identified as the direct downstream target of PdeWRKY65 by RNA sequencing (RNA-Seq).</description>
+    </item>
+    <item>
+      <title>PdeWRKY6</title>
+      <link>/genes/2024.6.9/populus-deltoides-populus-euramericana/potri.002g228400.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-deltoides-populus-euramericana/potri.002g228400.1/</guid>
+      <description>Gene Details: Gene ID: Potri.002G228400.1 Gene Symbol: PdeWRKY6 Gene Name: WRKY transcription factor 6 Genome: Species: Populus deltoides × Populus euramericana Functional Descriptions: A second WRKY TF, PdeWRKY6, was subsequently identified and confirmed to positively regulate the expression of PdePHT1:9 by DNA–protein interaction assays.</description>
+    </item>
+    <item>
+      <title>PdeWRKY65</title>
+      <link>/genes/2024.6.9/populus-deltoides-populus-euramericana/potri.011g070100.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-deltoides-populus-euramericana/potri.011g070100.1/</guid>
+      <description>Gene Details: Gene ID: Potri.011G070100.1 Gene Symbol: PdeWRKY65 Gene Name: WRKY transcription factor 65 Genome: Species: Populus deltoides × Populus euramericana Functional Descriptions: Identify a WRKY transcription factor (TF) in poplar (Populus deltoides × Populus euramericana) (PdeWRKY65) that modulates tissue phosphate (Pi) concentrations in poplar.</description>
+    </item>
+  </channel>
+</rss>

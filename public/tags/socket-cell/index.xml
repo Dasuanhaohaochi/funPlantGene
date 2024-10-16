@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>socket cell on funPlantGenes</title>
+    <link>/tags/socket-cell/</link>
+    <description>Recent content in socket cell on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/socket-cell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT5G25390</title>
+      <link>/genes/arabidopsis_thaliana/at5g25390/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g25390/</guid>
+      <description>Gene Details: Gene ID: AT5G25390 Gene Symbol: SHN3 Gene Name: shine3 Description: Integrase-type DNA-binding superfamily protein;(source:Araport11) TAIR Accession: locus:2145477 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G25390.</description>
+    </item>
+  </channel>
+</rss>

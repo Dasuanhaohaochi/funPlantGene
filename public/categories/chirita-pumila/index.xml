@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chirita pumila on funPlantGenes</title>
+    <link>/categories/chirita-pumila/</link>
+    <description>Recent content in Chirita pumila on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/chirita-pumila/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CpCYC1</title>
+      <link>/genes/chirita_pumila/cpcyc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/chirita_pumila/cpcyc1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CpCYC1 Gene Name: Chirita pumila CYCLOIDEA1 Genome: Species: Chirita pumila Functional Description: we identified multiple roles and functional divergence of 2 CYC-like genes, i.</description>
+    </item>
+    <item>
+      <title>CpCYC2</title>
+      <link>/genes/chirita_pumila/cpcyc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/chirita_pumila/cpcyc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CpCYC2 Gene Name: Chirita pumila CYCLOIDEA2 Genome: Species: Chirita pumila Functional Description: we identified multiple roles and functional divergence of 2 CYC-like genes, i.</description>
+    </item>
+  </channel>
+</rss>

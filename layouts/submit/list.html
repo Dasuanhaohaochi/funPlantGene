@@ -1,0 +1,256 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+<section class="section" style = "padding-bottom: 15px; padding-top: 30px;" >
+    <div class="container">
+        <div class="row">
+            <div class="md:col-10 lg:col-10 mx-auto">
+                <form id="myForm" action="{{ site.Params.contact_form_action }}" method="POST">
+                    <div class="mb-6">
+                        <div class="grid md:grid-cols-3 gap-10 justify-center">
+                            <div class="text-center">
+                                <label for="name" class="form-label">
+                                    Gene name: <span class="text-red-500"></span>
+                                </label>
+                                <input
+                                    id="name"
+                                    name="name"
+                                    class="form-input"
+                                    placeholder="TERMINAL EAR 1"
+                                    type="text" />
+                            </div>
+                            <div class="text-center">
+                                <label for="symbol" class="form-label">
+                                    Gene symbol: <span class="text-red-500"></span>
+                                </label>
+                                <input
+                                    id="symbol"
+                                    name="symbol"
+                                    class="form-input"
+                                    placeholder="ZmTE1"
+                                    type="text" />
+                            </div>
+                            <div class="text-center">
+                                <label for="id" class="form-label">
+                                    Gene ID: <span class="text-red-500"></span>
+                                </label>
+                                <input
+                                    id="id"
+                                    name="id"
+                                    class="form-input"
+                                    placeholder="GRMZM2G085113"
+                                    type="text" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mb-6">
+                        <div class="grid md:grid-cols-3 gap-10 justify-center">
+                            <div class="text-center">
+                                <label for="doi" class="form-label">
+                                    Article DOI: <span class="text-red-500"></span>
+                                </label>
+                                <input
+                                    id="doi"
+                                    name="doi"
+                                    class="form-input"
+                                    placeholder="10.1111/pbi.13734"
+                                    type="text" />
+                            </div>
+                            <div class="text-center">
+                                <label for="pmd" class="form-label">
+                                    Article PMID: <span class="text-red-500"></span>
+                                </label>
+                                <input
+                                    id="pmd"
+                                    name="pmd"
+                                    class="form-input"
+                                    placeholder="34687251"
+                                    type="text" />
+                            </div>
+                            <div class="text-center">
+                                <label for="url" class="form-label">
+                                    Article URL: <span class="text-red-500"></span>
+                                </label>
+                                <input
+                                    id="url"
+                                    name="url"
+                                    class="form-input"
+                                    placeholder="https://onlinelibrary.wiley.com/doi/10.1111/pbi.13734"
+                                    type="text" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mb-6">
+                        <div class="grid md:grid-cols-3 gap-10 justify-center">
+                            <div class="text-center">
+                                <label for="keywords" class="form-label">
+                                    Genome: <span class="text-red-500"></span>
+                                </label>
+                                <input
+                                    id="genome"
+                                    name="genome"
+                                    class="form-input"
+                                    placeholder="Zm-B73-REFERENCE-NAM-5.0"
+                                    type="text" />
+                            </div>
+                            <div class="text-center">
+                                <label for="descriptions" class="form-label">
+                                    Species: <span class="text-red-500"></span>
+                                </label>
+                                <input
+                                    id="species"
+                                    name="species"
+                                    class="form-input"
+                                    placeholder="Zea mays"
+                                    type="text" />
+                            </div>
+                            <div class ="text-center">
+                                <label for="descriptions" class="form-label" style="font-size: 23px;">
+                                    URL of related News: <span class="text-red-500"></span>
+                                </label>
+                                <input
+                                    id="url of related news"
+                                    name="url of related news"
+                                    class="form-input"
+                                    placeholder="https://mp.weixin.qq.com/s?__biz=Mzg3MDEwNDEyMg==&mid=2247519616&idx=1&sn=350e4fbaa5cc64f9f57510f77c9ce5d7&chksm=ce9020d5f9e7a9c30d93e865271327c58aac91d22a59232048d33eec2017f2fe896f0f079584&scene=27#wechat_redirect"
+                                    type="text" />
+                            </div>
+                        </div>
+                    </div>  
+                    <div class="mb-6">
+                        <div class="grid md:grid-cols-2 gap-10 justify-center">
+                            <div class="text-center">
+                                <label for="keywords" class="form-label">
+                                    Function-related keywords: <span class="text-red-500"></span>
+                                </label>
+                                <input
+                                    id="keywords"
+                                    name="keywords"
+                                    class="form-input"
+                                    placeholder="growth, kinase, auxin, nucleus"
+                                    type="text" />
+                            </div>
+                            <div class="text-center">
+                                <label for="descriptions" class="form-label">
+                                    Functional Descriptions: <span class="text-red-500"></span>
+                                </label>
+                                <input
+                                    id="descriptions"
+                                    name="descriptions"
+                                    class="form-input"
+                                    placeholder="ZmTE1 promotes plant height by regulating intercalary meristem formation and internode cell elongation in maize."
+                                    type="text" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mb-6">
+                        <label for="message" class="form-label">
+                            Anything else: <span class="text-red-500"></span>
+                        </label>
+                        <textarea
+                            id="message"
+                            name="message"
+                            class="form-input"
+                            placeholder="More message goes here..."
+                            rows="8"></textarea>
+                    </div>
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary" onclick="validateForm()">Thanks For Your Submit!</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function validateForm() {
+            var nameInput = document.getElementById('name').value.trim();
+            var symbolInput = document.getElementById('symbol').value.trim();
+            var idInput = document.getElementById('id').value.trim();
+            var doiInput = document.getElementById('doi').value.trim();
+            var pmdInput = document.getElementById('pmd').value.trim();
+            var urlInput = document.getElementById('url').value.trim();
+    
+            var nameOrSymbolOrIdFilled = nameInput !== '' || symbolInput !== '' || idInput !== '';
+            var doiOrPmdOrUrlFilled = doiInput !== '' || pmdInput !== '' || urlInput !== '';
+    
+            if (!nameOrSymbolOrIdFilled || !doiOrPmdOrUrlFilled) {
+                // If either group of fields is not filled, prevent form submission
+                alert('Please fill in at least one field in each group before submitting.');
+                event.preventDefault(); // Prevents the form from being submitted
+            }
+        }
+    </script>
+    </section>    
+
+<!-- google map -->
+{{ with site.Params.google_map }}
+  {{ if .enable }}
+    <div
+      id="map"
+      style="height: 400px;"
+      data-latitude="{{ .map_latitude }}"
+      data-longitude="{{ .map_longitude }}"
+      data-marker="{{ .map_marker | relURL }}"
+      data-marker-name="{{ site.Title }}"></div>
+  {{ end }}
+{{ end }}
+
+{{ with site.Params.subscription }}
+  {{ if .enable }}
+    <!-- subscription form -->
+    <form
+      action="{{ .mailchimp_form_action | safeURL }}"
+      method="post"
+      id="mc-embedded-subscribe-form"
+      novalidate="novalidate">
+      <div class="input-group w-75 mx-auto mb-3">
+        <input
+          type="email"
+          name="EMAIL"
+          placeholder="Email"
+          class="form-control required email mce_inline_error"
+          id="mce-EMAIL"
+          aria-required="true"
+          autocomplete="off"
+          required />
+        <button
+          class="input-group-text"
+          name="subscribe"
+          id="mc-embedded-subscribe">
+          {{ .button_label }}
+        </button>
+      </div>
+      <input
+        type="hidden"
+        name="EMAILTYPE"
+        id="mce-EMAILTYPE-0"
+        value="html" />
+      <div style="position:absolute;left:-5000px" aria-hidden="true">
+        <input type="text" name="{{ .name }}" tabindex="-1" />
+      </div>
+    </form>
+    <div id="mce-responses" class="clear">
+      <div
+        class="response text-white"
+        id="mce-error-response"
+        style="display:none"></div>
+      <div
+        class="response text-white"
+        id="mce-success-response"
+        style="display:none"></div>
+    </div>
+    <script
+      type="text/javascript"
+      src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+    <!-- /subscription form -->
+  {{ end }}
+{{ end }}
+
+{{ if site.Params.google_map.enable }}
+  {{ $gmap := resources.Get "plugins/maps/google-map.js" }}
+  <script defer src="{{ $gmap.RelPermalink }}"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key={{ site.Params.google_map.map_api_key }}&libraries=places"></script>
+{{ end }}
+
+{{ end }}

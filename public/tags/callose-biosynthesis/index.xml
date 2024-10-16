@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>callose biosynthesis on funPlantGenes</title>
+    <link>/tags/callose-biosynthesis/</link>
+    <description>Recent content in callose biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/callose-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhGLU19A</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_a04g0109/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_a04g0109/</guid>
+      <description>Gene Details: Gene ID: Gh_A04G0109 Gene Symbol: GhGLU19A Gene Name: Glucanase 19 Genome: Species: Gossypium hirsutum Functional Descriptions: Suppression of GhGLU19 encoding β-1,3-glucanase promotes seed germination in cotton.</description>
+    </item>
+    <item>
+      <title>GhGLU19D</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_d05g3612/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_d05g3612/</guid>
+      <description>Gene Details: Gene ID: Gh_D05G3612 Gene Symbol: GhGLU19D Gene Name: Glucanase 19 Genome: Species: Gossypium hirsutum Functional Descriptions: Suppression of GhGLU19 encoding β-1,3-glucanase promotes seed germination in cotton.</description>
+    </item>
+    <item>
+      <title>SEM1</title>
+      <link>/genes/oryza_sativa/loc_os01g34880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g34880/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g34880 ,LOC_Os01g34890 RAPdb gene ID: Os01g0533000 Gene Symbol: SEM1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

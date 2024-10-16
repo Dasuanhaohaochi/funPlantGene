@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>high-temperature tolerance on funPlantGenes</title>
+    <link>/tags/high-temperature-tolerance/</link>
+    <description>Recent content in high-temperature tolerance on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/high-temperature-tolerance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CaWRKY6</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cawrky6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cawrky6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaWRKY6 Gene Name: WRKY transcription factor 6 Genome: Species: Capsicum annuum Functional Descriptions: CaWRKY6 transcriptionally activates CaWRKY40, regulates Ralstonia solanacearum resistance, and confers high-temperature and high-humidity tolerance in pepper.</description>
+    </item>
+    <item>
+      <title>HTH5</title>
+      <link>/genes/oryza_sativa/loc_os05g05740/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g05740/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g05740 RAPdb gene ID: Os05g0150000 Gene Symbol: HTH5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PlTOE3</title>
+      <link>/genes/paeonia_lactiflora/pltoe3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/paeonia_lactiflora/pltoe3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: PlTOE3 Gene Name: Genome: Species: Paeonia lactiflora Functional Description: These results illustrated that PlTOE3 bound the PlTDC promoter to enhance high-temperature stress tolerance by increasing phytomelatonin production in P.</description>
+    </item>
+    <item>
+      <title>SlMPK1</title>
+      <link>/genes/solanum_lycopersicum/slmpk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmpk1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc12g019460 Gene Symbol: SlMPK1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gossypium arboreum on funPlantGenes</title>
+    <link>/categories/gossypium-arboreum/</link>
+    <description>Recent content in Gossypium arboreum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/gossypium-arboreum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GaFZ</title>
+      <link>/genes/gossypium_arboreum/gafz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_arboreum/gafz/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ga08G0121 Gene Symbol: GaFZ Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GaNEC1</title>
+      <link>/genes/gossypium_arboreum/ganec1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_arboreum/ganec1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ga12G1409 Gene Symbol: GaNEC1 Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GaPC</title>
+      <link>/genes/gossypium_arboreum/gapc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_arboreum/gapc/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ga11G1228 Gene Symbol: GaPC Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>GhPSK</title>
+      <link>/genes/2024.6.9/gossypium-arboreum/ghpsk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-arboreum/ghpsk/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPSK Gene Name: Phytosulfokine-α Genome: Species: Gossypium arboreum Functional Descriptions: A peptide hormone gene, GhPSK promotes fibre elongation and contributes to longer and finer cotton fibre.</description>
+    </item>
+  </channel>
+</rss>

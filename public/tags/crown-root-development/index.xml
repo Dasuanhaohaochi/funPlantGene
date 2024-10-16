@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crown root development on funPlantGenes</title>
+    <link>/tags/crown-root-development/</link>
+    <description>Recent content in crown root development on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/crown-root-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AP37;OsERF3</title>
+      <link>/genes/oryza_sativa/loc_os01g58420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g58420/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g58420 RAPdb gene ID: Os01g0797600 Gene Symbol: AP37 OsERF3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>CHR729;OsCHD3</title>
+      <link>/genes/oryza_sativa/loc_os07g31450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g31450/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g31450 RAPdb gene ID: Os07g0497100 ,Os07g0497000 Gene Symbol: CHR729 OsCHD3 CRL6 RFS Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>CRL1;ARL1</title>
+      <link>/genes/oryza_sativa/loc_os03g05510/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g05510/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g05510 RAPdb gene ID: Os03g0149100 Gene Symbol: CRL1 ARL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>LBL1;rgd1</title>
+      <link>/genes/zea_mays/lbl1rgd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/lbl1rgd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb264310 Gene Symbol: LBL1 rgd1 Gene Name: ragged seedling1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>LRP1</title>
+      <link>/genes/zea_mays/lrp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/lrp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb362740 Gene Symbol: LRP1 Gene Name: LATERAL ROOT PRIMORDIA 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>OsGER4</title>
+      <link>/genes/oryza_sativa/loc_os01g18170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g18170/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g18170 RAPdb gene ID: Os01g0284500 Gene Symbol: OsGER4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRopGEF10;BGL</title>
+      <link>/genes/oryza_sativa/loc_os05g38000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g38000/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g38000 RAPdb gene ID: Os05g0454200 Gene Symbol: OsRopGEF10 BGL Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRR2</title>
+      <link>/genes/oryza_sativa/loc_os02g35180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g35180/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g35180 RAPdb gene ID: Os02g0557800 Gene Symbol: OsRR2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TabHLH123</title>
+      <link>/genes/triticum_aestivum/tabhlh123/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tabhlh123/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TabHLH123 Gene Name: basic helix-loop-helix (bHLH) protein 123 Genome: Species: Triticum aestivum Functional Descriptions: The wheat basic helix-loop-helix gene TabHLH123 positively modulates the formation of crown roots and is associated with plant height and 1000-grain weight under various conditions.</description>
+    </item>
+    <item>
+      <title>TaMOR-D</title>
+      <link>/genes/triticum_aestivum/tamor-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamor-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4D02G312800 Gene Symbol: TaMOR-D Gene Name: MORE ROOT Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WOX11</title>
+      <link>/genes/oryza_sativa/loc_os07g48560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g48560/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g48560 RAPdb gene ID: Os07g0684900 Gene Symbol: WOX11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

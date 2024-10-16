@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pyrus betulaefolia on funPlantGenes</title>
+    <link>/categories/pyrus-betulaefolia/</link>
+    <description>Recent content in Pyrus betulaefolia on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/pyrus-betulaefolia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PbPTB3</title>
+      <link>/genes/pyrus_betulaefolia/pbptb3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/pyrus_betulaefolia/pbptb3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: PbPTB3 Gene Name: Genome: available DNA genome of the pear cultivar ‘DangshanSu Li’ (P.</description>
+    </item>
+    <item>
+      <title>PbrMYB21</title>
+      <link>/genes/2024.6.9/pyrus-betulaefolia/pbr028812.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-betulaefolia/pbr028812.1/</guid>
+      <description>Gene Details: Gene ID: Pbr028812.1 Gene Symbol: PbrMYB21 Gene Name: MYB transcription factor 21 Genome: Species: Pyrus betulaefolia Functional Descriptions: PbrMYB21, a novel MYB protein of Pyrus betulaefolia, functions in drought tolerance and modulates polyamine levels by regulating arginine decarboxylase gene.</description>
+    </item>
+    <item>
+      <title>PbrWRKY53</title>
+      <link>/genes/2024.6.9/pyrus-betulaefolia/pbr018725.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-betulaefolia/pbr018725.1/</guid>
+      <description>Gene Details: Gene ID: Pbr018725.1 Gene Symbol: PbrWRKY53 Gene Name: WRKY transcription factor 53 Genome: Species: Pyrus betulaefolia Functional Descriptions: A WRKY transcription factor PbrWRKY53 from Pyrus betulaefolia is involved in drought tolerance and AsA accumulation.</description>
+    </item>
+    <item>
+      <title>PbWoxT1</title>
+      <link>/genes/pyrus_betulaefolia/pbwoxt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/pyrus_betulaefolia/pbwoxt1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: PbWoxT1 Gene Name: WUSCHEL-RELATED HOMEOBOX Transport 1 Genome: available DNA genome of the pear cultivar ‘DangshanSu Li’ (P.</description>
+    </item>
+  </channel>
+</rss>

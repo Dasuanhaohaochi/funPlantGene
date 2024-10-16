@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>root system architecture on funPlantGenes</title>
+    <link>/tags/root-system-architecture/</link>
+    <description>Recent content in root system architecture on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/root-system-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GmEIL4</title>
+      <link>/genes/glycine_max/gmeil4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmeil4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.02g274600 Gene Symbol: GmEIL4 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: GmEIL4 enhances soybean (Glycine max) phosphorus efficiency by improving root system development.</description>
+    </item>
+    <item>
+      <title>GmEXPB2</title>
+      <link>/genes/2024.6.9/glycine-max/gmexpb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/gmexpb2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GmEXPB2 Gene Name: β-expansin gene Genome: Species: Glycine max Functional Descriptions: GmEXPB2, a Cell Wall β-Expansin, Affects Soybean Nodulation through Modifying Root Architecture and Promoting Nodule Formation and Development.</description>
+    </item>
+    <item>
+      <title>GmWNK1</title>
+      <link>/genes/2024.6.9/glycine-max/gmwnk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/gmwnk1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GmWNK1 Gene Name: WNK kinase homolog1 Genome: Species: Glycine max Functional Descriptions: The soybean root-specific protein kinase GmWNK1 regulates stress-responsive ABA signaling on the root system architecture.</description>
+    </item>
+    <item>
+      <title>OsARF16</title>
+      <link>/genes/oryza_sativa/loc_os06g09660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g09660/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g09660 RAPdb gene ID: Os06g0196700 Gene Symbol: OsARF16 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsEXPB2</title>
+      <link>/genes/oryza_sativa/loc_os10g40710/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g40710/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g40710 RAPdb gene ID: Os10g0555700 Gene Symbol: OsEXPB2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsJAZ9;OsTIFY11a</title>
+      <link>/genes/oryza_sativa/loc_os03g08310/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g08310/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g08310 RAPdb gene ID: Os03g0180800 Gene Symbol: OsJAZ9 OsTIFY11a Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMYB4P</title>
+      <link>/genes/oryza_sativa/loc_os11g35390/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g35390/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g35390 RAPdb gene ID: Os11g0558200 Gene Symbol: OsMYB4P Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPIN2;LRA1</title>
+      <link>/genes/oryza_sativa/loc_os06g44970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g44970/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g44970 RAPdb gene ID: Os06g0660200 Gene Symbol: OsPIN2 LRA1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRab6a</title>
+      <link>/genes/oryza_sativa/loc_os03g09140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g09140/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g09140 RAPdb gene ID: Os03g0191400 Gene Symbol: OsRab6a Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSIZ1</title>
+      <link>/genes/oryza_sativa/loc_os05g03430/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g03430/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g03430 RAPdb gene ID: Os05g0125000 Gene Symbol: OsSIZ1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsWOX4</title>
+      <link>/genes/oryza_sativa/loc_os04g55590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g55590/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g55590 RAPdb gene ID: Os04g0649400 Gene Symbol: OsWOX4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsWRKY28</title>
+      <link>/genes/oryza_sativa/loc_os06g44010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g44010/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g44010 RAPdb gene ID: Os06g0649000 Gene Symbol: OsWRKY28 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>RCc3</title>
+      <link>/genes/oryza_sativa/loc_os02g44310/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g44310/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g44310 RAPdb gene ID: Os02g0662000 Gene Symbol: RCc3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SbPSTOL1</title>
+      <link>/genes/2024.6.9/sorghum-bicolor/sb03g006765/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/sorghum-bicolor/sb03g006765/</guid>
+      <description>Gene Details: Gene ID: Sb03g006765 Gene Symbol: SbPSTOL1 Gene Name: PHOSPHORUS-STARVATION TOLERANCE1 Genome: Species: Sorghum bicolor Functional Descriptions: SbPSTOL1 genes colocalized with quantitative trait loci for traits underlying root morphology and dry weight accumulation under low P via linkage mapping.</description>
+    </item>
+    <item>
+      <title>ZmbZIP107;bzip107</title>
+      <link>/genes/zea_mays/zmbzip107bzip107/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmbzip107bzip107/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb412510 Gene Symbol: ZmbZIP107 bzip107 Gene Name: bZIP-transcription factor 107 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHb77</title>
+      <link>/genes/zea_mays/zm00001eb377480/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb377480/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb377480 Gene Symbol: ZmHb77 Gene Name: Homeobox-transcription factor 77 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

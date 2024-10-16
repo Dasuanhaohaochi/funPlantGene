@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Melilotus albus on funPlantGenes</title>
+    <link>/categories/melilotus-albus/</link>
+    <description>Recent content in Melilotus albus on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/melilotus-albus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MaBGLU1</title>
+      <link>/genes/melilotus_albus/mabglu1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/melilotus_albus/mabglu1/</guid>
+      <description>Gene Details: Gene ID:&#x9;EVM0001671.1 Gene Symbol: MaBGLU1 Gene Name: Genome: Medicago archiducis genome sequences (NCBI, SRX9404272) Species: Melilotus albus Functional Description: These results demonstrated the role of the MaBGLU1 gene in regulating coumarin content.</description>
+    </item>
+  </channel>
+</rss>

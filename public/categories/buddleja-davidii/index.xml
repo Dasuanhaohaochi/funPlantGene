@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buddleja davidii on funPlantGenes</title>
+    <link>/categories/buddleja-davidii/</link>
+    <description>Recent content in Buddleja davidii on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/buddleja-davidii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BdCCD4.2</title>
+      <link>/genes/2024.6.9/buddleja-davidii/bdccd4.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/buddleja-davidii/bdccd4.2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BdCCD4.2 Gene Name: carotenoid cleavage dioxygenase 4 Genome: Species: Buddleja davidii Functional Descriptions: Both BdCCD4 genes are highly expressed during flower development and transcripts levels parallel the accumulation of crocins in the petals.</description>
+    </item>
+  </channel>
+</rss>

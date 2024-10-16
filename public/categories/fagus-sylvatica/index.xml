@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fagus sylvatica on funPlantGenes</title>
+    <link>/categories/fagus-sylvatica/</link>
+    <description>Recent content in Fagus sylvatica on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/fagus-sylvatica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FsPTP1</title>
+      <link>/genes/2024.6.9/fagus-sylvatica/fsptp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fagus-sylvatica/fsptp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FsPTP1 Gene Name: protein tyrosine phosphatase1 Genome: Species: Fagus sylvatica Functional Descriptions: Functional analysis in Arabidopsis of FsPTP1, a tyrosine phosphatase from beechnuts, reveals its role as a negative regulator of ABA signaling and seed dormancy and suggests its involvement in ethylene signaling modulation.</description>
+    </item>
+  </channel>
+</rss>

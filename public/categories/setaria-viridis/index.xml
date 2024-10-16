@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setaria viridis on funPlantGenes</title>
+    <link>/categories/setaria-viridis/</link>
+    <description>Recent content in Setaria viridis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/setaria-viridis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SvLes1</title>
+      <link>/genes/setaria_viridis/svles1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/setaria_viridis/svles1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Sevir.5G085400 Gene Symbol: SvLes1 Gene Name: Genome: Setaria viridis Species: Setaria viridis Functional Description: With CRISPR–Cas9 genome editing, we validated Less Shattering1 (SvLes1) as a gene whose product controls seed shattering.</description>
+    </item>
+    <item>
+      <title>SvSTL1</title>
+      <link>/genes/2024.6.9/setaria-viridis/sevir.4g056900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/setaria-viridis/sevir.4g056900/</guid>
+      <description>Gene Details: Gene ID: Sevir.4G056900 Gene Symbol: SvSTL1 Gene Name: Sucrose Transporter-like 1 Genome: The reference genome of S.</description>
+    </item>
+  </channel>
+</rss>

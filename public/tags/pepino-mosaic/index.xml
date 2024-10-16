@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pepino mosaic on funPlantGenes</title>
+    <link>/tags/pepino-mosaic/</link>
+    <description>Recent content in pepino mosaic on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/pepino-mosaic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SlOSCA4.1</title>
+      <link>/genes/solanum_lycopersicum/slosca4.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slosca4.1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc02g083430 Gene Symbol: SlOSCA4.1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+  </channel>
+</rss>

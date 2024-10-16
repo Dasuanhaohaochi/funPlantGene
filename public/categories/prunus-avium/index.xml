@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prunus avium on funPlantGenes</title>
+    <link>/categories/prunus-avium/</link>
+    <description>Recent content in Prunus avium on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/prunus-avium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PacCYP707A1</title>
+      <link>/genes/2024.6.9/prunus-avium/paccyp707a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-avium/paccyp707a1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PacCYP707A1 Gene Name: Genome: Species: Prunus avium Functional Descriptions: PacCYP707A2 negatively regulates cherry fruit ripening while PacCYP707A1 mediates drought tolerance.</description>
+    </item>
+    <item>
+      <title>PacCYP707A2</title>
+      <link>/genes/2024.6.9/prunus-avium/paccyp707a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-avium/paccyp707a2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PacCYP707A2 Gene Name: Genome: Species: Prunus avium Functional Descriptions: PacCYP707A2 negatively regulates cherry fruit ripening while PacCYP707A1 mediates drought tolerance.</description>
+    </item>
+    <item>
+      <title>PaMYB10</title>
+      <link>/genes/2024.6.9/prunus-avium/pamyb10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-avium/pamyb10/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PaMYB10 Gene Name: MYB transcriptional regulator 10 Genome: Species: Prunus avium Functional Descriptions: The R2R3-MYB transcription factor PaMYB10 is involved in anthocyanin biosynthesis in apricots and determines red blushed skin.</description>
+    </item>
+    <item>
+      <title>PavBBX6</title>
+      <link>/genes/prunus_avium/pavbbx6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/prunus_avium/pavbbx6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: PavBBX6 Gene Name: Genome: sweet cherry genome version 1.</description>
+    </item>
+    <item>
+      <title>PavBBX9</title>
+      <link>/genes/prunus_avium/pavbbx9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/prunus_avium/pavbbx9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: PavBBX9 Gene Name: Genome: sweet cherry genome version 1.</description>
+    </item>
+    <item>
+      <title>PavDof15</title>
+      <link>/genes/2024.6.9/prunus-avium/pavdof15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-avium/pavdof15/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PavDof15 Gene Name: DNA-binding with One Finger 15 Genome: Species: Prunus avium Functional Descriptions: Abscisic acid-responsive transcription factors PavDof2/PavDof6/PavDof15 mediate fruit softening in sweet cherry.</description>
+    </item>
+    <item>
+      <title>PavDof2</title>
+      <link>/genes/2024.6.9/prunus-avium/pavdof2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-avium/pavdof2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PavDof2 Gene Name: DNA-binding with One Finger 2 Genome: Species: Prunus avium Functional Descriptions: Abscisic acid-responsive transcription factors PavDof2/PavDof6/PavDof15 mediate fruit softening in sweet cherry.</description>
+    </item>
+    <item>
+      <title>PavDof6</title>
+      <link>/genes/2024.6.9/prunus-avium/pavdof6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-avium/pavdof6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PavDof6 Gene Name: DNA-binding with One Finger 6 Genome: Species: Prunus avium Functional Descriptions: Abscisic acid-responsive transcription factors PavDof2/PavDof6/PavDof15 mediate fruit softening in sweet cherry.</description>
+    </item>
+    <item>
+      <title>PavFUL</title>
+      <link>/genes/prunus_avium/pavful/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/prunus_avium/pavful/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: PavFUL Gene Name: Genome: sweet cherry genome version 1.</description>
+    </item>
+    <item>
+      <title>PavSCPL</title>
+      <link>/genes/2024.6.9/prunus-avium/pav_sc0000480.1_g920.1.mk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-avium/pav_sc0000480.1_g920.1.mk/</guid>
+      <description>Gene Details: Gene ID: Pav_sc0000480.1_g920.1.mk Gene Symbol: PavSCPL Gene Name: Genome: Species: Prunus avium Functional Descriptions: A 5.</description>
+    </item>
+  </channel>
+</rss>

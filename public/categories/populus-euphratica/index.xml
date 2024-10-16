@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Populus euphratica on funPlantGenes</title>
+    <link>/categories/populus-euphratica/</link>
+    <description>Recent content in Populus euphratica on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/populus-euphratica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PeJAZ2</title>
+      <link>/genes/2024.6.9/populus-euphratica/potri.006g139400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-euphratica/potri.006g139400/</guid>
+      <description>Gene Details: Gene ID: Potri.006G139400 Gene Symbol: PeJAZ2 Gene Name: JASMONATE ZIM-domain protein 2 Genome: Species: Populus euphratica Functional Descriptions: Overexpression of PeJAZ2 in poplar notably increased water deficit tolerance and WUE in both severe and mild drought stress by regulating ABA signaling rather than ABA synthesis.</description>
+    </item>
+    <item>
+      <title>PeOST1</title>
+      <link>/genes/2024.6.9/populus-euphratica/potri.003g084100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-euphratica/potri.003g084100/</guid>
+      <description>Gene Details: Gene ID: Potri.003G084100 Gene Symbol: PeOST1 Gene Name: OPEN STOMATA1 Genome: Species: Populus euphratica Functional Descriptions: A yeast two-hybrid assay was performed using PeOST1 as bait and a nucleus-localized factor, JASMONATE ZIM-domain protein 2 (PeJAZ2), was found to participate in MeJA signaling by interacting with PeOST1.</description>
+    </item>
+    <item>
+      <title>PeSTZ1</title>
+      <link>/genes/2024.6.9/populus-euphratica/pestz1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-euphratica/pestz1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PeSTZ1 Gene Name: SALT TOLERANCE ZINC FINGER 1 Genome: Species: Populus euphratica Functional Descriptions: PeSTZ1, a C2H2-type zinc finger transcription factor from Populus euphratica, enhances freezing tolerance through modulation of ROS scavenging by directly regulating PeAPX2.</description>
+    </item>
+  </channel>
+</rss>

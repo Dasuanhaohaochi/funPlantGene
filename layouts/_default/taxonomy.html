@@ -1,0 +1,73 @@
+{{ define "main" }}
+<style>
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 每行5个卡片 */
+    gap: 20px; /* 卡片之间的间隔 */
+    justify-content: center; /* 中心对齐 */
+    max-width: 1400px; /* 容器最大宽度，根据需要调整 */
+    margin: 30px auto; /* 容器居中且与顶部有间距 */
+    padding: 0 20px; /* 左右两端的间距 */
+}
+
+.card {
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* 添加阴影 */
+    border-radius: 10px;
+    padding: 10px; /* 调整卡片内边距 */
+    transition: transform 0.3s ease; /* 平滑动画效果 */
+    min-height: 100px; /* 设置统一的最小高度 */
+    display: flex; /* 使用flex布局 */
+    flex-direction: column; /* 垂直排列子元素 */
+    justify-content: space-between; /* 内容分布均匀 */
+    overflow: hidden; /* 隐藏溢出的内容 */
+}
+
+.card-content {
+    flex-grow: 1; /* 让内容部分占据可用空间 */
+}
+
+  /* 定义标题的样式 */
+  .card-title {
+    font-size: 20px; /* 调整标题字体大小 */
+    color: #000; /* 标题颜色 */
+    font-weight: bold; /* 加粗标题 */
+    white-space: nowrap; /* 禁止换行 */
+    overflow: hidden; /* 超出部分隐藏 */
+    text-overflow: ellipsis; /* 超出部分用省略号表示 */
+  }
+
+  /* 定义描述的样式 */
+  .card-description {
+    font-size: 14px; /* 描述的字体比标题小 */
+    color: #666; /* 描述的颜色比标题暗 */
+    overflow: hidden; /* 隐藏溢出的内容 */
+    text-overflow: ellipsis; /* 超出部分用省略号表示 */
+    display: -webkit-box; /* 作为弹性伸缩盒子模型显示 */
+    -webkit-line-clamp: 3; /* 显示的行数 */
+    -webkit-box-orient: vertical; /* 垂直排列子元素 */
+  }
+
+  .card:hover {
+    transform: translateY(-5px); /* 悬浮时上移效果 */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* 悬浮时增强阴影 */
+}
+</style>
+
+<div style="text-align: center; margin-bottom: 30px;">
+  {{ partial "components/pagination.html" . }}
+</div>
+<div class="card-container">
+  {{ range .Paginator.Pages }}
+    <a href="{{ .RelPermalink }}" class="card">
+      <div class="card-content">
+        <h3 class="card-title">{{ .Title }}</h3>
+        <p class="card-description">{{ .Description | plainify }}</p>
+      </div>
+    </a>
+  {{ end }}
+</div>
+<div style="text-align: center; margin-bottom: 20px;">
+  {{ partial "components/pagination-bottom.html" . }}
+</div>
+{{ end }}

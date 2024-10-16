@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carbohydrate metabolism on funPlantGenes</title>
+    <link>/tags/carbohydrate-metabolism/</link>
+    <description>Recent content in carbohydrate metabolism on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/carbohydrate-metabolism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsSUT1</title>
+      <link>/genes/2024.6.9/cucumis-sativus/cssut1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/cssut1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsSUT1 Gene Name: Sucrose Transporter 1 Genome: Species: Cucumis sativus Functional Descriptions: Down-regulation of the Sucrose Transporter CsSUT1 Causes Male Sterility by Altering Carbohydrate Supply.</description>
+    </item>
+    <item>
+      <title>IbSnRK1</title>
+      <link>/genes/2024.6.9/ipomoea-batatas/ibsnrk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/ipomoea-batatas/ibsnrk1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: IbSnRK1 Gene Name: sucrose non-fermenting-1-related protein kinase-1 Genome: Species: Ipomoea batatas Functional Descriptions: These findings indicate that IbSnRK1 improves starch content and quality through systematical up-regulation of the genes and the increase in key enzyme activities involved in starch biosynthesis pathway in transgenic sweet potato.</description>
+    </item>
+    <item>
+      <title>KASI</title>
+      <link>/genes/glycine_max/kasi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/kasi/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.08G084300 Gene Symbol: KASI Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: KASI is a core fatty acid synthesis enzyme that is involved in the conversion of sucrose into oil in developing seeds.</description>
+    </item>
+    <item>
+      <title>MdbHLH3-27</title>
+      <link>/genes/malus_domestica/mdbhlh3-27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdbhlh3-27/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD00G1130200 Gene Symbol: MdbHLH3-27 Gene Name: Malus domestica basic helix–loop–helix 3 Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MS3</title>
+      <link>/genes/glycine_max/ms3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/ms3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.02g107600 Gene Symbol: MS3 Gene Name: MALE STERILITY 3 Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: MALE STERILITY 3 encodes a plant homeodomain-finger protein for male fertility in soybean MS3 encodes a transcription factor with a PHD-finger.</description>
+    </item>
+    <item>
+      <title>PpbZIP44</title>
+      <link>/genes/2024.6.9/prunus-persica/ppbzip44/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/ppbzip44/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PpbZIP44 Gene Name: Genome: Species: Prunus persica Functional Descriptions: A pear S1-bZIP transcription factor PpbZIP44 modulates carbohydrate metabolism, amino acid, and flavonoid accumulation in fruits.</description>
+    </item>
+    <item>
+      <title>PpSnRK1βγ</title>
+      <link>/genes/2024.6.9/prunus-persica/prupe.6g323700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/prupe.6g323700/</guid>
+      <description>Gene Details: Gene ID: Prupe.6G323700 Gene Symbol: PpSnRK1βγ Gene Name: sucrose non-fermenting 1 related kinase Genome: reference peach genome (release version 2.</description>
+    </item>
+    <item>
+      <title>SlAREB1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slareb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slareb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlAREB1 Gene Name: ABA-response element binding factor 1 Genome: Species: Solanum lycopersicum Functional Descriptions: The transcription factor AREB1 regulates primary metabolic pathways in tomato fruits.</description>
+    </item>
+    <item>
+      <title>SlGRAS9</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g036170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g036170/</guid>
+      <description>Gene Details: Gene ID: Solyc06g036170 Gene Symbol: SlGRAS9 Gene Name: GRAS transcription factor 9 Genome: Species: Solanum lycopersicum Functional Descriptions: The SlGRAS9-SlZHD17 transcriptional cascade regulates chlorophyll and carbohydrate metabolism contributing to fruit quality traits in tomato.</description>
+    </item>
+  </channel>
+</rss>

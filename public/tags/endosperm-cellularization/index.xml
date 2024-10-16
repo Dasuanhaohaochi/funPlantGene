@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>endosperm cellularization on funPlantGenes</title>
+    <link>/tags/endosperm-cellularization/</link>
+    <description>Recent content in endosperm cellularization on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/endosperm-cellularization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsbZIP76</title>
+      <link>/genes/oryza_sativa/loc_os09g34880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g34880/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g34880 RAPdb gene ID: Os09g0520400 Gene Symbol: OsbZIP76 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsEMF2a</title>
+      <link>/genes/oryza_sativa/loc_os04g08034/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g08034/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g08034 RAPdb gene ID: Os04g0162100 Gene Symbol: OsEMF2a Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNF-YB1</title>
+      <link>/genes/oryza_sativa/loc_os02g49410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g49410/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g49410 RAPdb gene ID: Os02g0725900 Gene Symbol: OsNF-YB1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNF-YB9</title>
+      <link>/genes/oryza_sativa/loc_os06g17480/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g17480/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g17480 RAPdb gene ID: Os06g0285200 Gene Symbol: OsNF-YB9 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSWEET15</title>
+      <link>/genes/oryza_sativa/loc_os02g30910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g30910/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g30910 RAPdb gene ID: Os02g0513100 Gene Symbol: OsSWEET15 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

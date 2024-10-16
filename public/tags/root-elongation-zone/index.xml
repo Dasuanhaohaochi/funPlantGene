@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>root elongation zone on funPlantGenes</title>
+    <link>/tags/root-elongation-zone/</link>
+    <description>Recent content in root elongation zone on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/root-elongation-zone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G26080</title>
+      <link>/genes/arabidopsis_thaliana/at2g26080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g26080/</guid>
+      <description>Gene Details: Gene ID: AT2G26080 Gene Symbol: AtGLDP2, GLDP2 Gene Name: glycine decarboxylase P-protein 2, glycine decarboxylase P-protein 2 Description: glycine decarboxylase P-protein 2;(source:Araport11) TAIR Accession: locus:2057464 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G26080.</description>
+    </item>
+    <item>
+      <title>AT2G44080</title>
+      <link>/genes/arabidopsis_thaliana/at2g44080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g44080/</guid>
+      <description>Gene Details: Gene ID: AT2G44080 Gene Symbol: ARL Gene Name: ARGOS-like Description: ARGOS-like protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G44080.</description>
+    </item>
+    <item>
+      <title>AT3G08550</title>
+      <link>/genes/arabidopsis_thaliana/at3g08550/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g08550/</guid>
+      <description>Gene Details: Gene ID: AT3G08550 Gene Symbol: ABI8, ELD1, KOB1 Gene Name: ABA INSENSITIVE 8, ELONGATION DEFECTIVE 1, KOBITO Description: elongation defective 1 protein / ELD1 protein;(source:Araport11) TAIR Accession: locus:2077858 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G08550.</description>
+    </item>
+    <item>
+      <title>AT5G13930</title>
+      <link>/genes/arabidopsis_thaliana/at5g13930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g13930/</guid>
+      <description>Gene Details: Gene ID: AT5G13930 Gene Symbol: ATCHS, CHS, TT4 Gene Name: CHALCONE SYNTHASE, TRANSPARENT TESTA 4 Description: Chalcone and stilbene synthase family protein;(source:Araport11) TAIR Accession: locus:2159098 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G13930.</description>
+    </item>
+    <item>
+      <title>AT5G20520</title>
+      <link>/genes/arabidopsis_thaliana/at5g20520/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g20520/</guid>
+      <description>Gene Details: Gene ID: AT5G20520 Gene Symbol: ABAPT11, WAV2 Gene Name: ABHD17 (Alpha/Beta Hydrolase Domain-containing Protein 17)-like Acyl Protein Thioesterase 11, WAVY GROWTH 2 Description: alpha/beta-Hydrolases superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G20520.</description>
+    </item>
+  </channel>
+</rss>

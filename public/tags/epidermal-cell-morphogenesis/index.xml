@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>epidermal cell morphogenesis on funPlantGenes</title>
+    <link>/tags/epidermal-cell-morphogenesis/</link>
+    <description>Recent content in epidermal cell morphogenesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/epidermal-cell-morphogenesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LPL2</title>
+      <link>/genes/oryza_sativa/loc_os03g05020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g05020/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g05020 RAPdb gene ID: Os03g0143800 ,Os03g0143851 Gene Symbol: LPL2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>LPL3;DS8</title>
+      <link>/genes/oryza_sativa/loc_os08g43130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g43130/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g43130 RAPdb gene ID: Os08g0544500 Gene Symbol: LPL3 DS8 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MeHDZ14</title>
+      <link>/genes/manihot_esculenta/mehdz14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/mehdz14/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.01G242300 Gene Symbol: MeHDZ14 Gene Name: Genome: Manihot esculenta, v8.</description>
+    </item>
+    <item>
+      <title>PhDEF</title>
+      <link>/genes/2024.6.9/petunia-hybrida/phdef/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/petunia-hybrida/phdef/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhDEF Gene Name: PhDEFICIENS Genome: Species: Petunia hybrida Functional Descriptions: Cell layer–specific expression of the homeotic MADS-box transcription factor PhDEF contributes to modular petal morphogenesis in petunia.</description>
+    </item>
+    <item>
+      <title>SlHDZIV8</title>
+      <link>/genes/solanum_lycopersicum/slhdziv8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slhdziv8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: SlHDZIV8 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: The HD-Zip IV transcription factor SlHDZIV8 controls multicellular trichome morphology by regulating the expression of Hairless-2.</description>
+    </item>
+  </channel>
+</rss>

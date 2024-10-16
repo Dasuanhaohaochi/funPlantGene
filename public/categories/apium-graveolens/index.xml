@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apium graveolens on funPlantGenes</title>
+    <link>/categories/apium-graveolens/</link>
+    <description>Recent content in Apium graveolens on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/apium-graveolens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AgMaT2</title>
+      <link>/genes/2024.6.9/apium-graveolens/agmat2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/apium-graveolens/agmat2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: AgMaT2 Gene Name: mannitol transporter 2 Genome: Species: Apium graveolens Functional Descriptions: Characterization of AgMaT2, a Plasma Membrane Mannitol Transporter from Celery, Expressed in Phloem Cells, Including Phloem Parenchyma Cells.</description>
+    </item>
+  </channel>
+</rss>

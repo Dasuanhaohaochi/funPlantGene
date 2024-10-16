@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethylene homeostasis on funPlantGenes</title>
+    <link>/tags/ethylene-homeostasis/</link>
+    <description>Recent content in ethylene homeostasis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ethylene-homeostasis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsAP2-09</title>
+      <link>/genes/2024.6.9/citrus-sinensis/csap2-09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/csap2-09/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsAP2-09 Gene Name: Genome: Species: Citrus sinensis Functional Descriptions: Demonstrated that overexpression of an Xcc-inducible apetala 2/ethylene response factor encoded by Citrus sinensis, CsAP2-09, enhances CBC resistance.</description>
+    </item>
+    <item>
+      <title>GhAPX1</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghapx1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghapx1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhAPX1 Gene Name: cytosolic ascorbate peroxidase 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Here, a cotton (Gossypium hirsutum) cytosolic APX1 (GhAPX1) was identified to be highly accumulated during cotton fibre elongation by proteomic analysis.</description>
+    </item>
+    <item>
+      <title>MED25</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc12g070100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc12g070100/</guid>
+      <description>Gene Details: Gene ID: Solyc12g070100 Gene Symbol: MED25 Gene Name: Genome: tomato reference genome (SL3.</description>
+    </item>
+    <item>
+      <title>PtrGSTU17</title>
+      <link>/genes/poncirus_trifoliata/ptrgstu17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/poncirus_trifoliata/ptrgstu17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Pt4g003440 Gene Symbol: PtrGSTU17 Gene Name: glutathione S-transferase U17 Genome: P.</description>
+    </item>
+    <item>
+      <title>SIT1</title>
+      <link>/genes/oryza_sativa/loc_os02g42780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g42780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g42780 RAPdb gene ID: Os02g0640500 Gene Symbol: SIT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmEREB180;ZmERF4</title>
+      <link>/genes/zea_mays/zmereb180zmerf4ereb180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmereb180zmerf4ereb180/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb006180 Gene Symbol: ZmEREB180 ZmERF4 ereb180 Gene Name: AP2-EREBP-transcription factor 180 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

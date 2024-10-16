@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ammonium on funPlantGenes</title>
+    <link>/tags/ammonium/</link>
+    <description>Recent content in ammonium on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ammonium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CitAMT1</title>
+      <link>/genes/2024.6.9/citrus-sinensis-x-poncirus-trifoliata/citamt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis-x-poncirus-trifoliata/citamt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CitAMT1 Gene Name: ammonium transporter1 Genome: Species: Citrus sinensis x Poncirus trifoliata Functional Descriptions: Ammonium transport and CitAMT1 expression are regulated by N in Citrus plants.</description>
+    </item>
+    <item>
+      <title>PagGS1;2</title>
+      <link>/genes/2024.6.9/populus-alba-p.-glandulosa/paggs12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-alba-p.-glandulosa/paggs12/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PagGS1;2 Gene Name: Genome: Species: Populus alba × P.</description>
+    </item>
+    <item>
+      <title>TaAMT2</title>
+      <link>/genes/triticum_aestivum/taamt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taamt2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaAMT2|3a Gene Name: AMT2-type ammonium transporter Genome: Species: Triticum aestivum Functional Descriptions: TaAMT2|3a|TaAMT2|3a, a wheat AMT2-type ammonium transporter, facilitates the infection of stripe rust fungus on wheat.</description>
+    </item>
+    <item>
+      <title>ZmAMT1</title>
+      <link>/genes/zea_mays/zm00001eb247430/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb247430/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb247430 Gene Symbol: ZmAMT1|3|ZmAMT2 Gene Name: ammonium transporter2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAMT3.1;amt7</title>
+      <link>/genes/zea_mays/zmamt3.1amt7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmamt3.1amt7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb366590 Gene Symbol: ZmAMT3.1 amt7 Gene Name: ammonium transporter7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

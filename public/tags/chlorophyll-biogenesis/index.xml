@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chlorophyll biogenesis on funPlantGenes</title>
+    <link>/tags/chlorophyll-biogenesis/</link>
+    <description>Recent content in chlorophyll biogenesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/chlorophyll-biogenesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hd5;DTH8</title>
+      <link>/genes/oryza_sativa/loc_os08g07740/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g07740/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g07740 RAPdb gene ID: Os08g0174500 Gene Symbol: Hd5 DTH8 Ghd8 OsHAP3H LHD1 EF8 CAR8 OsNF-YB11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSRLK</title>
+      <link>/genes/oryza_sativa/loc_os01g12390/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g12390/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g12390 RAPdb gene ID: Os01g0223600 Gene Symbol: OsSRLK Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PHYB2</title>
+      <link>/genes/solanum_lycopersicum/phyb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/phyb2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc05g053410 Gene Symbol: PHYB2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>Se5;OsHY1</title>
+      <link>/genes/oryza_sativa/loc_os06g40080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g40080/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g40080 RAPdb gene ID: Os06g0603000 Gene Symbol: Se5 OsHY1 OsHO1 YGL2 YE1 PE-1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlGRAS9</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc06g036170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc06g036170/</guid>
+      <description>Gene Details: Gene ID: Solyc06g036170 Gene Symbol: SlGRAS9 Gene Name: GRAS transcription factor 9 Genome: Species: Solanum lycopersicum Functional Descriptions: The SlGRAS9-SlZHD17 transcriptional cascade regulates chlorophyll and carbohydrate metabolism contributing to fruit quality traits in tomato.</description>
+    </item>
+    <item>
+      <title>SlMYB72</title>
+      <link>/genes/solanum_lycopersicum/slmyb72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyb72/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g055000 Gene Symbol: SlMYB72 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+  </channel>
+</rss>

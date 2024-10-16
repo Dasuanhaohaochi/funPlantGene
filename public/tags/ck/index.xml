@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ck on funPlantGenes</title>
+    <link>/tags/ck/</link>
+    <description>Recent content in ck on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ck/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhNAC83</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/glaun057212/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/glaun057212/</guid>
+      <description>Gene Details: Gene ID: GlaUn057212 Gene Symbol: GhNAC83 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhNAC83 inhibits corm dormancy release by regulating ABA signaling and cytokinin biosynthesis in Gladiolus hybridus.</description>
+    </item>
+    <item>
+      <title>MdCKX5</title>
+      <link>/genes/2024.7.17/malus-domestica/md15g1021500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/malus-domestica/md15g1021500/</guid>
+      <description>Gene Details: Gene ID: MD15G1021500 Gene Symbol: MdCKX5 Gene Name: CYTOKININ OXIDASE/DEHYDROGENASE5 Genome: Species: Malus domestica Functional Descriptions: CYTOKININ OXIDASE/DEHYDROGENASE5 (MdCKX5), an age-dependent gene, encodes a functional CKX enzyme and serves as the common downstream target of SQUAMOSA PROMOTER BINDING PROTEIN-LIKE (SPL) transcription factor MdSPL14 and WRKY transcription factor MdWRKY24 to control the degradation of cytokinin (CK).</description>
+    </item>
+    <item>
+      <title>MdTCP17</title>
+      <link>/genes/2024.6.9/malus-domestica/mdtcp17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdtcp17/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdTCP17 Gene Name: CK-responsive TEOSINTE BRANCHED1, CYCLOIDEA, and PCF17 Genome: Species: Malus domestica Functional Descriptions: A correlation between expression of CK-responsive TEOSINTE BRANCHED1, CYCLOIDEA, and PCF17 (MdTCP17) and AR formation in response to CK was identified, and overexpression of MdTCP17 in transgenic apple inhibited AR formation.</description>
+    </item>
+    <item>
+      <title>MdWOX11</title>
+      <link>/genes/2024.6.9/malus-domestica/mdwox11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdwox11/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdWOX11 Gene Name: WUSCHEL-RELATED HOMEOBOX11 Genome: Species: Malus domestica Functional Descriptions: Cytokinin-responsive MdTCP17 interacts with MdWOX11 to repress adventitious root primordium formation in apple rootstocks.</description>
+    </item>
+    <item>
+      <title>MsDREB6.2</title>
+      <link>/genes/2024.6.9/malus-sieversii/msdreb6.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-sieversii/msdreb6.2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MsDREB6.2 Gene Name: Dehydration-responsive element binding factor 6 Genome: apple sequence database (http://genomics.</description>
+    </item>
+    <item>
+      <title>MsGH3.5</title>
+      <link>/genes/2024.6.9/malus-sieversii/msgh3.5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-sieversii/msgh3.5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MsGH3.5 Gene Name: GRETCHEN HAGEN3 Genome: Species: Malus sieversii Functional Descriptions: MsGH3.</description>
+    </item>
+    <item>
+      <title>PsBRC1</title>
+      <link>/genes/2024.6.9/pisum-sativum/psbrc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pisum-sativum/psbrc1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PsBRC1 Gene Name: BRANCHED1 Genome: Species: Pisum sativum Functional Descriptions: The effectiveness of SL at affecting bud and branch growth correlated with the ability of SL to regulate expression of PsBRC1.</description>
+    </item>
+  </channel>
+</rss>

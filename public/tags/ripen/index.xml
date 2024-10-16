@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ripen on funPlantGenes</title>
+    <link>/tags/ripen/</link>
+    <description>Recent content in ripen on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ripen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SlAP2a</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/slap2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/slap2a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlAP2a Gene Name: APETALA2 transcription factor Genome: Species: Solanum lycopersicum Functional Descriptions: A tomato (Solanum lycopersicum) APETALA2/ERF gene, SlAP2a, is a negative regulator of fruit ripening.</description>
+    </item>
+  </channel>
+</rss>

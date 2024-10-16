@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>guard mother cell on funPlantGenes</title>
+    <link>/tags/guard-mother-cell/</link>
+    <description>Recent content in guard mother cell on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/guard-mother-cell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT1G04110</title>
+      <link>/genes/arabidopsis_thaliana/at1g04110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04110/</guid>
+      <description>Gene Details: Gene ID: AT1G04110 Gene Symbol: AtSDD1, SDD1 Gene Name: STOMATAL DENSITY AND DISTRIBUTION 1 Description: Subtilase family protein;(source:Araport11) TAIR Accession: locus:2020245 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04110.</description>
+    </item>
+    <item>
+      <title>AT3G06120</title>
+      <link>/genes/arabidopsis_thaliana/at3g06120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g06120/</guid>
+      <description>Gene Details: Gene ID: AT3G06120 Gene Symbol: MUTE Gene Name: MUTE Description: basic helix-loop-helix (bHLH) DNA-binding superfamily protein;(source:Araport11) TAIR Accession: locus:2082400 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G06120.</description>
+    </item>
+    <item>
+      <title>AT3G24140</title>
+      <link>/genes/arabidopsis_thaliana/at3g24140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g24140/</guid>
+      <description>Gene Details: Gene ID: AT3G24140 Gene Symbol: FMA Gene Name: FAMA Description: basic helix-loop-helix (bHLH) DNA-binding superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G24140.</description>
+    </item>
+  </channel>
+</rss>

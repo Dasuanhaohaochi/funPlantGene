@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carotene on funPlantGenes</title>
+    <link>/tags/carotene/</link>
+    <description>Recent content in carotene on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/carotene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ClPsy1</title>
+      <link>/genes/2024.7.17/citrullus-lanatus/cla97c01g008760/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/citrullus-lanatus/cla97c01g008760/</guid>
+      <description>Gene Details: Gene ID: Cla97C01G008760 Gene Symbol: ClPsy1 Gene Name: phytoene synthase 1 Genome: Species: Citrullus lanatus Functional Descriptions: Nucleotide variation in the phytoene synthase (ClPsy1) gene contributes to golden flesh in watermelon.</description>
+    </item>
+    <item>
+      <title>CmDXS2a</title>
+      <link>/genes/2024.6.9/cucumis-melo/melo3c017499/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-melo/melo3c017499/</guid>
+      <description>Gene Details: Gene ID: MELO3C017499 Gene Symbol: CmDXS2a Gene Name: 1-deoxyxylulose 5-phosphate synthase Genome: Species: Cucumis melo Functional Descriptions: In the case of DXS, three genes encode functional DXS activities which fall into previously established type I (CmDXS1) and II (CmDXS2a and CmDXS2b) categories, while a fourth DXS-like gene belonging to the type III group did not encode a protein with DXS activity.</description>
+    </item>
+    <item>
+      <title>CmDXS2b</title>
+      <link>/genes/2024.6.9/cucumis-melo/melo3c014965/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-melo/melo3c014965/</guid>
+      <description>Gene Details: Gene ID: MELO3C014965 Gene Symbol: CmDXS2b Gene Name: 1-deoxyxylulose 5-phosphate synthase Genome: Species: Cucumis melo Functional Descriptions: In the case of DXS, three genes encode functional DXS activities which fall into previously established type I (CmDXS1) and II (CmDXS2a and CmDXS2b) categories, while a fourth DXS-like gene belonging to the type III group did not encode a protein with DXS activity.</description>
+    </item>
+    <item>
+      <title>CmFBN1</title>
+      <link>/genes/2024.6.9/cucumis-melo/melo3c007423/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-melo/melo3c007423/</guid>
+      <description>Gene Details: Gene ID: MELO3C007423 Gene Symbol: CmFBN1 Gene Name: FIBRILLIN1 Genome: Species: Cucumis melo Functional Descriptions: Carotenoid sequestration protein FIBRILLIN (CmFBN1) participates in CmOR-regulated β-carotene accumulation in melon.</description>
+    </item>
+    <item>
+      <title>CmOR</title>
+      <link>/genes/2024.6.9/cucumis-melo/cmor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-melo/cmor/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CmOR Gene Name: Genome: Species: Cucumis melo Functional Descriptions: Carotenoid sequestration protein FIBRILLIN participates in CmOR-regulated β-carotene accumulation in melon.</description>
+    </item>
+    <item>
+      <title>CrBCH2</title>
+      <link>/genes/2024.6.9/citrus-reticulata/crbch2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-reticulata/crbch2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CrBCH2 Gene Name: β-carotene hydroxylases 2 Genome: Species: Citrus reticulata Functional Descriptions: An R2R3-MYB transcription factor represses the transformation of α- and β-branch carotenoids by negatively regulating expression of CrBCH2 and CrNCED5 in flavedo of Citrus reticulate.</description>
+    </item>
+    <item>
+      <title>CrNCED5</title>
+      <link>/genes/2024.6.9/citrus-reticulata/crnced5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-reticulata/crnced5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CrNCED5 Gene Name: 9-cis-epoxycarotenoid dioxygenase 5 Genome: Species: Citrus reticulata Functional Descriptions: An R2R3-MYB transcription factor represses the transformation of α- and β-branch carotenoids by negatively regulating expression of CrBCH2 and CrNCED5 in flavedo of Citrus reticulate.</description>
+    </item>
+    <item>
+      <title>CrWRKY42</title>
+      <link>/genes/2024.6.9/citrus-sinensis/crwrky42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/crwrky42/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CrWRKY42 Gene Name: WRKY transcription factor 42 Genome: Species: Citrus clementina Functional Descriptions: Transcription factor CrWRKY42 coregulates chlorophyll degradation and carotenoid biosynthesis in citrus.</description>
+    </item>
+    <item>
+      <title>CsMYC2</title>
+      <link>/genes/citrus_sinensis/csmyc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_sinensis/csmyc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ciclev10019730m Gene Symbol: CsMYC2 Gene Name: Genome: Citrus sinensis cv.</description>
+    </item>
+    <item>
+      <title>CsULT1</title>
+      <link>/genes/2024.6.9/crocus-sativus/csult1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/crocus-sativus/csult1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsULT1 Gene Name: ultrapetala transcription factor 1 Genome: Species: Crocus sativus Functional Descriptions: Identification, cloning and characterization of an ultrapetala transcription factor CsULT1 from Crocus: a novel regulator of apocarotenoid biosynthesis.</description>
+    </item>
+    <item>
+      <title>DcBCH1</title>
+      <link>/genes/2024.6.9/daucus-carota/dcar_020269/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dcar_020269/</guid>
+      <description>Gene Details: Gene ID: DCAR_020269 Gene Symbol: DcBCH1 Gene Name: non-heme carotene hydroxylase Genome: carrot genome (https://www.</description>
+    </item>
+    <item>
+      <title>DcBCH2</title>
+      <link>/genes/2024.6.9/daucus-carota/dcar_014519/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dcar_014519/</guid>
+      <description>Gene Details: Gene ID: DCAR_014519 Gene Symbol: DcBCH2 Gene Name: non-heme carotene hydroxylase Genome: Species: Daucus carota Functional Descriptions: The relative expression level of DcBCH1 was much higher than that of DcBCH2 in carrot taproots with different carotene accumulation levels.</description>
+    </item>
+    <item>
+      <title>DcCCD4</title>
+      <link>/genes/2024.6.9/daucus-carota/dcar_030904/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dcar_030904/</guid>
+      <description>Gene Details: Gene ID: DCAR_030904 Gene Symbol: DcCCD4 Gene Name: Carotenoid cleavage dioxygenase 4 Genome: Species: Daucus carota Functional Descriptions: DcCCD4 catalyzes the degradation of α-carotene and β-carotene to affect carotenoid accumulation and taproot color in carrot.</description>
+    </item>
+    <item>
+      <title>IbNAC29</title>
+      <link>/genes/2024.6.9/ipomoea-batatas/itf01g25900.t1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/ipomoea-batatas/itf01g25900.t1/</guid>
+      <description>Gene Details: Gene ID: itf01g25900.t1 Gene Symbol: IbNAC29 Gene Name: Genome: Sweet Potato Genomics Resource database (http://sweetpotato.</description>
+    </item>
+    <item>
+      <title>OfCCD1</title>
+      <link>/genes/2024.6.9/osmanthus-fragrans/ofccd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/osmanthus-fragrans/ofccd1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: OfCCD1 Gene Name: carotenoid cleavage dioxygenase 1 Genome: Species: Osmanthus fragrans Functional Descriptions: A cDNA encoding a carotenoid cleavage enzyme, OfCCD1, was identified from transcripts isolated from flowers of O.</description>
+    </item>
+    <item>
+      <title>OsOr</title>
+      <link>/genes/oryza_sativa/loc_os02g43500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g43500/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g43500 RAPdb gene ID: Os02g0651300 Gene Symbol: OsOr Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlBCH1b</title>
+      <link>/genes/solanum_lycopersicum/slbch1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbch1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g036260 Gene Symbol: SlBCH1b Gene Name: β-RING CAROTENE HYDROXYLASE 1b Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlEIL2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g009170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g009170/</guid>
+      <description>Gene Details: Gene ID: Solyc01g009170 Gene Symbol: SlEIL2 Gene Name: ETHYLENE-INSENSITIVE 3-LIKE 2 Genome: Species: Solanum lycopersicum Functional Descriptions: ETHYLENE-INSENSITIVE 3-LIKE 2 (SlEIL2) regulates β-carotene and ascorbic acid accumulation in tomatoes during ripening.</description>
+    </item>
+    <item>
+      <title>SlIDI1</title>
+      <link>/genes/solanum_lycopersicum/slidi1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slidi1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc04g056390 Gene Symbol: SlIDI1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlNCED1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slnced1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slnced1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlNCED1 Gene Name: 9-cis-epoxycarotenoid dioxygenase Genome: Species: Solanum lycopersicum Functional Descriptions: SlNCED1 and SlCYP707A2: key genes involved in ABA metabolism during tomato fruit ripening.</description>
+    </item>
+    <item>
+      <title>ZmCCD10a;ccd9</title>
+      <link>/genes/zea_mays/zmccd10accd9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmccd10accd9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb309770 Gene Symbol: ZmCCD10a ccd9 Gene Name: carotenoid cleavage dioxygenase9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmcrtRB3</title>
+      <link>/genes/zea_mays/zm00001eb073250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb073250/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb073250 Gene Symbol: ZmcrtRB3|hyd4 Gene Name: hydroxylase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGAMYB</title>
+      <link>/genes/zea_mays/zmgamyb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmgamyb/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZmGAMYB Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPBF</title>
+      <link>/genes/zea_mays/zmpbf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpbf/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZmPBF Gene Name: Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

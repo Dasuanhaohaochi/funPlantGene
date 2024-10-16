@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shoot gravitropism on funPlantGenes</title>
+    <link>/tags/shoot-gravitropism/</link>
+    <description>Recent content in shoot gravitropism on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/shoot-gravitropism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AChE</title>
+      <link>/genes/oryza_sativa/loc_os07g39750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g39750/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g39750 RAPdb gene ID: Os07g0586200 Gene Symbol: AChE Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>CsLAZY1</title>
+      <link>/genes/2024.6.9/camellia-sinensis/css025254/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/css025254/</guid>
+      <description>Gene Details: Gene ID: CSS025254 Gene Symbol: CsLAZY1 Gene Name: Genome: Species: Camellia sinensis Functional Descriptions: CsLAZY1 mediates shoot gravitropism and branch angle in tea plants.</description>
+    </item>
+    <item>
+      <title>FH5;RMD</title>
+      <link>/genes/oryza_sativa/loc_os07g40510/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g40510/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g40510 ,LOC_Os07g40520 RAPdb gene ID: Os07g0596300 Gene Symbol: FH5 RMD BUI1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>LA1;LAZY1</title>
+      <link>/genes/oryza_sativa/loc_os11g29840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g29840/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g29840 RAPdb gene ID: Os11g0490600 Gene Symbol: LA1 LAZY1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsBRXL4</title>
+      <link>/genes/oryza_sativa/loc_os08g36020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g36020/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g36020 RAPdb gene ID: Os08g0462700 Gene Symbol: OsBRXL4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsHox1</title>
+      <link>/genes/oryza_sativa/loc_os10g41230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g41230/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g41230 RAPdb gene ID: Os10g0561800 Gene Symbol: OsHox1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPIL15</title>
+      <link>/genes/oryza_sativa/os01g0286100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/os01g0286100/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: Os01g0286100 Gene Symbol: OsPIL15 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TAC4;SG2</title>
+      <link>/genes/oryza_sativa/loc_os02g25230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g25230/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g25230 RAPdb gene ID: Os02g0450000 Gene Symbol: TAC4 SG2 OsBC17 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmCLA4;ZmLA1</title>
+      <link>/genes/zea_mays/zmcla4la1mmp111/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmcla4la1mmp111/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb169480 Gene Symbol: ZmCLA4 ZmLA1 mmp111 Gene Name: lazy plant1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLA1</title>
+      <link>/genes/zea_mays/zmla1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmla1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb169480 Gene Symbol: ZmLA1 Gene Name: lazy plant1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

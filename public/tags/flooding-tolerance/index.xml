@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flooding tolerance on funPlantGenes</title>
+    <link>/tags/flooding-tolerance/</link>
+    <description>Recent content in flooding tolerance on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/flooding-tolerance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsSUS3</title>
+      <link>/genes/2024.6.9/cucumis-sativus/cssus3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/cssus3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsSUS3 Gene Name: Sucrose Synthase 3 Genome: Species: Cucumis sativus Functional Descriptions: Antisense expression of CsSUS3 clearly reduced cucumber tolerance to hypoxic stress induced by flooding.</description>
+    </item>
+    <item>
+      <title>OsLP1</title>
+      <link>/genes/oryza_sativa/loc_os06g40500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g40500/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g40500 RAPdb gene ID: Os06g0607100 Gene Symbol: OsLP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

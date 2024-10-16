@@ -1,0 +1,110 @@
+theme: hugoplate
+baseURL: /
+title: funPlantGenes
+timeZone: America/New_York
+paginate: 76
+summaryLength: 10
+disableLanguages: []
+hasCJKLanguage: no
+services:
+  disqus:
+    shortname: themefisher-template
+  googleAnalytics:
+    ID: G-MEASUREMENT_ID
+permalinks:
+  page:
+    pages: /:slugorfilename/
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: hugo_stats.json
+      target: assets/watching/hugo_stats.json
+build:
+  buildStats:
+    enable: yes
+  cachebusters:
+    - source: assets/watching/hugo_stats\.json
+      target: style\.css
+    - source: (postcss|tailwind)\.config\.js
+      target: css
+    - source: assets/.*\.(js|ts|jsx|tsx)
+      target: js
+    - source: assets/.*\.(css|scss|sass)
+      target: css
+    - source: data/.*\.(.*)$
+      target: css
+    - source: assets/.*\.(.*)$
+      target: $1
+  noJSConfigInAssets: no
+  useResourceCacheWhen: fallback
+outputs:
+  home:
+    - HTML
+    - RSS
+    - WebAppManifest
+    - SearchIndex
+imaging:
+  quality: 90
+  resampleFilter: Lanczos
+caches:
+  assets:
+    dir: :resourceDir/_gen
+    maxAge: 720h
+  images:
+    dir: :resourceDir/_gen
+    maxAge: 720h
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+  highlight:
+    style: monokai
+  tableOfContents:
+    endLevel: 5
+    ordered: yes
+    startLevel: 2
+mediaTypes:
+  application/manifest+json:
+    suffixes: webmanifest
+outputFormats:
+  SearchIndex:
+    baseName: searchindex
+    isPlainText: yes
+    mediaType: application/json
+    notAlternative: yes
+  WebAppManifest:
+    mediaType: application/manifest+json
+    rel: manifest
+params:
+  plugins:
+    css:
+      - lazy: yes
+        link: plugins/swiper/swiper-bundle.css
+      - lazy: yes
+        link: plugins/glightbox/glightbox.css
+      - lazy: yes
+        link: plugins/font-awesome/v6/brands.css
+      - lazy: yes
+        link: plugins/font-awesome/v6/solid.css
+      - lazy: yes
+        link: plugins/font-awesome/v6/icons.css
+    js:
+      - lazy: no
+        link: js/search.js
+      - lazy: no
+        link: plugins/swiper/swiper-bundle.js
+      - lazy: no
+        link: plugins/cookie.js
+      - lazy: yes
+        link: plugins/glightbox/glightbox.js
+      - lazy: yes
+        link: js/gallery-slider.js
+      - lazy: yes
+        link: js/accordion.js
+      - lazy: yes
+        link: js/tab.js
+      - lazy: yes
+        link: js/modal.js
+      - lazy: yes
+        link: plugins/youtube-lite.js

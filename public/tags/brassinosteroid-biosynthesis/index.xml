@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brassinosteroid biosynthesis on funPlantGenes</title>
+    <link>/tags/brassinosteroid-biosynthesis/</link>
+    <description>Recent content in brassinosteroid biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/brassinosteroid-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAK1;bak4</title>
+      <link>/genes/zea_mays/bak1bak4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/bak1bak4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb288130 Gene Symbol: BAK1 bak4 Gene Name: brassinosteroid insensitive1-associated receptor kinase 4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>BRD1</title>
+      <link>/genes/zea_mays/brd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/brd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb050010 Gene Symbol: BRD1 Gene Name: brassinosteroid-deficient dwarf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>D2;CYP90D2</title>
+      <link>/genes/oryza_sativa/loc_os01g10040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g10040/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g10040 RAPdb gene ID: Os01g0197100 Gene Symbol: D2 CYP90D2 SMG11 OsD2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>GhFP1</title>
+      <link>/genes/gossypium_hirsutum/ghfp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghfp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A11G2808 Gene Symbol: GhFP1 Gene Name: Fibre-related Protein 1 Genome: AADD genome Species: Gossypium hirsutum Functional Descriptions: A basic helix–loop–helix protein (GhFP1) promotes fibre elongation of cotton (Gossypium hirsutum) by modulating brassinosteroid biosynthesis and signalling.</description>
+    </item>
+    <item>
+      <title>MdPHR1</title>
+      <link>/genes/2024.6.9/malus-domestica/md05g1189400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md05g1189400/</guid>
+      <description>Gene Details: Gene ID: MD05G1189400 Gene Symbol: MdPHR1 Gene Name: PHOSPHATE STARVATION RESPONSE1 Genome: Species: Malus domestica Functional Descriptions: determined that MdPHR1 was essential for Pi deficiency-induced anthocyanin accumulation in apple (Malus × domestica).</description>
+    </item>
+    <item>
+      <title>TaSPL8</title>
+      <link>/genes/triticum_aestivum/traescs2d01g502900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs2d01g502900/</guid>
+      <description>Gene Details: Gene ID: TraesCS2D01G502900 Gene Symbol: TaSPL8 Gene Name: SQUAMOSA PROMOTER BINDING-LIKE 8 Genome: Species: Triticum aestivum Functional Descriptions: Wheat TaSPL8 Modulates Leaf Angle Through Auxin and Brassinosteroid Signaling.</description>
+    </item>
+  </channel>
+</rss>

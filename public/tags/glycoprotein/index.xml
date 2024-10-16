@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>glycoprotein on funPlantGenes</title>
+    <link>/tags/glycoprotein/</link>
+    <description>Recent content in glycoprotein on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/glycoprotein/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HvPTR1</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvptr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvptr1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvPTR1 Gene Name: peptide transporter1 Genome: Species: Hordeum vulgare Functional Descriptions: A role for phosphorylation in the regulation of the barley scutellar peptide transporter HvPTR1 by amino acids.</description>
+    </item>
+    <item>
+      <title>OsMLD1</title>
+      <link>/genes/oryza_sativa/loc_os03g03290/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g03290/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g03290 RAPdb gene ID: Os03g0124300 Gene Symbol: OsMLD1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmLAC13;lac10</title>
+      <link>/genes/zea_mays/zmlac13lac10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmlac13lac10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb166100 Gene Symbol: ZmLAC13 lac10 Gene Name: laccase10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

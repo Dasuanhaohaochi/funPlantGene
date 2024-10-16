@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cuticular wax formation on funPlantGenes</title>
+    <link>/tags/cuticular-wax-formation/</link>
+    <description>Recent content in cuticular wax formation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/cuticular-wax-formation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsWS1</title>
+      <link>/genes/oryza_sativa/loc_os04g40590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g40590/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g40590 RAPdb gene ID: Os04g0481900 Gene Symbol: OsWS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmSRL5</title>
+      <link>/genes/zea_mays/zmsrl5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmsrl5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb008140 Gene Symbol: ZmSRL5 Gene Name: semi-rolled leaf5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

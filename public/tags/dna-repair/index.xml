@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dna repair on funPlantGenes</title>
+    <link>/tags/dna-repair/</link>
+    <description>Recent content in dna repair on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/dna-repair/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CHR721</title>
+      <link>/genes/oryza_sativa/loc_os07g44210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g44210/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g44210 RAPdb gene ID: Os07g0636200 Gene Symbol: CHR721 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MtTdp1α</title>
+      <link>/genes/2024.6.9/medicago-truncatula/mttdp1%CE%B1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/mttdp1%CE%B1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MtTdp1α Gene Name: tyrosyl-DNA phosphodiesterase 1 Genome: Species: Medicago truncatula Functional Descriptions: An intron-spliced hairpin RNA approach was used for the targeted silencing of the MtTdp1α gene encoding the αisoform of tyrosyl-DNA phosphodiesterase 1 in Medicago truncatula Gaertn.</description>
+    </item>
+    <item>
+      <title>OsPARP3</title>
+      <link>/genes/oryza_sativa/loc_os02g32860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g32860/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g32860 RAPdb gene ID: Os02g0530600 Gene Symbol: OsPARP3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSOG1</title>
+      <link>/genes/oryza_sativa/os06g0267500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/os06g0267500/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: Os06g0267500 Gene Symbol: OsSOG1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsXRCC1</title>
+      <link>/genes/oryza_sativa/loc_os06g05190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g05190/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g05190 RAPdb gene ID: Os06g0144000 Gene Symbol: OsXRCC1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Ta-sro1</title>
+      <link>/genes/triticum_aestivum/ta-sro1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ta-sro1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Ta-sro1 Gene Name: SIMILAR TO RCD-ONE 1 Genome: Species: Triticum aestivum Functional Descriptions: Both the overexpression of Ta-sro1 in wheat and its heterologous expression in Arabidopsis promote the accumulation of ROS, mainly by enhancing the activity of NADPH oxidase and the expression of NAD(P)H dehydrogenase, in conjunction with the suppression of alternative oxidase expression.</description>
+    </item>
+    <item>
+      <title>TaMSH7-3D;Ph2</title>
+      <link>/genes/triticum_aestivum/tamsh7-3dph2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamsh7-3dph2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3D02G119400 Gene Symbol: TaMSH7-3D Ph2 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>ZmATM</title>
+      <link>/genes/zea_mays/zmatm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmatm/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb126710 Gene Symbol: ZmATM Gene Name: ataxia-telangiectasia mutated1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBRCA2;brca2</title>
+      <link>/genes/zea_mays/zmbrca2brca2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmbrca2brca2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb419130 Gene Symbol: ZmBRCA2 brca2 Gene Name: BREAST CANCER SUSCEPTIBILITY PROTEIN 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lateral root cap on funPlantGenes</title>
+    <link>/tags/lateral-root-cap/</link>
+    <description>Recent content in lateral root cap on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/lateral-root-cap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT4G22950</title>
+      <link>/genes/arabidopsis_thaliana/at4g22950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g22950/</guid>
+      <description>Gene Details: Gene ID: AT4G22950 Gene Symbol: AGL19, GL19 Gene Name: AGAMOUS-like 19 Description: AGAMOUS-like 19;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G22950.</description>
+    </item>
+    <item>
+      <title>AT4G23920</title>
+      <link>/genes/arabidopsis_thaliana/at4g23920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g23920/</guid>
+      <description>Gene Details: Gene ID: AT4G23920 Gene Symbol: ATUGE2, UGE2 Gene Name: UDP-GLC 4-EPIMERASE 2, UDP-D-glucose/UDP-D-galactose 4-epimerase 2 Description: UDP-D-glucose/UDP-D-galactose 4-epimerase 2;(source:Araport11) TAIR Accession: locus:2138121 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G23920.</description>
+    </item>
+    <item>
+      <title>AT4G30080</title>
+      <link>/genes/arabidopsis_thaliana/at4g30080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g30080/</guid>
+      <description>Gene Details: Gene ID: AT4G30080 Gene Symbol: ARF16 Gene Name: auxin response factor 16 Description: auxin response factor 16;(source:Araport11) TAIR Accession: locus:2126460 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G30080.</description>
+    </item>
+  </channel>
+</rss>

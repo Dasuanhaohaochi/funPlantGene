@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vitis amurensis on funPlantGenes</title>
+    <link>/categories/vitis-amurensis/</link>
+    <description>Recent content in Vitis amurensis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/vitis-amurensis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VaERF16</title>
+      <link>/genes/vitis_amurensis/vaerf16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_amurensis/vaerf16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: VaERF16 Gene Name: Genome: Species: Vitis amurensis Functional Description: Literature: The transcription factors VaERF16 and VaMYB306 interact to enhance resistance of grapevine to Botrytis cinerea infection.</description>
+    </item>
+    <item>
+      <title>VaPAT1</title>
+      <link>/genes/vitis_amurensis/vapat1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_amurensis/vapat1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: VaPAT1 Gene Name: Genome: itis vinifera Genome (12×) Species: Vitis amurensis Functional Description: these findings point to a pivotal role of VaPAT1 in the cold stress response in grape by regulating JA biosynthesis.</description>
+    </item>
+  </channel>
+</rss>

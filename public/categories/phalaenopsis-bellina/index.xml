@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phalaenopsis bellina on funPlantGenes</title>
+    <link>/categories/phalaenopsis-bellina/</link>
+    <description>Recent content in Phalaenopsis bellina on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/phalaenopsis-bellina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PbABCG1</title>
+      <link>/genes/2024.6.9/phalaenopsis-bellina/pbabcg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phalaenopsis-bellina/pbabcg1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PbABCG1 Gene Name: Genome: Species: Phalaenopsis bellina Functional Descriptions: PbABCG1 and PbABCG2 transporters are required for the emission of floral monoterpenes in Phalaenopsis bellina.</description>
+    </item>
+    <item>
+      <title>PbABCG2</title>
+      <link>/genes/2024.6.9/phalaenopsis-bellina/pbabcg2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phalaenopsis-bellina/pbabcg2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PbABCG2 Gene Name: Genome: Species: Phalaenopsis bellina Functional Descriptions: PbABCG1 and PbABCG2 transporters are required for the emission of floral monoterpenes in Phalaenopsis bellina.</description>
+    </item>
+  </channel>
+</rss>

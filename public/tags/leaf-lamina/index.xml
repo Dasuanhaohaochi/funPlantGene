@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>leaf lamina on funPlantGenes</title>
+    <link>/tags/leaf-lamina/</link>
+    <description>Recent content in leaf lamina on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/leaf-lamina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT3G30720</title>
+      <link>/genes/arabidopsis_thaliana/at3g30720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g30720/</guid>
+      <description>Gene Details: Gene ID: AT3G30720 Gene Symbol: DEG6, QQS Gene Name: QUA-QUINE STARCH Description: qua-quine starch;(source:Araport11) TAIR Accession: locus:2079466 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G30720.</description>
+    </item>
+    <item>
+      <title>AT5G08000</title>
+      <link>/genes/arabidopsis_thaliana/at5g08000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g08000/</guid>
+      <description>Gene Details: Gene ID: AT5G08000 Gene Symbol: E13L3, PDCB2 Gene Name: glucan endo-1,3-beta-glucosidase-like protein 3, PLASMODESMATA CALLOSE-BINDING PROTEIN 2 Description: glucan endo-1,3-beta-glucosidase-like protein 3;(source:Araport11) TAIR Accession: locus:2142778 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G08000.</description>
+    </item>
+  </channel>
+</rss>

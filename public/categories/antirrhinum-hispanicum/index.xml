@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antirrhinum hispanicum on funPlantGenes</title>
+    <link>/categories/antirrhinum-hispanicum/</link>
+    <description>Recent content in Antirrhinum hispanicum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/antirrhinum-hispanicum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AhSSK1</title>
+      <link>/genes/2024.6.9/antirrhinum-hispanicum/ahssk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/antirrhinum-hispanicum/ahssk1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: AhSSK1 Gene Name: SLF-interacting SKP1-like protein 1 Genome: Species: Antirrhinum hispanicum Functional Descriptions: AhSSK1, a novel SKP1-like protein that interacts with the S-locus F-box protein SLF.</description>
+    </item>
+  </channel>
+</rss>

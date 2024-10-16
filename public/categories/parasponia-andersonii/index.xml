@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parasponia andersonii on funPlantGenes</title>
+    <link>/categories/parasponia-andersonii/</link>
+    <description>Recent content in Parasponia andersonii on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/parasponia-andersonii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PanNOOT1</title>
+      <link>/genes/2024.6.9/parasponia-andersonii/panwu01x14_292800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/parasponia-andersonii/panwu01x14_292800/</guid>
+      <description>Gene Details: Gene ID: PanWU01x14_292800 Gene Symbol: PanNOOT1 Gene Name: PanNODULE ROOT1 Genome: Species: Parasponia andersonii Functional Descriptions: PanNOOT1 is orthologous to Arabidopsis thaliana BLADE-ON-PETIOLE1 (AtBOP1) and AtBOP2, which are involved in the meristem-to-organ-boundary maintenance.</description>
+    </item>
+  </channel>
+</rss>

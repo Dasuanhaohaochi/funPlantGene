@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microsporocyte on funPlantGenes</title>
+    <link>/tags/microsporocyte/</link>
+    <description>Recent content in microsporocyte on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/microsporocyte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT1G02790</title>
+      <link>/genes/arabidopsis_thaliana/at1g02790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02790/</guid>
+      <description>Gene Details: Gene ID: AT1G02790 Gene Symbol: PG45, PGA4 Gene Name: polygalacturonase 4 Description: polygalacturonase 4;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02790.</description>
+    </item>
+    <item>
+      <title>AT3G19150</title>
+      <link>/genes/arabidopsis_thaliana/at3g19150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g19150/</guid>
+      <description>Gene Details: Gene ID: AT3G19150 Gene Symbol: ACK1, AtKRP6, ICK4, KRP6 Gene Name: ARABIDOPSIS CDK INHIBITOR 1, KIP-related protein 6 Description: KIP-related protein 6;(source:Araport11) TAIR Accession: locus:2094118 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G19150.</description>
+    </item>
+    <item>
+      <title>AT3G22760</title>
+      <link>/genes/arabidopsis_thaliana/at3g22760/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g22760/</guid>
+      <description>Gene Details: Gene ID: AT3G22760 Gene Symbol: SOL1, TCX3 Gene Name: Description: Tesmin/TSO1-like CXC domain-containing protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G22760.</description>
+    </item>
+    <item>
+      <title>AT3G28470</title>
+      <link>/genes/arabidopsis_thaliana/at3g28470/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g28470/</guid>
+      <description>Gene Details: Gene ID: AT3G28470 Gene Symbol: ATMYB35, MYB35, TDF1 Gene Name: MYB DOMAIN PROTEIN 35, DEFECTIVE IN MERISTEM DEVELOPMENT AND FUNCTION 1 Description: Duplicated homeodomain-like superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G28470.</description>
+    </item>
+    <item>
+      <title>AT3G49670</title>
+      <link>/genes/arabidopsis_thaliana/at3g49670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g49670/</guid>
+      <description>Gene Details: Gene ID: AT3G49670 Gene Symbol: BAM2 Gene Name: BARELY ANY MERISTEM 2 Description: Leucine-rich receptor-like protein kinase family protein;(source:Araport11) TAIR Accession: locus:2097310 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G49670.</description>
+    </item>
+    <item>
+      <title>AT4G24972</title>
+      <link>/genes/arabidopsis_thaliana/at4g24972/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g24972/</guid>
+      <description>Gene Details: Gene ID: AT4G24972 Gene Symbol: TPD1 Gene Name: TAPETUM DETERMINANT 1 Description: tapetum determinant 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G24972.</description>
+    </item>
+    <item>
+      <title>AT4G29340</title>
+      <link>/genes/arabidopsis_thaliana/at4g29340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g29340/</guid>
+      <description>Gene Details: Gene ID: AT4G29340 Gene Symbol: AtPRF4, PRF4 Gene Name: profilin 4 Description: profilin 4;(source:Araport11) TAIR Accession: locus:2118309 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G29340.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lactuca serriola on funPlantGenes</title>
+    <link>/categories/lactuca-serriola/</link>
+    <description>Recent content in Lactuca serriola on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/lactuca-serriola/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WS1</title>
+      <link>/genes/2024.7.17/lactuca-serriola/ws1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/lactuca-serriola/ws1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: WS1 Gene Name: WOX-SPINE1 Genome: Species: Lactuca serriola Functional Descriptions: A gene encoding WUSCHEL-related homeobox transcription factor, named as WOX-SPINE1 (WS1), was identified as the candidate gene controlling the spine development in lettuce, and its function on spines was verified.</description>
+    </item>
+  </channel>
+</rss>

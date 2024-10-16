@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anther primordium on funPlantGenes</title>
+    <link>/tags/anther-primordium/</link>
+    <description>Recent content in anther primordium on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/anther-primordium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT4G21330</title>
+      <link>/genes/arabidopsis_thaliana/at4g21330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g21330/</guid>
+      <description>Gene Details: Gene ID: AT4G21330 Gene Symbol: DYT1 Gene Name: DYSFUNCTIONAL TAPETUM 1 Description: basic helix-loop-helix (bHLH) DNA-binding superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G21330.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phragmites australis on funPlantGenes</title>
+    <link>/categories/phragmites-australis/</link>
+    <description>Recent content in Phragmites australis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/phragmites-australis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhaHKT1-e</title>
+      <link>/genes/2024.6.9/phragmites-australis/phahkt1-e/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phragmites-australis/phahkt1-e/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhaHKT1-e Gene Name: high-affinity K+ transporter1 Genome: Species: Phragmites australis Functional Descriptions: Cloning and functional comparison of a high-affinity K+ transporter gene PhaHKT1 of salt-tolerant and salt-sensitive reed plants.</description>
+    </item>
+    <item>
+      <title>PhaHKT1-n</title>
+      <link>/genes/2024.6.9/phragmites-australis/phahkt1-n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phragmites-australis/phahkt1-n/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhaHKT1-n Gene Name: high-affinity K+ transporter1 Genome: Species: Phragmites australis Functional Descriptions: Cloning and functional comparison of a high-affinity K+ transporter gene PhaHKT1 of salt-tolerant and salt-sensitive reed plants.</description>
+    </item>
+    <item>
+      <title>PhaHKT1-u</title>
+      <link>/genes/2024.6.9/phragmites-australis/phahkt1-u/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phragmites-australis/phahkt1-u/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhaHKT1-u Gene Name: high-affinity K+ transporter1 Genome: Species: Phragmites australis Functional Descriptions: Cloning and functional comparison of a high-affinity K+ transporter gene PhaHKT1 of salt-tolerant and salt-sensitive reed plants.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iron homeostasis on funPlantGenes</title>
+    <link>/tags/iron-homeostasis/</link>
+    <description>Recent content in iron homeostasis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/iron-homeostasis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LeFRO1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lefro1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lefro1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeFRO1 Gene Name: ferric-chelate reductase1 Genome: Species: Solanum lycopersicum Functional Descriptions: LeFRO1 encoding an Fe(III)-chelate reductase protein was isolated from the tomato genome.</description>
+    </item>
+    <item>
+      <title>MdbHLH104</title>
+      <link>/genes/malus_domestica/mdbhlh104/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdbhlh104/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000825749 Gene Symbol: MdbHLH104 Gene Name: basic helix-loop-helix transcription factor 104 Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdMRLK2</title>
+      <link>/genes/malus_domestica/mdmrlk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdmrlk2/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD12G1190700 Gene Symbol: MdMRLK2 Gene Name: Malus domestica FERONIA receptor-like kinase 2 Genome: Malus × domestica GDDH13 v1.</description>
+    </item>
+    <item>
+      <title>OPT;OsOPT7</title>
+      <link>/genes/oryza_sativa/loc_os03g54000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g54000/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g54000 RAPdb gene ID: Os03g0751100 Gene Symbol: OPT OsOPT7 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsABCB14</title>
+      <link>/genes/oryza_sativa/loc_os04g38570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g38570/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g38570 RAPdb gene ID: Os04g0459000 Gene Symbol: OsABCB14 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsbHLH057</title>
+      <link>/genes/oryza_sativa/loc_os07g35870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g35870/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g35870 RAPdb gene ID: Os07g0543000 Gene Symbol: OsbHLH057 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsbHLH061;OsbHLHq11</title>
+      <link>/genes/oryza_sativa/loc_os11g38870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g38870/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g38870 RAPdb gene ID: Os11g0601650 ,Os11g0601700 Gene Symbol: OsbHLH061 OsbHLHq11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsIRO3;OsOsbHLH063</title>
+      <link>/genes/oryza_sativa/loc_os03g26210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g26210/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g26210 RAPdb gene ID: Os03g0379300 Gene Symbol: OsIRO3 OsOsbHLH063 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlbHLH101</title>
+      <link>/genes/solanum_lycopersicum/slbhlh101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbhlh101/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g079680 Gene Symbol: SlbHLH101 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>ZmIRT1</title>
+      <link>/genes/zea_mays/zm00001eb052440/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb052440/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb052440 Gene Symbol: ZmIRT1 Gene Name: iron-regulated transporter1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmIRT2</title>
+      <link>/genes/zea_mays/zm00001eb065410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb065410/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb065410 Gene Symbol: ZmIRT2|ZmZIP3 Gene Name: Zm00001eb065410 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTAT;naat4</title>
+      <link>/genes/zea_mays/zmtatnaat4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmtatnaat4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb240650 Gene Symbol: ZmTAT naat4 Gene Name: nicotianamine aminotransferase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

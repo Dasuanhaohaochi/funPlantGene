@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pi signaling on funPlantGenes</title>
+    <link>/tags/pi-signaling/</link>
+    <description>Recent content in pi signaling on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/pi-signaling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsPHL3</title>
+      <link>/genes/2024.6.9/citrus-sinensis/cs2g01480.1-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/cs2g01480.1-/</guid>
+      <description>Gene Details: Gene ID: Cs2g01480.1 Gene Symbol: CsPHL3 Gene Name: Citrus Phosphate Starvation Response Factor 3 Genome: Species: Citrus sinensis Functional Descriptions: CsPHL3 could directly represses the expression of PSY, thus resulting in a reduction of carotenoid contents, which may release less amounts of SLs and ultimately suppress Pi signaling.</description>
+    </item>
+    <item>
+      <title>FaVPT1</title>
+      <link>/genes/fragaria_ananassa/favpt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/fragaria_ananassa/favpt1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: FaVPT1 Gene Name: Genome: Species: Fragaria ananassa Functional Description: Strawberry FaVPT1 transports Pi into vacuoles and promotes fruit ripening by sugar signaling.</description>
+    </item>
+    <item>
+      <title>GmPHR25</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.15g123100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.15g123100/</guid>
+      <description>Gene Details: Gene ID: Glyma.15g123100 Gene Symbol: GmPHR25 Gene Name: PHOSPHATE STARVATION RESPONSE 25 Genome: Wm82.</description>
+    </item>
+    <item>
+      <title>LTN1;OsPHO2</title>
+      <link>/genes/oryza_sativa/loc_os05g48390/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g48390/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g48390 RAPdb gene ID: Os05g0557700 Gene Symbol: LTN1 OsPHO2 OsRLS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsARF16</title>
+      <link>/genes/oryza_sativa/loc_os06g09660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g09660/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g09660 RAPdb gene ID: Os06g0196700 Gene Symbol: OsARF16 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPHR2</title>
+      <link>/genes/oryza_sativa/loc_os07g25710/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g25710/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g25710 RAPdb gene ID: Os07g0438800 Gene Symbol: OsPHR2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPHR3</title>
+      <link>/genes/oryza_sativa/loc_os02g04640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g04640/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g04640 RAPdb gene ID: Os02g0139000 Gene Symbol: OsPHR3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPht1;1;OsPT1</title>
+      <link>/genes/oryza_sativa/loc_os03g05620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g05620/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g05620 RAPdb gene ID: Os03g0150600 Gene Symbol: OsPht1 1 OsPT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPht1;8;OsPT8</title>
+      <link>/genes/oryza_sativa/loc_os10g30790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g30790/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g30790 RAPdb gene ID: Os10g0444700 Gene Symbol: OsPht1 8 OsPT8 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlPHR1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g060920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g060920/</guid>
+      <description>Gene Details: Gene ID: Solyc08g060920 Gene Symbol: SlPHR1 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We determine that SlSPX1 integrates Pi signaling and AM symbiosis by directly interacting with a set of arbuscule-induced SlPHR proteins (SlPHR1, SlPHR4, SlPHR10, SlPHR11, and SlPHR12).</description>
+    </item>
+    <item>
+      <title>SlPHR10</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g078720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g078720/</guid>
+      <description>Gene Details: Gene ID: Solyc10g078720 Gene Symbol: SlPHR10 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We determine that SlSPX1 integrates Pi signaling and AM symbiosis by directly interacting with a set of arbuscule-induced SlPHR proteins (SlPHR1, SlPHR4, SlPHR10, SlPHR11, and SlPHR12).</description>
+    </item>
+    <item>
+      <title>SlPHR11</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g080460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g080460/</guid>
+      <description>Gene Details: Gene ID: Solyc10g080460 Gene Symbol: SlPHR11 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We determine that SlSPX1 integrates Pi signaling and AM symbiosis by directly interacting with a set of arbuscule-induced SlPHR proteins (SlPHR1, SlPHR4, SlPHR10, SlPHR11, and SlPHR12).</description>
+    </item>
+    <item>
+      <title>SlPHR12</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g083340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g083340/</guid>
+      <description>Gene Details: Gene ID: Solyc10g083340 Gene Symbol: SlPHR12 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We determine that SlSPX1 integrates Pi signaling and AM symbiosis by directly interacting with a set of arbuscule-induced SlPHR proteins (SlPHR1, SlPHR4, SlPHR10, SlPHR11, and SlPHR12).</description>
+    </item>
+    <item>
+      <title>SlPHR4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc02g067160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc02g067160/</guid>
+      <description>Gene Details: Gene ID: Solyc02g067160 Gene Symbol: SlPHR4 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We determine that SlSPX1 integrates Pi signaling and AM symbiosis by directly interacting with a set of arbuscule-induced SlPHR proteins (SlPHR1, SlPHR4, SlPHR10, SlPHR11, and SlPHR12).</description>
+    </item>
+    <item>
+      <title>TaPHT2</title>
+      <link>/genes/triticum_aestivum/tapht2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tapht2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaPHT2|1 Gene Name: phosphate transporter 2-1 Genome: Species: Triticum aestivum Functional Descriptions: Function of wheat phosphate transporter gene TaPHT2|1|TaPHT2|1 in Pi translocation and plant growth regulation under replete and limited Pi supply conditions.</description>
+    </item>
+    <item>
+      <title>ZmPHO2;PHO2</title>
+      <link>/genes/zea_mays/zmpho2pho2uce10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpho2pho2uce10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb295490 Gene Symbol: ZmPHO2 PHO2 uce10 Gene Name: Phosphate 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

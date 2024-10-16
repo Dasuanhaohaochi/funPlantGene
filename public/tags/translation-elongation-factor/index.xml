@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>translation elongation factor on funPlantGenes</title>
+    <link>/tags/translation-elongation-factor/</link>
+    <description>Recent content in translation elongation factor on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/translation-elongation-factor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LMM5.4</title>
+      <link>/genes/oryza_sativa/os04g0595300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/os04g0595300/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: Os04g0595300 Gene Symbol: LMM5.</description>
+    </item>
+    <item>
+      <title>ZmLRL5;lrl5</title>
+      <link>/genes/zea_mays/zmlrl5lrl5bhlh10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmlrl5lrl5bhlh10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb374700 Gene Symbol: ZmLRL5 lrl5 bhlh10 Gene Name: bHLH-transcription factor 10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

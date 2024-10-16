@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citrus limon on funPlantGenes</title>
+    <link>/categories/citrus-limon/</link>
+    <description>Recent content in Citrus limon on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/citrus-limon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CiACS4</title>
+      <link>/genes/2024.6.9/citrus-limon/orange1.1g037587m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-limon/orange1.1g037587m/</guid>
+      <description>Gene Details: Gene ID: orange1.1g037587m Gene Symbol: CiACS4 Gene Name: Citrus ACC synthase 4 Genome: citrus reference genome Species: Citrus limon Functional Descriptions: Citrus ACC synthase CiACS4 regulates plant height by inhibiting gibberellin biosynthesis.</description>
+    </item>
+    <item>
+      <title>CiERF3</title>
+      <link>/genes/2024.6.9/citrus-limon/cierf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-limon/cierf3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CiERF3 Gene Name: ethylene response factor 3 Genome: Species: Citrus limon Functional Descriptions: The CiACS4–CiERF3 complex can bind to the promoters of 2 citrus GA20-oxidase genes, CiGA20ox1 and CiGA20ox2, and suppress their expression.</description>
+    </item>
+    <item>
+      <title>CiGA20ox1</title>
+      <link>/genes/2024.6.9/citrus-limon/ciga20ox1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-limon/ciga20ox1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CiGA20ox1 Gene Name: GA20-oxidase gene 1 Genome: Species: Citrus limon Functional Descriptions: Further experiments revealed that the CiACS4–CiERF3 complex can bind to the promoters of 2 citrus GA20-oxidase genes, CiGA20ox1 and CiGA20ox2, and suppress their expression.</description>
+    </item>
+    <item>
+      <title>CiGA20ox2</title>
+      <link>/genes/2024.6.9/citrus-limon/ciga20ox2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-limon/ciga20ox2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CiGA20ox2 Gene Name: GA20-oxidase gene 2 Genome: Species: Citrus limon Functional Descriptions: Further experiments revealed that the CiACS4–CiERF3 complex can bind to the promoters of 2 citrus GA20-oxidase genes, CiGA20ox1 and CiGA20ox2, and suppress their expression.</description>
+    </item>
+  </channel>
+</rss>

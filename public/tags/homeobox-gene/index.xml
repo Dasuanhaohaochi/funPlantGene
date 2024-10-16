@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>homeobox gene on funPlantGenes</title>
+    <link>/tags/homeobox-gene/</link>
+    <description>Recent content in homeobox gene on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/homeobox-gene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GmSPL9d</title>
+      <link>/genes/glycine_max/gmspl9d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmspl9d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.02G177500 Gene Symbol: GmSPL9d Gene Name: SQUAMOSA PROMOTER BINDING PROTEIN-LIKE9 Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: GmSPL9d is expressed in the shoot apical meristem and axillary meristems (AMs) of soya bean.</description>
+    </item>
+    <item>
+      <title>GN1</title>
+      <link>/genes/zea_mays/gn1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/gn1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb117820 Gene Symbol: GN1 Gene Name: Gnarley1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>LeHB-1</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc02g086930.3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc02g086930.3.1/</guid>
+      <description>Gene Details: Gene ID: Solyc02g086930.3.1 Gene Symbol: LeHB-1 Gene Name: Homeobox-leucine zipper protein Genome: Species: Solanum lycopersicum Functional Descriptions: A tomato HD-Zip homeobox protein, LeHB-1, plays an important role in floral organogenesis and ripening.</description>
+    </item>
+    <item>
+      <title>MdHB53b</title>
+      <link>/genes/malus_domestica/mdhb53b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdhb53b/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000789571 Gene Symbol: MdHB53b Gene Name: HOMEOBOX PROTEIN 53b Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdTCP12</title>
+      <link>/genes/malus_domestica/mdtcp12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdtcp12/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000173048 Gene Symbol: MdTCP12 Gene Name: BRANCHED1/CYCLOIDEA/PCF Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MdWUS2</title>
+      <link>/genes/malus_domestica/mdwus2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdwus2/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000580356 Gene Symbol: MdWUS2 Gene Name: Malus domestica WUSCHEL2 Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MtKNOX4</title>
+      <link>/genes/2024.6.9/medicago-truncatula/mtknox4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/mtknox4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MtKNOX4 Gene Name: class II KNOTTED-LIKE HOMEOBOX transcription factor Genome: Species: Medicago truncatula Functional Descriptions: MtKNOX4-regulated MtKCS12 manifests hardseededness.</description>
+    </item>
+    <item>
+      <title>NS1;ZmWOX3</title>
+      <link>/genes/zea_mays/ns1zmwox3zmhb125/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/ns1zmwox3zmhb125/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb092480 Gene Symbol: NS1 ZmWOX3 ZmHB125 Gene Name: narrow sheath1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>NS2;ZmWOX9</title>
+      <link>/genes/zea_mays/ns2zmwox9qtbn4-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/ns2zmwox9qtbn4-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb197430 Gene Symbol: NS2 ZmWOX9 qTBN4-2 Gene Name: narrow sheath2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>OsHOX24</title>
+      <link>/genes/oryza_sativa/loc_os02g43330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g43330/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g43330 RAPdb gene ID: Os02g0649300 Gene Symbol: OsHOX24 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsZHD1</title>
+      <link>/genes/oryza_sativa/loc_os09g29130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g29130/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g29130 RAPdb gene ID: Os09g0466400 Gene Symbol: OsZHD1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsZHD2</title>
+      <link>/genes/oryza_sativa/loc_os08g37400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g37400/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g37400 RAPdb gene ID: Os08g0479400 Gene Symbol: OsZHD2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PaWOX3</title>
+      <link>/genes/2024.6.9/picea-abies/pawox3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/picea-abies/pawox3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PaWOX3 Gene Name: WUSCHEL homeobox protein WOX3 Genome: Species: Picea abies Functional Descriptions: The WUSCHEL-RELATED HOMEOBOX 3 gene PaWOX3 regulates lateral organ formation in Norway spruce.</description>
+    </item>
+    <item>
+      <title>ROC4</title>
+      <link>/genes/oryza_sativa/loc_os04g48070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g48070/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g48070 RAPdb gene ID: Os04g0569100 Gene Symbol: ROC4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>RS2</title>
+      <link>/genes/zea_mays/rs2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/rs2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb029300 Gene Symbol: RS2 Gene Name: rough sheath2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>SH5;RI</title>
+      <link>/genes/oryza_sativa/loc_os05g38120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g38120/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g38120 RAPdb gene ID: Os05g0455200 Gene Symbol: SH5 RI Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlLAM1</title>
+      <link>/genes/solanum_lycopersicum/sllam1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sllam1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g118770 Gene Symbol: SlLAM1 Gene Name: shoot apical meristem1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>VvHB58</title>
+      <link>/genes/2024.6.9/vitis-vinifera/gsvivt01008065001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/gsvivt01008065001/</guid>
+      <description>Gene Details: Gene ID: GSVIVT01008065001 Gene Symbol: VvHB58 Gene Name: homeobox 58 Genome: Species: Vitis vinifera Functional Descriptions: The grapevine homeobox gene VvHB58 influences seed and fruit development through multiple hormonal signaling pathways.</description>
+    </item>
+    <item>
+      <title>WOX11</title>
+      <link>/genes/oryza_sativa/loc_os07g48560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g48560/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g48560 RAPdb gene ID: Os07g0684900 Gene Symbol: WOX11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>WS1</title>
+      <link>/genes/2024.7.17/lactuca-serriola/ws1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/lactuca-serriola/ws1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: WS1 Gene Name: WOX-SPINE1 Genome: Species: Lactuca serriola Functional Descriptions: A gene encoding WUSCHEL-related homeobox transcription factor, named as WOX-SPINE1 (WS1), was identified as the candidate gene controlling the spine development in lettuce, and its function on spines was verified.</description>
+    </item>
+    <item>
+      <title>ZmWOX2A;Wox2a</title>
+      <link>/genes/zea_mays/zmwox2awox2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmwox2awox2a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb148390 Gene Symbol: ZmWOX2A Wox2a Gene Name: Wuschel-like homeobox protein 2a Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

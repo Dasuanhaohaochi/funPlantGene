@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>central root cap of primary root on funPlantGenes</title>
+    <link>/tags/central-root-cap-of-primary-root/</link>
+    <description>Recent content in central root cap of primary root on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/central-root-cap-of-primary-root/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT3G20880</title>
+      <link>/genes/arabidopsis_thaliana/at3g20880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g20880/</guid>
+      <description>Gene Details: Gene ID: AT3G20880 Gene Symbol: WIP4 Gene Name: WIP domain protein 4 Description: WIP domain protein 4;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G20880.</description>
+    </item>
+    <item>
+      <title>AT3G48100</title>
+      <link>/genes/arabidopsis_thaliana/at3g48100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g48100/</guid>
+      <description>Gene Details: Gene ID: AT3G48100 Gene Symbol: ARR5, ATRR2, IBC6, RR5 Gene Name: response regulator 5, ARABIDOPSIS THALIANA RESPONSE REGULATOR 2, INDUCED BY CYTOKININ 6, response regulator 5 Description: response regulator 5;(source:Araport11) TAIR Accession: locus:2097870 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G48100.</description>
+    </item>
+    <item>
+      <title>AT5G14750</title>
+      <link>/genes/arabidopsis_thaliana/at5g14750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g14750/</guid>
+      <description>Gene Details: Gene ID: AT5G14750 Gene Symbol: ATMYB66, MYB66, WER, WER1 Gene Name: myb domain protein 66, myb domain protein 66, WEREWOLF, WEREWOLF 1 Description: myb domain protein 66;(source:Araport11) TAIR Accession: locus:2185470 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G14750.</description>
+    </item>
+  </channel>
+</rss>

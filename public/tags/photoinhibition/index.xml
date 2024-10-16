@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photoinhibition on funPlantGenes</title>
+    <link>/tags/photoinhibition/</link>
+    <description>Recent content in photoinhibition on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/photoinhibition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>beta-OsLCY;OsLCY</title>
+      <link>/genes/oryza_sativa/loc_os02g09750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g09750/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g09750 RAPdb gene ID: Os02g0190600 Gene Symbol: beta-OsLCY OsLCY Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>LeCDJ1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lecdj1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lecdj1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeCDJ1 Gene Name: DnaJ protein1 Genome: Species: Solanum lycopersicum Functional Descriptions: The roles of a tomato (Solanum lycopersicum) chloroplast-targeted DnaJ protein (LeCDJ1), whose expression was upregulated by treatment at 4 and 42 °C, and with high light, NaCl, polyethylene glycol, and H2O2, were investigated here using sense and antisense transgenic tomatoes.</description>
+    </item>
+    <item>
+      <title>LeGPAT</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/legpat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/legpat/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeGPAT Gene Name: glycerol-3-phosphate acyltransferase Genome: Species: Solanum lycopersicum Functional Descriptions: A tomato (Solanum lycopersicum Mill.</description>
+    </item>
+  </channel>
+</rss>

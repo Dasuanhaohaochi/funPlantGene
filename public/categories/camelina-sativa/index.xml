@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camelina sativa on funPlantGenes</title>
+    <link>/categories/camelina-sativa/</link>
+    <description>Recent content in Camelina sativa on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/camelina-sativa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsCER1</title>
+      <link>/genes/2024.7.17/camelina-sativa/csa6g079750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/camelina-sativa/csa6g079750/</guid>
+      <description>Gene Details: Gene ID: Csa6G079750 Gene Symbol: CsCER1 Gene Name: ECERIFERUM1 Genome: Cucurbit Genomics Database Species: Camelina sativa Functional Descriptions: We identified 67 GT development–related genes, the functions of 7 of which were validated by virus-induced gene silencing.</description>
+    </item>
+  </channel>
+</rss>

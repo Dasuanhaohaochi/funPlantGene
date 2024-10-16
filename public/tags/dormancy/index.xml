@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dormancy on funPlantGenes</title>
+    <link>/tags/dormancy/</link>
+    <description>Recent content in dormancy on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/dormancy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABI51</title>
+      <link>/genes/zea_mays/abi51/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/abi51/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb413890 Gene Symbol: ABI51 Gene Name: ABI3-VP1-transcription factor 51 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>AcBFT2</title>
+      <link>/genes/actinidia_chinensis/acbft2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/actinidia_chinensis/acbft2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Acc28037 Gene Symbol: AcBFT2 Gene Name: Genome: Actinidia chinensis (Red5) Species: Actinidia chinensis Functional Descriptions: CRISPR-Cas9-mediated mutagenesis of kiwifruit BFT genes results in an evergrowing but not early flowering phenotype.</description>
+    </item>
+    <item>
+      <title>BnaMFT.5c</title>
+      <link>/genes/brassica_napus/bnamft.5c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnamft.5c/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaC05g50120D Gene Symbol: BnaMFT.5c Gene Name: Genome: B.</description>
+    </item>
+    <item>
+      <title>BnaMFT.6a</title>
+      <link>/genes/brassica_napus/bnamft.6a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnamft.6a/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaA06g12320D Gene Symbol: BnaMFT.6a Gene Name: Genome: B.</description>
+    </item>
+    <item>
+      <title>BnaMFT.8c</title>
+      <link>/genes/brassica_napus/bnamft.8c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnamft.8c/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaC08g37400D Gene Symbol: BnaMFT.8c Gene Name: Genome: B.</description>
+    </item>
+    <item>
+      <title>BnaMFT.9a</title>
+      <link>/genes/brassica_napus/bnamft.9a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnamft.9a/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaA09g44700D Gene Symbol: BnaMFT.9a Gene Name: Genome: B.</description>
+    </item>
+    <item>
+      <title>BpMADS4</title>
+      <link>/genes/2024.6.9/betula-pendula/bpmads4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/betula-pendula/bpmads4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BpMADS4 Gene Name: MADS box protein4 Genome: Species: Betula pendula Functional Descriptions: Heterologous overexpression of the birch FRUITFULL-like MADS-box gene BpMADS4 prevents normal senescence and winter dormancy in Populus tremula L.</description>
+    </item>
+    <item>
+      <title>CstNCED</title>
+      <link>/genes/2024.6.9/crocus-sativus/cstnced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/crocus-sativus/cstnced/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CstNCED Gene Name: plastid 9-cis-epoxycarotenoid dioxygenase Genome: Species: Crocus sativus Functional Descriptions: An NCED gene, CstNCED, was cloned from Crocus sativus stigmas.</description>
+    </item>
+    <item>
+      <title>FsPTP1</title>
+      <link>/genes/2024.6.9/fagus-sylvatica/fsptp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fagus-sylvatica/fsptp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FsPTP1 Gene Name: protein tyrosine phosphatase1 Genome: Species: Fagus sylvatica Functional Descriptions: Functional analysis in Arabidopsis of FsPTP1, a tyrosine phosphatase from beechnuts, reveals its role as a negative regulator of ABA signaling and seed dormancy and suggests its involvement in ethylene signaling modulation.</description>
+    </item>
+    <item>
+      <title>FT1</title>
+      <link>/genes/populus_tremula/ft1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/populus_tremula/ft1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: FT1 Gene Name: FLOWERING LOCUS T1 Genome: P.</description>
+    </item>
+    <item>
+      <title>FT2</title>
+      <link>/genes/populus_tremula/ft2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/populus_tremula/ft2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: FT2 Gene Name: FLOWERING LOCUS T2 Genome: P.</description>
+    </item>
+    <item>
+      <title>GhNAC83</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/glaun057212/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/glaun057212/</guid>
+      <description>Gene Details: Gene ID: GlaUn057212 Gene Symbol: GhNAC83 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhNAC83 inhibits corm dormancy release by regulating ABA signaling and cytokinin biosynthesis in Gladiolus hybridus.</description>
+    </item>
+    <item>
+      <title>Hv-CRY1a</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hv-cry1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hv-cry1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Hv-CRY1a Gene Name: CRYPTOCHROME1 Genome: Species: Hordeum vulgare Functional Descriptions: We have now created barley transgenic lines downregulating the genes encoding the blue light receptors CRYTOCHROME (CRY1) and CRY2.</description>
+    </item>
+    <item>
+      <title>Hv-CRY1b</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hv-cry1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hv-cry1b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Hv-CRY1b Gene Name: CRYPTOCHROME1 Genome: Species: Hordeum vulgare Functional Descriptions: We have now created barley transgenic lines downregulating the genes encoding the blue light receptors CRYTOCHROME (CRY1) and CRY2.</description>
+    </item>
+    <item>
+      <title>HvGA3ox1</title>
+      <link>/genes/hordeum_vulgare/hvga3ox1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/hordeum_vulgare/hvga3ox1/</guid>
+      <description>Gene Details: Gene ID:&#x9;HORVU.MOREX.r3.2HG0208900 Gene Symbol: HvGA3ox1 Gene Name: Genome: genome sequence of barley cv.</description>
+    </item>
+    <item>
+      <title>MdHB53b</title>
+      <link>/genes/malus_domestica/mdhb53b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdhb53b/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000789571 Gene Symbol: MdHB53b Gene Name: HOMEOBOX PROTEIN 53b Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>miR156</title>
+      <link>/genes/oryza_sativa/mir156/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/mir156/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: None Gene Symbol: miR156 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MtKNOX4</title>
+      <link>/genes/2024.6.9/medicago-truncatula/mtknox4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/mtknox4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MtKNOX4 Gene Name: class II KNOTTED-LIKE HOMEOBOX transcription factor Genome: Species: Medicago truncatula Functional Descriptions: MtKNOX4-regulated MtKCS12 manifests hardseededness.</description>
+    </item>
+    <item>
+      <title>OsBT1-1;OsBT1</title>
+      <link>/genes/oryza_sativa/loc_os02g10800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g10800/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g10800 RAPdb gene ID: Os02g0202400 Gene Symbol: OsBT1-1 OsBT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCNX6</title>
+      <link>/genes/oryza_sativa/loc_os02g04740/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g04740/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g04740 RAPdb gene ID: Os02g0140300 Gene Symbol: OsCNX6 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCPL1;sh-h</title>
+      <link>/genes/oryza_sativa/loc_os07g10690/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g10690/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g10690 RAPdb gene ID: Os07g0207700 Gene Symbol: OsCPL1 sh-h Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsDOG1L-3</title>
+      <link>/genes/oryza_sativa/loc_os01g20030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g20030/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g20030 RAPdb gene ID: Os01g0306400 Gene Symbol: OsDOG1L-3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsDOR1</title>
+      <link>/genes/oryza_sativa/loc_os03g20770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g20770/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g20770 RAPdb gene ID: None Gene Symbol: OsDOR1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsFIE2</title>
+      <link>/genes/oryza_sativa/loc_os08g04270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g04270/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g04270 RAPdb gene ID: Os08g0137100 Gene Symbol: OsFIE2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsGA2ox9</title>
+      <link>/genes/oryza_sativa/loc_os02g41954/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g41954/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g41954 RAPdb gene ID: Os02g0630300 Gene Symbol: OsGA2ox9 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsGLP2-1</title>
+      <link>/genes/oryza_sativa/loc_os02g32980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g32980/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g32980 RAPdb gene ID: Os02g0532500 Gene Symbol: OsGLP2-1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMAPKKK63</title>
+      <link>/genes/oryza_sativa/loc_os01g50370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g50370/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g50370 RAPdb gene ID: Os01g0699100 Gene Symbol: OsMAPKKK63 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNCED3</title>
+      <link>/genes/oryza_sativa/loc_os03g44380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g44380/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g44380 RAPdb gene ID: Os03g0645900 Gene Symbol: OsNCED3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPLS1</title>
+      <link>/genes/oryza_sativa/loc_os06g45120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g45120/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g45120 RAPdb gene ID: Os06g0662000 Gene Symbol: OsPLS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OSVP1;VP1</title>
+      <link>/genes/oryza_sativa/loc_os01g68370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g68370/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g68370 RAPdb gene ID: Os01g0911700 Gene Symbol: OSVP1 VP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsWRKY29</title>
+      <link>/genes/oryza_sativa/loc_os07g02060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g02060/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g02060 RAPdb gene ID: Os07g0111400 Gene Symbol: OsWRKY29 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PmCBF03</title>
+      <link>/genes/2024.6.9/prunus-mume/pmcbf03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-mume/pmcbf03/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PmCBF03 Gene Name: Genome: Species: Prunus mume Functional Descriptions: A low-temperature transcription factor PmCBF03 on chromosome 7 through adaptive analysis of populations at different altitudes, which has an early termination single nucleotide polymorphism mutation.</description>
+    </item>
+    <item>
+      <title>PpCBF1</title>
+      <link>/genes/2024.6.9/prunus-persica/ppcbf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/ppcbf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PpCBF1 Gene Name: C-repeat binding factor 1 Genome: Species: Prunus persica Functional Descriptions: The overexpression of a peach CBF (PpCBF1) gene in a transgenic line of own-rooted apple (Malus×domestica) M.</description>
+    </item>
+    <item>
+      <title>PpDAM6</title>
+      <link>/genes/prunus_persica/ppdam6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/prunus_persica/ppdam6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Prupe.1G531700 Gene Symbol: PpDAM6 Gene Name: DORMANCY-ASSOCIATED MADS-box Genome: peach reference genome v2.</description>
+    </item>
+    <item>
+      <title>PpeDAM6</title>
+      <link>/genes/2024.6.9/prunus-persica/ppedam6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/ppedam6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PpeDAM6 Gene Name: DORMANCY-ASSOCIATED MADS-BOX 6 Genome: Species: Prunus persica Functional Descriptions: PpeDAM6 overexpression in Arabidopsis induces an AGL24-like phenotype.</description>
+    </item>
+    <item>
+      <title>PpyABF3</title>
+      <link>/genes/2024.6.9/prunus-persica/ppyabf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/ppyabf3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PpyABF3 Gene Name: ABRE-BINDING FACTOR3 Genome: Species: Prunus persica Functional Descriptions: PpyABF3 recruits the COMPASS-like complex to regulate bud dormancy maintenance via integrating ABA signaling and GA catabolism.</description>
+    </item>
+    <item>
+      <title>PrCYP707A1</title>
+      <link>/genes/2024.6.9/phelipanche-ramosa/prcyp707a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phelipanche-ramosa/prcyp707a1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PrCYP707A1 Gene Name: ABA 8&amp;rsquo;-hydroxylase CYP707A1 Genome: Species: Phelipanche ramosa Functional Descriptions: PrCYP707A1, an ABA catabolic gene, is a key component of Phelipanche ramosa seed germination in response to the strigolactone analogue GR24.</description>
+    </item>
+    <item>
+      <title>PrCYP707A2</title>
+      <link>/genes/2024.6.9/phelipanche-ramosa/prcyp707a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phelipanche-ramosa/prcyp707a2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PrCYP707A2 Gene Name: ABA 8&amp;rsquo;-hydroxylase CYP707A2 Genome: Species: Phelipanche ramosa Functional Descriptions: PrCYP707A1, an ABA catabolic gene, is a key component of Phelipanche ramosa seed germination in response to the strigolactone analogue GR24.</description>
+    </item>
+    <item>
+      <title>PRR3a;Tof11</title>
+      <link>/genes/glycine_max/prr3atof11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/prr3atof11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.U034500 Gene Symbol: PRR3a Tof11 Gene Name: Time of Flowering 11 Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: PRR3b photoperiodic flowering time regulation.</description>
+    </item>
+    <item>
+      <title>PRR3b;Tof12</title>
+      <link>/genes/glycine_max/prr3btof12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/prr3btof12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.12G073900 Gene Symbol: PRR3b Tof12 Gene Name: Time of Flowering 12 Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: PRR3b photoperiodic flowering time regulation Tof11 and Tof12 encode PSEUDO-RESPONSE-REGULATOR-proteins Tof12 and Tof11, to ancient flowering time adaptation, and demonstrate that they act via LHY homologs to promote expression of the legume-specific E1 gene and delay flowering under long photoperiods.</description>
+    </item>
+    <item>
+      <title>PsRGL1</title>
+      <link>/genes/2024.6.9/paeonia-suffruticosa/psrgl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/paeonia-suffruticosa/psrgl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PsRGL1 Gene Name: Genome: Species: Paeonia suffruticosa Functional Descriptions: PsRGL1 negatively regulates chilling- and gibberellin-induced dormancy release by PsF-box1-mediated targeting for proteolytic degradation in tree peony.</description>
+    </item>
+    <item>
+      <title>PtoCDKB</title>
+      <link>/genes/2024.6.9/populus-tomentosa/ptocdkb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-tomentosa/ptocdkb/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PtoCDKB Gene Name: cyclin-dependent kinase B Genome: Species: Populus tomentosa Functional Descriptions: Induction of PtoCDKB and PtoCYCB transcription by temperature during cambium reactivation in Populus tomentosa Carr.</description>
+    </item>
+    <item>
+      <title>PtoCYCB</title>
+      <link>/genes/2024.6.9/populus-tomentosa/ptocycb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-tomentosa/ptocycb/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PtoCYCB Gene Name: cyclin B Genome: Species: Populus tomentosa Functional Descriptions: Induction of PtoCDKB and PtoCYCB transcription by temperature during cambium reactivation in Populus tomentosa Carr.</description>
+    </item>
+    <item>
+      <title>PtoFT2</title>
+      <link>/genes/2024.6.9/populus-tomentosa/potri.010g179700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-tomentosa/potri.010g179700/</guid>
+      <description>Gene Details: Gene ID: Potri.010G179700 Gene Symbol: PtoFT2 Gene Name: FLOWERING LOCUS T2 Genome: Species: Populus tomentosa Functional Descriptions: ELONGATED HYPOCOTYL 5a (PtoHY5a) modulates FLOWERING LOCUS T2 (PtoHY5a) and gibberellin levels to control dormancy and bud break in poplar.</description>
+    </item>
+    <item>
+      <title>PtoHY5a</title>
+      <link>/genes/2024.6.9/populus-tomentosa/potri.018g029500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-tomentosa/potri.018g029500/</guid>
+      <description>Gene Details: Gene ID: Potri.018G029500 Gene Symbol: PtoHY5a Gene Name: ELONGATED HYPOCOTYL 5a Genome: Species: Populus tomentosa Functional Descriptions: ELONGATED HYPOCOTYL 5a (PtoHY5a) modulates FLOWERING LOCUS T2 (PtoHY5a) and gibberellin levels to control dormancy and bud break in poplar.</description>
+    </item>
+    <item>
+      <title>PtrWOX4b</title>
+      <link>/genes/2024.6.9/populus-trichocarpa/potri.002g124100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-trichocarpa/potri.002g124100/</guid>
+      <description>Gene Details: Gene ID: Potri.002G124100 Gene Symbol: PtrWOX4b Gene Name: WUSCHEL-RELATED HOMEOBOX4 Genome: Species: Populus trichocarpa Functional Descriptions: WUSCHEL-RELATED HOMEOBOX4 (WOX4)-like genes regulate cambial cell division activity and secondary growth in Populus trees.</description>
+    </item>
+    <item>
+      <title>Rc;qSD7-1</title>
+      <link>/genes/oryza_sativa/loc_os07g11020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g11020/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g11020 RAPdb gene ID: Os07g0211500 Gene Symbol: Rc qSD7-1 qPC7 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Rht-B1c</title>
+      <link>/genes/triticum_aestivum/rht-b1c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/rht-b1c/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Rht-B1c Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Sequence variations of the partially dominant DELLA gene Rht-B1c in wheat and their functional impacts.</description>
+    </item>
+    <item>
+      <title>SD6</title>
+      <link>/genes/oryza_sativa/loc_os06g06900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g06900/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g06900 RAPdb gene ID: Os06g0164400 Gene Symbol: SD6 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Sdr4</title>
+      <link>/genes/oryza_sativa/loc_os07g39700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g39700/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g39700 RAPdb gene ID: Os07g0585700 Gene Symbol: Sdr4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlAN11</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slan11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slan11/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlAN11 Gene Name: TRANSPARENT TESTA GLABRA 1 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato SlAN11 regulates flavonoid biosynthesis and seed dormancy by interaction with bHLH proteins but not with MYB proteins.</description>
+    </item>
+    <item>
+      <title>StBIN2</title>
+      <link>/genes/2024.6.9/solanum-tuberosum/soltu.dm.03g001350.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-tuberosum/soltu.dm.03g001350.2/</guid>
+      <description>Gene Details: Gene ID: Soltu.DM.03G001350.2 Gene Symbol: StBIN2 Gene Name: Genome: Species: Solanum tuberosum Functional Descriptions: StSN2 interacts with the brassinosteroid signaling suppressor StBIN2 to maintain tuber dormancy.</description>
+    </item>
+    <item>
+      <title>StSN2</title>
+      <link>/genes/2024.6.9/solanum-tuberosum/soltu.dm.01g050660.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-tuberosum/soltu.dm.01g050660.1/</guid>
+      <description>Gene Details: Gene ID: Soltu.DM.01G050660.1 Gene Symbol: StSN2 Gene Name: Genome: Species: Solanum tuberosum Functional Descriptions: StSN2 interacts with the brassinosteroid signaling suppressor StBIN2 to maintain tuber dormancy.</description>
+    </item>
+    <item>
+      <title>TaABI4-1A</title>
+      <link>/genes/triticum_aestivum/taabi4-1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taabi4-1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: TaABI4-1A Gene Name: ABSCISIC ACID-INSENSITIVE 4 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaABI4-1B</title>
+      <link>/genes/triticum_aestivum/taabi4-1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taabi4-1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: TaABI4-1B Gene Name: ABSCISIC ACID-INSENSITIVE 4 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaABI4-1D</title>
+      <link>/genes/triticum_aestivum/taabi4-1d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taabi4-1d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: TaABI4-1D Gene Name: ABSCISIC ACID-INSENSITIVE 4 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaAFP-A</title>
+      <link>/genes/triticum_aestivum/taafp-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taafp-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2A02G176300 Gene Symbol: TaAFP-A Gene Name: antifreeze protein Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaAFP-B</title>
+      <link>/genes/triticum_aestivum/taafp-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taafp-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G202700 Gene Symbol: TaAFP-B Gene Name: ninja-family protein 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaAFP-D</title>
+      <link>/genes/triticum_aestivum/taafp-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taafp-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D02G183700 Gene Symbol: TaAFP-D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCYP707A1</title>
+      <link>/genes/triticum_aestivum/tacyp707a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacyp707a1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaCYP707A1 Gene Name: ABA 8&amp;rsquo;-hydroxylase Genome: Species: Triticum aestivum Functional Descriptions: Ectopic expression of TaNCED2A and TaCYP707A1B in Arabidopsis resulted in altered seed ABA level and dormancy with no effect on leaf ABA content and transpirational water loss.</description>
+    </item>
+    <item>
+      <title>TaMKK3</title>
+      <link>/genes/triticum_aestivum/tamkk3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamkk3/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCSU02G302300LC Gene Symbol: TaMKK3 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaMKK3-A</title>
+      <link>/genes/triticum_aestivum/tamkk3-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamkk3-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: TaMKK3-A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaMKK3-B</title>
+      <link>/genes/triticum_aestivum/tamkk3-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamkk3-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5B02G565100 Gene Symbol: TaMKK3-B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaMKK3-D</title>
+      <link>/genes/triticum_aestivum/tamkk3-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamkk3-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G549600 Gene Symbol: TaMKK3-D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaNCED2</title>
+      <link>/genes/triticum_aestivum/tanced2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanced2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaNCED2 Gene Name: 9-cis-epoxycarotenoid dioxygenase2 Genome: Species: Triticum aestivum Functional Descriptions: The present study identified the complete coding sequences of a second NCED gene, designated as TaNCED2, and its homeologues (TaNCED2A, TaNCED2B and TaNCED2D) in hexaploid wheat, and characterized its functionality in seed dormancy and leaf dehydration tolerance using the TaNCED2A homeologue.</description>
+    </item>
+    <item>
+      <title>TaQsd1-5A</title>
+      <link>/genes/triticum_aestivum/taqsd1-5a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taqsd1-5a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5A02G216200 Gene Symbol: TaQsd1-5A Gene Name: quantitative trait locus on seed dormancy 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaQsd1-5B</title>
+      <link>/genes/triticum_aestivum/taqsd1-5b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taqsd1-5b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5B02G214700 Gene Symbol: TaQsd1-5B Gene Name: quantitative trait locus on seed dormancy 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaQsd1-5D</title>
+      <link>/genes/triticum_aestivum/taqsd1-5d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taqsd1-5d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G224200 Gene Symbol: TaQsd1-5D Gene Name: quantitative trait locus on seed dormancy 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaVP1</title>
+      <link>/genes/triticum_aestivum/tavp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaVP1 Gene Name: Viviparous 1 Genome: Species: Triticum aestivum Functional Descriptions: The tasro1 mutants exhibited strong seed dormancy and enhanced resistance to PHS, whereas the mutants of TaVP1 displayed weak dormancy.</description>
+    </item>
+    <item>
+      <title>TRAB1;OsbZIP66</title>
+      <link>/genes/oryza_sativa/loc_os08g36790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g36790/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g36790 RAPdb gene ID: Os08g0471950 ,Os08g0472000 Gene Symbol: TRAB1 OsbZIP66 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>VvFT</title>
+      <link>/genes/2024.6.9/vitis-vinifera/gsvivt00012870001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/gsvivt00012870001/</guid>
+      <description>Gene Details: Gene ID: GSVIVT00012870001 Gene Symbol: VvFT Gene Name: FLOWERING LOCUS T Genome: Species: Vitis vinifera Functional Descriptions: Relationship between endodormancy, FLOWERING LOCUS T (VvFT) and cell cycle genes in Vitis vinifera.</description>
+    </item>
+  </channel>
+</rss>

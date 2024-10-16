@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Populus alba x Populus tremula on funPlantGenes</title>
+    <link>/categories/populus-alba-x-populus-tremula/</link>
+    <description>Recent content in Populus alba x Populus tremula on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/populus-alba-x-populus-tremula/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PtaRHE1</title>
+      <link>/genes/2024.6.9/populus-alba-x-populus-tremula/ptarhe1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-alba-x-populus-tremula/ptarhe1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PtaRHE1 Gene Name: RING-H2 subgroup RHE protein1 Genome: Species: Populus alba x Populus tremula Functional Descriptions: Ectopic expression of PtaRHE1, encoding a poplar RING-H2 protein with E3 ligase activity, alters plant development and induces defence-related responses.</description>
+    </item>
+  </channel>
+</rss>

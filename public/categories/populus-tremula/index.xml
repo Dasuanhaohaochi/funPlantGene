@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Populus tremula on funPlantGenes</title>
+    <link>/categories/populus-tremula/</link>
+    <description>Recent content in Populus tremula on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/populus-tremula/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSE1</title>
+      <link>/genes/populus_tremula/cse1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/populus_tremula/cse1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Potri.003G059200 Gene Symbol: CSE1 Gene Name: CAFFEOYL SHIKIMATE ESTERASE1 Genome: genome sequence of the P.</description>
+    </item>
+    <item>
+      <title>CSE2</title>
+      <link>/genes/populus_tremula/cse2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/populus_tremula/cse2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Potri.001G175000 Gene Symbol: CSE2 Gene Name: CAFFEOYL SHIKIMATE ESTERASE2 Genome: genome sequence of the P.</description>
+    </item>
+    <item>
+      <title>FT1</title>
+      <link>/genes/populus_tremula/ft1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/populus_tremula/ft1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: FT1 Gene Name: FLOWERING LOCUS T1 Genome: P.</description>
+    </item>
+    <item>
+      <title>FT2</title>
+      <link>/genes/populus_tremula/ft2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/populus_tremula/ft2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: FT2 Gene Name: FLOWERING LOCUS T2 Genome: P.</description>
+    </item>
+  </channel>
+</rss>

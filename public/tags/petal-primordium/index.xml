@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>petal primordium on funPlantGenes</title>
+    <link>/tags/petal-primordium/</link>
+    <description>Recent content in petal primordium on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/petal-primordium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G28610</title>
+      <link>/genes/arabidopsis_thaliana/at2g28610/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g28610/</guid>
+      <description>Gene Details: Gene ID: AT2G28610 Gene Symbol: PRS, PRS1, WOX3 Gene Name: PRESSED FLOWER, PRESSED FLOWER 1, WUSCHEL RELATED HOMEOBOX 3 Description: Homeodomain-like superfamily protein;(source:Araport11) TAIR Accession: locus:2065484 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G28610.</description>
+    </item>
+    <item>
+      <title>AT2G31650</title>
+      <link>/genes/arabidopsis_thaliana/at2g31650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g31650/</guid>
+      <description>Gene Details: Gene ID: AT2G31650 Gene Symbol: ATX1, SDG27 Gene Name: Arabidopsis TRITHORAX 1, SET DOMAIN PROTEIN 27 Description: homologue of trithorax;(source:Araport11) TAIR Accession: locus:2065923 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G31650.</description>
+    </item>
+    <item>
+      <title>AT5G06070</title>
+      <link>/genes/arabidopsis_thaliana/at5g06070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g06070/</guid>
+      <description>Gene Details: Gene ID: AT5G06070 Gene Symbol: RAB, RBE Gene Name: RABBIT EARS Description: C2H2 and C2HC zinc fingers superfamily protein;(source:Araport11) TAIR Accession: locus:505006582 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G06070.</description>
+    </item>
+    <item>
+      <title>AT5G35770</title>
+      <link>/genes/arabidopsis_thaliana/at5g35770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g35770/</guid>
+      <description>Gene Details: Gene ID: AT5G35770 Gene Symbol: SAP Gene Name: STERILE APETALA Description: Transducin/WD40 repeat-like superfamily protein;(source:Araport11) TAIR Accession: locus:2177271 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G35770.</description>
+    </item>
+  </channel>
+</rss>

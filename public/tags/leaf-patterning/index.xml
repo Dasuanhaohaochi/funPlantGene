@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>leaf patterning on funPlantGenes</title>
+    <link>/tags/leaf-patterning/</link>
+    <description>Recent content in leaf patterning on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/leaf-patterning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsIVP</title>
+      <link>/genes/2024.6.9/cucumis-sativus/cucsa_101020.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/cucsa_101020.1/</guid>
+      <description>Gene Details: Gene ID: Cucsa_101020.1 Gene Symbol: CsIVP Gene Name: Irregular Vasculature Patterning Genome: Species: Cucumis sativus Functional Descriptions: CsIVP Modulates Low Nitrogen and High-Temperature Resistance in Cucumber.</description>
+    </item>
+    <item>
+      <title>CsWOX1</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csa1g042780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csa1g042780/</guid>
+      <description>Gene Details: Gene ID: Csa1G042780 Gene Symbol: CsWOX1 Gene Name: WUSCHEL-related homeobox1 Genome: Species: Cucumis sativus Functional Descriptions: WUSCHEL-related homeobox1 (CsWOX1) regulates vein patterning and leaf size in Cucumis sativus.</description>
+    </item>
+    <item>
+      <title>HDA108</title>
+      <link>/genes/zea_mays/hda108/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/hda108/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb177560 Gene Symbol: HDA108 Gene Name: histone deacetylase Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Hsf1</title>
+      <link>/genes/zea_mays/hsf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/hsf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb253970 Gene Symbol: Hsf1 Gene Name: Hairy sheath frayed1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>LBL1;rgd1</title>
+      <link>/genes/zea_mays/lbl1rgd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/lbl1rgd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb264310 Gene Symbol: LBL1 rgd1 Gene Name: ragged seedling1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>MtKNOX2</title>
+      <link>/genes/2024.7.17/medicago-truncatula/medtr2g024390/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/medicago-truncatula/medtr2g024390/</guid>
+      <description>Gene Details: Gene ID: Medtr2g024390 Gene Symbol: MtKNOX2 Gene Name: Class I KNOTTED-like homeobox Genome: Species: Medicago truncatula Functional Descriptions: Phylogenetic analysis revealed that the STM-like genes (MtKNOX1 and MtKNOX6), a BP-like gene (MtKNOX2), and a KNAT2/6-like gene (MtKNOX7) are grouped into Class I KNOX genes (MtKNOXI) in M.</description>
+    </item>
+    <item>
+      <title>MtKNOX6</title>
+      <link>/genes/2024.7.17/medicago-truncatula/medtr5g085860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/medicago-truncatula/medtr5g085860/</guid>
+      <description>Gene Details: Gene ID: Medtr5g085860 Gene Symbol: MtKNOX6 Gene Name: Class I KNOTTED-like homeobox Genome: Species: Medicago truncatula Functional Descriptions: Phylogenetic analysis revealed that the STM-like genes (MtKNOX1 and MtKNOX6), a BP-like gene (MtKNOX2), and a KNAT2/6-like gene (MtKNOX7) are grouped into Class I KNOX genes (MtKNOXI) in M.</description>
+    </item>
+    <item>
+      <title>MtREV1</title>
+      <link>/genes/2024.6.9/medicago-truncatula/medtr2g094520/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/medtr2g094520/</guid>
+      <description>Gene Details: Gene ID: Medtr2g094520 Gene Symbol: MtREV1|PPF1 Gene Name: REVOLUTA1 Genome: Species: Medicago truncatula Functional Descriptions: Detailed characterization revealed that a lesion in a HD-ZIPIII gene, REVOLUTA (MtREV1|PPF1), resulted in the defects of the mutant.</description>
+    </item>
+    <item>
+      <title>OsIDD10;OsNKD</title>
+      <link>/genes/oryza_sativa/loc_os04g47860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g47860/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g47860 RAPdb gene ID: Os04g0566400 Gene Symbol: OsIDD10 OsNKD Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Wox3;Wox3a</title>
+      <link>/genes/zea_mays/wox3wox3a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/wox3wox3a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb265710 Gene Symbol: Wox3 Wox3a Gene Name: Wuschel-like homeobox3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSCR1;ZmGRAS78</title>
+      <link>/genes/zea_mays/zmscr1zmgras78zmscrscarecrowscrscro1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmscr1zmgras78zmscrscarecrowscrscro1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb195650 Gene Symbol: ZmSCR1 ZmGRAS78 ZmSCR SCARECROW SCR scro1 Gene Name: scarecrow1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSCR1h;ZmSCR2</title>
+      <link>/genes/zea_mays/zmscr1hzmscr2zmscarecrow2gras37/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmscr1hzmscr2zmscarecrow2gras37/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb093670 Gene Symbol: ZmSCR1h ZmSCR2 ZmScarecrow2 gras37 Gene Name: GRAS-transcription factor 37 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWOX14;Wox3b</title>
+      <link>/genes/zea_mays/zmwox14wox3b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmwox14wox3b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb355310 Gene Symbol: ZmWOX14 Wox3b Gene Name: Wuschel-like homeobox3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

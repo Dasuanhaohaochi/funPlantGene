@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apigenin on funPlantGenes</title>
+    <link>/tags/apigenin/</link>
+    <description>Recent content in apigenin on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/apigenin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CcCIPK14</title>
+      <link>/genes/2024.6.9/cajanus-cajan/cccipk14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cajanus-cajan/cccipk14/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CcCIPK14 Gene Name: Calcineurin B-like (CBL)-interacting protein kinase 14 Genome: Species: Cajanus cajan Functional Descriptions: The pigeon pea CcCIPK14-CcCBL1 pair positively modulates drought tolerance by enhancing flavonoid biosynthesis.</description>
+    </item>
+    <item>
+      <title>CmFNSII-1</title>
+      <link>/genes/2024.6.9/chrysanthemum-morifolium/unigene0057769/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/chrysanthemum-morifolium/unigene0057769/</guid>
+      <description>Gene Details: Gene ID: Unigene0057769 Gene Symbol: CmFNSII-1 Gene Name: flavones synthase II gene Genome: Species: Chrysanthemum morifolium Functional Descriptions: The predominant flavones in the ray florets of chrysanthemum flowers are apigenin and its derivatives, of which the contents are highly correlated with the expression of flavones synthase II gene CmFNSII-1.</description>
+    </item>
+    <item>
+      <title>CmHY5</title>
+      <link>/genes/2024.6.9/chrysanthemum-morifolium/cmhy5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/chrysanthemum-morifolium/cmhy5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CmHY5 Gene Name: ELONGATED HYPOCOTYL5 Genome: Species: Chrysanthemum morifolium Functional Descriptions: CmHY5 functions in apigenin biosynthesis by regulating flavone synthase II expression in chrysanthemum flowers.</description>
+    </item>
+  </channel>
+</rss>

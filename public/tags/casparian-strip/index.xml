@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Casparian strip on funPlantGenes</title>
+    <link>/tags/casparian-strip/</link>
+    <description>Recent content in Casparian strip on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/casparian-strip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsCASP1</title>
+      <link>/genes/oryza_sativa/loc_os04g58760/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g58760/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g58760 RAPdb gene ID: Os04g0684300 Gene Symbol: OsCASP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMYB36a</title>
+      <link>/genes/oryza_sativa/loc_os08g15020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g15020/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g15020 RAPdb gene ID: Os08g0248700 Gene Symbol: OsMYB36a Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMYB36b</title>
+      <link>/genes/oryza_sativa/loc_os02g54520/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g54520/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g54520 RAPdb gene ID: Os02g0786300 ,Os02g0786400 Gene Symbol: OsMYB36b Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMYB36c</title>
+      <link>/genes/oryza_sativa/loc_os03g56090/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g56090/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g56090 RAPdb gene ID: Os03g0771100 Gene Symbol: OsMYB36c Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmLAC3</title>
+      <link>/genes/zea_mays/zmlac3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmlac3/</guid>
+      <description>Gene Details: Gene ID:&#x9;GRMZM2G164467 Gene Symbol: ZmLAC3 Gene Name: laccase6 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: Consistent with results obtained with ZmmiR528 TM transgenic maize and mir528a/b loss-of-function mutants, transgenic maize overexpressing ZmLAC3 displayed early CS formation under different N conditions.</description>
+    </item>
+    <item>
+      <title>ZmmiR528</title>
+      <link>/genes/zea_mays/grmzm5g809042/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/grmzm5g809042/</guid>
+      <description>Gene Details: Gene ID: GRMZM5G809042 Gene Symbol: ZmmiR528|miR528a Gene Name: microRNA528 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: MicroRNA528 Affects Lodging Resistance of Maize by Regulating Lignin Biosynthesis under Nitrogen-Luxury Conditions.</description>
+    </item>
+    <item>
+      <title>ZmSTL1;stl1</title>
+      <link>/genes/zea_mays/zmstl1stl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmstl1stl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb056600 Gene Symbol: ZmSTL1 stl1 Gene Name: Salt-Tolerant Locus 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phalaenopsis aphrodite on funPlantGenes</title>
+    <link>/categories/phalaenopsis-aphrodite/</link>
+    <description>Recent content in Phalaenopsis aphrodite on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/phalaenopsis-aphrodite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaCBF1</title>
+      <link>/genes/2024.6.9/phalaenopsis-aphrodite/pacbf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phalaenopsis-aphrodite/pacbf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PaCBF1 Gene Name: C-repeat binding factor1 Genome: Species: Phalaenopsis aphrodite Functional Descriptions: Cold Response in Phalaenopsis aphrodite and Characterization of PaCBF1 and PaICE1.</description>
+    </item>
+    <item>
+      <title>PaICE1</title>
+      <link>/genes/2024.6.9/phalaenopsis-aphrodite/paice1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phalaenopsis-aphrodite/paice1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PaICE1 Gene Name: CBF expression1 Genome: Species: Phalaenopsis aphrodite Functional Descriptions: Cold Response in Phalaenopsis aphrodite and Characterization of PaCBF1 and PaICE1.</description>
+    </item>
+    <item>
+      <title>PaMYB9A1</title>
+      <link>/genes/phalaenopsis_aphrodite/pamyb9a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/phalaenopsis_aphrodite/pamyb9a1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: PaMYB9A1 Gene Name: Genome: P.</description>
+    </item>
+    <item>
+      <title>PaMYB9A2</title>
+      <link>/genes/phalaenopsis_aphrodite/pamyb9a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/phalaenopsis_aphrodite/pamyb9a2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: PaMYB9A2 Gene Name: Genome: P.</description>
+    </item>
+  </channel>
+</rss>

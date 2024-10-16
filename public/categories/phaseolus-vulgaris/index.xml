@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phaseolus vulgaris on funPlantGenes</title>
+    <link>/categories/phaseolus-vulgaris/</link>
+    <description>Recent content in Phaseolus vulgaris on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/phaseolus-vulgaris/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PvERF15</title>
+      <link>/genes/2024.6.9/phaseolus-vulgaris/phavu_007g193300g/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phaseolus-vulgaris/phavu_007g193300g/</guid>
+      <description>Gene Details: Gene ID: PHAVU_007G193300g Gene Symbol: PvERF15 Gene Name: ETHYLENE RESPONSE FACTOR15 Genome: Species: Phaseolus vulgaris Functional Descriptions: Transcription Factors PvERF15 and PvMTF-1 Form a Cadmium Stress Transcriptional Pathway.</description>
+    </item>
+    <item>
+      <title>PvLOX6</title>
+      <link>/genes/2024.7.17/phaseolus-vulgaris/pvlox6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/phaseolus-vulgaris/pvlox6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PvLOX6 Gene Name: Lipoxygenase 6 Genome: Species: Phaseolus vulgaris Functional Descriptions: Isolated the cDNA of a novel chloroplast-targeted Phaseolus vulgaris LOX, (PvLOX6).</description>
+    </item>
+    <item>
+      <title>PvMTF-1</title>
+      <link>/genes/2024.6.9/phaseolus-vulgaris/pvmtf-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phaseolus-vulgaris/pvmtf-1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PvMTF-1 Gene Name: METAL RESPONSE ELEMENT-BINDING TRANSCRIPTION FACTOR1 Genome: Species: Phaseolus vulgaris Functional Descriptions: Transcription Factors PvERF15 and PvMTF-1 Form a Cadmium Stress Transcriptional Pathway.</description>
+    </item>
+    <item>
+      <title>PvRbohB</title>
+      <link>/genes/2024.6.9/phaseolus-vulgaris/phvulv091013731/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phaseolus-vulgaris/phvulv091013731/</guid>
+      <description>Gene Details: Gene ID: Phvulv091013731 Gene Symbol: PvRbohB Gene Name: NADPH oxidase gene Genome: Species: Phaseolus vulgaris Functional Descriptions: RbohB, a Phaseolus vulgaris NADPH oxidase gene, enhances symbiosome number, bacteroid size, and nitrogen fixation in nodules and impairs mycorrhizal colonization.</description>
+    </item>
+    <item>
+      <title>PvTIFY10C</title>
+      <link>/genes/2024.6.9/phaseolus-vulgaris/phvul.002g002000.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phaseolus-vulgaris/phvul.002g002000.1/</guid>
+      <description>Gene Details: Gene ID: Phvul.002G002000.1 Gene Symbol: PvTIFY10C Gene Name: TIFY transcription factor Genome: Species: Phaseolus vulgaris Functional Descriptions: Common bean (Phaseolus vulgarisL.</description>
+    </item>
+  </channel>
+</rss>

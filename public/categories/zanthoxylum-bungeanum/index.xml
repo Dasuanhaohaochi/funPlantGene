@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zanthoxylum bungeanum on funPlantGenes</title>
+    <link>/categories/zanthoxylum-bungeanum/</link>
+    <description>Recent content in Zanthoxylum bungeanum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/zanthoxylum-bungeanum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZbAGL11</title>
+      <link>/genes/zanthoxylum_bungeanum/zbagl11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zanthoxylum_bungeanum/zbagl11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: ZbAGL11 Gene Name: Genome: Species: Zanthoxylum bungeanum Functional Description: By measuring the gene expression levels and performing cytological analysis, we found that ZbAGL11, a member of the MADS-Box transcription factor family, is highly expressed at the critical stage of apomixis in ZB.</description>
+    </item>
+  </channel>
+</rss>

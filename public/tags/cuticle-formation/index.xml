@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cuticle formation on funPlantGenes</title>
+    <link>/tags/cuticle-formation/</link>
+    <description>Recent content in cuticle formation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/cuticle-formation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AaHD8</title>
+      <link>/genes/2024.6.9/artemisia-annua/aahd8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/artemisia-annua/aahd8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: AaHD8 Gene Name: Genome: Species: Artemisia annua Functional Descriptions: Identify a homeodomain-leucine zipper (HD-ZIP) IV transcription factor, AaHD8, directly promoting the expression of AaHD1 for glandular trichome initiation in Artemisia annua.</description>
+    </item>
+    <item>
+      <title>FaMADS9</title>
+      <link>/genes/fragaria_ananassa/famads9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/fragaria_ananassa/famads9/</guid>
+      <description>Gene Details: Gene ID:&#x9;FvH4_6g46420 Gene Symbol: FaMADS9 Gene Name: Genome: FAN (F.</description>
+    </item>
+    <item>
+      <title>IPE2;ms5</title>
+      <link>/genes/zea_mays/ipe2ms5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/ipe2ms5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb237060 Gene Symbol: IPE2 ms5 Gene Name: IRREGULAR POLLEN EXINE2;male sterile5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Iw1</title>
+      <link>/genes/2024.6.9/brachypodium-distachyon/bradi5g01180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brachypodium-distachyon/bradi5g01180/</guid>
+      <description>Gene Details: Gene ID: Bradi5g01180 Gene Symbol: Iw1 Gene Name: Inhibitor of wax 1 Genome: Species: Brachypodium distachyon Functional Descriptions: Using synteny and a large number of F2 gametes, Iw1 was fine-mapped to a sub-cM genetic interval on wheat chromosome arm 2BS, which includes a single collinear gene from the corresponding Brachypodium and rice physical maps.</description>
+    </item>
+    <item>
+      <title>OsZOU-1;bHLH144</title>
+      <link>/genes/oryza_sativa/loc_os04g35010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g35010/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g35010 RAPdb gene ID: Os04g0429400 Gene Symbol: OsZOU-1 bHLH144 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmMs13;ZmABCG2a</title>
+      <link>/genes/zea_mays/zmms13zmabcg2ams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmms13zmabcg2ams/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb221130 Gene Symbol: ZmMs13 ZmABCG2a ms Gene Name: male sterile13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMs30</title>
+      <link>/genes/zea_mays/zm00001eb195900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb195900/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb195900 Gene Symbol: ZmMs30 Gene Name: male sterile30 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYB84</title>
+      <link>/genes/zea_mays/zmmyb84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmmyb84/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb424660 Gene Symbol: ZmMYB84 Gene Name: MYB-transcription factor 84 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPHD11</title>
+      <link>/genes/zea_mays/zm00001eb216130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb216130/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb216130 Gene Symbol: ZmPHD11 Gene Name: PHD-transcription factor 11 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPKSB;chls1</title>
+      <link>/genes/zea_mays/zmpksbchls1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpksbchls1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb305800 Gene Symbol: ZmPKSB chls1 Gene Name: chalcone synthase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTKPR1-1</title>
+      <link>/genes/zea_mays/zm00001eb035410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb035410/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb035410 Gene Symbol: ZmTKPR1-1 Gene Name: dihydroflavonoid reductase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTKPR1-2</title>
+      <link>/genes/zea_mays/zm00001eb317040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb317040/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb317040 Gene Symbol: ZmTKPR1-2 Gene Name: dihydroflavonoid reductase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

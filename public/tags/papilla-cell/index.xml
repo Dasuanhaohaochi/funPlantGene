@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>papilla cell on funPlantGenes</title>
+    <link>/tags/papilla-cell/</link>
+    <description>Recent content in papilla cell on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/papilla-cell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G44110</title>
+      <link>/genes/arabidopsis_thaliana/at2g44110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g44110/</guid>
+      <description>Gene Details: Gene ID: AT2G44110 Gene Symbol: ATMLO15, MLO15 Gene Name: MILDEW RESISTANCE LOCUS O 15, MILDEW RESISTANCE LOCUS O 15 Description: Seven transmembrane MLO family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G44110.</description>
+    </item>
+    <item>
+      <title>AT3G30720</title>
+      <link>/genes/arabidopsis_thaliana/at3g30720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g30720/</guid>
+      <description>Gene Details: Gene ID: AT3G30720 Gene Symbol: DEG6, QQS Gene Name: QUA-QUINE STARCH Description: qua-quine starch;(source:Araport11) TAIR Accession: locus:2079466 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G30720.</description>
+    </item>
+    <item>
+      <title>AT5G37020</title>
+      <link>/genes/arabidopsis_thaliana/at5g37020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g37020/</guid>
+      <description>Gene Details: Gene ID: AT5G37020 Gene Symbol: ARF8, ATARF8 Gene Name: auxin response factor 8 Description: auxin response factor 8;(source:Araport11) TAIR Accession: locus:2152642 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G37020.</description>
+    </item>
+  </channel>
+</rss>

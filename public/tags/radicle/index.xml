@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>radicle on funPlantGenes</title>
+    <link>/tags/radicle/</link>
+    <description>Recent content in radicle on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/radicle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G26080</title>
+      <link>/genes/arabidopsis_thaliana/at2g26080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g26080/</guid>
+      <description>Gene Details: Gene ID: AT2G26080 Gene Symbol: AtGLDP2, GLDP2 Gene Name: glycine decarboxylase P-protein 2, glycine decarboxylase P-protein 2 Description: glycine decarboxylase P-protein 2;(source:Araport11) TAIR Accession: locus:2057464 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G26080.</description>
+    </item>
+    <item>
+      <title>AT2G27150</title>
+      <link>/genes/arabidopsis_thaliana/at2g27150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g27150/</guid>
+      <description>Gene Details: Gene ID: AT2G27150 Gene Symbol: AAO3, AOdelta, At-AO3, AtAAO3 Gene Name: abscisic aldehyde oxidase 3, Aldehyde oxidase delta, Arabidopsis thaliana aldehyde oxidase 3 Description: abscisic aldehyde oxidase 3;(source:Araport11) TAIR Accession: locus:2045149 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G27150.</description>
+    </item>
+    <item>
+      <title>AT2G28350</title>
+      <link>/genes/arabidopsis_thaliana/at2g28350/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g28350/</guid>
+      <description>Gene Details: Gene ID: AT2G28350 Gene Symbol: ARF10 Gene Name: auxin response factor 10 Description: auxin response factor 10;(source:Araport11) TAIR Accession: locus:2057517 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G28350.</description>
+    </item>
+    <item>
+      <title>AT3G26790</title>
+      <link>/genes/arabidopsis_thaliana/at3g26790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g26790/</guid>
+      <description>Gene Details: Gene ID: AT3G26790 Gene Symbol: FUS3 Gene Name: FUSCA3 Description: AP2/B3-like transcriptional factor family protein;(source:Araport11) TAIR Accession: locus:2088439 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G26790.</description>
+    </item>
+    <item>
+      <title>AT3G48040</title>
+      <link>/genes/arabidopsis_thaliana/at3g48040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g48040/</guid>
+      <description>Gene Details: Gene ID: AT3G48040 Gene Symbol: ARAC8, ATRAC8, ATROP10, ROP10 Gene Name: Arabidopsis RAC-like 8, RHO-RELATED PROTEIN FROM PLANTS 10, RHO-related protein from plants 10 Description: RHO-related protein from plants 10;(source:Araport11) TAIR Accession: locus:2097905 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G48040.</description>
+    </item>
+    <item>
+      <title>AT4G25820</title>
+      <link>/genes/arabidopsis_thaliana/at4g25820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g25820/</guid>
+      <description>Gene Details: Gene ID: AT4G25820 Gene Symbol: ATXTH14, XTH14, XTR9 Gene Name: xyloglucan endotransglucosylase/hydrolase 14, xyloglucan endotransglycosylase 9 Description: xyloglucan endotransglucosylase/hydrolase 14;(source:Araport11) TAIR Accession: locus:2117492 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G25820.</description>
+    </item>
+  </channel>
+</rss>

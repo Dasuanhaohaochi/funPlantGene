@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>endodermis on funPlantGenes</title>
+    <link>/tags/endodermis/</link>
+    <description>Recent content in endodermis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/endodermis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT1G02335</title>
+      <link>/genes/arabidopsis_thaliana/at1g02335/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02335/</guid>
+      <description>Gene Details: Gene ID: AT1G02335 Gene Symbol: GL22, PDGLP2 Gene Name: germin-like protein subfamily 2 member 2 precursor, PLASMODESMAL GERMIN-LIKE PROTEIN 2 Description: germin-like protein subfamily 2 member 2 precursor;(source:Araport11) TAIR Accession: locus:2827077 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02335.</description>
+    </item>
+  </channel>
+</rss>

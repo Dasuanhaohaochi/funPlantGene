@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saccharum officinarum on funPlantGenes</title>
+    <link>/categories/saccharum-officinarum/</link>
+    <description>Recent content in Saccharum officinarum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/saccharum-officinarum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ScFBH1</title>
+      <link>/genes/2024.6.9/saccharum-officinarum/scfbh1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/saccharum-officinarum/scfbh1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ScFBH1 Gene Name: flowering BHLH 1 Genome: Species: Saccharum officinarum Functional Descriptions: Protein–protein interaction assays showed that sugarcane FBH1 (ScFBH1), ScFBH2, and ScFBH3 form homo- and heterodimers in the nucleus.</description>
+    </item>
+    <item>
+      <title>ScFBH2</title>
+      <link>/genes/2024.6.9/saccharum-officinarum/scfbh2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/saccharum-officinarum/scfbh2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ScFBH2 Gene Name: flowering BHLH 2 Genome: Species: Saccharum officinarum Functional Descriptions: Protein–protein interaction assays showed that sugarcane FBH1 (ScFBH1), ScFBH2, and ScFBH3 form homo- and heterodimers in the nucleus.</description>
+    </item>
+    <item>
+      <title>ScFBH3</title>
+      <link>/genes/2024.6.9/saccharum-officinarum/scfbh3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/saccharum-officinarum/scfbh3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ScFBH3 Gene Name: flowering BHLH 3 Genome: Species: Saccharum officinarum Functional Descriptions: Protein–protein interaction assays showed that sugarcane FBH1 (ScFBH1), ScFBH2, and ScFBH3 form homo- and heterodimers in the nucleus.</description>
+    </item>
+  </channel>
+</rss>

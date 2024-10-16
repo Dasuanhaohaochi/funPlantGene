@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transcription suppressor on funPlantGenes</title>
+    <link>/tags/transcription-suppressor/</link>
+    <description>Recent content in transcription suppressor on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/transcription-suppressor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CmBES1</title>
+      <link>/genes/chrysanthemum_morifolium/cmbes1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/chrysanthemum_morifolium/cmbes1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CmBES1 Gene Name: BRI1-EMS-SUPPRESSOR 1 Genome: Chrysanthemum genome v2.</description>
+    </item>
+    <item>
+      <title>CsMYB73</title>
+      <link>/genes/2024.6.9/camellia-sinensis/tea014193.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/tea014193.1/</guid>
+      <description>Gene Details: Gene ID: TEA014193.1 Gene Symbol: CsMYB73 Gene Name: R2R3-MYB transcription factor 73 Genome: Species: Camellia sinensis Functional Descriptions: CsMYB73 negatively regulates theanine accumulation mediated by CsGGT2 and CsGGT4 in tea shoots.</description>
+    </item>
+    <item>
+      <title>E2;GIa</title>
+      <link>/genes/glycine_max/e2giagi3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/e2giagi3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.10G221500 Gene Symbol: E2 GIa GI3 Gene Name: Gigantea gene 3 Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: A genome-wide association study to identify a major salt-tolerance locus controlled by E2, an ortholog of Arabidopsis thaliana GIGANTEA (GI).</description>
+    </item>
+    <item>
+      <title>GhSOC1</title>
+      <link>/genes/gossypium_hirsutum/ghsoc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghsoc1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhSOC1 Gene Name: Genome: cotton reference genome v2.</description>
+    </item>
+    <item>
+      <title>GhWAK13</title>
+      <link>/genes/2024.6.9/gh_a05g2392/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gh_a05g2392/</guid>
+      <description>Gene Details: Gene ID: GH_A05G2392 Gene Symbol: GhWAK13 Gene Name: wall-associated kinase 13 Genome: Species: Gossypium hirsutum Functional Descriptions: Wall-associated kinase GhWAK13 mediates arbuscular mycorrhizal symbiosis and Verticillium wilt resistance in cotton.</description>
+    </item>
+    <item>
+      <title>OsOFP14</title>
+      <link>/genes/oryza_sativa/loc_os04g33870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g33870/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g33870 RAPdb gene ID: Os04g0415100 Gene Symbol: OsOFP14 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PvSSG</title>
+      <link>/genes/panicum_virgatum/pvssg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/panicum_virgatum/pvssg/</guid>
+      <description>Gene Details: Gene ID:&#x9;Pavir.5KG053700 Gene Symbol: PvSSG Gene Name: Genome: P.</description>
+    </item>
+    <item>
+      <title>Rht-B1c</title>
+      <link>/genes/triticum_aestivum/rht-b1c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/rht-b1c/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Rht-B1c Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Sequence variations of the partially dominant DELLA gene Rht-B1c in wheat and their functional impacts.</description>
+    </item>
+    <item>
+      <title>SlERF52</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slerf52/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slerf52/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlERF52 Gene Name: ETHYLENE-RESPONSIVE FACTOR 52 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SmMYB36</title>
+      <link>/genes/2024.6.9/salvia-miltiorrhiza/smmyb36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/salvia-miltiorrhiza/smmyb36/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SmMYB36 Gene Name: MYB transcription factor 36 Genome: Species: Salvia miltiorrhiza Functional Descriptions: SmMYB36, a Novel R2R3-MYB Transcription Factor, Enhances Tanshinone Accumulation and Decreases Phenolic Acid Content in Salvia miltiorrhiza Hairy Roots.</description>
+    </item>
+    <item>
+      <title>VvJAZ2</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvjaz2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvjaz2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvJAZ2 Gene Name: JA signaling suppressor Genome: Species: Vitis vinifera Functional Descriptions: Determined that VvWRKY5 regulated the JA response by directly binding to the promoters of VvJAZ2 (a JA signaling suppressor) and VvMYC2 (a JA signaling activator), thereby inhibiting and activating the transcription of VvJAZ2 and VvMYC2, respectively.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>boron on funPlantGenes</title>
+    <link>/tags/boron/</link>
+    <description>Recent content in boron on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/boron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BnaA4.BOR2</title>
+      <link>/genes/brassica_napus/bnaann31830d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaann31830d/</guid>
+      <description>Gene Details: Gene ID: BnaAnn31830D Gene Symbol: BnaA4.BOR2 Gene Name: B efflux transporter Genome: Brassica napus Genome Resources Species: Brassica napus Functional Descriptions: BnaA4.</description>
+    </item>
+    <item>
+      <title>BnaA9.WRKY47</title>
+      <link>/genes/brassica_napus/bnaa9.wrky47/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaa9.wrky47/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaA09g00350D Gene Symbol: BnaA9.WRKY47 Gene Name: WRKY transcription factor 47 Genome: B.</description>
+    </item>
+    <item>
+      <title>BnaC4.BOR2</title>
+      <link>/genes/brassica_napus/bnac04g21390d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnac04g21390d/</guid>
+      <description>Gene Details: Gene ID: BnaC04g21390D Gene Symbol: BnaC4.BOR2 Gene Name: low-B (LB)-inducible Genome: rapeseed genome Species: Brassica napus Functional Descriptions: BnaC4.</description>
+    </item>
+    <item>
+      <title>Bot-B5b;Bo1</title>
+      <link>/genes/triticum_aestivum/bot-b5bbo1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/bot-b5bbo1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7B02G475400 Gene Symbol: Bot-B5b Bo1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Bot-D5a;Bo4</title>
+      <link>/genes/triticum_aestivum/bot-d5abo4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/bot-d5abo4/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7D02G724400LC Gene Symbol: Bot-D5a Gene Name: boron transporter Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>HvNIP2</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvnip2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvnip2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvNIP2|1 Gene Name: Nodulin-26 like intrinsic protein Genome: Species: Hordeum vulgare Functional Descriptions: Boron Toxicity Tolerance in Barley through Reduced Expression of the Multifunctional Aquaporin HvNIP2|1|HvNIP2|1.</description>
+    </item>
+    <item>
+      <title>OsBOR4</title>
+      <link>/genes/oryza_sativa/loc_os05g08430/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g08430/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g08430 RAPdb gene ID: Os05g0176800 Gene Symbol: OsBOR4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNIP3;1;DTE1</title>
+      <link>/genes/oryza_sativa/loc_os10g36924/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g36924/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g36924 RAPdb gene ID: Os10g0513200 Gene Symbol: OsNIP3 1 DTE1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPIP2;4</title>
+      <link>/genes/oryza_sativa/loc_os07g26630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g26630/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g26630 RAPdb gene ID: Os07g0448100 Gene Symbol: OsPIP2 4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPIP2;7</title>
+      <link>/genes/oryza_sativa/loc_os09g36930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g36930/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g36930 RAPdb gene ID: Os09g0541000 Gene Symbol: OsPIP2 7 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>VvBOR1</title>
+      <link>/genes/2024.7.17/vitis-vinifera/vvbor1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/vvbor1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvBOR1 Gene Name: boron transporter 1 Genome: Species: Vitis vinifera Functional Descriptions: VvBOR1, the Grapevine Ortholog of AtBOR1, Encodes an Efflux Boron Transporter That is Differentially Expressed Throughout Reproductive Development of Vitis vinifera L.</description>
+    </item>
+  </channel>
+</rss>

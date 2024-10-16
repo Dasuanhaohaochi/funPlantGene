@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cell fate transition on funPlantGenes</title>
+    <link>/tags/cell-fate-transition/</link>
+    <description>Recent content in cell fate transition on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/cell-fate-transition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhTCE1</title>
+      <link>/genes/gossypium_hirsutum/ghtce1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghtce1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G2316 Gene Symbol: GhTCE1 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: GhTCE1–GhTCEE1 dimers regulate transcriptional reprogramming during wound-induced callus formation in cotton Identify GhTCE1, a basic helix–loop–helix family transcription factor, and its interacting partners as a central regulatory module of early cell fate transition during in vitro dedifferentiation of cotton (Gossypium hirsutum).</description>
+    </item>
+    <item>
+      <title>OsFAMA</title>
+      <link>/genes/oryza_sativa/loc_os05g50900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g50900/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g50900 RAPdb gene ID: Os05g0586300 Gene Symbol: OsFAMA Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

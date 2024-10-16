@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>male reproductive development on funPlantGenes</title>
+    <link>/tags/male-reproductive-development/</link>
+    <description>Recent content in male reproductive development on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/male-reproductive-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CHR721</title>
+      <link>/genes/oryza_sativa/loc_os07g44210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g44210/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g44210 RAPdb gene ID: Os07g0636200 Gene Symbol: CHR721 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>CsSPL</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csa3m850670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csa3m850670/</guid>
+      <description>Gene Details: Gene ID: Csa3M850670 Gene Symbol: CsSPL Gene Name: SPOROCYTELESS Genome: Species: Cucumis sativus Functional Descriptions: CsSPL functions as an adaptor between HD-ZIP III and CsWUS transcription factors regulating anther and ovule development in cucumber.</description>
+    </item>
+    <item>
+      <title>CsUBC24</title>
+      <link>/genes/citrus_sinensis/csubc24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_sinensis/csubc24/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cs2g06030 Gene Symbol: CsUBC24 Gene Name: Genome: Citrus sinensis Valencia genome v1.</description>
+    </item>
+    <item>
+      <title>DEAP1</title>
+      <link>/genes/oryza_sativa/loc_os04g48490/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g48490/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g48490 RAPdb gene ID: Os04g0574200 Gene Symbol: DEAP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>FvYUC6</title>
+      <link>/genes/2024.6.9/fragaria-vesca/fvyuc6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fragaria-vesca/fvyuc6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FvYUC6 Gene Name: YUCCA6 Genome: Species: Fragaria vesca Functional Descriptions: Functionality of the FvYUC6 gene was studied in transgenic strawberry overexpressing FvYUC6, which showed typical high-auxin phenotypes.</description>
+    </item>
+    <item>
+      <title>GmAOX2b</title>
+      <link>/genes/2024.6.9/glycine-max/gmaox2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/gmaox2b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GmAOX2b Gene Name: alternative oxidase 3 Genome: Species: Glycine max Functional Descriptions: A GmAOX2b antisense gene compromises vegetative growth and seed production in soybean.</description>
+    </item>
+    <item>
+      <title>OsALDH2b;OsALDH2B1</title>
+      <link>/genes/oryza_sativa/loc_os06g15990/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g15990/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g15990 RAPdb gene ID: Os06g0270900 Gene Symbol: OsALDH2b OsALDH2B1 ALDH2b Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmTti2;TTI2</title>
+      <link>/genes/zea_mays/zmtti2tti2dek38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmtti2tti2dek38/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb226270 Gene Symbol: ZmTti2 TTI2 dek38 Gene Name: defective kernel38 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

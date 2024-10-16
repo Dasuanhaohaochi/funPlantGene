@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>columella root cap cell on funPlantGenes</title>
+    <link>/tags/columella-root-cap-cell/</link>
+    <description>Recent content in columella root cap cell on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/columella-root-cap-cell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G41660</title>
+      <link>/genes/arabidopsis_thaliana/at2g41660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g41660/</guid>
+      <description>Gene Details: Gene ID: AT2G41660 Gene Symbol: MIZ1 Gene Name: mizu-kussei 1 Description: MIZU-KUSSEI-like protein (Protein of unknown function, DUF617);(source:Araport11) TAIR Accession: locus:2062647 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G41660.</description>
+    </item>
+    <item>
+      <title>AT3G13530</title>
+      <link>/genes/arabidopsis_thaliana/at3g13530/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g13530/</guid>
+      <description>Gene Details: Gene ID: AT3G13530 Gene Symbol: MAP3KE1, MAPKKK7 Gene Name: MAP3K EPSILON PROTEIN KINASE, mitogen-activated protein kinase kinase kinase 7 Description: mitogen-activated protein kinase kinase kinase 7;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G13530.</description>
+    </item>
+    <item>
+      <title>AT3G25655</title>
+      <link>/genes/arabidopsis_thaliana/at3g25655/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g25655/</guid>
+      <description>Gene Details: Gene ID: AT3G25655 Gene Symbol: IDL1 Gene Name: inflorescence deficient in abscission (IDA)-like 1 Description: inflorescence deficient in abscission (IDA)-like 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G25655.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicotiana alata on funPlantGenes</title>
+    <link>/categories/nicotiana-alata/</link>
+    <description>Recent content in Nicotiana alata on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/nicotiana-alata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NaAGP4</title>
+      <link>/genes/2024.7.17/nicotiana-alata/naagp4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/nicotiana-alata/naagp4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NaAGP4 Gene Name: Arabinogalactan protein4 Genome: Species: Nicotiana alata Functional Descriptions: NaAGP4 is an arabinogalactan protein whose expression is suppressed by wounding and fungal infection inNicotiana alata.</description>
+    </item>
+    <item>
+      <title>NaStEP</title>
+      <link>/genes/2024.6.9/nicotiana-alata/nastep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-alata/nastep/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NaStEP Gene Name: Stigma Expressed Protein Genome: Species: Nicotiana alata Functional Descriptions: Here the isolation and characterization of a stigma-specific protein from N.</description>
+    </item>
+  </channel>
+</rss>

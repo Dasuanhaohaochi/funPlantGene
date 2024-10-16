@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hypocotyl-root junction on funPlantGenes</title>
+    <link>/tags/hypocotyl-root-junction/</link>
+    <description>Recent content in hypocotyl-root junction on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/hypocotyl-root-junction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT1G06770</title>
+      <link>/genes/arabidopsis_thaliana/at1g06770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06770/</guid>
+      <description>Gene Details: Gene ID: AT1G06770 Gene Symbol: AtBMI1B, ATDRIP1, AtRING1B, BMI1B, DRIP1 Gene Name: DREB2A-interacting protein 1 Description: DREB2A-interacting protein 1;(source:Araport11) TAIR Accession: locus:2033103 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06770.</description>
+    </item>
+    <item>
+      <title>AT4G24800</title>
+      <link>/genes/arabidopsis_thaliana/at4g24800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g24800/</guid>
+      <description>Gene Details: Gene ID: AT4G24800 Gene Symbol: ECIP1, MRF3 Gene Name: EIN2 C-terminus Interacting Protein 1, MA3 domain-containing translation regulatory factor 3 Description: MA3 domain-containing protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G24800.</description>
+    </item>
+  </channel>
+</rss>

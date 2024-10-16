@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Osmanthus fragrans on funPlantGenes</title>
+    <link>/categories/osmanthus-fragrans/</link>
+    <description>Recent content in Osmanthus fragrans on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/osmanthus-fragrans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OfCCD1</title>
+      <link>/genes/2024.6.9/osmanthus-fragrans/ofccd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/osmanthus-fragrans/ofccd1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: OfCCD1 Gene Name: carotenoid cleavage dioxygenase 1 Genome: Species: Osmanthus fragrans Functional Descriptions: A cDNA encoding a carotenoid cleavage enzyme, OfCCD1, was identified from transcripts isolated from flowers of O.</description>
+    </item>
+  </channel>
+</rss>

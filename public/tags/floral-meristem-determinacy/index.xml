@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>floral meristem determinacy on funPlantGenes</title>
+    <link>/tags/floral-meristem-determinacy/</link>
+    <description>Recent content in floral meristem determinacy on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/floral-meristem-determinacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drl1</title>
+      <link>/genes/zea_mays/drl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/drl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb008680 Gene Symbol: Drl1 Gene Name: drooping leaf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Drl2</title>
+      <link>/genes/zea_mays/drl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/drl2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb400130 Gene Symbol: Drl2 Gene Name: drooping leaf2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>GhPRF1</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghprf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghprf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhPRF1 Gene Name: Gossypium profilin 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Domestication-driven Gossypium profilin 1 (GhPRF1) gene transduces early flowering phenotype in tobacco by spatial alteration of apical/floral-meristem related gene expression.</description>
+    </item>
+    <item>
+      <title>GT1;Zmhdz-15</title>
+      <link>/genes/zea_mays/gt1zmhdz-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/gt1zmhdz-15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb007950 Gene Symbol: GT1 Zmhdz-15 Gene Name: GRASSY TILLERS1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Ifa1</title>
+      <link>/genes/zea_mays/ifa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/ifa1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb008680 Gene Symbol: Ifa1 Gene Name: indeterminate floral apex1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>OsEMF2b</title>
+      <link>/genes/oryza_sativa/loc_os09g13630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g13630/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g13630 RAPdb gene ID: Os09g0306800 Gene Symbol: OsEMF2b Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsLG3b;OsMADS1</title>
+      <link>/genes/oryza_sativa/loc_os03g11614/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g11614/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g11614 RAPdb gene ID: Os03g0215400 Gene Symbol: OsLG3b OsMADS1 LHS1 AFO Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMADS5</title>
+      <link>/genes/oryza_sativa/loc_os06g06750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g06750/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g06750 RAPdb gene ID: Os06g0162800 Gene Symbol: OsMADS5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>RA3</title>
+      <link>/genes/zea_mays/ra3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/ra3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb327910 Gene Symbol: RA3 Gene Name: RAMOSA3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

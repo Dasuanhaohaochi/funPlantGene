@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embryo growth on funPlantGenes</title>
+    <link>/tags/embryo-growth/</link>
+    <description>Recent content in embryo growth on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/embryo-growth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LYS3</title>
+      <link>/genes/triticum_aestivum/lys3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/lys3/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G161000 Gene Symbol: LYS3 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>NtGNL1</title>
+      <link>/genes/2024.6.9/nicotiana-tabacum/ntgnl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-tabacum/ntgnl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtGNL1 Gene Name: GNOM-like 1 protein Genome: Species: Nicotiana tabacum Functional Descriptions: NtGNL1 is involved in embryonic cell division patterning, root elongation, and pollen tube growth in tobacco.</description>
+    </item>
+    <item>
+      <title>NtKRP</title>
+      <link>/genes/2024.6.9/nicotiana-tabacum/ntkrp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-tabacum/ntkrp/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtKRP Gene Name: kinesin-related protein Genome: Species: Nicotiana tabacum Functional Descriptions: Ribosomal protein NtRPL17 interacts with kinesin-12 family protein NtKRP and functions in the regulation of embryo/seed size and radicle growth.</description>
+    </item>
+    <item>
+      <title>NtRPL17</title>
+      <link>/genes/2024.6.9/nicotiana-tabacum/ntrpl17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-tabacum/ntrpl17/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtRPL17 Gene Name: 60S ribosomal protein L17 Genome: Species: Nicotiana tabacum Functional Descriptions: Ribosomal protein NtRPL17 interacts with kinesin-12 family protein NtKRP and functions in the regulation of embryo/seed size and radicle growth.</description>
+    </item>
+    <item>
+      <title>ZmZHOUPI</title>
+      <link>/genes/zea_mays/zm00001eb082900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb082900/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb082900 Gene Symbol: ZmZHOUPI|ZmZOU|o11 Gene Name: opaque endosperm11 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

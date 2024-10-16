@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>callus formation on funPlantGenes</title>
+    <link>/tags/callus-formation/</link>
+    <description>Recent content in callus formation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/callus-formation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhTCE1</title>
+      <link>/genes/gossypium_hirsutum/ghtce1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghtce1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G2316 Gene Symbol: GhTCE1 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: GhTCE1–GhTCEE1 dimers regulate transcriptional reprogramming during wound-induced callus formation in cotton Identify GhTCE1, a basic helix–loop–helix family transcription factor, and its interacting partners as a central regulatory module of early cell fate transition during in vitro dedifferentiation of cotton (Gossypium hirsutum).</description>
+    </item>
+    <item>
+      <title>GhTCEE1</title>
+      <link>/genes/gossypium_hirsutum/ghtcee1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghtcee1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D11G3523 Gene Symbol: GhTCEE1 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: GhTCE1–GhTCEE1 dimers regulate transcriptional reprogramming during wound-induced callus formation in cotton.</description>
+    </item>
+    <item>
+      <title>MdDRB1</title>
+      <link>/genes/2024.6.9/malus-domestica/mddrb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mddrb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdDRB1 Gene Name: dsRNA-binding protein1 Genome: Species: Malus domestica Functional Descriptions: A dsRNA-binding protein MdDRB1 associated with miRNA biogenesis modifies adventitious rooting and tree architecture in apple.</description>
+    </item>
+    <item>
+      <title>OsCRL1</title>
+      <link>/genes/oryza_sativa/loc_os03g05500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g05500/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g05500 RAPdb gene ID: Os03g0149000 Gene Symbol: OsCRL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmLBD1;lbd1</title>
+      <link>/genes/zea_mays/zmlbd1lbd1lob21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmlbd1lbd1lob21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb003910 Gene Symbol: ZmLBD1 lbd1 LOB21 Gene Name: LBD-transcription factor 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSAUR15</title>
+      <link>/genes/zea_mays/zmsaur15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmsaur15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d001964 Gene Symbol: ZmSAUR15 Gene Name: small auxin up RNA15 Genome: Zm-B73-REFERENCE-GRAMENE-4.</description>
+    </item>
+  </channel>
+</rss>

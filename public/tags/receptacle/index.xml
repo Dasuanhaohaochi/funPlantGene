@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>receptacle on funPlantGenes</title>
+    <link>/tags/receptacle/</link>
+    <description>Recent content in receptacle on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/receptacle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT1G02860</title>
+      <link>/genes/arabidopsis_thaliana/at1g02860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02860/</guid>
+      <description>Gene Details: Gene ID: AT1G02860 Gene Symbol: BAH1, NLA, SYG1 Gene Name: BENZOIC ACID HYPERSENSITIVE 1, nitrogen limitation adaptation Description: SPX (SYG1/Pho81/XPR1) domain-containing protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02860.</description>
+    </item>
+    <item>
+      <title>AT3G21700</title>
+      <link>/genes/arabidopsis_thaliana/at3g21700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g21700/</guid>
+      <description>Gene Details: Gene ID: AT3G21700 Gene Symbol: ATSGP2, SGP2 Gene Name: Description: Ras-related small GTP-binding family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G21700.</description>
+    </item>
+    <item>
+      <title>AT5G23960</title>
+      <link>/genes/arabidopsis_thaliana/at5g23960/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g23960/</guid>
+      <description>Gene Details: Gene ID: AT5G23960 Gene Symbol: ATTPS21, TPS21 Gene Name: terpene synthase 21 Description: terpene synthase 21;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G23960.</description>
+    </item>
+  </channel>
+</rss>

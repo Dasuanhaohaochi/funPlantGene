@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chenopodium quinoa on funPlantGenes</title>
+    <link>/categories/chenopodium-quinoa/</link>
+    <description>Recent content in Chenopodium quinoa on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/chenopodium-quinoa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TSARL1</title>
+      <link>/genes/2024.7.17/chenopodium-quinoa/aur62017204/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/chenopodium-quinoa/aur62017204/</guid>
+      <description>Gene Details: Gene ID: AUR62017204 Gene Symbol: TSARL1 Gene Name: TSARL1 Genome: the quinoa reference genome V1 ) Species: Chenopodium quinoa Functional Descriptions: Site-directed genotype screening for elimination of antinutritional saponins in quinoa seeds identifies TSARL1 as a master controller of saponin biosynthesis selectively in seeds.</description>
+    </item>
+  </channel>
+</rss>

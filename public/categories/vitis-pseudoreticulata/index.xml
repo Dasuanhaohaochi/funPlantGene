@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vitis pseudoreticulata on funPlantGenes</title>
+    <link>/categories/vitis-pseudoreticulata/</link>
+    <description>Recent content in Vitis pseudoreticulata on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/vitis-pseudoreticulata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VpPUB24</title>
+      <link>/genes/2024.6.9/vitis-pseudoreticulata/vppub24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-pseudoreticulata/vppub24/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VpPUB24 Gene Name: putative U-box protein 24 Genome: Species: Vitis pseudoreticulata Functional Descriptions: VpPUB24, a novel gene from Chinese grapevine, Vitis pseudoreticulata, targets VpICE1 to enhance cold tolerance.</description>
+    </item>
+    <item>
+      <title>VpRFP1</title>
+      <link>/genes/2024.7.17/vitis-pseudoreticulata/vprfp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-pseudoreticulata/vprfp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VpRFP1 Gene Name: C4C4-type RING finger protein Genome: Species: Vitis pseudoreticulata Functional Descriptions: VpRFP1, a novel C4C4-type RING finger protein gene from Chinese wild Vitis pseudoreticulata, functions as a transcriptional activator in defence response of grapevine.</description>
+    </item>
+  </channel>
+</rss>

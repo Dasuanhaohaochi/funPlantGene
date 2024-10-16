@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metal transport on funPlantGenes</title>
+    <link>/tags/metal-transport/</link>
+    <description>Recent content in metal transport on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/metal-transport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARG1</title>
+      <link>/genes/oryza_sativa/loc_os05g33230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g33230/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g33230 RAPdb gene ID: Os05g0400600 Gene Symbol: ARG1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>BjCdR15</title>
+      <link>/genes/2024.6.9/brassica-juncea/bjcdr15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-juncea/bjcdr15/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BjCdR15 Gene Name: BZIP transcription factor15 Genome: Species: Brassica juncea Functional Descriptions: The Brassica juncea BjCdR15, an ortholog of Arabidopsis TGA3, is a regulator of cadmium uptake, transport and accumulation in shoots and confers cadmium tolerance in transgenic plants.</description>
+    </item>
+    <item>
+      <title>BrpABI449</title>
+      <link>/genes/2024.6.9/brassica-rapa/brpabi449/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/brpabi449/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BrpABI449 Gene Name: Genome: Species: Brassica rapa Functional Descriptions: BrpNAC895 and BrpABI449 coregulate the transcription of the afflux-type cadmium transporter BrpHMA2 in Brassica parachinensis.</description>
+    </item>
+    <item>
+      <title>BrpNAC895</title>
+      <link>/genes/2024.6.9/brassica-rapa/brpnac895/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/brpnac895/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BrpNAC895 Gene Name: Genome: Species: Brassica rapa Functional Descriptions: BrpNAC895 and BrpABI449 coregulate the transcription of the afflux-type cadmium transporter BrpHMA2 in Brassica parachinensis.</description>
+    </item>
+    <item>
+      <title>OsFWL7</title>
+      <link>/genes/oryza_sativa/loc_os03g61500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g61500/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g61500 RAPdb gene ID: Os03g0830500 Gene Symbol: OsFWL7 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNRAMP1</title>
+      <link>/genes/oryza_sativa/loc_os07g15460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g15460/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g15460 RAPdb gene ID: Os07g0258400 Gene Symbol: OsNRAMP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTITANIA</title>
+      <link>/genes/oryza_sativa/loc_os03g13590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g13590/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g13590 RAPdb gene ID: Os03g0239200 Gene Symbol: OsTITANIA Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsYSL2;CF1</title>
+      <link>/genes/oryza_sativa/loc_os02g43370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g43370/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g43370 RAPdb gene ID: Os02g0649900 Gene Symbol: OsYSL2 CF1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsZIP11</title>
+      <link>/genes/oryza_sativa/loc_os05g25194/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g25194/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g25194 RAPdb gene ID: Os05g0316100 Gene Symbol: OsZIP11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TraesCS5A02G542600</title>
+      <link>/genes/triticum_aestivum/traescs5a02g542600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5a02g542600/</guid>
+      <description>Gene Details: Gene ID: TraesCS5A02G542600 Gene Symbol: TraesCS5A02G542600 Gene Name: transmembrane transporter Genome: Species: Triticum aestivum Functional Descriptions: We identified putative candidate genes that are potentially involved in metal uptake, transport, and assimilation, including TraesCS5A02G542600 on chromosome 5A, which was annotated as a Major Facilitator Superfamily transporter and acted on all the minerals except K.</description>
+    </item>
+    <item>
+      <title>ZmLAC13;lac10</title>
+      <link>/genes/zea_mays/zmlac13lac10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmlac13lac10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb166100 Gene Symbol: ZmLAC13 lac10 Gene Name: laccase10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNRAMP4;ZmNRAMP6</title>
+      <link>/genes/zea_mays/zmnramp4zmnramp6nrat2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmnramp4zmnramp6nrat2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb231210 Gene Symbol: ZmNRAMP4 ZmNRAMP6 nrat2 Gene Name: nramp aluminum transporter2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmYSL2;sh4</title>
+      <link>/genes/zea_mays/zmysl2sh4crk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmysl2sh4crk4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb248990 Gene Symbol: ZmYSL2 sh4 crk4 Gene Name: shrunken4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

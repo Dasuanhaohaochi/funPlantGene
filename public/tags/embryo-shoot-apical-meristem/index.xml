@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embryo shoot apical meristem on funPlantGenes</title>
+    <link>/tags/embryo-shoot-apical-meristem/</link>
+    <description>Recent content in embryo shoot apical meristem on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/embryo-shoot-apical-meristem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G28290</title>
+      <link>/genes/arabidopsis_thaliana/at2g28290/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g28290/</guid>
+      <description>Gene Details: Gene ID: AT2G28290 Gene Symbol: CHR3, SYD Gene Name: CHROMATIN REMODELING COMPLEX SUBUNIT R 3, SPLAYED Description: P-loop containing nucleoside triphosphate hydrolases superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G28290.</description>
+    </item>
+    <item>
+      <title>AT3G26120</title>
+      <link>/genes/arabidopsis_thaliana/at3g26120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g26120/</guid>
+      <description>Gene Details: Gene ID: AT3G26120 Gene Symbol: TEL1 Gene Name: terminal EAR1-like 1 Description: terminal EAR1-like 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G26120.</description>
+    </item>
+    <item>
+      <title>AT4G28190</title>
+      <link>/genes/arabidopsis_thaliana/at4g28190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g28190/</guid>
+      <description>Gene Details: Gene ID: AT4G28190 Gene Symbol: ULT, ULT1 Gene Name: ULTRAPETALA, ULTRAPETALA1 Description: Developmental regulator, ULTRAPETALA;(source:Araport11) TAIR Accession: locus:2123668 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G28190.</description>
+    </item>
+  </channel>
+</rss>

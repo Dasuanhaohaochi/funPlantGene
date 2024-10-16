@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citrus clementina on funPlantGenes</title>
+    <link>/categories/citrus-clementina/</link>
+    <description>Recent content in Citrus clementina on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/citrus-clementina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CiFD</title>
+      <link>/genes/2024.7.17/citrus-clementina/ciclev10003845m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/citrus-clementina/ciclev10003845m/</guid>
+      <description>Gene Details: Gene ID: Ciclev10003845m Gene Symbol: CiFD Gene Name: bZIP transcription factor Genome: citrus genome Species: Citrus clementina Functional Descriptions: A bZIP transcription factor (CiFD) regulates drought- and low-temperature-induced flowering by alternative splicing in citrus.</description>
+    </item>
+    <item>
+      <title>CrWRKY42</title>
+      <link>/genes/2024.6.9/citrus-sinensis/crwrky42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/crwrky42/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CrWRKY42 Gene Name: WRKY transcription factor 42 Genome: Species: Citrus clementina Functional Descriptions: Transcription factor CrWRKY42 coregulates chlorophyll degradation and carotenoid biosynthesis in citrus.</description>
+    </item>
+  </channel>
+</rss>

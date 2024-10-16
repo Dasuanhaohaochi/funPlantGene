@@ -1,0 +1,39 @@
+############# English navigation ##############
+
+# main menu
+
+[[main]]
+name = "SPECIES"
+url = "species/"
+weight = 1
+
+
+[[main]]
+name = "GENES"
+url = "genes/"
+weight = 2
+
+
+[[main]]
+name = "FUNCTION"
+url = "tags/"
+weight = 3
+
+
+[[main]]
+weight = 4
+name = "HELP"
+
+[[main]]
+parent = "HELP"
+name = "SUBMIT"
+pageRef = "/submit"
+
+[[main]]
+parent = "HELP"
+name = "LINKS"
+url = "link/"
+
+
+
+

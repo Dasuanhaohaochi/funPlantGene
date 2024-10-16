@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pre-mrna splicing on funPlantGenes</title>
+    <link>/tags/pre-mrna-splicing/</link>
+    <description>Recent content in pre-mrna splicing on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/pre-mrna-splicing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GmBIR1</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.16g079200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.16g079200/</guid>
+      <description>Gene Details: Gene ID: Glyma.16G079200 Gene Symbol: GmBIR1 Gene Name: BAK1-INTERACTING RECEPTOR LIKE KINASE1 Genome: Species: Glycine max Functional Descriptions: The soybean immune receptor GmBIR1 regulates host transcriptome, spliceome, and immunity during cyst nematode infection.</description>
+    </item>
+    <item>
+      <title>MeABA1</title>
+      <link>/genes/2024.7.17/manihot-esculenta/manes.10g150700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/manihot-esculenta/manes.10g150700/</guid>
+      <description>Gene Details: Gene ID: Manes.10G150700 Gene Symbol: MeABA1 Gene Name: ABA DEFICIENT 1 Genome: high-quality genome sequence Species: Manihot esculenta Functional Descriptions: The intron retention transcript of MeABA1 (ABA DEFICIENT 1) was highly correlated with PPD symptoms in cassava storage roots.</description>
+    </item>
+    <item>
+      <title>OsRS33</title>
+      <link>/genes/oryza_sativa/loc_os02g03040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g03040/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g03040 RAPdb gene ID: Os02g0122800 Gene Symbol: OsRS33 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>UBL1</title>
+      <link>/genes/zea_mays/ubl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/ubl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb249040 Gene Symbol: UBL1 Gene Name: U6 biogenesis like1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

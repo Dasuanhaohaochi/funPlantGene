@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>leaf epidermis on funPlantGenes</title>
+    <link>/tags/leaf-epidermis/</link>
+    <description>Recent content in leaf epidermis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/leaf-epidermis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT4G20260</title>
+      <link>/genes/arabidopsis_thaliana/at4g20260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g20260/</guid>
+      <description>Gene Details: Gene ID: AT4G20260 Gene Symbol: ATPCAP1, MDP25, PCAP1 Gene Name: ARABIDOPSIS THALIANA PLASMA-MEMBRANE ASSOCIATED CATION-BINDING PROTEIN 1, microtubule-destabilizing protein 25, plasma-membrane associated cation-binding protein 1 Description: plasma-membrane associated cation-binding protein 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G20260.</description>
+    </item>
+  </channel>
+</rss>

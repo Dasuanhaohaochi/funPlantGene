@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Betula pendula on funPlantGenes</title>
+    <link>/categories/betula-pendula/</link>
+    <description>Recent content in Betula pendula on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/betula-pendula/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BpMADS4</title>
+      <link>/genes/2024.6.9/betula-pendula/bpmads4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/betula-pendula/bpmads4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BpMADS4 Gene Name: MADS box protein4 Genome: Species: Betula pendula Functional Descriptions: Heterologous overexpression of the birch FRUITFULL-like MADS-box gene BpMADS4 prevents normal senescence and winter dormancy in Populus tremula L.</description>
+    </item>
+    <item>
+      <title>BpWOX1</title>
+      <link>/genes/2024.6.9/betula-pendula/bpev01.c0441.g0004.m0001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/betula-pendula/bpev01.c0441.g0004.m0001/</guid>
+      <description>Gene Details: Gene ID: Bpev01.c0441.g0004.m0001 Gene Symbol: BpWOX1 Gene Name: Genome: Gene sequences are available at COGE (https://genomevolution.</description>
+    </item>
+  </channel>
+</rss>

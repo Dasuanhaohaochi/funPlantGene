@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>malectin on funPlantGenes</title>
+    <link>/tags/malectin/</link>
+    <description>Recent content in malectin on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/malectin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GmMLRK1</title>
+      <link>/genes/glycine_max/gmmlrk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmmlrk1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.02G122000 Gene Symbol: GmMLRK1 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: A novel soybean malectin-like receptor kinase-encoding gene, GmMLRK1, provides resistance to soybean mosaic virus.</description>
+    </item>
+    <item>
+      <title>LeEIX2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc07g008630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc07g008630/</guid>
+      <description>Gene Details: Gene ID: Solyc07g008630 Gene Symbol: LeEIX2 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato (Solanum lycopersicum) LeEIX2 is an RLP that binds ethylene-inducing xylanase (EIX), a fungal elicitor.</description>
+    </item>
+    <item>
+      <title>OsMLD1</title>
+      <link>/genes/oryza_sativa/loc_os03g03290/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g03290/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g03290 RAPdb gene ID: Os03g0124300 Gene Symbol: OsMLD1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlRLK-like</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g094920.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g094920.2/</guid>
+      <description>Gene Details: Gene ID: Solyc01g094920.2 Gene Symbol: SlRLK-like Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: SlRLK-like is a malectin-like domain protein affecting localization and abundance of LeEIX2 receptor resulting in suppression of EIX-induced immune responses.</description>
+    </item>
+  </channel>
+</rss>

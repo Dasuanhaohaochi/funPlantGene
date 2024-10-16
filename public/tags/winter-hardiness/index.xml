@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>winter hardiness on funPlantGenes</title>
+    <link>/tags/winter-hardiness/</link>
+    <description>Recent content in winter hardiness on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/winter-hardiness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BvFL1</title>
+      <link>/genes/2024.6.9/beta-vulgaris/bvfl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/beta-vulgaris/bvfl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BvFL1 Gene Name: FLC-like 1 Genome: Species: Beta vulgaris Functional Descriptions: EcoTILLING in Beta vulgaris reveals polymorphisms in the FLC-like gene BvFL1that are associated with annuality and winter hardiness.</description>
+    </item>
+    <item>
+      <title>CBF-A12</title>
+      <link>/genes/triticum_aestivum/cbf-a12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/cbf-a12/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5A02G311600 Gene Symbol: CBF-A12 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>CBF-B12</title>
+      <link>/genes/triticum_aestivum/cbf-b12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/cbf-b12/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5B02G312200 Gene Symbol: CBF-B12 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>CBF-D12</title>
+      <link>/genes/triticum_aestivum/cbf-d12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/cbf-d12/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G318500 Gene Symbol: CBF-D12 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+  </channel>
+</rss>

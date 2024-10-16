@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fortunella crassifolia on funPlantGenes</title>
+    <link>/categories/fortunella-crassifolia/</link>
+    <description>Recent content in Fortunella crassifolia on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/fortunella-crassifolia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FcrNAC22</title>
+      <link>/genes/2024.6.9/fortunella-crassifolia/fcrnac22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fortunella-crassifolia/fcrnac22/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FcrNAC22 Gene Name: Genome: Species: Fortunella crassifolia Functional Descriptions: Red light-induced kumquat fruit coloration is attributable to increased carotenoid metabolism regulated by FcrNAC22.</description>
+    </item>
+    <item>
+      <title>FcWRKY70</title>
+      <link>/genes/2024.6.9/fortunella-crassifolia/fcwrky70/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fortunella-crassifolia/fcwrky70/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FcWRKY70 Gene Name: WRKY transcription factor 70 Genome: Species: Fortunella crassifolia Functional Descriptions: FcWRKY70, a WRKY protein of Fortunella crassifolia, functions in drought tolerance and modulates putrescine synthesis by regulating arginine decarboxylase gene.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>salt sensitivity on funPlantGenes</title>
+    <link>/tags/salt-sensitivity/</link>
+    <description>Recent content in salt sensitivity on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/salt-sensitivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BK-PP2A</title>
+      <link>/genes/oryza_sativa/loc_os05g48150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g48150/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g48150 RAPdb gene ID: Os05g0555100 Gene Symbol: BK-PP2A Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>BnCKX5</title>
+      <link>/genes/brassica_napus/bnckx5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnckx5/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaA02g05340D Gene Symbol: BnCKX5 Gene Name: Genome: Brassica v4.</description>
+    </item>
+    <item>
+      <title>CaFIRF1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca02g30250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca02g30250/</guid>
+      <description>Gene Details: Gene ID: CA02g30250 Gene Symbol: CaFIRF1 Gene Name: FAF1 Interacting RING Finger protein 1 Genome: Species: Capsicum annuum Functional Descriptions: A pepper RING-finger E3 ligase, CaFIRF1, negatively regulates the high-salt stress response by modulating the stability of CaFAF1.</description>
+    </item>
+    <item>
+      <title>CaHDZ12</title>
+      <link>/genes/2024.6.9/cicer-arietinum/cahdz12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cicer-arietinum/cahdz12/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaHDZ12 Gene Name: Homeodomain-Leucine Zipper (HD-Zip) I Transcription Factor12 Genome: Species: Cicer arietinum Functional Descriptions: Chickpea WRKY70 Regulates the Expression of a Homeodomain-Leucine Zipper (HD-Zip) I Transcription Factor CaHDZ12, which Confers Abiotic Stress Tolerance in Transgenic Tobacco and Chickpea.</description>
+    </item>
+    <item>
+      <title>CcADF9</title>
+      <link>/genes/cajanus_cajan/ccadf9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/cajanus_cajan/ccadf9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CcADF9 Gene Name: Genome: C.</description>
+    </item>
+    <item>
+      <title>GhMKK5</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghmkk5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghmkk5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMKK5 Gene Name: mitogen-activated protein kinase kinase5 Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhMKK5 affects disease resistance, induces HR-like cell death, and reduces the tolerance to salt and drought stress in transgenic Nicotiana benthamiana.</description>
+    </item>
+    <item>
+      <title>GhWRKY17</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghwrky17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghwrky17/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhWRKY17 Gene Name: WRKY transcription factor 17 Genome: Species: Gossypium hirsutum Functional Descriptions: The Cotton WRKY Transcription Factor GhWRKY17 Functions in Drought and Salt Stress in Transgenic Nicotiana benthamiana Through ABA Signaling and the Modulation of Reactive Oxygen Species Production.</description>
+    </item>
+    <item>
+      <title>GmGPDH12</title>
+      <link>/genes/2024.7.17/glycine-max/gmgpdh12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/glycine-max/gmgpdh12/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GmGPDH12 Gene Name: glycerol-3-phosphate dehydrogenase Genome: Species: Glycine max Functional Descriptions: GmGPDH12, a mitochondrial FAD-GPDH from soybean, increases salt and osmotic stress resistance by modulating redox state and respiration.</description>
+    </item>
+    <item>
+      <title>IbLEA14</title>
+      <link>/genes/2024.6.9/ipomoea-batatas/iblea14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/ipomoea-batatas/iblea14/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: IbLEA14 Gene Name: Late embryogenesis abundant 14 Genome: Species: Ipomoea batatas Functional Descriptions: Sweetpotato late embryogenesis abundant 14 (IbLEA14) gene influences lignification and increases osmotic- and salt stress-tolerance of transgenic calli.</description>
+    </item>
+    <item>
+      <title>MdSAT1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdsat1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdsat1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdSAT1 Gene Name: Genome: Species: Malus domestica Functional Descriptions: Apple MdSAT1 encodes a bHLHm1 transcription factor involved in salinity and drought responses.</description>
+    </item>
+    <item>
+      <title>OsHKT1;1;OsHKT4</title>
+      <link>/genes/oryza_sativa/loc_os04g51820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g51820/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g51820 RAPdb gene ID: Os04g0607500 Gene Symbol: OsHKT1 1 OsHKT4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMGT1</title>
+      <link>/genes/oryza_sativa/loc_os01g64890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g64890/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g64890 RAPdb gene ID: Os01g0869200 Gene Symbol: OsMGT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMYB106</title>
+      <link>/genes/oryza_sativa/loc_os08g33660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g33660/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g33660 RAPdb gene ID: Os08g0433400 Gene Symbol: OsMYB106 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsROC1;OsMYBc</title>
+      <link>/genes/oryza_sativa/loc_os09g12770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g12770/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g12770 RAPdb gene ID: Os09g0299200 Gene Symbol: OsROC1 OsMYBc Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSTLK</title>
+      <link>/genes/oryza_sativa/loc_os05g24010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g24010/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g24010 RAPdb gene ID: Os05g0305900 Gene Symbol: OsSTLK Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSUVH7</title>
+      <link>/genes/oryza_sativa/loc_os01g59620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g59620/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g59620 RAPdb gene ID: Os01g0811300 Gene Symbol: OsSUVH7 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTPS8</title>
+      <link>/genes/oryza_sativa/loc_os08g34580/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g34580/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g34580 RAPdb gene ID: Os08g0445700 Gene Symbol: OsTPS8 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsWRKY28</title>
+      <link>/genes/oryza_sativa/loc_os06g44010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g44010/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g44010 RAPdb gene ID: Os06g0649000 Gene Symbol: OsWRKY28 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PalWRKY77</title>
+      <link>/genes/2024.6.9/populus-alb/palwrky77/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-alb/palwrky77/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PalWRKY77 Gene Name: Genome: Species: Populus alb Functional Descriptions: The PalWRKY77 transcription factor negatively regulates salt tolerance and abscisic acid signaling in Populus.</description>
+    </item>
+    <item>
+      <title>PutHKT2</title>
+      <link>/genes/2024.6.9/puccinellia-tenuiflora/puthkt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/puccinellia-tenuiflora/puthkt2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PutHKT2|1 Gene Name: high-affinity K+ transporter Genome: Species: Puccinellia tenuiflora Functional Descriptions: A high-affinity K+transporter PutHKT2|1|PutHKT2|1 cDNA was isolated from the salt-tolerant plant Puccinellia tenuiflora.</description>
+    </item>
+    <item>
+      <title>SIT1</title>
+      <link>/genes/oryza_sativa/loc_os02g42780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g42780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g42780 RAPdb gene ID: Os02g0640500 Gene Symbol: SIT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaCYP81D5</title>
+      <link>/genes/triticum_aestivum/tacyp81d5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacyp81d5/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5B01G403100 Gene Symbol: TaCYP81D5 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaGBF1</title>
+      <link>/genes/triticum_aestivum/tagbf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tagbf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaGBF1 Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: The wheat TaGBF1 gene is involved in the blue-light response and salt tolerance.</description>
+    </item>
+    <item>
+      <title>TaHAG1-A</title>
+      <link>/genes/triticum_aestivum/tahag1-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahag1-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1A02G138200 Gene Symbol: TaHAG1-A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaNHX2-2A</title>
+      <link>/genes/triticum_aestivum/tanhx2-2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanhx2-2a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2A02G121000 Gene Symbol: TaNHX2-2A Gene Name: Na+/H+ antiporter 2 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaNHX2-2B</title>
+      <link>/genes/triticum_aestivum/tanhx2-2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanhx2-2b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G141900 Gene Symbol: TaNHX2-2B Gene Name: Na+/H+ antiporter 2 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaNHX2-2D</title>
+      <link>/genes/triticum_aestivum/tanhx2-2d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanhx2-2d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D02G123000 Gene Symbol: TaNHX2-2D Gene Name: Na+/H+ antiporter 2 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>ZmEREB57</title>
+      <link>/genes/zea_mays/zm00001eb193060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb193060/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb193060 Gene Symbol: ZmEREB57 Gene Name: AP2-EREBP-transcription factor 57 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHsf08;ZmHSFA2-4</title>
+      <link>/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb100770 Gene Symbol: ZmHsf08 ZmHSFA2-4 hsftf1 Gene Name: HSF-transcription factor 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNAC19;ZmNAC55</title>
+      <link>/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb212120 Gene Symbol: ZmNAC19 ZmNAC55 Zma006493 nactf60 Gene Name: NAC-transcription factor 60 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWRKY115</title>
+      <link>/genes/zea_mays/zm00001eb408520/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb408520/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb408520 Gene Symbol: ZmWRKY115|ZmWRKY15 Gene Name: WRKY-transcription factor 15 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWRKY17;wrky105</title>
+      <link>/genes/zea_mays/zmwrky17wrky105/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmwrky17wrky105/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb086280 Gene Symbol: ZmWRKY17 wrky105 Gene Name: WRKY-transcription factor 105 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWRKY20</title>
+      <link>/genes/zea_mays/zm00001eb098330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb098330/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb098330 Gene Symbol: ZmWRKY20|ZmWRKY38 Gene Name: WRKY-transcription factor 38 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

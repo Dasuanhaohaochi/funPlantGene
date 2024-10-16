@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rust resistance on funPlantGenes</title>
+    <link>/tags/rust-resistance/</link>
+    <description>Recent content in rust resistance on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/rust-resistance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HvSTP13</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvstp13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvstp13/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvSTP13 Gene Name: Genome: Species: Hordeum vulgare Functional Descriptions: The expression of HvSTP13 increased on bacterial and fungal pathogen-associated molecular pattern (PAMP) application, suggesting a PAMP-triggered signalling that converged on the transcriptional induction of the gene.</description>
+    </item>
+    <item>
+      <title>Lr13;LrZH22</title>
+      <link>/genes/triticum_aestivum/lr13lrzh22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/lr13lrzh22/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G182800 Gene Symbol: Lr13 LrZH22 Gene Name: LrLC10 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Lr14a</title>
+      <link>/genes/triticum_aestivum/lr14a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/lr14a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: Lr14a Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Lr21</title>
+      <link>/genes/triticum_aestivum/lr21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/lr21/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1D02G005400 Gene Symbol: Lr21 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Lr34;Yr18</title>
+      <link>/genes/triticum_aestivum/lr34yr18sr57pm38ltn1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/lr34yr18sr57pm38ltn1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7D02G080300 Gene Symbol: Lr34 Yr18 Sr57 Pm38 Ltn1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Lr67</title>
+      <link>/genes/triticum_aestivum/lr67/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/lr67/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4D02G243100 Gene Symbol: Lr67 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Ne2</title>
+      <link>/genes/triticum_aestivum/ne2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ne2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G182800 Gene Symbol: Ne2 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Rph15</title>
+      <link>/genes/hordeum_vulgare/rph15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/hordeum_vulgare/rph15/</guid>
+      <description>Gene Details: Gene ID:&#x9;HORVU2Hr1G019120.5 Gene Symbol: Rph15 Gene Name: Genome: barley cultivar Morex V1 Species: Hordeum vulgare Functional Descriptions: The cloning of Rph15 now permits efficient gene deployment and the production of resistance gene cassettes for sustained leaf rust control.</description>
+    </item>
+    <item>
+      <title>Rph3</title>
+      <link>/genes/hordeum_vulgare/rph3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/hordeum_vulgare/rph3/</guid>
+      <description>Gene Details: Gene ID:&#x9;HORVU7HG0741050 Gene Symbol: Rph3 Gene Name: Genome: barley cultivar Morex V1 Species: Hordeum vulgare Functional Descriptions: Like known transmembrane executors such as Bs3 and Xa7, heterologous expression of Rph3 in N.</description>
+    </item>
+    <item>
+      <title>Sr21</title>
+      <link>/genes/triticum_aestivum/sr21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/sr21/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2A02G464900 Gene Symbol: Sr21 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Sr22</title>
+      <link>/genes/triticum_aestivum/sr22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/sr22/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7A02G499600 Gene Symbol: Sr22 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Sr22b;SrTm5</title>
+      <link>/genes/triticum_aestivum/sr22bsrtm5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/sr22bsrtm5/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7A02G499600 Gene Symbol: Sr22b SrTm5 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Sr33</title>
+      <link>/genes/triticum_aestivum/sr33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/sr33/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1D02G029100 Gene Symbol: Sr33 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Sr35</title>
+      <link>/genes/triticum_aestivum/sr35/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/sr35/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Sr35 Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Identification of Wheat Gene Sr35 That Confers Resistance to Ug99 Stem Rust Race Group.</description>
+    </item>
+    <item>
+      <title>Sr45</title>
+      <link>/genes/triticum_aestivum/sr45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/sr45/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1D02G040400 Gene Symbol: Sr45 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Sr46</title>
+      <link>/genes/triticum_aestivum/sr46/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/sr46/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D03G0030700 Gene Symbol: Sr46 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>SrTA1662</title>
+      <link>/genes/triticum_aestivum/srta1662/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/srta1662/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1D03G0054900 Gene Symbol: SrTA1662 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>SuSr-D1</title>
+      <link>/genes/triticum_aestivum/susr-d1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/susr-d1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7D02G526100 Gene Symbol: SuSr-D1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>SuSr-D1-7A</title>
+      <link>/genes/triticum_aestivum/susr-d1-7a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/susr-d1-7a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7A02G540000 Gene Symbol: SuSr-D1-7A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>SuSr-D1-7B-1</title>
+      <link>/genes/triticum_aestivum/susr-d1-7b-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/susr-d1-7b-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7B02G460900 Gene Symbol: SuSr-D1-7B-1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>SuSr-D1-7B-2</title>
+      <link>/genes/triticum_aestivum/susr-d1-7b-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/susr-d1-7b-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7B02G177500 Gene Symbol: SuSr-D1-7B-2 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaADF4</title>
+      <link>/genes/triticum_aestivum/taadf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taadf4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaADF4 Gene Name: actin-depolymerizing factor 4 Genome: Species: Triticum aestivum Functional Descriptions: TaADF4, an actin-depolymerizing factor from wheat, is required for resistance to the stripe rust pathogen Puccinia striiformis f.</description>
+    </item>
+    <item>
+      <title>TaASR-3B</title>
+      <link>/genes/triticum_aestivum/traescs3b02g578200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs3b02g578200/</guid>
+      <description>Gene Details: Gene ID: TraesCS3B02G578200 Gene Symbol: TaASR-3B Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Pst21674 interaction with the abscisic acid-, stress-, and ripening-induced protein TaASR3 was validated mainly in the nucleus.</description>
+    </item>
+    <item>
+      <title>TaASR-3D</title>
+      <link>/genes/triticum_aestivum/traescs3d02g517100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs3d02g517100/</guid>
+      <description>Gene Details: Gene ID: TraesCS3D02G517100 Gene Symbol: TaASR-3D Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Pst21674 interaction with the abscisic acid-, stress-, and ripening-induced protein TaASR3 was validated mainly in the nucleus.</description>
+    </item>
+    <item>
+      <title>TaASR3-A1</title>
+      <link>/genes/triticum_aestivum/traescs3a02g510100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs3a02g510100/</guid>
+      <description>Gene Details: Gene ID: TraesCS3A02G510100 Gene Symbol: TaASR3-A1 Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Pst21674 interaction with the abscisic acid-, stress-, and ripening-induced protein TaASR3 was validated mainly in the nucleus.</description>
+    </item>
+    <item>
+      <title>TaASR3-A2</title>
+      <link>/genes/triticum_aestivum/traescs3a02g510200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs3a02g510200/</guid>
+      <description>Gene Details: Gene ID: TraesCS3A02G510200 Gene Symbol: TaASR3-A2 Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Pst21674 interaction with the abscisic acid-, stress-, and ripening-induced protein TaASR3 was validated mainly in the nucleus.</description>
+    </item>
+    <item>
+      <title>TaBln1-4A</title>
+      <link>/genes/triticum_aestivum/tabln1-4a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tabln1-4a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: TaBln1-4A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaBln1-5B</title>
+      <link>/genes/triticum_aestivum/tabln1-5b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tabln1-5b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: TaBln1-5B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaBln1-5D</title>
+      <link>/genes/triticum_aestivum/tabln1-5d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tabln1-5d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: TaBln1-5D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaBZR2-A</title>
+      <link>/genes/triticum_aestivum/tabzr2-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tabzr2-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3A02G139000 Gene Symbol: TaBZR2-A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaBZR2-B</title>
+      <link>/genes/triticum_aestivum/tabzr2-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tabzr2-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3B02G156600 Gene Symbol: TaBZR2-B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaBZR2-D</title>
+      <link>/genes/triticum_aestivum/tabzr2-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tabzr2-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3D02G139300 Gene Symbol: TaBZR2-D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCBF1d</title>
+      <link>/genes/triticum_aestivum/tacbf1d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacbf1d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6D02G147300 Gene Symbol: TaCBF1d Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCBL4</title>
+      <link>/genes/triticum_aestivum/tacbl4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacbl4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaCBL4 Gene Name: calcineurin B-like protein 4 Genome: Species: Triticum aestivum Functional Descriptions: The calcium sensor TaCBL4 and its interacting protein TaCIPK5 are required for wheat resistance to stripe rust fungus.</description>
+    </item>
+    <item>
+      <title>TaCIPK10</title>
+      <link>/genes/triticum_aestivum/tacipk10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacipk10/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaCIPK10 Gene Name: CBL-interacting protein kinase 10 Genome: Species: Triticum aestivum Functional Descriptions: TaCIPK10 interacts with and phosphorylates TaNH2 to activate wheat defense responses to stripe rust.</description>
+    </item>
+    <item>
+      <title>TaCIPK14-4A</title>
+      <link>/genes/triticum_aestivum/tacipk14-4a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacipk14-4a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4A02G194800 Gene Symbol: TaCIPK14-4A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCIPK14-4B</title>
+      <link>/genes/triticum_aestivum/tacipk14-4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacipk14-4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4B02G120400 Gene Symbol: TaCIPK14-4B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCIPK14-4D</title>
+      <link>/genes/triticum_aestivum/tacipk14-4d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacipk14-4d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4D02G118500 Gene Symbol: TaCIPK14-4D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCIPK5</title>
+      <link>/genes/triticum_aestivum/tacipk5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacipk5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaCIPK5 Gene Name: CBL-interacting protein kinase 5 Genome: Species: Triticum aestivum Functional Descriptions: The calcium sensor TaCBL4 and its interacting protein TaCIPK5 are required for wheat resistance to stripe rust fungus.</description>
+    </item>
+    <item>
+      <title>TaCRK10</title>
+      <link>/genes/triticum_aestivum/tacrk10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacrk10/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaCRK10 Gene Name: Cysteine-rich receptor-like kinase 10 Genome: Species: Triticum aestivum Functional Descriptions: The RLK protein TaCRK10 activates wheat high-temperature seedling-plant resistance to stripe rust through interacting with TaH2A.</description>
+    </item>
+    <item>
+      <title>TaCRK2</title>
+      <link>/genes/triticum_aestivum/tacrk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacrk2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaCRK2 Gene Name: cysteine-rich receptor-like kinase 2 Genome: Species: Triticum aestivum Functional Descriptions: A novel cysteine-rich receptor-like kinase gene, TaCRK2, contributes to leaf rust resistance in wheat.</description>
+    </item>
+    <item>
+      <title>TaCSN5</title>
+      <link>/genes/triticum_aestivum/tacsn5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacsn5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaCSN5 Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: A wheat COP9 subunit 5-like gene (TaCSN5) is negatively involved in host response to leaf rust.</description>
+    </item>
+    <item>
+      <title>TaEIL1</title>
+      <link>/genes/triticum_aestivum/taeil1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taeil1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaEIL1 Gene Name: ETHYLENE INSENSITIVE3-LIKE1 Genome: Species: Triticum aestivum Functional Descriptions: bread wheat ETHYLENE INSENSITIVE3-LIKE1 (TaEIL1), an ortholog of Arabidopsis (Arabidopsis thaliana) ETHYLENE INSENSITIVE3, negatively regulates bread wheat resistance against powdery mildew.</description>
+    </item>
+    <item>
+      <title>TaNOX10</title>
+      <link>/genes/triticum_aestivum/traescs5b02g299000.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5b02g299000.1/</guid>
+      <description>Gene Details: Gene ID: TraesCS5B02G299000.1 Gene Symbol: TaNOX10 Gene Name: NADPH oxidase10 Genome: Species: Triticum aestivum Functional Descriptions: Transcriptional repression of TaNOX10 by TaWRKY19 compromises ROS generation and enhances wheat susceptibility to stripe rust.</description>
+    </item>
+    <item>
+      <title>TaNPSN11</title>
+      <link>/genes/triticum_aestivum/tanpsn11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tanpsn11/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaNPSN11 Gene Name: soluble N-ethylmaleimide-sensitive factor attachment protein receptor 11 Genome: Species: Triticum aestivum Functional Descriptions: Cloned and characterized three NPSN genes (TaNPSN11, TaNPSN12, and TaNPSN13) and three plant defence-related SNARE homologues (TaSYP132, TaSNAP34, and TaMEMB12).</description>
+    </item>
+    <item>
+      <title>TaPsIPK1-6A</title>
+      <link>/genes/triticum_aestivum/tapsipk1-6a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tapsipk1-6a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6A02G139400 Gene Symbol: TaPsIPK1-6A Gene Name: Puccinia striiformis-Induced Protein Kinase 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaPsIPK1-6B</title>
+      <link>/genes/triticum_aestivum/tapsipk1-6b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tapsipk1-6b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6B02G167900 Gene Symbol: TaPsIPK1-6B Gene Name: Puccinia striiformis-Induced Protein Kinase 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaPsIPK1-6D</title>
+      <link>/genes/triticum_aestivum/tapsipk1-6d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tapsipk1-6d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6D02G129900 Gene Symbol: TaPsIPK1-6D Gene Name: Puccinia striiformis-Induced Protein Kinase 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaRLK-R1</title>
+      <link>/genes/triticum_aestivum/tarlk-r1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tarlk-r1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1B02G022400 Gene Symbol: TaRLK-R1 Gene Name: Receptor-like kinase Genome: IWGSC reference sequence v1.</description>
+    </item>
+    <item>
+      <title>TaRLK-R2</title>
+      <link>/genes/triticum_aestivum/tarlk-r2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tarlk-r2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1D02G017800 Gene Symbol: TaRLK-R2 Gene Name: Receptor-like kinase Genome: IWGSC reference sequence v1.</description>
+    </item>
+    <item>
+      <title>TaRLK-R3</title>
+      <link>/genes/triticum_aestivum/tarlk-r3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tarlk-r3/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1B02G020700 Gene Symbol: TaRLK-R3 Gene Name: Receptor-like kinase Genome: IWGSC reference sequence v1.</description>
+    </item>
+    <item>
+      <title>TaSGT1-A1</title>
+      <link>/genes/triticum_aestivum/tasgt1-a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tasgt1-a1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaSGT1-A1 Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Identified a Pst effector PstSIE1 that interacts with TaSGT1 in wheat and is upregulated during the early infection stage.</description>
+    </item>
+    <item>
+      <title>TaSGT1-B1</title>
+      <link>/genes/triticum_aestivum/tasgt1-b1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tasgt1-b1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaSGT1-B1 Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Identified a Pst effector PstSIE1 that interacts with TaSGT1 in wheat and is upregulated during the early infection stage.</description>
+    </item>
+    <item>
+      <title>TaSGT1-D1</title>
+      <link>/genes/triticum_aestivum/tasgt1-d1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tasgt1-d1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaSGT1-D1 Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Identified a Pst effector PstSIE1 that interacts with TaSGT1 in wheat and is upregulated during the early infection stage.</description>
+    </item>
+    <item>
+      <title>TaSTP3</title>
+      <link>/genes/triticum_aestivum/tastp3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tastp3/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G282400 Gene Symbol: TaSTP3 Gene Name: Sugar Transport Protein 3 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaTLP1</title>
+      <link>/genes/triticum_aestivum/tatlp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tatlp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7B02G130300 Gene Symbol: TaTLP1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaWRKY53</title>
+      <link>/genes/triticum_aestivum/tawrky53/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tawrky53/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1A02G070400 Gene Symbol: TaWRKY53 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaXa21-H</title>
+      <link>/genes/triticum_aestivum/taxa21-h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taxa21-h/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6D02G206100 Gene Symbol: TaXa21-H Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WCBP1</title>
+      <link>/genes/2024.6.9/triticum-aestivum/wcbp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/triticum-aestivum/wcbp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: WCBP1 Gene Name: wheat copper-binding protein 1 Genome: Species: Triticum aestivum Functional Descriptions: Wheat WCBP1 encodes a putative copper-binding protein involved in stripe rust resistance and inhibition of leaf senescence.</description>
+    </item>
+    <item>
+      <title>Yr041133</title>
+      <link>/genes/triticum_aestivum/yr041133/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/yr041133/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7B01G352400 Gene Symbol: Yr041133 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Yr15-1A</title>
+      <link>/genes/triticum_aestivum/yr15-1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/yr15-1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1A02G061500 Gene Symbol: Yr15-1A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Yr15-1B</title>
+      <link>/genes/triticum_aestivum/yr15-1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/yr15-1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1B02G079900 Gene Symbol: Yr15-1B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Yr15-1D</title>
+      <link>/genes/triticum_aestivum/yr15-1d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/yr15-1d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1D02G062300 Gene Symbol: Yr15-1D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Yr15-6A</title>
+      <link>/genes/triticum_aestivum/yr15-6a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/yr15-6a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6A02G020100 Gene Symbol: Yr15-6A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Yr15-6B</title>
+      <link>/genes/triticum_aestivum/yr15-6b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/yr15-6b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6B02G029600 Gene Symbol: Yr15-6B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Yr15-6D</title>
+      <link>/genes/triticum_aestivum/yr15-6d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/yr15-6d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6D02G025700 Gene Symbol: Yr15-6D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>YrAS2388R</title>
+      <link>/genes/triticum_aestivum/yras2388r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/yras2388r/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4D02G004100 Gene Symbol: YrAS2388R Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>YrNAM</title>
+      <link>/genes/triticum_aestivum/yrnam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/yrnam/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: YrNAM Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>YrU1-5A</title>
+      <link>/genes/triticum_aestivum/yru1-5a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/yru1-5a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5A02G344100 Gene Symbol: YrU1-5A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>YrU1-5B</title>
+      <link>/genes/triticum_aestivum/yru1-5b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/yru1-5b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5B02G344200 Gene Symbol: YrU1-5B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>YrU1-5D</title>
+      <link>/genes/triticum_aestivum/yru1-5d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/yru1-5d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G349800 Gene Symbol: YrU1-5D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+  </channel>
+</rss>

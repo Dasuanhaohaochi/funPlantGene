@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fe on funPlantGenes</title>
+    <link>/tags/fe/</link>
+    <description>Recent content in fe on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/fe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AhFRDL1</title>
+      <link>/genes/2024.6.9/arachis-hypogaea/ahfrdl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/arachis-hypogaea/ahfrdl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: AhFRDL1 Gene Name: Genome: Species: Arachis hypogaea Functional Descriptions: AhFRDL1-mediated citrate secretion contributes to adaptation to iron deficiency and aluminum stress in peanuts.</description>
+    </item>
+    <item>
+      <title>CsMTP7</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csmtp7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csmtp7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsMTP7 Gene Name: metal tolerance protein 7 Genome: Species: Cucumis sativus Functional Descriptions: Cucumber metal tolerance protein 7 (CsMTP7) is involved in the accumulation of Fe in mitochondria under Fe excess.</description>
+    </item>
+    <item>
+      <title>GhACT1</title>
+      <link>/genes/gossypium_hirsutum/ghact1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghact1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A05G040150 Gene Symbol: GhACT1 Gene Name: Genome: HAU-AD1_genome_v1.</description>
+    </item>
+    <item>
+      <title>GhGASL3</title>
+      <link>/genes/gossypium_hirsutum/ghgasl3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghgasl3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_D04G017310 Gene Symbol: GhGASL3 Gene Name: Genome: TM-1 genome (HAU-AD1_genome_v1.</description>
+    </item>
+    <item>
+      <title>GLB1</title>
+      <link>/genes/oryza_sativa/loc_os05g41970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g41970/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g41970 RAPdb gene ID: Os05g0499100 Gene Symbol: GLB1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>GmbHLH300</title>
+      <link>/genes/glycine_max/gmbhlh300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmbhlh300/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.03G130600 Gene Symbol: GmbHLH300 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: GmYSL7 knockout increases the expression of GmbHLH300, a transcription factor required for Fe response of nodules.</description>
+    </item>
+    <item>
+      <title>GmbHLH57</title>
+      <link>/genes/glycine_max/gmbhlh57/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmbhlh57/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.12G178500 Gene Symbol: GmbHLH57 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: The expression of GmbHLH57 and GmbHLH300, two Fe-related genes expressed in nodules of Gmysl7 mutants.</description>
+    </item>
+    <item>
+      <title>GmVTL1b</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.08g076300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.08g076300/</guid>
+      <description>Gene Details: Gene ID: Glyma.08G076300 Gene Symbol: GmVTL1b Gene Name: vacuolar iron transporter like 1 Genome: Species: Glycine max Functional Descriptions: GmVTL1a and GmVTL1b are specifically expressed in the fixation zone of soybean nodules.</description>
+    </item>
+    <item>
+      <title>GmYSL7</title>
+      <link>/genes/glycine_max/gmysl7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmysl7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.11G203400 Gene Symbol: GmYSL7 Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: GmYSL7 controls iron uptake, allocation, and cellular response of nodules in soybean.</description>
+    </item>
+    <item>
+      <title>HvYS1</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvys1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvys1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvYS1 Gene Name: iron–phytosiderophore transporter Genome: Species: Hordeum vulgare Functional Descriptions: We identified a gene specifically encoding an iron–phytosiderophore transporter (HvYS1) in barley, which is the most tolerant species to iron deficiency among graminaceous plants.</description>
+    </item>
+    <item>
+      <title>IbVP1</title>
+      <link>/genes/2024.6.9/ipomoea-batatas/ibvp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/ipomoea-batatas/ibvp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: IbVP1 Gene Name: H+-pyrophosphatase 1 Genome: Species: Ipomoea batatas Functional Descriptions: H+-pyrophosphatase IbVP1 promotes efficient iron use in sweet potato.</description>
+    </item>
+    <item>
+      <title>LeFRO1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lefro1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lefro1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeFRO1 Gene Name: ferric-chelate reductase1 Genome: Species: Solanum lycopersicum Functional Descriptions: LeFRO1 encoding an Fe(III)-chelate reductase protein was isolated from the tomato genome.</description>
+    </item>
+    <item>
+      <title>LeIRT1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leirt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leirt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeIRT1 Gene Name: iron-regulated transporter 1 Genome: Species: Solanum lycopersicum Functional Descriptions: LeFRO1 encoding an Fe(III)-chelate reductase protein was isolated from the tomato genome.</description>
+    </item>
+    <item>
+      <title>LeIRT2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leirt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leirt2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeIRT2 Gene Name: iron-regulated transporter 2 Genome: Species: Solanum lycopersicum Functional Descriptions: To extend our molecular knowledge of Fe transport in crop plants, we have isolated two cDNAs (LeIRT1 and LeIRT2) from a library constructed from roots of iron-deficient tomato (Solanum lycopersicum) plants, using the Arabidopsis iron transporter cDNA, IRT1, as a probe.</description>
+    </item>
+    <item>
+      <title>LjMATE1</title>
+      <link>/genes/2024.6.9/lotus-japonicus/ljmate1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lotus-japonicus/ljmate1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LjMATE1 Gene Name: multidrug and toxic compound extrusion (MATE) protein1 Genome: Species: Lotus japonicus Functional Descriptions: LjMATE1: A Citrate Transporter Responsible for Iron Supply to the Nodule Infection Zone of Lotus japonicus.</description>
+    </item>
+    <item>
+      <title>MdAHA8</title>
+      <link>/genes/malus_domestica/mdaha8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdaha8/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000181085 Gene Symbol: MdAHA8 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdbHLH104</title>
+      <link>/genes/malus_domestica/mdbhlh104/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdbhlh104/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000825749 Gene Symbol: MdbHLH104 Gene Name: basic helix-loop-helix transcription factor 104 Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdBT2</title>
+      <link>/genes/malus_domestica/mdbt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdbt2/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD06G1161300 Gene Symbol: MdBT2 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MsLEA1</title>
+      <link>/genes/2024.6.9/mslea1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/mslea1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MsLEA1 Gene Name: Late embryogenesis-abundant (LEA) 1 Genome: alfalfa genome(https://sciencedirect.</description>
+    </item>
+    <item>
+      <title>MsLEA1</title>
+      <link>/genes/medicago_sativa/mslea1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/medicago_sativa/mslea1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MS.gene058705 Gene Symbol: MsLEA1 Gene Name: Genome: Species: Medicago sativa Functional Descriptions: These results indicate that MsLEA1 recruits and protects its target proteins (SOD and Ms1770) and increases alfalfa tolerance against drought and Al stresses.</description>
+    </item>
+    <item>
+      <title>MtCIPK12</title>
+      <link>/genes/2024.6.9/medicago-truncatula/medtr8g086380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/medtr8g086380/</guid>
+      <description>Gene Details: Gene ID: Medtr8g086380 Gene Symbol: MtCIPK12 Gene Name: Genome: Species: Medicago truncatula Functional Descriptions: Protein kinase MtCIPK12 modulates iron reduction in Medicago truncatula by regulating riboflavin biosynthesis.</description>
+    </item>
+    <item>
+      <title>MusaDMR6</title>
+      <link>/genes/2024.6.9/musa-balbisiana/ma04_p20880.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/musa-balbisiana/ma04_p20880.1/</guid>
+      <description>Gene Details: Gene ID: Ma04_p20880.1 Gene Symbol: MusaDMR6 Gene Name: downy mildew resistance 6 Genome: Species: Musa balbisiana Functional Descriptions: The downy mildew resistance 6 (DMR6) is a susceptibility gene encoding 2-oxoglutarate Fe(II)-dependent oxygenase (2OGO), which is up-regulated during pathogen infection.</description>
+    </item>
+    <item>
+      <title>MxHA2</title>
+      <link>/genes/2024.6.9/malus-xiaojinensis/md08g1130200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-xiaojinensis/md08g1130200/</guid>
+      <description>Gene Details: Gene ID: MD08G1130200 Gene Symbol: MxHA2 Gene Name: plasma membrane (PM) H+-ATPase Genome: Species: Malus xiaojinensis Functional Descriptions: MxMPK6-2-mediated phosphorylation enhances the response of apple rootstocks to Fe deficiency by activating PM H+-ATPase MxHA2.</description>
+    </item>
+    <item>
+      <title>MxMPK4-1</title>
+      <link>/genes/malus_domestica/mxmpk4-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mxmpk4-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD01G1069100 Gene Symbol: MxMPK4-1 Gene Name: Malus xiaojinensis Mitogen-activated protein kinase 4-1 Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>MxMPK6-2</title>
+      <link>/genes/2024.6.9/malus-xiaojinensis/mxmpk6-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-xiaojinensis/mxmpk6-2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MxMPK6-2 Gene Name: Genome: Species: Malus xiaojinensis Functional Descriptions: MxMPK6-2-bHLH104 interaction is involved in reactive oxygen species signaling in response to iron deficiency in apple rootstock.</description>
+    </item>
+    <item>
+      <title>MxRBOHD2</title>
+      <link>/genes/malus_domestica/mxrbohd2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mxrbohd2/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD06G1128500 Gene Symbol: MxRBOHD2 Gene Name: Malus xiaojinensis Mitogen-activated protein kinase 4-1 Genome: Malus x domestica Whole Genome v1.</description>
+    </item>
+    <item>
+      <title>OsB12D1</title>
+      <link>/genes/oryza_sativa/loc_os07g41350/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g41350/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g41350 RAPdb gene ID: Os07g0604700 Gene Symbol: OsB12D1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsbHLH057</title>
+      <link>/genes/oryza_sativa/loc_os07g35870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g35870/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g35870 RAPdb gene ID: Os07g0543000 Gene Symbol: OsbHLH057 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsbHLH061;OsbHLHq11</title>
+      <link>/genes/oryza_sativa/loc_os11g38870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g38870/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g38870 RAPdb gene ID: Os11g0601650 ,Os11g0601700 Gene Symbol: OsbHLH061 OsbHLHq11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsIMA1</title>
+      <link>/genes/oryza_sativa/loc_os01g45914/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g45914/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g45914 RAPdb gene ID: Os01g0647200 Gene Symbol: OsIMA1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsIMA2</title>
+      <link>/genes/oryza_sativa/os07g0142100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/os07g0142100/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: Os07g0142100 Gene Symbol: OsIMA2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsIRO3;OsOsbHLH063</title>
+      <link>/genes/oryza_sativa/loc_os03g26210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g26210/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g26210 RAPdb gene ID: Os03g0379300 Gene Symbol: OsIRO3 OsOsbHLH063 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsLPR5</title>
+      <link>/genes/oryza_sativa/loc_os01g03640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g03640/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g03640 RAPdb gene ID: Os01g0127200 Gene Symbol: OsLPR5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNAAT1</title>
+      <link>/genes/oryza_sativa/loc_os02g20360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g20360/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g20360 RAPdb gene ID: Os02g0306401 Gene Symbol: OsNAAT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNAC5</title>
+      <link>/genes/oryza_sativa/loc_os11g08210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g08210/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g08210 RAPdb gene ID: Os11g0184900 Gene Symbol: OsNAC5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNAS2</title>
+      <link>/genes/oryza_sativa/loc_os03g19420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g19420/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g19420 RAPdb gene ID: Os03g0307200 Gene Symbol: OsNAS2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNAS3</title>
+      <link>/genes/oryza_sativa/loc_os07g48980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g48980/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g48980 RAPdb gene ID: Os07g0689600 Gene Symbol: OsNAS3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNRAMP1</title>
+      <link>/genes/oryza_sativa/loc_os07g15460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g15460/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g15460 RAPdb gene ID: Os07g0258400 Gene Symbol: OsNRAMP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRab6a</title>
+      <link>/genes/oryza_sativa/loc_os03g09140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g09140/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g09140 RAPdb gene ID: Os03g0191400 Gene Symbol: OsRab6a Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsVIT2</title>
+      <link>/genes/oryza_sativa/loc_os09g23300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g23300/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g23300 RAPdb gene ID: Os09g0396900 Gene Symbol: OsVIT2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsYSL2;CF1</title>
+      <link>/genes/oryza_sativa/loc_os02g43370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g43370/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g43370 RAPdb gene ID: Os02g0649900 Gene Symbol: OsYSL2 CF1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsZIP11</title>
+      <link>/genes/oryza_sativa/loc_os05g25194/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g25194/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g25194 RAPdb gene ID: Os05g0316100 Gene Symbol: OsZIP11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsZIP7a;OsZIP7</title>
+      <link>/genes/oryza_sativa/loc_os05g10940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g10940/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g10940 RAPdb gene ID: Os05g0198400 Gene Symbol: OsZIP7a OsZIP7 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>qCdT7;OsHMA3</title>
+      <link>/genes/oryza_sativa/loc_os07g12900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g12900/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g12900 RAPdb gene ID: Os07g0232900 Gene Symbol: qCdT7 OsHMA3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SAUR32</title>
+      <link>/genes/malus_domestica/saur32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/saur32/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD07G1156400 Gene Symbol: SAUR32 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>SlbHLH101</title>
+      <link>/genes/solanum_lycopersicum/slbhlh101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbhlh101/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g079680 Gene Symbol: SlbHLH101 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>TaVIT2-A</title>
+      <link>/genes/triticum_aestivum/tavit2-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavit2-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5A02G203400 Gene Symbol: TaVIT2-A Gene Name: VACUOLAR IRON TRANSPORTER 2 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaVIT2-B</title>
+      <link>/genes/triticum_aestivum/tavit2-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavit2-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5B02G202100 Gene Symbol: TaVIT2-B Gene Name: VACUOLAR IRON TRANSPORTER 2 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaVIT2-D</title>
+      <link>/genes/triticum_aestivum/tavit2-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavit2-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G209900 Gene Symbol: TaVIT2-D Gene Name: VACUOLAR IRON TRANSPORTER 2 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>YS3;tom1</title>
+      <link>/genes/zea_mays/ys3tom1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/ys3tom1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb133440 Gene Symbol: YS3 tom1 Gene Name: yellow stripe3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmFDR4</title>
+      <link>/genes/zea_mays/zmfdr4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmfdr4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ZmFDR4 Gene Name: Fe deficiency-related 4 Genome: Species: Zea mays Functional Descriptions: Zea mays Fe deficiency-related 4 (ZmFDR4) functions as an iron transporter in the plastids of monocots.</description>
+    </item>
+    <item>
+      <title>ZmIRT1</title>
+      <link>/genes/zea_mays/zm00001eb052440/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb052440/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb052440 Gene Symbol: ZmIRT1 Gene Name: iron-regulated transporter1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmIRT2</title>
+      <link>/genes/zea_mays/zm00001eb065410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb065410/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb065410 Gene Symbol: ZmIRT2|ZmZIP3 Gene Name: Zm00001eb065410 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNAC78;ZmNAC28</title>
+      <link>/genes/zea_mays/zmnac78zmnac28nactf78/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmnac78zmnac28nactf78/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb001460 Gene Symbol: ZmNAC78 ZmNAC28 nactf78 Gene Name: NAM/ATAF/CUC DOMAIN TRANSCRIPTION FACTOR 78 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmYS1</title>
+      <link>/genes/zea_mays/zmys1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmys1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb249020 Gene Symbol: ZmYS1 YS1 Gene Name: yellow stripe1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmYSL2;sh4</title>
+      <link>/genes/zea_mays/zmysl2sh4crk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmysl2sh4crk4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb248990 Gene Symbol: ZmYSL2 sh4 crk4 Gene Name: shrunken4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmZIP5</title>
+      <link>/genes/zea_mays/zm00001eb277370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb277370/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb277370 Gene Symbol: ZmZIP5 Gene Name: zinc-regulated, iron-regulated transporter-like protein5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmZIP7</title>
+      <link>/genes/zea_mays/zm00001eb284160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb284160/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb284160 Gene Symbol: ZmZIP7 Gene Name: zinc-regulated, iron-regulated transporter-like protein7 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

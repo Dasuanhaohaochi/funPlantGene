@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>essential amino acid content on funPlantGenes</title>
+    <link>/tags/essential-amino-acid-content/</link>
+    <description>Recent content in essential amino acid content on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/essential-amino-acid-content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DcROS1</title>
+      <link>/genes/2024.7.17/dianthus-caryophyllus/dca30799/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/dianthus-caryophyllus/dca30799/</guid>
+      <description>Gene Details: Gene ID: Dca30799 Gene Symbol: DcROS1 Gene Name: REPRESSOR OF SILENCING1 Genome: carnation reference genome Species: Dianthus caryophyllus Functional Descriptions: DNA methylation in the promoter region of genes during natural and ethylene-induced flower senescence in carnation (Dianthus caryophyllus L.</description>
+    </item>
+    <item>
+      <title>OsAUX5</title>
+      <link>/genes/oryza_sativa/loc_os11g06820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g06820/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g06820 RAPdb gene ID: Os11g0169200 Gene Symbol: OsAUX5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

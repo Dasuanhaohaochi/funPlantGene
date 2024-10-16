@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ja receptor on funPlantGenes</title>
+    <link>/tags/ja-receptor/</link>
+    <description>Recent content in ja receptor on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ja-receptor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsWAKL08</title>
+      <link>/genes/2024.6.9/citrus-sinensis/cs9g14540/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/cs9g14540/</guid>
+      <description>Gene Details: Gene ID: Cs9g14540 Gene Symbol: CsWAKL08 Gene Name: Wall-associated receptor-like kinase 8 Genome: Species: Citrus sinensis Functional Descriptions: CsWAKL08, a pathogen-induced wall-associated receptor-like kinase in sweet orange, confers resistance to citrus bacterial canker via ROS control and JA signaling.</description>
+    </item>
+    <item>
+      <title>Fir1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc12g099830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc12g099830/</guid>
+      <description>Gene Details: Gene ID: Solyc12g099830 Gene Symbol: Fir1 Gene Name: Fls2/Fls3-interacting receptor-like cytoplasmic kinase 1 Genome: Species: Solanum lycopersicum Functional Descriptions: Identified the tomato Fls2/Fls3-interacting receptor-like cytoplasmic kinase 1 (Fir1) protein that is involved in PTI triggered by flagellin perception.</description>
+    </item>
+    <item>
+      <title>OsCOI1b</title>
+      <link>/genes/oryza_sativa/loc_os05g37690/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g37690/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g37690 RAPdb gene ID: Os05g0449500 Gene Symbol: OsCOI1b Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

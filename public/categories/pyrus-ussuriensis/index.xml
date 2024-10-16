@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pyrus  ussuriensis on funPlantGenes</title>
+    <link>/categories/pyrus-ussuriensis/</link>
+    <description>Recent content in Pyrus  ussuriensis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/pyrus-ussuriensis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PuHB40</title>
+      <link>/genes/2024.7.17/pyrus-ussuriensis/evm0020592.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/pyrus-ussuriensis/evm0020592.1/</guid>
+      <description>Gene Details: Gene ID: EVM0020592.1 Gene Symbol: PuHB40 Gene Name: Phosphorylated transcription factor Genome: pear genome database Species: Pyrus ussuriensis Functional Descriptions: Phosphorylated transcription factor PuHB40 mediates ROS-dependent anthocyanin biosynthesis in pear exposed to high light.</description>
+    </item>
+    <item>
+      <title>PuMYB21</title>
+      <link>/genes/2024.6.9/pyrus-ussuriensis/pumyb21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-ussuriensis/pumyb21/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuMYB21 Gene Name: R2R3-MYB transcription factor 21 Genome: Species: Pyrus ussuriensis Functional Descriptions: PuMYB21 and PuMYB54, from “Nanguo” pears, which were notably expressed in response to cold stress and during the peel-browning process.</description>
+    </item>
+    <item>
+      <title>PuMYB54</title>
+      <link>/genes/2024.6.9/pyrus-ussuriensis/pumyb54/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-ussuriensis/pumyb54/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuMYB54 Gene Name: R2R3-MYB transcription factor 21 Genome: Species: Pyrus ussuriensis Functional Descriptions: PuMYB21 and PuMYB54, from “Nanguo” pears, which were notably expressed in response to cold stress and during the peel-browning process.</description>
+    </item>
+    <item>
+      <title>PuRBOHF</title>
+      <link>/genes/2024.6.9/pyrus-ussuriensis/purbohf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-ussuriensis/purbohf/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuRBOHF Gene Name: respiratory burst oxidase homolog Genome: Species: Pyrus ussuriensis Functional Descriptions: Production of reactive oxygen species by PuRBOHF is critical for stone cell development in pear fruit.</description>
+    </item>
+    <item>
+      <title>PuSWEET15</title>
+      <link>/genes/2024.6.9/pyrus-ussuriensis/pusweet15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-ussuriensis/pusweet15/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuSWEET15 Gene Name: Sugars Will Eventually be Exported Transporter Genome: Species: Pyrus ussuriensis Functional Descriptions: Overexpression of PuSWEET15 in NG pear fruit increased Suc content, while silencing of PuSWEET15 in BNG fruit decreased Suc content.</description>
+    </item>
+    <item>
+      <title>PuWRKY31</title>
+      <link>/genes/2024.6.9/pyrus-ussuriensis/puwrky31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-ussuriensis/puwrky31/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuWRKY31 Gene Name: WRKY transcription factor 31 Genome: Species: Pyrus ussuriensis Functional Descriptions: The expression of the transcription factor PuWRKY31 was higher in BNG fruit than in NG fruit, and was induced by sucrose treatment.</description>
+    </item>
+  </channel>
+</rss>

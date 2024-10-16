@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aminobutyric acid on funPlantGenes</title>
+    <link>/tags/aminobutyric-acid/</link>
+    <description>Recent content in aminobutyric acid on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/aminobutyric-acid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CaLecRK-S.5</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca04g04250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca04g04250/</guid>
+      <description>Gene Details: Gene ID: CA04g04250 Gene Symbol: CaLecRK-S.5 Gene Name: lectin receptor kinase Genome: Species: Capsicum annuum Functional Descriptions: CaLecRK-S.</description>
+    </item>
+    <item>
+      <title>MdGAD5a</title>
+      <link>/genes/malus_domestica/mdgad5a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdgad5a/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD06G1235500 Gene Symbol: MdGAD5a Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>Osl2</title>
+      <link>/genes/oryza_sativa/loc_os04g52450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g52450/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g52450 RAPdb gene ID: Os04g0614600 Gene Symbol: Osl2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsProT1</title>
+      <link>/genes/oryza_sativa/loc_os01g68050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g68050/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g68050 RAPdb gene ID: Os01g0908600 Gene Symbol: OsProT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsProT3</title>
+      <link>/genes/oryza_sativa/loc_os07g01090/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g01090/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g01090 RAPdb gene ID: Os07g0100800 Gene Symbol: OsProT3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PpTGA1</title>
+      <link>/genes/prunus_persica/pptga1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/prunus_persica/pptga1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: PpTGA1 Gene Name: Genome: peach reference genome v2.</description>
+    </item>
+    <item>
+      <title>SlGAD2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slgad2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slgad2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlGAD2 Gene Name: glutamate decarboxylase isoform2 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato Glutamate Decarboxylase Genes SlGAD2 and SlGAD3 Play Key Roles in Regulating γ-Aminobutyric Acid Levels in Tomato.</description>
+    </item>
+    <item>
+      <title>SlGAD3</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slgad3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slgad3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlGAD3 Gene Name: glutamate decarboxylase isoform3 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato Glutamate Decarboxylase Genes SlGAD2 and SlGAD3 Play Key Roles in Regulating γ-Aminobutyric Acid Levels in Tomato.</description>
+    </item>
+    <item>
+      <title>TaALMT1</title>
+      <link>/genes/triticum_aestivum/taalmt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taalmt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaALMT1 Gene Name: aluminium-activated malate transporter 1 Genome: Species: Triticum aestivum Functional Descriptions: Role of TaALMT1 malate-GABA transporter in alkaline pH tolerance of wheat.</description>
+    </item>
+  </channel>
+</rss>

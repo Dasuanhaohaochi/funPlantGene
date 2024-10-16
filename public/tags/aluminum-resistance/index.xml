@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aluminum resistance on funPlantGenes</title>
+    <link>/tags/aluminum-resistance/</link>
+    <description>Recent content in aluminum resistance on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/aluminum-resistance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AhFRDL1</title>
+      <link>/genes/2024.6.9/arachis-hypogaea/ahfrdl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/arachis-hypogaea/ahfrdl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: AhFRDL1 Gene Name: Genome: Species: Arachis hypogaea Functional Descriptions: AhFRDL1-mediated citrate secretion contributes to adaptation to iron deficiency and aluminum stress in peanuts.</description>
+    </item>
+    <item>
+      <title>BnALMT1</title>
+      <link>/genes/2024.6.9/brassica-napus/bnalmt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-napus/bnalmt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BnALMT1 Gene Name: Al-activated malate transporter1 Genome: Species: Brassica napus Functional Descriptions: The BnALMT1 and BnALMT2 Genes from Rape Encode Aluminum-Activated Malate Transporters That Enhance the Aluminum Resistance of Plant Cells.</description>
+    </item>
+    <item>
+      <title>BnALMT2</title>
+      <link>/genes/2024.6.9/brassica-napus/bnaa08g26970d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-napus/bnaa08g26970d/</guid>
+      <description>Gene Details: Gene ID: BnaA08g26970D Gene Symbol: BnALMT2 Gene Name: Al-activated malate transporter2 Genome: Species: Brassica napus Functional Descriptions: The BnALMT1 and BnALMT2 Genes from Rape Encode Aluminum-Activated Malate Transporters That Enhance the Aluminum Resistance of Plant Cells.</description>
+    </item>
+    <item>
+      <title>Os4CL5</title>
+      <link>/genes/oryza_sativa/loc_os08g34790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g34790/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g34790 RAPdb gene ID: Os08g0448000 Gene Symbol: Os4CL5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlRAE1</title>
+      <link>/genes/solanum_lycopersicum/slrae1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slrae1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g076290 Gene Symbol: SlRAE1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSTOP1</title>
+      <link>/genes/solanum_lycopersicum/slstop1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slstop1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc11g017140 Gene Symbol: SlSTOP1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSZP1</title>
+      <link>/genes/solanum_lycopersicum/slszp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slszp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc04g056320 Gene Symbol: SlSZP1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>TaALMT1</title>
+      <link>/genes/triticum_aestivum/taalmt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taalmt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaALMT1 Gene Name: aluminium-activated malate transporter 1 Genome: Species: Triticum aestivum Functional Descriptions: Role of TaALMT1 malate-GABA transporter in alkaline pH tolerance of wheat.</description>
+    </item>
+    <item>
+      <title>ZmNRT1.1A;ZmNPF6.4</title>
+      <link>/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmnrt1.1azmnpf6.4npf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb416090 Gene Symbol: ZmNRT1.1A ZmNPF6.4 npf1 Gene Name: nitrate transporter/peptide transporter family1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lateral root apical meristem on funPlantGenes</title>
+    <link>/tags/lateral-root-apical-meristem/</link>
+    <description>Recent content in lateral root apical meristem on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/lateral-root-apical-meristem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G38810</title>
+      <link>/genes/arabidopsis_thaliana/at2g38810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g38810/</guid>
+      <description>Gene Details: Gene ID: AT2G38810 Gene Symbol: H2A.Z, HTA8 Gene Name: histone H2A 8 Description: histone H2A 8;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G38810.</description>
+    </item>
+    <item>
+      <title>AT3G20670</title>
+      <link>/genes/arabidopsis_thaliana/at3g20670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g20670/</guid>
+      <description>Gene Details: Gene ID: AT3G20670 Gene Symbol: HTA13 Gene Name: histone H2A 13 Description: histone H2A 13;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G20670.</description>
+    </item>
+    <item>
+      <title>AT3G28730</title>
+      <link>/genes/arabidopsis_thaliana/at3g28730/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g28730/</guid>
+      <description>Gene Details: Gene ID: AT3G28730 Gene Symbol: ATHMG, HMG, NFD, SSRP1 Gene Name: high mobility group, high mobility group, NUCLEOSOME/CHROMATIN ASSEMBLY FACTOR D Description: high mobility group;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G28730.</description>
+    </item>
+    <item>
+      <title>AT4G23920</title>
+      <link>/genes/arabidopsis_thaliana/at4g23920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g23920/</guid>
+      <description>Gene Details: Gene ID: AT4G23920 Gene Symbol: ATUGE2, UGE2 Gene Name: UDP-GLC 4-EPIMERASE 2, UDP-D-glucose/UDP-D-galactose 4-epimerase 2 Description: UDP-D-glucose/UDP-D-galactose 4-epimerase 2;(source:Araport11) TAIR Accession: locus:2138121 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G23920.</description>
+    </item>
+    <item>
+      <title>AT4G27230</title>
+      <link>/genes/arabidopsis_thaliana/at4g27230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g27230/</guid>
+      <description>Gene Details: Gene ID: AT4G27230 Gene Symbol: HTA2 Gene Name: histone H2A 2 Description: histone H2A 2;(source:Araport11) TAIR Accession: locus:2131704 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G27230.</description>
+    </item>
+    <item>
+      <title>AT4G39950</title>
+      <link>/genes/arabidopsis_thaliana/at4g39950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g39950/</guid>
+      <description>Gene Details: Gene ID: AT4G39950 Gene Symbol: CYP79B2 Gene Name: cytochrome P450, family 79, subfamily B, polypeptide 2 Description: cytochrome P450, family 79, subfamily B, polypeptide 2;(source:Araport11) TAIR Accession: locus:2140020 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G39950.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+.accordion {
+  border: 1px solid #ccc;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.accordion-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  font-size: 1.1rem;
+  width: 100%;
+  font-weight: bold;
+  text-align: left;
+}
+
+.accordion-icon {
+  width: 0.78em;
+  height: 0.78em;
+  transform: rotate(-90deg);
+  transition: transform 0.2s ease;
+}
+
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  padding: 0 1rem;
+  transition: max-height 0.5s ease;
+}
+
+.accordion.active .accordion-icon {
+  transform: rotate(0deg);
+}
+
+.accordion.active .accordion-content {
+  max-height: 50vh;
+  overflow-y: auto;
+  word-wrap: break-word;
+}
+
+
+.content-wrapper {
+  position: relative; /* 确保子元素绝对定位基于父容器 */
+}
+
+.copy-btn {
+  position: absolute;
+  right: 0; /* 将按钮放在右侧 */
+  margin-left: auto; /* 将按钮推到右侧 */
+  padding: 8px 16px;
+  background-color: #010c16;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.2s ease;
+  pointer-events: auto; /* 确保按钮可以响应点击 */
+}
+
+.copy-btn:hover {
+  background-color: #050c14;
+}

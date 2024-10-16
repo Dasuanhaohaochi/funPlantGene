@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethylene response on funPlantGenes</title>
+    <link>/tags/ethylene-response/</link>
+    <description>Recent content in ethylene response on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ethylene-response/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AcKUP2</title>
+      <link>/genes/2024.6.9/actinidia-chinensis/ach02g251101.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/actinidia-chinensis/ach02g251101.2/</guid>
+      <description>Gene Details: Gene ID: Ach02g251101.2 Gene Symbol: AcKUP2 Gene Name: K+ transporter KT/HAK/KUP 2 Genome: Species: Actinidia chinensis Functional Descriptions: Ethylene-induced potassium transporter AcKUP2 gene is involved in kiwifruit postharvest ripening.</description>
+    </item>
+    <item>
+      <title>AdNAC2</title>
+      <link>/genes/actinidia_chinensis/adnac2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/actinidia_chinensis/adnac2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Acc26399 Gene Symbol: AdNAC2 Gene Name: Genome: Genome_version:Actinidia chinensis (Red5) Species: Actinidia chinensis Functional Descriptions: Upregulation of AdMsrB1 in response to ethylene requires TFs AdNAC2 and AdNAC72.</description>
+    </item>
+    <item>
+      <title>AdNAC72</title>
+      <link>/genes/actinidia_chinensis/adnac72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/actinidia_chinensis/adnac72/</guid>
+      <description>Gene Details: Gene ID:&#x9;Acc13705 Gene Symbol: AdNAC72 Gene Name: Genome: Genome_version:Actinidia chinensis (Red5) Species: Actinidia chinensis Functional Descriptions: Upregulation of AdMsrB1 in response to ethylene requires TFs AdNAC2 and AdNAC72.</description>
+    </item>
+    <item>
+      <title>AhIPH1</title>
+      <link>/genes/arachis_hypogaea/arahy.5blu0q/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arachis_hypogaea/arahy.5blu0q/</guid>
+      <description>Gene Details: Gene ID: Arahy.5BLU0Q Gene Symbol: AhIPH1 Gene Name: inhibition of peanut hypocotyl elongation 1 Genome: Genome assembly arahy.</description>
+    </item>
+    <item>
+      <title>BcERF070</title>
+      <link>/genes/2024.7.17/brassica-campestris/brac07g014310/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/brassica-campestris/brac07g014310/</guid>
+      <description>Gene Details: Gene ID: BraC07g014310 Gene Symbol: BcERF070 Gene Name: ETHYLENE RESPONSE FACTOR 070 Genome: Species: Brassica campestris Functional Descriptions: Ethylene responsive factor 070 (BcERF070) is important in flowering.</description>
+    </item>
+    <item>
+      <title>BnERF2.4</title>
+      <link>/genes/2024.7.17/brassica-napus/bnerf2.4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/brassica-napus/bnerf2.4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BnERF2.4 Gene Name: Ethylene response factor BnERF2-like Genome: Species: Brassica napus Functional Descriptions: Ethylene response factor BnERF2-like (ERF2.</description>
+    </item>
+    <item>
+      <title>BoERF1L</title>
+      <link>/genes/brassica_oleracea/boerf1l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_oleracea/boerf1l/</guid>
+      <description>Gene Details: Gene ID:&#x9;Bol028757 Gene Symbol: BoERF1L Gene Name: Genome: “02-12” reference genome, version 1 Species: Brassica oleracea Functional Description: The ethylene response factor BoERF1L represses the expression of Ms-cd1 by directly binding to its promoter.</description>
+    </item>
+    <item>
+      <title>CaPIF1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capif1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capif1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaPIF1 Gene Name: Pathogen-Induced Factor 1 Genome: Species: Capsicum annuum Functional Descriptions: A plant EPF-type zinc-finger protein, CaPIF1, involved in defence against pathogens.</description>
+    </item>
+    <item>
+      <title>CaWRKY6</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cawrky6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cawrky6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaWRKY6 Gene Name: WRKY transcription factor 6 Genome: Species: Capsicum annuum Functional Descriptions: CaWRKY6 transcriptionally activates CaWRKY40, regulates Ralstonia solanacearum resistance, and confers high-temperature and high-humidity tolerance in pepper.</description>
+    </item>
+    <item>
+      <title>ClAGO1</title>
+      <link>/genes/citrullus_lanatus/clago1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrullus_lanatus/clago1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cla97C04G079510 Gene Symbol: ClAGO1 Gene Name: Genome: Citrullus lanatus (Watermelon (97103) v2) Species: Citrullus lanatus Functional Descriptions: ClAGO1 and ClAGO5 expression levels were highly induced by CGMMV infection.</description>
+    </item>
+    <item>
+      <title>ClAGO5</title>
+      <link>/genes/citrullus_lanatus/clago5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrullus_lanatus/clago5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cla97C01G012980 Gene Symbol: ClAGO5 Gene Name: Genome: Citrullus lanatus (Watermelon (97103) v2) Species: Citrullus lanatus Functional Descriptions: ClAGO1 and ClAGO5 expression levels were highly induced by CGMMV infection.</description>
+    </item>
+    <item>
+      <title>CmERF4</title>
+      <link>/genes/2024.6.9/chrysanthemum-morifolium/cmerf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/chrysanthemum-morifolium/cmerf4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CmERF4 Gene Name: ERF VIIIa 4 Genome: Species: Chrysanthemum morifolium Functional Descriptions: A group VIIIa ethylene-responsive factor, CmERF4, negatively regulates waterlogging tolerance in chrysanthemum.</description>
+    </item>
+    <item>
+      <title>CmERFI-2</title>
+      <link>/genes/2024.6.9/cucumis-melo/melo3c002624/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-melo/melo3c002624/</guid>
+      <description>Gene Details: Gene ID: MELO3C002624 Gene Symbol: CmERFI-2 Gene Name: ethylene response factor I-2 Genome: melon genome database (http://cucurbitgenomics.</description>
+    </item>
+    <item>
+      <title>CsAP2-09</title>
+      <link>/genes/2024.6.9/citrus-sinensis/csap2-09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/csap2-09/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsAP2-09 Gene Name: Genome: Species: Citrus sinensis Functional Descriptions: Demonstrated that overexpression of an Xcc-inducible apetala 2/ethylene response factor encoded by Citrus sinensis, CsAP2-09, enhances CBC resistance.</description>
+    </item>
+    <item>
+      <title>CsEIL3</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csav3_6g004610/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csav3_6g004610/</guid>
+      <description>Gene Details: Gene ID: CsaV3_6G004610 Gene Symbol: CsEIL3 Gene Name: Genome: Species: Cucumis sativus Functional Descriptions: A CsEIL3-CsARN6.</description>
+    </item>
+    <item>
+      <title>CsERF2</title>
+      <link>/genes/2024.6.9/camellia-sinensis/cserf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/cserf2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsERF2 Gene Name: ethylene response factor 2 Genome: Species: Camellia sinensis Functional Descriptions: CsERF2, an ethylene response factor, plays a role in leaf variegation.</description>
+    </item>
+    <item>
+      <title>CsERF31</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csa3g135120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csa3g135120/</guid>
+      <description>Gene Details: Gene ID: Csa3G135120 Gene Symbol: CsERF31 Gene Name: ETHYLENE RESPONSE FACTOR31 Genome: Species: Cucumis sativus Functional Descriptions: A positive feedback loop mediated by CsERF31 initiates female cucumber flower development.</description>
+    </item>
+    <item>
+      <title>DkMYB14</title>
+      <link>/genes/2024.6.9/diospyros-kaki/dkmyb14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/diospyros-kaki/dkmyb14/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: DkMYB14 Gene Name: Genome: Species: Diospyros kaki Functional Descriptions: DkMYB14 is a bifunctional transcription factor that regulates the accumulation of proanthocyanidin in persimmon fruit.</description>
+    </item>
+    <item>
+      <title>DUO-B1</title>
+      <link>/genes/triticum_aestivum/duo-b1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/duo-b1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1B02G326500 Gene Symbol: DUO-B1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>ENOD93</title>
+      <link>/genes/glycine_max/enod93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/enod93/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.06G216500 Gene Symbol: ENOD93 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: Ethylene Response Factor Required for Nodulation (ERN1/ERN2), Nuclear Factor-Y Subunit A1 (NF-YA1), Nodule Inception (NIN), and downstream nodulation genes(ENOD40 and ENOD93).</description>
+    </item>
+    <item>
+      <title>ERF17</title>
+      <link>/genes/malus_domestica/erf17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/erf17/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000704216 Gene Symbol: ERF17 Gene Name: ETHYLENE RESPONSE FACTOR17 Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>ERF4</title>
+      <link>/genes/malus_domestica/erf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/erf4/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD03G1231800 Gene Symbol: ERF4 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>ERF4;ERF7</title>
+      <link>/genes/zea_mays/erf4erf7ereb97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/erf4erf7ereb97/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb071190 Gene Symbol: ERF4 ERF7 ereb97 Gene Name: AP2-EREBP-transcription factor 97 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>GhAPX1</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghapx1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghapx1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhAPX1 Gene Name: cytosolic ascorbate peroxidase 1 Genome: Species: Gossypium hirsutum Functional Descriptions: Here, a cotton (Gossypium hirsutum) cytosolic APX1 (GhAPX1) was identified to be highly accumulated during cotton fibre elongation by proteomic analysis.</description>
+    </item>
+    <item>
+      <title>GhCKX3</title>
+      <link>/genes/gossypium_hirsutum/ghckx3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghckx3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D06G0733 Gene Symbol: GhCKX3 Gene Name: Genome: cotton genome (G.</description>
+    </item>
+    <item>
+      <title>GhCKX3-1</title>
+      <link>/genes/gossypium_hirsutum/ghckx3-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghckx3-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D13G2062 Gene Symbol: GhCKX3-1 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhCKX3-2</title>
+      <link>/genes/gossypium_hirsutum/ghckx3-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghckx3-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A06G0643 Gene Symbol: GhCKX3-2 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhCKX3-3</title>
+      <link>/genes/gossypium_hirsutum/ghckx3-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghckx3-3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D07G2372 Gene Symbol: GhCKX3-3 Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhERF-IIb3</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gherf-iib3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gherf-iib3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhERF-IIb3 Gene Name: cultivar Reba B50 ethylene-responsive transcription factor-IIb3 Genome: Species: Gossypium hirsutum Functional Descriptions: GhERF-IIb3 regulates the accumulation of jasmonate and leads to enhanced cotton resistance to blight diseas.</description>
+    </item>
+    <item>
+      <title>GhERF108</title>
+      <link>/genes/gossypium_hirsutum/gherf108/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/gherf108/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G13101 Gene Symbol: GhERF108 Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The transcription factor ERF108 interacts with AUXIN RESPONSE FACTORs to mediate cotton fiber secondary cell wall biosynthesis.</description>
+    </item>
+    <item>
+      <title>GhERF6</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gherf6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gherf6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhERF6 Gene Name: ethylene response factor 6 Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton Major Latex Protein 28 (GhMLP28) Functions as a Positive Regulator of the Ethylene Responsive Factor 6 (GhERF6) in Defense against Verticillium dahliae.</description>
+    </item>
+    <item>
+      <title>GhERF9</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_d02g1817/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_d02g1817/</guid>
+      <description>Gene Details: Gene ID: Gh_D02G1817 Gene Symbol: GhERF9 Gene Name: ethylene response factor 9 Genome: Species: Gossypium hirsutum Functional Descriptions: Here, we have demonstrated that one of the ERF TFs in cotton, GhERF9, exerts a regulatory role in enhancing the expression of GhHAK5a by binding to its promoter region.</description>
+    </item>
+    <item>
+      <title>GhLYI</title>
+      <link>/genes/gossypium_hirsutum/ghlyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghlyi/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D08G0312 Gene Symbol: GhLYI Gene Name: LINT YIELD INCREASING Genome: eference genome of G.</description>
+    </item>
+    <item>
+      <title>GhMYB108</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghmyb108/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghmyb108/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMYB108 Gene Name: defense-related MYB 108 Genome: Species: Gossypium hirsutum Functional Descriptions: The cotton MYB108 forms a positive feedback regulation loop with CML11 and participates in the defense response against Verticillium dahliae infection.</description>
+    </item>
+    <item>
+      <title>GmERF1</title>
+      <link>/genes/glycine_max/gmerf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmerf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.13G123100 Gene Symbol: GmERF1 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: Transcription factors GmERF1 and GmWRKY6 synergistically regulate low phosphorus tolerance in soybean.</description>
+    </item>
+    <item>
+      <title>GmERF3</title>
+      <link>/genes/2024.6.9/glycine-max/gmerf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/gmerf3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GmERF3 Gene Name: EREBP/AP2 transcription factor Genome: Species: Glycine max Functional Descriptions: Overexpression of the soybean GmERF3 gene, an AP2/ERF type transcription factor for increased tolerances to salt, drought, and diseases in transgenic tobacco.</description>
+    </item>
+    <item>
+      <title>GUDK</title>
+      <link>/genes/oryza_sativa/loc_os03g08170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g08170/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g08170 RAPdb gene ID: Os03g0179400 Gene Symbol: GUDK Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>HbPLT1</title>
+      <link>/genes/2024.6.9/hevea-brasiliensis/hbplt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hevea-brasiliensis/hbplt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HbPLT1 Gene Name: putative polyol transporter protein 1 Genome: Species: Hevea brasiliensis Functional Descriptions: Screening a latex-derived cDNA library using polyol transporter-specific probes, two full-length cDNAs were isolated, and named HbPLT1 and HbPLT2 (for Hevea brasiliensis polyol transporter 1 and 2, respectively).</description>
+    </item>
+    <item>
+      <title>HbPLT2</title>
+      <link>/genes/2024.6.9/hevea-brasiliensis/hbplt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hevea-brasiliensis/hbplt2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HbPLT2 Gene Name: putative polyol transporter protein 2 Genome: Species: Hevea brasiliensis Functional Descriptions: Screening a latex-derived cDNA library using polyol transporter-specific probes, two full-length cDNAs were isolated, and named HbPLT1 and HbPLT2 (for Hevea brasiliensis polyol transporter 1 and 2, respectively).</description>
+    </item>
+    <item>
+      <title>HvRAF</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvraf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvraf/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvRAF Gene Name: root abundant factor Genome: Species: Hordeum vulgare Functional Descriptions: The barley ERF-type transcription factor HvRAF confers enhanced pathogen resistance and salt tolerance in Arabidopsis.</description>
+    </item>
+    <item>
+      <title>LeACS2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc01g095080.3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc01g095080.3.1/</guid>
+      <description>Gene Details: Gene ID: Solyc01g095080.3.1 Gene Symbol: LeACS2 Gene Name: 1-aminocyclopropane-1-carboxylate synthase 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Turnover of LeACS2, a wound-inducible 1-aminocyclopropane-1-carboxylic acid synthase in tomato, is regulated by phosphorylation/dephosphorylation.</description>
+    </item>
+    <item>
+      <title>LeEix2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leeix2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leeix2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeEix2 Gene Name: receptor-like protein EIX2 Genome: Species: Solanum lycopersicum Functional Descriptions: Endosomal signaling of the tomato leucine-rich repeat receptor-like protein LeEix2.</description>
+    </item>
+    <item>
+      <title>LeERF2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/leerf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/leerf2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeERF2 Gene Name: Ethylene response factor 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Transcriptional Regulation of the Ethylene Response Factor LeERF2 in the Expression of Ethylene Biosynthesis Genes Controls Ethylene Production in Tomato and Tobacco.</description>
+    </item>
+    <item>
+      <title>LuWRKY36</title>
+      <link>/genes/2024.6.9/linum-usitatissimum/lus10026409/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/linum-usitatissimum/lus10026409/</guid>
+      <description>Gene Details: Gene ID: Lus10026409 Gene Symbol: LuWRKY36 Gene Name: Genome: Linum usitatissimum genome v1.</description>
+    </item>
+    <item>
+      <title>MdAMR1L1</title>
+      <link>/genes/malus_domestica/mdamr1l1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdamr1l1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD15G1235900 Gene Symbol: MdAMR1L1 Gene Name: Asc Mannose pathway Regulator 1 Like 1 Genome: Malus × domestica GDDH13 v1.</description>
+    </item>
+    <item>
+      <title>MdARF5-1</title>
+      <link>/genes/malus_domestica/mdarf5-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdarf5-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000143749 Gene Symbol: MdARF5-1 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>MdCRF4</title>
+      <link>/genes/malus_domestica/mdcrf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdcrf4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: MdCRF4 Gene Name: Malus domestica CYTOKININ RESPONSE FACTOR4 Genome: Malus × domestica GDDH13 v1.</description>
+    </item>
+    <item>
+      <title>MdEIL1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000423881/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000423881/</guid>
+      <description>Gene Details: Gene ID: MDP0000423881 Gene Symbol: MdEIL1 Gene Name: EIN3-LIKE1 Genome: Species: Malus domestica Functional Descriptions: Ethylene precisely regulates anthocyanin synthesis in apple via a module comprising MdEIL1, MdMYB1, and MdMYB17.</description>
+    </item>
+    <item>
+      <title>MdERF1B</title>
+      <link>/genes/2024.6.9/malus-domestica/mderf1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mderf1b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdERF1B Gene Name: Genome: Species: Malus domestica Functional Descriptions: The ethylene response factor MdERF1B regulates anthocyanin and proanthocyanidin biosynthesis in apple.</description>
+    </item>
+    <item>
+      <title>MdERF2</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000517257/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000517257/</guid>
+      <description>Gene Details: Gene ID: MDP0000517257 Gene Symbol: MdERF2 Gene Name: ethylene response factor 2 Genome: apple genome database ( http://www.</description>
+    </item>
+    <item>
+      <title>MdERF3</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000787281/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000787281/</guid>
+      <description>Gene Details: Gene ID: MDP0000787281 Gene Symbol: MdERF3 Gene Name: ETHYLENE RESPONSE FACTOR3 Genome: Species: Malus domestica Functional Descriptions: EIN3-LIKE1, MYB1, and ETHYLENE RESPONSE FACTOR3 Act in a Regulatory Loop That Synergistically Modulates Ethylene Biosynthesis and Anthocyanin Accumulation.</description>
+    </item>
+    <item>
+      <title>MdERF4</title>
+      <link>/genes/malus_domestica/mderf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mderf4/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD03G1231800 Gene Symbol: MdERF4 Gene Name: ethylene response factor 4 Genome: Malus × domestica GDDH13 v1.</description>
+    </item>
+    <item>
+      <title>MdHDA19</title>
+      <link>/genes/malus_domestica/mdhda19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdhda19/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD10G1145400 Gene Symbol: MdHDA19 Gene Name: histone deacetylase 19 Genome: Malus × domestica GDDH13 v1.</description>
+    </item>
+    <item>
+      <title>MdMYC2</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000029168/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000029168/</guid>
+      <description>Gene Details: Gene ID: MDP0000029168 Gene Symbol: MdMYC2 Gene Name: Jasmonate-Activated Transcription Factor 2 Genome: Species: Malus domestica Functional Descriptions: MdMYC2 is a homology of Arabidopsis MYC2 in apple, it has highly similarity in structure and function to the Arabidopsis MYC2.</description>
+    </item>
+    <item>
+      <title>MHZ1;OsHK1</title>
+      <link>/genes/oryza_sativa/loc_os06g44410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g44410/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g44410 RAPdb gene ID: Os06g0654300 Gene Symbol: MHZ1 OsHK1 HK1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MHZ11</title>
+      <link>/genes/oryza_sativa/loc_os05g11950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g11950/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g11950 RAPdb gene ID: Os05g0210100 Gene Symbol: MHZ11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MHZ4</title>
+      <link>/genes/oryza_sativa/loc_os01g03750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g03750/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g03750 RAPdb gene ID: Os01g0128300 Gene Symbol: MHZ4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>miRn211-TLP</title>
+      <link>/genes/2024.7.17/camellia-sinensis/tea018163.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/camellia-sinensis/tea018163.1/</guid>
+      <description>Gene Details: Gene ID: TEA018163.1 Gene Symbol: miRn211-TLP Gene Name: miRn211-thaumatin-like protein Genome: Species: Camellia sinensis Functional Descriptions: Co-expression network analysis demonstrated that miR530b-ethylene responsive factor 96 (ERF96) and miRn211-thaumatin-like protein (TLP) play crucial roles in the response to GB.</description>
+    </item>
+    <item>
+      <title>MOF1;MFS2</title>
+      <link>/genes/oryza_sativa/loc_os04g47890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g47890/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g47890 RAPdb gene ID: Os04g0566600 Gene Symbol: MOF1 MFS2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MtCRE1</title>
+      <link>/genes/2024.6.9/medicago-truncatula/mtruna17chr8g0392301/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/mtruna17chr8g0392301/</guid>
+      <description>Gene Details: Gene ID: MtrunA17Chr8g0392301 Gene Symbol: MtCRE1 Gene Name: Cytokinin Response Element 1 Genome: M.</description>
+    </item>
+    <item>
+      <title>MtEFD</title>
+      <link>/genes/2024.6.9/medicago-truncatula/mtruna17_chr4g0002631/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/mtruna17_chr4g0002631/</guid>
+      <description>Gene Details: Gene ID: MtrunA17_Chr4g0002631 Gene Symbol: MtEFD Gene Name: Ethylene response Factor required for nodule Differentiation Genome: Mt5.</description>
+    </item>
+    <item>
+      <title>MtEFD</title>
+      <link>/genes/2024.6.9/medicago-truncatula/mtruna17_chr4g0002631mt0064_00055/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/mtruna17_chr4g0002631mt0064_00055/</guid>
+      <description>Gene Details: Gene ID: MtrunA17_Chr4g0002631;MT0064_00055 Gene Symbol: MtEFD Gene Name: Genome: Mt5.</description>
+    </item>
+    <item>
+      <title>MtERF1-1</title>
+      <link>/genes/2024.6.9/medicago-truncatula/mterf1-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/mterf1-1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MtERF1-1 Gene Name: B-3 Ethylene Response Factor Genome: Species: Medicago truncatula Functional Descriptions: The B-3 Ethylene Response Factor MtERF1-1 Mediates Resistance to a Subset of Root Pathogens in Medicago truncatula without Adversely Affecting Symbiosis with Rhizobia.</description>
+    </item>
+    <item>
+      <title>MtERF74</title>
+      <link>/genes/2024.6.9/medicago-truncatula/medtr2g105380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/medtr2g105380/</guid>
+      <description>Gene Details: Gene ID: Medtr2g105380 Gene Symbol: MtERF74 Gene Name: Medicago truncatula ERF-VII TF 74 Genome: Species: Medicago truncatula Functional Descriptions: Group VII ethylene response factors, MtERF74 and MtERF75, sustain nitrogen fixation in Medicago truncatula microoxic nodules.</description>
+    </item>
+    <item>
+      <title>MtERF75</title>
+      <link>/genes/2024.6.9/medicago-truncatula/medtr8g022820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/medtr8g022820/</guid>
+      <description>Gene Details: Gene ID: Medtr8g022820 Gene Symbol: MtERF75 Gene Name: Medicago truncatula ERF-VII TF 75 Genome: Species: Medicago truncatula Functional Descriptions: Group VII ethylene response factors, MtERF74 and MtERF75, sustain nitrogen fixation in Medicago truncatula microoxic nodules.</description>
+    </item>
+    <item>
+      <title>MYB108A</title>
+      <link>/genes/vitis_vinifera/myb108a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/myb108a/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_205s0077g00500 Gene Symbol: MYB108A Gene Name: Genome: genome assembly 12X.</description>
+    </item>
+    <item>
+      <title>OsCRTISO;ZEBRA2</title>
+      <link>/genes/oryza_sativa/loc_os11g36440/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g36440/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g36440 RAPdb gene ID: Os11g0572700 Gene Symbol: OsCRTISO ZEBRA2 MHZ5 MIT3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsEBF2</title>
+      <link>/genes/oryza_sativa/loc_os02g10700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g10700/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g10700 RAPdb gene ID: Os02g0200900 Gene Symbol: OsEBF2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsEIL2</title>
+      <link>/genes/oryza_sativa/loc_os07g48630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g48630/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g48630 RAPdb gene ID: Os07g0685700 Gene Symbol: OsEIL2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsERF109</title>
+      <link>/genes/oryza_sativa/loc_os09g13940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g13940/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g13940 RAPdb gene ID: Os09g0309700 Gene Symbol: OsERF109 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsERF115;AP2EREBP110</title>
+      <link>/genes/oryza_sativa/loc_os08g41030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g41030/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g41030 RAPdb gene ID: Os08g0521600 Gene Symbol: OsERF115 AP2EREBP110 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsERF71</title>
+      <link>/genes/oryza_sativa/loc_os06g09390/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g09390/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g09390 RAPdb gene ID: Os06g0194000 Gene Symbol: OsERF71 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsERF83</title>
+      <link>/genes/oryza_sativa/loc_os03g64260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g64260/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g64260 RAPdb gene ID: Os03g0860100 Gene Symbol: OsERF83 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsJAZ13</title>
+      <link>/genes/oryza_sativa/loc_os10g25230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g25230/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g25230 RAPdb gene ID: Os10g0391400 Gene Symbol: OsJAZ13 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRKD3</title>
+      <link>/genes/oryza_sativa/loc_os01g37100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g37100/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g37100 RAPdb gene ID: Os01g0551600 ,Os01g0551700 Gene Symbol: OsRKD3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PacCYP707A2</title>
+      <link>/genes/2024.6.9/prunus-avium/paccyp707a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-avium/paccyp707a2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PacCYP707A2 Gene Name: Genome: Species: Prunus avium Functional Descriptions: PacCYP707A2 negatively regulates cherry fruit ripening while PacCYP707A1 mediates drought tolerance.</description>
+    </item>
+    <item>
+      <title>PbEIL1</title>
+      <link>/genes/2024.6.9/pyrus-bretschneideri/pbeil1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-bretschneideri/pbeil1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PbEIL1 Gene Name: ethylene-insensitive 3-like Genome: Species: Pyrus bretschneideri Functional Descriptions: PbEIL1 acts upstream of PbCysp1 to regulate ovule senescence in seedless pear.</description>
+    </item>
+    <item>
+      <title>PhBPBT</title>
+      <link>/genes/2024.7.17/petunia-hybrida/phbpbt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/petunia-hybrida/phbpbt/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhBPBT Gene Name: benzoyl CoA:benzyl alcohol/phenylethanol benzoyltransferase Genome: Species: Petunia hybrida Functional Descriptions: Tissue-specific PhBPBT expression is differentially regulated in response to endogenous ethylene.</description>
+    </item>
+    <item>
+      <title>PhERF2</title>
+      <link>/genes/2024.6.9/petunia-hybrida/pherf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/petunia-hybrida/pherf2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhERF2 Gene Name: ethylene-responsive-element-binding factor 2 Genome: Species: Petunia hybrida Functional Descriptions: A petunia ethylene-responsive element binding factor, PhERF2, plays an important role in antiviral RNA silencing.</description>
+    </item>
+    <item>
+      <title>PhGRL2</title>
+      <link>/genes/2024.6.9/petunia-hybrida/phgrl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/petunia-hybrida/phgrl2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhGRL2 Gene Name: Green-ripe like protein 2 Genome: Species: Petunia hybrida Functional Descriptions: PhGRL2 Protein, Interacting with PhACO1, Is Involved in Flower Senescence in the Petunia.</description>
+    </item>
+    <item>
+      <title>PhPT1</title>
+      <link>/genes/2024.6.9/petunia-hybrida/phpt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/petunia-hybrida/phpt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhPT1|PhPht1|1 Gene Name: phosphate transporter1 Genome: Species: Petunia hybrida Functional Descriptions: Ethylene regulates phosphorus remobilization and expression of a phosphate transporter (PhPT1|PhPht1|1) during petunia corolla senescence.</description>
+    </item>
+    <item>
+      <title>PpERF.A16</title>
+      <link>/genes/2024.6.9/prunus-persica/ppa008730m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/ppa008730m/</guid>
+      <description>Gene Details: Gene ID: Ppa008730m Gene Symbol: PpERF.A16 Gene Name: Genome: peach genome version 1.</description>
+    </item>
+    <item>
+      <title>PsAFB6</title>
+      <link>/genes/2024.6.9/pisum-sativum/psafb6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pisum-sativum/psafb6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PsAFB6 Gene Name: TIR1/AFB 6 Genome: Species: Pisum sativum Functional Descriptions: Pericarp PsAFB6 expression was suppressed by seeds and increased in response to deseeding, and exogenous hormone treatments suggest that seed-derived auxin and deseeding-induced ethylene are involved in these responses, respectively.</description>
+    </item>
+    <item>
+      <title>PtoERF15</title>
+      <link>/genes/2024.6.9/populus-tomentosa/potri.008g166100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-tomentosa/potri.008g166100/</guid>
+      <description>Gene Details: Gene ID: Potri.008G166100 Gene Symbol: PtoERF15 Gene Name: ETHYLENE RESPONSE FACTOR 15 Genome: Species: Populus tomentosa Functional Descriptions: The AP2/ERF transcription factor PtoERF15 confers drought tolerance via JA-mediated signaling in Populus.</description>
+    </item>
+    <item>
+      <title>PtoMYC2b</title>
+      <link>/genes/2024.6.9/populus-tomentosa/potri.003g092200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-tomentosa/potri.003g092200/</guid>
+      <description>Gene Details: Gene ID: Potri.003G092200 Gene Symbol: PtoMYC2b Gene Name: Genome: Species: Populus tomentosa Functional Descriptions: Here, we identified and characterized an osmotic stress-induced ETHYLENE RESPONSE FACTOR 15 (PtoERF15) and its target, PtoMYC2b, which was involved in mediating vessel size, density, and cell wall thickness in response to drought in Populus tomentosa.</description>
+    </item>
+    <item>
+      <title>PuWRKY31</title>
+      <link>/genes/2024.6.9/pyrus-ussuriensis/puwrky31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-ussuriensis/puwrky31/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuWRKY31 Gene Name: WRKY transcription factor 31 Genome: Species: Pyrus ussuriensis Functional Descriptions: The expression of the transcription factor PuWRKY31 was higher in BNG fruit than in NG fruit, and was induced by sucrose treatment.</description>
+    </item>
+    <item>
+      <title>PvLOX6</title>
+      <link>/genes/2024.7.17/phaseolus-vulgaris/pvlox6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/phaseolus-vulgaris/pvlox6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PvLOX6 Gene Name: Lipoxygenase 6 Genome: Species: Phaseolus vulgaris Functional Descriptions: Isolated the cDNA of a novel chloroplast-targeted Phaseolus vulgaris LOX, (PvLOX6).</description>
+    </item>
+    <item>
+      <title>PvMTF-1</title>
+      <link>/genes/2024.6.9/phaseolus-vulgaris/pvmtf-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phaseolus-vulgaris/pvmtf-1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PvMTF-1 Gene Name: METAL RESPONSE ELEMENT-BINDING TRANSCRIPTION FACTOR1 Genome: Species: Phaseolus vulgaris Functional Descriptions: Transcription Factors PvERF15 and PvMTF-1 Form a Cadmium Stress Transcriptional Pathway.</description>
+    </item>
+    <item>
+      <title>RcBROG</title>
+      <link>/genes/2024.7.17/rosa-chinensis/rcbrog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/rosa-chinensis/rcbrog/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: RcBROG Gene Name: Black-spot Resistance Orphan Gene Genome: Species: Rosa chinensis Functional Descriptions: The Marssonina rosae effector MrSEP43 suppresses immunity in rose by targeting the orphan protein RcBROG.</description>
+    </item>
+    <item>
+      <title>RcMYB106</title>
+      <link>/genes/ricinus_communis/rcmyb106/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/ricinus_communis/rcmyb106/</guid>
+      <description>Gene Details: Gene ID:&#x9;Rc10G022841 Gene Symbol: RcMYB106 Gene Name: Genome: reference castor bean genomes (http://oilplants.</description>
+    </item>
+    <item>
+      <title>RcWIN1</title>
+      <link>/genes/ricinus_communis/rcwin1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/ricinus_communis/rcwin1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Rc07G0168961 Gene Symbol: RcWIN1 Gene Name: WAX INDUCER1 Genome: reference castor bean genomes (http://oilplants.</description>
+    </item>
+    <item>
+      <title>Sl-ERF.B3</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc05g052030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc05g052030/</guid>
+      <description>Gene Details: Gene ID: Solyc05g052030 Gene Symbol: Sl-ERF.B3 Gene Name: Ethylene Response Factor Genome: Species: Solanum lycopersicum Functional Descriptions: The chimeric repressor version of an Ethylene Response Factor (ERF) family member, Sl-ERF.</description>
+    </item>
+    <item>
+      <title>Sl-ERF2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sl-erf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sl-erf2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Sl-ERF2 Gene Name: Ethylene response factor2 Genome: Species: Solanum lycopersicum Functional Descriptions: Sl-ERF2, a Tomato Ethylene Response Factor Involved in Ethylene Response and Seed Germination.</description>
+    </item>
+    <item>
+      <title>SlEIL2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g009170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g009170/</guid>
+      <description>Gene Details: Gene ID: Solyc01g009170 Gene Symbol: SlEIL2 Gene Name: ETHYLENE-INSENSITIVE 3-LIKE 2 Genome: Species: Solanum lycopersicum Functional Descriptions: ETHYLENE-INSENSITIVE 3-LIKE 2 (SlEIL2) regulates β-carotene and ascorbic acid accumulation in tomatoes during ripening.</description>
+    </item>
+    <item>
+      <title>SlGRAS4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc01g100200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc01g100200/</guid>
+      <description>Gene Details: Gene ID: Solyc01g100200 Gene Symbol: SlGRAS4 Gene Name: GRAS transcription factor 4 Genome: Species: Solanum lycopersicum Functional Descriptions: SlGRAS4 mediates a novel regulatory pathway promoting chilling tolerance in tomato.</description>
+    </item>
+    <item>
+      <title>SlJMJ3</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc08g005240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc08g005240/</guid>
+      <description>Gene Details: Gene ID: Solyc08g005240 Gene Symbol: SlJMJ3 Gene Name: jumonji domain–containing demethylase3 Genome: Species: Solanum lycopersicum Functional Descriptions: Histone H3K27 demethylase SlJMJ3 modulates fruit ripening in tomato.</description>
+    </item>
+    <item>
+      <title>SlMKK2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slmkk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slmkk2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlMKK2 Gene Name: Mitogen-activated protein kinase 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato SlMKK2 and SlMKK4 contribute to disease resistance against Botrytis cinerea.</description>
+    </item>
+    <item>
+      <title>SlMKK4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slmkk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slmkk4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlMKK4 Gene Name: Mitogen-activated protein kinase 4 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato SlMKK2 and SlMKK4 contribute to disease resistance against Botrytis cinerea.</description>
+    </item>
+    <item>
+      <title>SlNAC3</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc07g063420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc07g063420/</guid>
+      <description>Gene Details: Gene ID: Solyc07G063420 Gene Symbol: SlNAC3 Gene Name: NAC transcription factor 3 Genome: Solanum_lycopersicum SL4.</description>
+    </item>
+    <item>
+      <title>SlPYL9</title>
+      <link>/genes/solanum_lycopersicum/slpyl9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slpyl9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc09g015380 Gene Symbol: SlPYL9 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SmCPS1</title>
+      <link>/genes/2024.6.9/salvia-miltiorrhiza/smcps1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/salvia-miltiorrhiza/smcps1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SmCPS1 Gene Name: copalyl diphosphate synthase1 Genome: Species: Salvia miltiorrhiza Functional Descriptions: The ethylene response factor SmERF6 co-regulates the transcription of SmCPS1 and SmKSL1 and is involved in tanshinone biosynthesis in Salvia miltiorrhiza hairy roots.</description>
+    </item>
+    <item>
+      <title>SmERF6</title>
+      <link>/genes/2024.6.9/salvia-miltiorrhiza/smil_00020272/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/salvia-miltiorrhiza/smil_00020272/</guid>
+      <description>Gene Details: Gene ID: SMil_00020272 Gene Symbol: SmERF6 Gene Name: ethylene responsive factor 6 Genome: miltiorrhiza online information resource (http://bi.</description>
+    </item>
+    <item>
+      <title>SmERF73</title>
+      <link>/genes/2024.6.9/salvia-miltiorrhiza/smerf73/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/salvia-miltiorrhiza/smerf73/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SmERF73 Gene Name: ethylene response factor 73 Genome: Species: Salvia miltiorrhiza Functional Descriptions: The ERF-VII transcription factor SmERF73 coordinately regulates tanshinone biosynthesis in response to stress elicitors in Salvia miltiorrhiza.</description>
+    </item>
+    <item>
+      <title>SmKSL1</title>
+      <link>/genes/2024.6.9/salvia-miltiorrhiza/smksl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/salvia-miltiorrhiza/smksl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SmKSL1 Gene Name: kaurene synthase1 Genome: Species: Salvia miltiorrhiza Functional Descriptions: The ethylene response factor SmERF6 co-regulates the transcription of SmCPS1 and SmKSL1 and is involved in tanshinone biosynthesis in Salvia miltiorrhiza hairy roots.</description>
+    </item>
+    <item>
+      <title>SOR1</title>
+      <link>/genes/oryza_sativa/loc_os04g01160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g01160/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g01160 RAPdb gene ID: Os04g0101800 Gene Symbol: SOR1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>StMKK5</title>
+      <link>/genes/2024.6.9/solanum-tuberosum/sotub03g022560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-tuberosum/sotub03g022560/</guid>
+      <description>Gene Details: Gene ID: Sotub03g022560 Gene Symbol: StMKK5 Gene Name: Genome: Species: Solanum tuberosum Functional Descriptions: The potato StMKK5-StSIPK module enhances resistance to Phytophthora pathogens through activating the salicylic acid and ethylene signalling pathways.</description>
+    </item>
+    <item>
+      <title>Sub1A</title>
+      <link>/genes/oryza_sativa/sub1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/sub1a/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: None Gene Symbol: Sub1A Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaCML36</title>
+      <link>/genes/triticum_aestivum/traescs5d02g141900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5d02g141900/</guid>
+      <description>Gene Details: Gene ID: TraesCS5D02G141900 Gene Symbol: TaCML36 Gene Name: calmodulin-like 36 Genome: Species: Triticum aestivum Functional Descriptions: TaCML36, a wheat calmodulin-like protein, positively participates in an immune response to Rhizoctonia cerealis.</description>
+    </item>
+    <item>
+      <title>TaEIL1</title>
+      <link>/genes/triticum_aestivum/taeil1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taeil1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaEIL1 Gene Name: ETHYLENE INSENSITIVE3-LIKE1 Genome: Species: Triticum aestivum Functional Descriptions: bread wheat ETHYLENE INSENSITIVE3-LIKE1 (TaEIL1), an ortholog of Arabidopsis (Arabidopsis thaliana) ETHYLENE INSENSITIVE3, negatively regulates bread wheat resistance against powdery mildew.</description>
+    </item>
+    <item>
+      <title>TaMED25-A</title>
+      <link>/genes/triticum_aestivum/tamed25-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamed25-a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaMED25-A Gene Name: Mediator subunit 25 Genome: Species: Triticum aestivum Functional Descriptions: The Wheat Mediator Subunit TaMED25 Interacts with the Transcription Factor TaEIL1 to Negatively Regulate Disease Resistance against Powdery Mildew.</description>
+    </item>
+    <item>
+      <title>TaMED25-B</title>
+      <link>/genes/triticum_aestivum/tamed25-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamed25-b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaMED25-B Gene Name: Mediator subunit 25 Genome: Species: Triticum aestivum Functional Descriptions: The Wheat Mediator Subunit TaMED25 Interacts with the Transcription Factor TaEIL1 to Negatively Regulate Disease Resistance against Powdery Mildew.</description>
+    </item>
+    <item>
+      <title>TaMED25-D</title>
+      <link>/genes/triticum_aestivum/tamed25-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamed25-d/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaMED25-D Gene Name: Mediator subunit 25 Genome: Species: Triticum aestivum Functional Descriptions: The Wheat Mediator Subunit TaMED25 Interacts with the Transcription Factor TaEIL1 to Negatively Regulate Disease Resistance against Powdery Mildew.</description>
+    </item>
+    <item>
+      <title>TaMKK5-6B</title>
+      <link>/genes/triticum_aestivum/traescs6b02g379500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs6b02g379500/</guid>
+      <description>Gene Details: Gene ID: TraesCS6B02G379500 Gene Symbol: TaMKK5-6B Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: The mitogen-activated protein kinase kinase TaMKK5 mediates immunity via the TaMKK5–TaMPK3–TaERF3 module.</description>
+    </item>
+    <item>
+      <title>TaSPL14-A</title>
+      <link>/genes/triticum_aestivum/traescs5a02g265900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5a02g265900/</guid>
+      <description>Gene Details: Gene ID: TraesCS5A02G265900 Gene Symbol: TaSPL14-A Gene Name: SQUAMOSA PROMOTER-BINDING PROTEIN-LIKE 14 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaSPL14-B</title>
+      <link>/genes/triticum_aestivum/traescs5b02g265600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5b02g265600/</guid>
+      <description>Gene Details: Gene ID: TraesCS5B02G265600 Gene Symbol: TaSPL14-B Gene Name: SQUAMOSA PROMOTER-BINDING PROTEIN-LIKE 14 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaSPL14-D</title>
+      <link>/genes/triticum_aestivum/traescs5d02g273900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5d02g273900/</guid>
+      <description>Gene Details: Gene ID: TraesCS5D02G273900 Gene Symbol: TaSPL14-D Gene Name: SQUAMOSA PROMOTER-BINDING PROTEIN-LIKE 14 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>ZmEREB179</title>
+      <link>/genes/zea_mays/zm00001eb006160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb006160/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb006160 Gene Symbol: ZmEREB179 Gene Name: AP2-EREBP transcription factor 179 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMPK17</title>
+      <link>/genes/zea_mays/zm00001eb209160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb209160/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb209160 Gene Symbol: ZmMPK17 Gene Name: MAP kinase17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

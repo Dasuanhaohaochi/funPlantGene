@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>telomere repeat-binding factor on funPlantGenes</title>
+    <link>/tags/telomere-repeat-binding-factor/</link>
+    <description>Recent content in telomere repeat-binding factor on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/telomere-repeat-binding-factor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTMyb1;OsTRFL1</title>
+      <link>/genes/oryza_sativa/loc_os02g53670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g53670/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g53670 RAPdb gene ID: Os02g0776700 Gene Symbol: CTMyb1 OsTRFL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTRBF1</title>
+      <link>/genes/oryza_sativa/loc_os01g40670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g40670/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g40670 RAPdb gene ID: Os01g0589300 Gene Symbol: OsTRBF1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTRBF2</title>
+      <link>/genes/oryza_sativa/loc_os12g41920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os12g41920/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g41920 RAPdb gene ID: Os12g0613300 Gene Symbol: OsTRBF2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTRBF3</title>
+      <link>/genes/oryza_sativa/loc_os01g51154/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g51154/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g51154 RAPdb gene ID: Os01g0708000 Gene Symbol: OsTRBF3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

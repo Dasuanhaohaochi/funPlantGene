@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abc transporter on funPlantGenes</title>
+    <link>/tags/abc-transporter/</link>
+    <description>Recent content in abc transporter on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/abc-transporter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARG1</title>
+      <link>/genes/oryza_sativa/loc_os05g33230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g33230/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g33230 RAPdb gene ID: Os05g0400600 Gene Symbol: ARG1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>CaABCC3(6)</title>
+      <link>/genes/2024.7.17/cicer-arietinum/ca_09705/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/cicer-arietinum/ca_09705/</guid>
+      <description>Gene Details: Gene ID: Ca_09705 Gene Symbol: CaABCC3(6) Gene Name: ABC transporter 3 Genome: Cicer_arietinum_GA_v1.</description>
+    </item>
+    <item>
+      <title>Gl13</title>
+      <link>/genes/zea_mays/gl13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/gl13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb122470 Gene Symbol: Gl13 Gene Name: glossy13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>MdABCF</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000170302/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000170302/</guid>
+      <description>Gene Details: Gene ID: MDP0000170302 Gene Symbol: MdABCF Gene Name: ABC transporter family F protein Genome: Species: Malus domestica Functional Descriptions: Apple MdABCF assists in the transportation of S-RNase into pollen tubes.</description>
+    </item>
+    <item>
+      <title>NtPDR3</title>
+      <link>/genes/2024.6.9/nicotiana-tabacum/ntpdr3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-tabacum/ntpdr3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtPDR3 Gene Name: pleiotropic drug resistance protein 3 Genome: Species: Nicotiana tabacum Functional Descriptions: The Nicotiana tabacum ABC transporter NtPDR3 secretes O-methylated coumarins in response to iron deficiency.</description>
+    </item>
+    <item>
+      <title>OsABCC1;MRP1</title>
+      <link>/genes/oryza_sativa/loc_os04g52900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g52900/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g52900 RAPdb gene ID: Os04g0620000 Gene Symbol: OsABCC1 MRP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsABCG18</title>
+      <link>/genes/oryza_sativa/loc_os08g07010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g07010/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g07010 RAPdb gene ID: Os08g0167000 Gene Symbol: OsABCG18 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsABCG25</title>
+      <link>/genes/oryza_sativa/loc_os10g30610/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g30610/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g30610 RAPdb gene ID: Os10g0442900 ,Os10g0442950 Gene Symbol: OsABCG25 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsABCG9</title>
+      <link>/genes/oryza_sativa/loc_os04g44610/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g44610/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g44610 RAPdb gene ID: Os04g0528300 Gene Symbol: OsABCG9 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsABCI8;TSC1</title>
+      <link>/genes/oryza_sativa/loc_os11g29850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g29850/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g29850 RAPdb gene ID: Os11g0490800 Gene Symbol: OsABCI8 TSC1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsACBP6</title>
+      <link>/genes/oryza_sativa/loc_os03g61930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g61930/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g61930 RAPdb gene ID: Os03g0835600 Gene Symbol: OsACBP6 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Ospdr9;OsABCG36</title>
+      <link>/genes/oryza_sativa/loc_os01g42380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g42380/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g42380 RAPdb gene ID: Os01g0609300 Gene Symbol: Ospdr9 OsABCG36 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaABCC3.1</title>
+      <link>/genes/triticum_aestivum/taabcc3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taabcc3.1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaABCC3.1 Gene Name: ABC transporter C family member 3 protein 1 Genome: Species: Triticum aestivum Functional Descriptions: Two variants of an ATP-binding cassette (ABC) family C transporter gene were cloned from DON-treated wheat mRNA, namely TaABCC3.</description>
+    </item>
+    <item>
+      <title>TaABCC3.2</title>
+      <link>/genes/triticum_aestivum/taabcc3.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taabcc3.2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaABCC3.2 Gene Name: ABC transporter C family member 3 protein 2 Genome: Species: Triticum aestivum Functional Descriptions: Two variants of an ATP-binding cassette (ABC) family C transporter gene were cloned from DON-treated wheat mRNA, namely TaABCC3.</description>
+    </item>
+    <item>
+      <title>ZmPGP1;br2</title>
+      <link>/genes/zea_mays/zmpgp1br2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpgp1br2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb038710 Gene Symbol: ZmPGP1 br2 Gene Name: brachytic2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

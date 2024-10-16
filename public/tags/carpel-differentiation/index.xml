@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carpel differentiation on funPlantGenes</title>
+    <link>/tags/carpel-differentiation/</link>
+    <description>Recent content in carpel differentiation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/carpel-differentiation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsALC</title>
+      <link>/genes/cucumis_sativus/csalc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/cucumis_sativus/csalc/</guid>
+      <description>Gene Details: Gene ID:&#x9;Csa2G356640 Gene Symbol: CsALC Gene Name: ALCATRAZ Genome: Cucumber (Chinese Long) v2 Genome Species: Cucumis sativus Functional Descriptions: SPATULA and ALCATRAZ confer female sterility and fruit cavity via mediating pistil development in cucumber.</description>
+    </item>
+    <item>
+      <title>CsSPT</title>
+      <link>/genes/cucumis_sativus/csspt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/cucumis_sativus/csspt/</guid>
+      <description>Gene Details: Gene ID:&#x9;Csa6G491000 Gene Symbol: CsSPT Gene Name: SPATULA Genome: Cucumber (Chinese Long) v2 Genome Species: Cucumis sativus Functional Descriptions: CsSPT and CsALC act in homodimers and heterodimers to confer fruit cavity and female sterility by mediating genes involved in TT development, auxin-mediated signaling, and cell wall organization in cucumber.</description>
+    </item>
+    <item>
+      <title>OsETTIN1;OsARF15</title>
+      <link>/genes/oryza_sativa/loc_os05g48870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g48870/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g48870 RAPdb gene ID: Os05g0563400 Gene Symbol: OsETTIN1 OsARF15 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>style on funPlantGenes</title>
+    <link>/tags/style/</link>
+    <description>Recent content in style on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/style/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT3G18830</title>
+      <link>/genes/arabidopsis_thaliana/at3g18830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g18830/</guid>
+      <description>Gene Details: Gene ID: AT3G18830 Gene Symbol: ATPLT5, ATPMT5, PMT5 Gene Name: POLYOL TRANSPORTER 5, ARABIDOPSIS THALIANA POLYOL/MONOSACCHARIDE TRANSPORTER 5, polyol/monosaccharide transporter 5 Description: polyol/monosaccharide transporter 5;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G18830.</description>
+    </item>
+    <item>
+      <title>AT3G19210</title>
+      <link>/genes/arabidopsis_thaliana/at3g19210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g19210/</guid>
+      <description>Gene Details: Gene ID: AT3G19210 Gene Symbol: ATRAD54, CHR25, RAD54 Gene Name: homolog of RAD54, homolog of RAD54 Description: DNA repair/recombination protein;(source:Araport11) TAIR Accession: locus:2094083 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G19210.</description>
+    </item>
+    <item>
+      <title>AT3G30720</title>
+      <link>/genes/arabidopsis_thaliana/at3g30720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g30720/</guid>
+      <description>Gene Details: Gene ID: AT3G30720 Gene Symbol: DEG6, QQS Gene Name: QUA-QUINE STARCH Description: qua-quine starch;(source:Araport11) TAIR Accession: locus:2079466 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G30720.</description>
+    </item>
+    <item>
+      <title>AT4G17460</title>
+      <link>/genes/arabidopsis_thaliana/at4g17460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g17460/</guid>
+      <description>Gene Details: Gene ID: AT4G17460 Gene Symbol: HAT1, JAB Gene Name: JAIBA Description: Homeobox-leucine zipper protein 4 (HB-4) / HD-ZIP protein;(source:Araport11) TAIR Accession: locus:2129061 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G17460.</description>
+    </item>
+    <item>
+      <title>AT4G24230</title>
+      <link>/genes/arabidopsis_thaliana/at4g24230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g24230/</guid>
+      <description>Gene Details: Gene ID: AT4G24230 Gene Symbol: ACBP3 Gene Name: acyl-CoA-binding domain 3 Description: acyl-CoA-binding domain 3;(source:Araport11) TAIR Accession: locus:2135947 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G24230.</description>
+    </item>
+    <item>
+      <title>AT5G22220</title>
+      <link>/genes/arabidopsis_thaliana/at5g22220/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g22220/</guid>
+      <description>Gene Details: Gene ID: AT5G22220 Gene Symbol: ATE2FB, E2F1, E2FB Gene Name: E2F transcription factor 1 Description: E2F transcription factor 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G22220.</description>
+    </item>
+    <item>
+      <title>AT5G37770</title>
+      <link>/genes/arabidopsis_thaliana/at5g37770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g37770/</guid>
+      <description>Gene Details: Gene ID: AT5G37770 Gene Symbol: AtCML24, CML24, TCH2 Gene Name: CALMODULIN-LIKE 24, TOUCH 2 Description: EF hand calcium-binding protein family;(source:Araport11) TAIR Accession: locus:2156040 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G37770.</description>
+    </item>
+    <item>
+      <title>AT5G42890</title>
+      <link>/genes/arabidopsis_thaliana/at5g42890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g42890/</guid>
+      <description>Gene Details: Gene ID: AT5G42890 Gene Symbol: ATSCP2, SCP2 Gene Name: STEROL CARRIER PROTEIN 2, sterol carrier protein 2 Description: sterol carrier protein 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G42890.</description>
+    </item>
+  </channel>
+</rss>

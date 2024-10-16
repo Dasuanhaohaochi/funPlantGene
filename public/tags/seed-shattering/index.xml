@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seed shattering on funPlantGenes</title>
+    <link>/tags/seed-shattering/</link>
+    <description>Recent content in seed shattering on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/seed-shattering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BnaA.ALC.a</title>
+      <link>/genes/brassica_napus/bnaa.alc.a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaa.alc.a/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaA07g12110D Gene Symbol: BnaA.ALC.a Gene Name: ALCATRAZ Genome: B.</description>
+    </item>
+    <item>
+      <title>BnaC.ALC.a</title>
+      <link>/genes/brassica_napus/bnac.alc.a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnac.alc.a/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaC07g16290D Gene Symbol: BnaC.ALC.a Gene Name: ALCATRAZ Genome: B.</description>
+    </item>
+    <item>
+      <title>D6;OSH15</title>
+      <link>/genes/oryza_sativa/loc_os07g03770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g03770/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g03770 RAPdb gene ID: Os07g0129700 Gene Symbol: D6 OSH15 Oskn3 RLB Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>GS2;OsGRF4</title>
+      <link>/genes/oryza_sativa/loc_os02g47280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g47280/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g47280 RAPdb gene ID: Os02g0701300 Gene Symbol: GS2 OsGRF4 GL2 GLW2 LGS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSh1</title>
+      <link>/genes/oryza_sativa/loc_os03g44710/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g44710/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g44710 RAPdb gene ID: Os03g0650000 Gene Symbol: OsSh1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>qSH1;RIL1</title>
+      <link>/genes/oryza_sativa/loc_os01g62920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g62920/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g62920 RAPdb gene ID: Os01g0848400 Gene Symbol: qSH1 RIL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>RHS1</title>
+      <link>/genes/oryza_sativa/loc_os04g41250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g41250/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g41250 RAPdb gene ID: Os04g0489800 Gene Symbol: RHS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>sh4;SHA1</title>
+      <link>/genes/oryza_sativa/loc_os04g57530/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g57530/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g57530 RAPdb gene ID: Os04g0670900 Gene Symbol: sh4 SHA1 SG5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SH5;RI</title>
+      <link>/genes/oryza_sativa/loc_os05g38120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g38120/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g38120 RAPdb gene ID: Os05g0455200 Gene Symbol: SH5 RI Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SvLes1</title>
+      <link>/genes/setaria_viridis/svles1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/setaria_viridis/svles1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Sevir.5G085400 Gene Symbol: SvLes1 Gene Name: Genome: Setaria viridis Species: Setaria viridis Functional Description: With CRISPR–Cas9 genome editing, we validated Less Shattering1 (SvLes1) as a gene whose product controls seed shattering.</description>
+    </item>
+  </channel>
+</rss>

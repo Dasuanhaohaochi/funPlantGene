@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ja signalling on funPlantGenes</title>
+    <link>/tags/ja-signalling/</link>
+    <description>Recent content in ja signalling on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ja-signalling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AaORA</title>
+      <link>/genes/artemisia_annua/aaora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/artemisia_annua/aaora/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: AaORA Gene Name: octadecanoid-derivative responsive AP2-domain Genome: Species: Artemisia annua Functional Descriptions: AaTCP15, a JA and ABA dual-responsive teosinte branched1/cycloidea/proliferating (TCP) TF, which is essential for JA and ABA-induced artemisinin biosynthesis by directly binding to and activating the promoters of DBR2 and ALDH1, two genes encoding enzymes for artemisinin biosynthesis.</description>
+    </item>
+    <item>
+      <title>AaTCP15</title>
+      <link>/genes/artemisia_annua/aatcp15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/artemisia_annua/aatcp15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: AaTCP15 Gene Name: aldehyde dehydrogenase 1 Genome: Species: Artemisia annua Functional Descriptions: AaTCP15, a JA and ABA dual-responsive teosinte branched1/cycloidea/proliferating (TCP) TF, which is essential for JA and ABA-induced artemisinin biosynthesis by directly binding to and activating the promoters of DBR2 and ALDH1, two genes encoding enzymes for artemisinin biosynthesis.</description>
+    </item>
+    <item>
+      <title>AaWRKY9</title>
+      <link>/genes/artemisia_annua/aawrky9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/artemisia_annua/aawrky9/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: AaWRKY9 Gene Name: WRKY transcription factor 9 Genome: Species: Artemisia annua Functional Descriptions: Our data suggested that the AaWRKY9 protein positively regulates artemisinin biosynthesis by directly binding to the W-boxes in the promoters of DBR2 and AaGSW1 and activating their expression AaWRKY9 contributes to light- and jasmonate-mediated to regulate the biosynthesis of artemisinin in Artemisia annua.</description>
+    </item>
+    <item>
+      <title>CaARF9</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana00g000236/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana00g000236/</guid>
+      <description>Gene Details: Gene ID: Capana00g000236 Gene Symbol: CaARF9 Gene Name: Genome: Species: Capsicum annuum Functional Descriptions: Demonstrate that an auxin response factor, CaARF9, has dual roles in enhancing the immune resistance to Ralstonia solanacearum infection and in retarding plant growth by repressing the expression of its target genes as exemplified by Casmc4, CaLBD37, CaAPK1b and CaRROP1.</description>
+    </item>
+    <item>
+      <title>CaC3H14</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cac3h14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cac3h14/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaC3H14 Gene Name: zinc finger CCCH domain-containing protein 14 Genome: Species: Capsicum annuum Functional Descriptions: CaC3H14 encoding a tandem CCCH zinc finger protein is directly targeted by CaWRKY40 and positively regulates the response of pepper to inoculation by Ralstonia solanacearum.</description>
+    </item>
+    <item>
+      <title>CsJAZ6</title>
+      <link>/genes/camellia_sinensis/csjaz6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/csjaz6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CsJAZ6 Gene Name: Camellia sinensis JASMONATE-ZIM DOMAIN6 Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>GhSSI2-A</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghssi2-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghssi2-a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-A Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhSSI2-B</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghssi2-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghssi2-b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-B Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>GhSSI2-C</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghssi2-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghssi2-c/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhSSI2-C Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhSSI2 isoforms from the stearoyl acyl carrier protein fatty acid desaturase family regulate Verticillium wilt resistance.</description>
+    </item>
+    <item>
+      <title>MdVQ12</title>
+      <link>/genes/2024.6.9/malus-domestica/mdvq12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdvq12/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdVQ12 Gene Name: Genome: Species: Malus domestica Functional Descriptions: MdVQ12, a VQ motif-containing protein, as a positive regulator of apple Valsa canker resistance.</description>
+    </item>
+    <item>
+      <title>OsMYC2</title>
+      <link>/genes/oryza_sativa/loc_os10g42430/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g42430/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g42430 RAPdb gene ID: Os10g0575000 Gene Symbol: OsMYC2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlBBX20</title>
+      <link>/genes/solanum_lycopersicum/slbbx20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slbbx20/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g110180 Gene Symbol: SlBBX20 Gene Name: B-BOX (BBX) transcription factor 20 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCBF1</title>
+      <link>/genes/solanum_lycopersicum/slcbf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcbf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g026280 Gene Symbol: SlCBF1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCBF2</title>
+      <link>/genes/solanum_lycopersicum/slcbf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcbf2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g124110 Gene Symbol: SlCBF2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCBF3</title>
+      <link>/genes/solanum_lycopersicum/slcbf3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcbf3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g026270 Gene Symbol: SlCBF3 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlMYC1</title>
+      <link>/genes/solanum_lycopersicum/slmyc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slmyc1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g005050 Gene Symbol: SlMYC1 Gene Name: Transcription factor MYC1 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>StJAZ1-like</title>
+      <link>/genes/2024.6.9/solanum-tuberosum/soltu.dm.07g012950.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-tuberosum/soltu.dm.07g012950.1/</guid>
+      <description>Gene Details: Gene ID: Soltu.DM.07G012950.1 Gene Symbol: StJAZ1-like Gene Name: Genome: Species: Solanum tuberosum Functional Descriptions: Overexpression of StJAZ1-like affects tuber initiation and yield in potato.</description>
+    </item>
+    <item>
+      <title>WI12Rhg1</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.18g02270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.18g02270/</guid>
+      <description>Gene Details: Gene ID: Glyma.18G02270 Gene Symbol: WI12Rhg1 Gene Name: Genome: Species: Glycine max Functional Descriptions: WI12Rhg1 interacts with DELLAs and mediates soybean cyst nematode resistance through hormone pathways.</description>
+    </item>
+    <item>
+      <title>ZmEREB57</title>
+      <link>/genes/zea_mays/zm00001eb193060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb193060/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb193060 Gene Symbol: ZmEREB57 Gene Name: AP2-EREBP-transcription factor 57 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmREM1.3;remo3</title>
+      <link>/genes/zea_mays/zmrem1.3remo3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmrem1.3remo3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb075630 Gene Symbol: ZmREM1.3 remo3 Gene Name: remorin3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

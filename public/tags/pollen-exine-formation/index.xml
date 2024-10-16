@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pollen exine formation on funPlantGenes</title>
+    <link>/tags/pollen-exine-formation/</link>
+    <description>Recent content in pollen exine formation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/pollen-exine-formation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhNSP</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghir_d02g025140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghir_d02g025140/</guid>
+      <description>Gene Details: Gene ID: Ghir_D02G025140 Gene Symbol: GhNSP Gene Name: NO SPINE POLLEN Genome: Species: Gossypium hirsutum Functional Descriptions: Degradation of de-esterified pctin/homogalacturonan by the polygalacturonase GhNSP is necessary for pollen exine formation and male fertility in cotton.</description>
+    </item>
+    <item>
+      <title>GhNSP</title>
+      <link>/genes/gossypium_hirsutum/ghnsp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghnsp/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_D02G025140 Gene Symbol: GhNSP Gene Name: NO SPINE POLLEN Genome: G.</description>
+    </item>
+    <item>
+      <title>IPE2;ms5</title>
+      <link>/genes/zea_mays/ipe2ms5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/ipe2ms5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb237060 Gene Symbol: IPE2 ms5 Gene Name: IRREGULAR POLLEN EXINE2;male sterile5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>OsABCG15</title>
+      <link>/genes/oryza_sativa/loc_os06g40550/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g40550/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g40550 RAPdb gene ID: Os06g0607700 Gene Symbol: OsABCG15 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsABCG26</title>
+      <link>/genes/oryza_sativa/loc_os10g35180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g35180/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g35180 RAPdb gene ID: Os10g0494300 Gene Symbol: OsABCG26 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMYB80;BM1</title>
+      <link>/genes/oryza_sativa/loc_os04g39470/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g39470/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g39470 RAPdb gene ID: Os04g0470600 Gene Symbol: OsMYB80 BM1 OsMS188 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPKS1;YY2</title>
+      <link>/genes/oryza_sativa/loc_os10g34360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g34360/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g34360 RAPdb gene ID: Os10g0484800 Gene Symbol: OsPKS1 YY2 OsLAP6 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTKPR1;OsDFR2</title>
+      <link>/genes/oryza_sativa/loc_os09g32020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g32020/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g32020 RAPdb gene ID: Os09g0493500 Gene Symbol: OsTKPR1 OsDFR2 OS-DFR2 OsCCRL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PTC1;OsMS1</title>
+      <link>/genes/oryza_sativa/loc_os09g27620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g27620/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g27620 RAPdb gene ID: Os09g0449000 Gene Symbol: PTC1 OsMS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>RMS2;OsGELP34</title>
+      <link>/genes/oryza_sativa/loc_os02g18870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g18870/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g18870 RAPdb gene ID: Os02g0290900 Gene Symbol: RMS2 OsGELP34 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TIP3</title>
+      <link>/genes/oryza_sativa/loc_os03g50780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g50780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g50780 RAPdb gene ID: Os03g0716200 Gene Symbol: TIP3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmMs13;ZmABCG2a</title>
+      <link>/genes/zea_mays/zmms13zmabcg2ams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmms13zmabcg2ams/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb221130 Gene Symbol: ZmMs13 ZmABCG2a ms Gene Name: male sterile13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMs30</title>
+      <link>/genes/zea_mays/zm00001eb195900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb195900/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb195900 Gene Symbol: ZmMs30 Gene Name: male sterile30 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYB84</title>
+      <link>/genes/zea_mays/zmmyb84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmmyb84/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb424660 Gene Symbol: ZmMYB84 Gene Name: MYB-transcription factor 84 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPKSB;chls1</title>
+      <link>/genes/zea_mays/zmpksbchls1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpksbchls1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb305800 Gene Symbol: ZmPKSB chls1 Gene Name: chalcone synthase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTKPR1-1</title>
+      <link>/genes/zea_mays/zm00001eb035410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb035410/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb035410 Gene Symbol: ZmTKPR1-1 Gene Name: dihydroflavonoid reductase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTKPR1-2</title>
+      <link>/genes/zea_mays/zm00001eb317040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb317040/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb317040 Gene Symbol: ZmTKPR1-2 Gene Name: dihydroflavonoid reductase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

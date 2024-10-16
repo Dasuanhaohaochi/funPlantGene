@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cytosol on funPlantGenes</title>
+    <link>/tags/cytosol/</link>
+    <description>Recent content in cytosol on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/cytosol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsLIS/NES</title>
+      <link>/genes/2024.6.9/camellia-sinensis/cslisnes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/cslisnes/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsLIS/NES Gene Name: cultivar Suchazao bifunctional terpenoid synthase Genome: Species: Camellia sinensis Functional Descriptions: Implementation of CsLIS/NES in linalool biosynthesis involves transcript splicing regulation in Camellia sinensis.</description>
+    </item>
+    <item>
+      <title>GmMATE100</title>
+      <link>/genes/2024.7.17/glycine-max/glyma.18g143700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/glycine-max/glyma.18g143700/</guid>
+      <description>Gene Details: Gene ID: Glyma.18G143700 Gene Symbol: GmMATE100 Gene Name: MATE-type soyasaponin transporter Genome: G.</description>
+    </item>
+    <item>
+      <title>MdMa1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000252114/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000252114/</guid>
+      <description>Gene Details: Gene ID: MDP0000252114 Gene Symbol: MdMa1 Gene Name: Ma locus Genome: Species: Malus domestica Functional Descriptions: Transcriptional repression of MdMa1 by MdMYB21 in Ma locus decreases malic acid content in apple fruit.</description>
+    </item>
+    <item>
+      <title>MtCCD1</title>
+      <link>/genes/2024.6.9/medicago-truncatula/mtccd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/mtccd1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MtCCD1 Gene Name: carotenoid cleavage dioxygenase 1 Genome: Species: Medicago truncatula Functional Descriptions: RNA Interference-Mediated Repression of MtCCD1 in Mycorrhizal Roots of Medicago truncatula Causes Accumulation of C27 Apocarotenoids, Shedding Light on the Functional Role of CCD1.</description>
+    </item>
+    <item>
+      <title>nuRIP;OsjRIP11.2</title>
+      <link>/genes/oryza_sativa/loc_os11g06460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g06460/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g06460 RAPdb gene ID: Os11g0164000 Gene Symbol: nuRIP OsjRIP11.</description>
+    </item>
+    <item>
+      <title>OsNIP1;2</title>
+      <link>/genes/oryza_sativa/loc_os01g10600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g10600/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g10600 RAPdb gene ID: Os01g0202800 Gene Symbol: OsNIP1 2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTH1</title>
+      <link>/genes/oryza_sativa/loc_os12g09000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os12g09000/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g09000 RAPdb gene ID: Os12g0192500 Gene Symbol: OsTH1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTMT1;OsTST1</title>
+      <link>/genes/oryza_sativa/loc_os10g39440/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g39440/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g39440 RAPdb gene ID: Os10g0539900 Gene Symbol: OsTMT1 OsTST1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsWRKY62</title>
+      <link>/genes/oryza_sativa/loc_os09g25070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g25070/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g25070 RAPdb gene ID: Os09g0417800 Gene Symbol: OsWRKY62 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PAM1</title>
+      <link>/genes/2024.6.9/petunia-hybrida/pam1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/petunia-hybrida/pam1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PAM1 Gene Name: penetration and arbuscule morphogenesis 1 Genome: Species: Petunia hybrida Functional Descriptions: We have previously identified a mutant in Petunia hybrida, penetration and arbuscule morphogenesis 1 (PAM1), that is defective in the intracellular stages of AM development.</description>
+    </item>
+    <item>
+      <title>PpTPS1</title>
+      <link>/genes/2024.6.9/prunus-persica/prupe.4g030400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/prupe.4g030400/</guid>
+      <description>Gene Details: Gene ID: Prupe.4G030400 Gene Symbol: PpTPS1 Gene Name: terpene synthase 1 Genome: Species: Prunus persica Functional Descriptions: Heterologous expression in Escherichia coli and transient overexpression in tobacco and peach fruits showed PpTPS1 was localized in plastids and associated with production of linalool, while PpTPS2 was responsible for (E,E)-α-farnesene biosynthesis in the cytoplasm.</description>
+    </item>
+    <item>
+      <title>PpTPS2</title>
+      <link>/genes/2024.6.9/prunus-persica/prupe.4g029900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/prupe.4g029900/</guid>
+      <description>Gene Details: Gene ID: Prupe.4G029900 Gene Symbol: PpTPS2 Gene Name: terpene synthase 2 Genome: Species: Prunus persica Functional Descriptions: Heterologous expression in Escherichia coli and transient overexpression in tobacco and peach fruits showed PpTPS1 was localized in plastids and associated with production of linalool, while PpTPS2 was responsible for (E,E)-α-farnesene biosynthesis in the cytoplasm.</description>
+    </item>
+    <item>
+      <title>SlCYS8</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slcys8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slcys8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCYS8 Gene Name: Cysteine proteinase inhibitor Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato cystatin SlCYS8 as a stabilizing fusion partner for human serpin expression in plants.</description>
+    </item>
+    <item>
+      <title>SMK2</title>
+      <link>/genes/zea_mays/smk2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/smk2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb208970 Gene Symbol: SMK2 Gene Name: small kernel2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>VvCXIP4</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvcxip4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvcxip4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvCXIP4 Gene Name: CAX-interacting protein 4 Genome: Species: Vitis vinifera Functional Descriptions: The grapevine CAX-interacting protein VvCXIP4 is exported from the nucleus to activate the tonoplast Ca2+/H+ exchanger VvCAX3.</description>
+    </item>
+    <item>
+      <title>VvK3.1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvk3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvk3.1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvK3.1 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: Characterization of the grapevine Shaker K+ channel VvK3.</description>
+    </item>
+    <item>
+      <title>YLC3</title>
+      <link>/genes/oryza_sativa/loc_os02g46130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g46130/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g46130 RAPdb gene ID: Os02g0686400 Gene Symbol: YLC3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmCDPK7;ZmCPK29</title>
+      <link>/genes/zea_mays/zmcdpk7zmcpk29cdpk20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmcdpk7zmcpk29cdpk20/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb351760 Gene Symbol: ZmCDPK7 ZmCPK29 cdpk20 Gene Name: calcium dependent protein kinase20 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGS1-5;ZmGLN1.5</title>
+      <link>/genes/zea_mays/zmgs1-5zmgln1.5gln3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmgs1-5zmgln1.5gln3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb399860 Gene Symbol: ZmGS1-5 ZmGLN1.5 gln3 Gene Name: glutamine synthetase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRR4;gpm84</title>
+      <link>/genes/zea_mays/zmrr4gpm84crr4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmrr4gpm84crr4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb362820 Gene Symbol: ZmRR4 gpm84 crr4 Gene Name: cytokinin response regulator4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTFCB;tfcb1</title>
+      <link>/genes/zea_mays/zmtfcbtfcb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmtfcbtfcb1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb076570 Gene Symbol: ZmTFCB tfcb1 Gene Name: tubulin-folding cofactor B1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

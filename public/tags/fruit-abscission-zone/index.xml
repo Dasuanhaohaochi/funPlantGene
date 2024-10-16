@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fruit abscission zone on funPlantGenes</title>
+    <link>/tags/fruit-abscission-zone/</link>
+    <description>Recent content in fruit abscission zone on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/fruit-abscission-zone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G39200</title>
+      <link>/genes/arabidopsis_thaliana/at2g39200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g39200/</guid>
+      <description>Gene Details: Gene ID: AT2G39200 Gene Symbol: ATMLO12, MLO12 Gene Name: MILDEW RESISTANCE LOCUS O 12, MILDEW RESISTANCE LOCUS O 12 Description: Seven transmembrane MLO family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G39200.</description>
+    </item>
+    <item>
+      <title>AT3G04120</title>
+      <link>/genes/arabidopsis_thaliana/at3g04120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g04120/</guid>
+      <description>Gene Details: Gene ID: AT3G04120 Gene Symbol: GAPC, GAPC-1, GAPC1 Gene Name: GLYCERALDEHYDE-3-PHOSPHATE DEHYDROGENASE C SUBUNIT, glyceraldehyde-3-phosphate dehydrogenase C subunit 1 Description: glyceraldehyde-3-phosphate dehydrogenase C subunit 1;(source:Araport11) TAIR Accession: locus:2103085 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G04120.</description>
+    </item>
+    <item>
+      <title>AT3G18715</title>
+      <link>/genes/arabidopsis_thaliana/at3g18715/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g18715/</guid>
+      <description>Gene Details: Gene ID: AT3G18715 Gene Symbol: IDL4 Gene Name: inflorescence deficient in abscission (IDA)-like 4 Description: inflorescence deficient in abscission (IDA)-like 4;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G18715.</description>
+    </item>
+    <item>
+      <title>AT3G45290</title>
+      <link>/genes/arabidopsis_thaliana/at3g45290/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g45290/</guid>
+      <description>Gene Details: Gene ID: AT3G45290 Gene Symbol: ATMLO3, MLO3 Gene Name: MILDEW RESISTANCE LOCUS O 3, MILDEW RESISTANCE LOCUS O 3 Description: Seven transmembrane MLO family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G45290.</description>
+    </item>
+    <item>
+      <title>AT5G19330</title>
+      <link>/genes/arabidopsis_thaliana/at5g19330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g19330/</guid>
+      <description>Gene Details: Gene ID: AT5G19330 Gene Symbol: ARIA Gene Name: ARM repeat protein interacting with ABF2 Description: ARM repeat protein interacting with ABF2;(source:Araport11) TAIR Accession: locus:2150295 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G19330.</description>
+    </item>
+    <item>
+      <title>AT5G37770</title>
+      <link>/genes/arabidopsis_thaliana/at5g37770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g37770/</guid>
+      <description>Gene Details: Gene ID: AT5G37770 Gene Symbol: AtCML24, CML24, TCH2 Gene Name: CALMODULIN-LIKE 24, TOUCH 2 Description: EF hand calcium-binding protein family;(source:Araport11) TAIR Accession: locus:2156040 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G37770.</description>
+    </item>
+  </channel>
+</rss>

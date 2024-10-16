@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photoperiod response on funPlantGenes</title>
+    <link>/tags/photoperiod-response/</link>
+    <description>Recent content in photoperiod response on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/photoperiod-response/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CmCIB1</title>
+      <link>/genes/2024.7.17/chrysanthemum-morifolium/cmcib1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/chrysanthemum-morifolium/cmcib1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CmCIB1 Gene Name: CRYPTOCHROME-INTERACTING bHLH1 Genome: Species: Chrysanthemum morifolium Functional Descriptions: The GA-receptor CmGID1B plays an important role in integrating photoperiod information from the CmCIB1-PHR2 complex and plant age from the cmo-miR156-CmSPL3 module to coordinate endogenous GA levels and signal perception.</description>
+    </item>
+    <item>
+      <title>CmGID1B</title>
+      <link>/genes/chrysanthemum_morifolium/cmgid1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/chrysanthemum_morifolium/cmgid1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CmGID1B Gene Name: Genome: Chrysanthemum genome v2.</description>
+    </item>
+    <item>
+      <title>GmGBP1</title>
+      <link>/genes/glycine_max/gmgbp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmgbp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.01G008600.1 Gene Symbol: GmGBP1 Gene Name: Glycine max GAMYB-binding protein gene Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: Natural variation in GmGBP1 promoter affects photoperiod control of flowering time and maturity in soybean.</description>
+    </item>
+    <item>
+      <title>GmRAV</title>
+      <link>/genes/glycine_max/gmrav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmrav/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.10G204400 Gene Symbol: GmRAV Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: We identified six polymorphisms in the GmRAV promoter that showed significant association with flowering time and maturity of soybean in one or multiple environments.</description>
+    </item>
+    <item>
+      <title>HvCO1</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvco1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvco1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvCO1 Gene Name: CONSTANS-like protein1 Genome: Species: Hordeum vulgare Functional Descriptions: HvCO1, the closest barley ortholog of the key photoperiod response gene CONSTANS in Arabidopsis, was over-expressed in the spring barley Golden Promise.</description>
+    </item>
+    <item>
+      <title>HvFT3</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvft3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvft3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvFT3|PPDH2 Gene Name: FT-like protein 3 Genome: Species: Hordeum vulgare Functional Descriptions: Expression analysis of vernalization and day-length response genes in barley (Hordeum vulgare L.</description>
+    </item>
+    <item>
+      <title>phyB1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/phyb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/phyb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: phyB1 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We report that SlphyF acts as a red/far-red light reversible low fluence sensor, likely through the formation of heterodimers with SlphyB1 and SlphyB2.</description>
+    </item>
+    <item>
+      <title>PHYB2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/phyb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/phyb2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PHYB2 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: We report that SlphyF acts as a red/far-red light reversible low fluence sensor, likely through the formation of heterodimers with SlphyB1 and SlPHYB2.</description>
+    </item>
+    <item>
+      <title>PPD-B1</title>
+      <link>/genes/triticum_aestivum/ppd-b1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ppd-b1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCSU02G196100 Gene Symbol: PPD-B1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Ppd-D1</title>
+      <link>/genes/triticum_aestivum/ppd-d1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ppd-d1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Ppd-D1 Gene Name: pseudo-response regulator Genome: Species: Triticum aestivum Functional Descriptions: Ppd-D1 is one of the most potent genes affecting the photoperiod response of wheat (Triticum aestivum).</description>
+    </item>
+    <item>
+      <title>PtPHOR1_1</title>
+      <link>/genes/2024.6.9/populus-tremula-x-populus-alba/poptr_0007s03730/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-tremula-x-populus-alba/poptr_0007s03730/</guid>
+      <description>Gene Details: Gene ID: POPTR_0007s03730 Gene Symbol: PtPHOR1_1 Gene Name: PHOTOPERIOD RESPONSE 1 Genome: Species: Populus tremula x Populus alba Functional Descriptions: PHOTOPERIOD RESPONSE 1 (PHOR1)-like Genes Regulate Shoot/root Growth, Starch Accumulation, and Wood Formation in Populus.</description>
+    </item>
+    <item>
+      <title>PtPHOR1_2</title>
+      <link>/genes/2024.6.9/populus-tremula-x-populus-alba/poptr_0005s05880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-tremula-x-populus-alba/poptr_0005s05880/</guid>
+      <description>Gene Details: Gene ID: POPTR_0005s05880 Gene Symbol: PtPHOR1_2 Gene Name: PHOTOPERIOD RESPONSE 1 Genome: Species: Populus tremula x Populus alba Functional Descriptions: PHOTOPERIOD RESPONSE 1 (PHOR1)-like Genes Regulate Shoot/root Growth, Starch Accumulation, and Wood Formation in Populus.</description>
+    </item>
+    <item>
+      <title>SiPHYC</title>
+      <link>/genes/2024.6.9/setaria-italica/seita.9g089700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/setaria-italica/seita.9g089700/</guid>
+      <description>Gene Details: Gene ID: Seita.9G089700 Gene Symbol: SiPHYC Gene Name: PHYTOCHROME C Genome: Species: Setaria italica Functional Descriptions: Here, genomic variations of PHYTOCHROME C (PHYC) between wild and cultivated Setaria gene pools were analysed and three SiPHYC mutants were identified.</description>
+    </item>
+    <item>
+      <title>StBEL5</title>
+      <link>/genes/2024.6.9/solanum-tuberosum/stbel5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-tuberosum/stbel5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: StBEL5 Gene Name: BEL1-related homeotic protein 5 Genome: Species: Solanum tuberosum Functional Descriptions: The level of StBEL5 mRNA increased in response to a short-day photoperiod in both leaves and stolons.</description>
+    </item>
+    <item>
+      <title>TaFT3-A1</title>
+      <link>/genes/triticum_aestivum/taft3-a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taft3-a1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1A02G338600 Gene Symbol: TaFT3-A1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaFT3-B1</title>
+      <link>/genes/triticum_aestivum/taft3-b1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taft3-b1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1B02G351100 Gene Symbol: TaFT3-B1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaFT3-D1</title>
+      <link>/genes/triticum_aestivum/taft3-d1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taft3-d1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1D02G340800 Gene Symbol: TaFT3-D1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHD1-6A</title>
+      <link>/genes/triticum_aestivum/tahd1-6a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahd1-6a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6A02G289400 Gene Symbol: TaHD1-6A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHD1-6B</title>
+      <link>/genes/triticum_aestivum/tahd1-6b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahd1-6b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6B02G319500 Gene Symbol: TaHD1-6B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHD1-6D</title>
+      <link>/genes/triticum_aestivum/tahd1-6d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahd1-6d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6D02G269500 Gene Symbol: TaHD1-6D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaTOE1-B1</title>
+      <link>/genes/triticum_aestivum/tatoe1-b1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tatoe1-b1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1B02G076300 Gene Symbol: TaTOE1-B1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaVRT-2</title>
+      <link>/genes/triticum_aestivum/tavrt-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavrt-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7D02G176700 Gene Symbol: TaVRT-2 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+  </channel>
+</rss>

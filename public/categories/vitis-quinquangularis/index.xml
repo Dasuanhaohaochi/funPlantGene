@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vitis quinquangularis on funPlantGenes</title>
+    <link>/categories/vitis-quinquangularis/</link>
+    <description>Recent content in Vitis quinquangularis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/vitis-quinquangularis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VqDUF642</title>
+      <link>/genes/2024.6.9/vitis-quinquangularis/vqduf642/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-quinquangularis/vqduf642/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VqDUF642 Gene Name: DUF642 Genome: Species: Vitis quinquangularis Functional Descriptions: VqDUF642, a gene isolated from the Chinese grape Vitis quinquangularis, is involved in berry development and pathogen resistance.</description>
+    </item>
+    <item>
+      <title>VqMAPK3</title>
+      <link>/genes/2024.6.9/vitis-quinquangularis/vit_06s0004g03540/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-quinquangularis/vit_06s0004g03540/</guid>
+      <description>Gene Details: Gene ID: VIT_06s0004g03540 Gene Symbol: VqMAPK3 Gene Name: Genome: Species: Vitis quinquangularis Functional Descriptions: VqMAPK3/VqMAPK6, VqWRKY33, and VqNSTS3 constitute a regulatory node in enhancing resistance to powdery mildew in grapevine.</description>
+    </item>
+    <item>
+      <title>VqMAPK6</title>
+      <link>/genes/2024.6.9/vitis-quinquangularis/vit_05s0094g00900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-quinquangularis/vit_05s0094g00900/</guid>
+      <description>Gene Details: Gene ID: VIT_05s0094g00900 Gene Symbol: VqMAPK6 Gene Name: Genome: Species: Vitis quinquangularis Functional Descriptions: VqMAPK3/VqMAPK6, VqWRKY33, and VqNSTS3 constitute a regulatory node in enhancing resistance to powdery mildew in grapevine.</description>
+    </item>
+    <item>
+      <title>VqMYB154</title>
+      <link>/genes/2024.6.9/vitis-quinquangularis/vit_11s0016g02780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-quinquangularis/vit_11s0016g02780/</guid>
+      <description>Gene Details: Gene ID: VIT_11s0016g02780 Gene Symbol: VqMYB154 Gene Name: MYB transcription factor 154 Genome: Species: Vitis quinquangularis Functional Descriptions: VqMYB154 promotes polygene expression and enhances resistance to pathogens in Chinese wild grapevine.</description>
+    </item>
+  </channel>
+</rss>

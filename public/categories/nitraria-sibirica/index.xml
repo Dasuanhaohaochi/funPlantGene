@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nitraria sibirica on funPlantGenes</title>
+    <link>/categories/nitraria-sibirica/</link>
+    <description>Recent content in Nitraria sibirica on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/nitraria-sibirica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NsMYB1</title>
+      <link>/genes/2024.6.9/nitraria-sibirica/cluster-8422.10600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nitraria-sibirica/cluster-8422.10600/</guid>
+      <description>Gene Details: Gene ID: Cluster 8422.10600 Gene Symbol: NsMYB1 Gene Name: Genome: Species: Nitraria sibirica Functional Descriptions: Functional R2R3-MYB transcription factor NsMYB1, regulating anthocyanin biosynthesis, was relative to the fruit color differentiation in Nitraria sibirica Pall.</description>
+    </item>
+  </channel>
+</rss>

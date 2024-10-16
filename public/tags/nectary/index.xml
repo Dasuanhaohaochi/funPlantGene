@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nectary on funPlantGenes</title>
+    <link>/tags/nectary/</link>
+    <description>Recent content in nectary on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/nectary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT5G16560</title>
+      <link>/genes/arabidopsis_thaliana/at5g16560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g16560/</guid>
+      <description>Gene Details: Gene ID: AT5G16560 Gene Symbol: KAN, KAN1 Gene Name: KANADI, KANADI 1 Description: Homeodomain-like superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G16560.</description>
+    </item>
+  </channel>
+</rss>

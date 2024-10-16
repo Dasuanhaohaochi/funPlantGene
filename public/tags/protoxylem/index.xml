@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>protoxylem on funPlantGenes</title>
+    <link>/tags/protoxylem/</link>
+    <description>Recent content in protoxylem on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/protoxylem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT3G25710</title>
+      <link>/genes/arabidopsis_thaliana/at3g25710/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g25710/</guid>
+      <description>Gene Details: Gene ID: AT3G25710 Gene Symbol: ATAIG1, BHLH32, TMO5 Gene Name: basic helix-loop-helix 32, TARGET OF MONOPTEROS 5 Description: basic helix-loop-helix 32;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G25710.</description>
+    </item>
+    <item>
+      <title>AT4G28140</title>
+      <link>/genes/arabidopsis_thaliana/at4g28140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g28140/</guid>
+      <description>Gene Details: Gene ID: AT4G28140 Gene Symbol: ERF54 Gene Name: ETHYLENE RESPONSIVE FACTOR54 Description: Integrase-type DNA-binding superfamily protein;(source:Araport11) TAIR Accession: locus:2123708 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G28140.</description>
+    </item>
+    <item>
+      <title>AT5G12870</title>
+      <link>/genes/arabidopsis_thaliana/at5g12870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g12870/</guid>
+      <description>Gene Details: Gene ID: AT5G12870 Gene Symbol: ATMYB46, MYB46 Gene Name: MYB DOMAIN PROTEIN 46, myb domain protein 46 Description: myb domain protein 46;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G12870.</description>
+    </item>
+  </channel>
+</rss>

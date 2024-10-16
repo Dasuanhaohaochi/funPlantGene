@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethylene content on funPlantGenes</title>
+    <link>/tags/ethylene-content/</link>
+    <description>Recent content in ethylene content on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/ethylene-content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AcKUP2</title>
+      <link>/genes/2024.6.9/actinidia-chinensis/ach02g251101.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/actinidia-chinensis/ach02g251101.2/</guid>
+      <description>Gene Details: Gene ID: Ach02g251101.2 Gene Symbol: AcKUP2 Gene Name: K+ transporter KT/HAK/KUP 2 Genome: Species: Actinidia chinensis Functional Descriptions: Ethylene-induced potassium transporter AcKUP2 gene is involved in kiwifruit postharvest ripening.</description>
+    </item>
+    <item>
+      <title>AdMsrB1</title>
+      <link>/genes/actinidia_chinensis/admsrb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/actinidia_chinensis/admsrb1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Acc04318 Gene Symbol: AdMsrB1 Gene Name: Genome: Actinidia chinensis (Red5) Species: Actinidia chinensis Functional Descriptions: AdMsrB1 is a novel ethylene-regulated gene expressed in ripening kiwifruit.</description>
+    </item>
+    <item>
+      <title>AdNAC72</title>
+      <link>/genes/actinidia_chinensis/adnac72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/actinidia_chinensis/adnac72/</guid>
+      <description>Gene Details: Gene ID:&#x9;Acc13705 Gene Symbol: AdNAC72 Gene Name: Genome: Genome_version:Actinidia chinensis (Red5) Species: Actinidia chinensis Functional Descriptions: Upregulation of AdMsrB1 in response to ethylene requires TFs AdNAC2 and AdNAC72.</description>
+    </item>
+    <item>
+      <title>BnERF2.4</title>
+      <link>/genes/2024.7.17/brassica-napus/bnerf2.4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/brassica-napus/bnerf2.4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BnERF2.4 Gene Name: Ethylene response factor BnERF2-like Genome: Species: Brassica napus Functional Descriptions: Ethylene response factor BnERF2-like (ERF2.</description>
+    </item>
+    <item>
+      <title>CiACS4</title>
+      <link>/genes/2024.6.9/citrus-limon/orange1.1g037587m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-limon/orange1.1g037587m/</guid>
+      <description>Gene Details: Gene ID: orange1.1g037587m Gene Symbol: CiACS4 Gene Name: Citrus ACC synthase 4 Genome: citrus reference genome Species: Citrus limon Functional Descriptions: Citrus ACC synthase CiACS4 regulates plant height by inhibiting gibberellin biosynthesis.</description>
+    </item>
+    <item>
+      <title>CsERF2</title>
+      <link>/genes/2024.6.9/camellia-sinensis/cserf2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/cserf2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsERF2 Gene Name: ethylene response factor 2 Genome: Species: Camellia sinensis Functional Descriptions: CsERF2, an ethylene response factor, plays a role in leaf variegation.</description>
+    </item>
+    <item>
+      <title>DcROS1</title>
+      <link>/genes/2024.7.17/dianthus-caryophyllus/dca30799/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/dianthus-caryophyllus/dca30799/</guid>
+      <description>Gene Details: Gene ID: Dca30799 Gene Symbol: DcROS1 Gene Name: REPRESSOR OF SILENCING1 Genome: carnation reference genome Species: Dianthus caryophyllus Functional Descriptions: DNA methylation in the promoter region of genes during natural and ethylene-induced flower senescence in carnation (Dianthus caryophyllus L.</description>
+    </item>
+    <item>
+      <title>FaRIPK1</title>
+      <link>/genes/2024.6.9/fragaria-ananassa/faripk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fragaria-ananassa/faripk1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FaRIPK1 Gene Name: red-initial protein kinase1 Genome: Species: Fragaria ananassa Functional Descriptions: Silencing FaRIPK1 expression by VIGS affects ripening-related processes and corresponding gene expression.</description>
+    </item>
+    <item>
+      <title>GhACO1</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghaco1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghaco1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhACO1 Gene Name: 1-aminocyclopropane-1-carboxylate oxidase 1 Genome: Species: Gossypium hirsutum Functional Descriptions: GhXB38D represses cotton fibre elongation through ubiquitination of ethylene biosynthesis enzymes GhACS4 and GhACO1.</description>
+    </item>
+    <item>
+      <title>GhACS4</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghacs4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghacs4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhACS4 Gene Name: 1-aminocyclopropane-1-carboxylate synthase 4 Genome: Species: Gossypium hirsutum Functional Descriptions: GhXB38D represses cotton fibre elongation through ubiquitination of ethylene biosynthesis enzymes GhACS4 and GhACO1.</description>
+    </item>
+    <item>
+      <title>GhERF9</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_d02g1817/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_d02g1817/</guid>
+      <description>Gene Details: Gene ID: Gh_D02G1817 Gene Symbol: GhERF9 Gene Name: ethylene response factor 9 Genome: Species: Gossypium hirsutum Functional Descriptions: Here, we have demonstrated that one of the ERF TFs in cotton, GhERF9, exerts a regulatory role in enhancing the expression of GhHAK5a by binding to its promoter region.</description>
+    </item>
+    <item>
+      <title>LeACS2</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc01g095080.3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc01g095080.3.1/</guid>
+      <description>Gene Details: Gene ID: Solyc01g095080.3.1 Gene Symbol: LeACS2 Gene Name: 1-aminocyclopropane-1-carboxylate synthase 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Turnover of LeACS2, a wound-inducible 1-aminocyclopropane-1-carboxylic acid synthase in tomato, is regulated by phosphorylation/dephosphorylation.</description>
+    </item>
+    <item>
+      <title>LeEix2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leeix2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leeix2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeEix2 Gene Name: receptor-like protein EIX2 Genome: Species: Solanum lycopersicum Functional Descriptions: Endosomal signaling of the tomato leucine-rich repeat receptor-like protein LeEix2.</description>
+    </item>
+    <item>
+      <title>MaOFP1</title>
+      <link>/genes/2024.6.9/musa-acuminata/ma08_t28410.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/musa-acuminata/ma08_t28410.1/</guid>
+      <description>Gene Details: Gene ID: Ma08_t28410.1 Gene Symbol: MaOFP1 Gene Name: Genome: banana genome database (https://banana-genome.</description>
+    </item>
+    <item>
+      <title>PacCYP707A2</title>
+      <link>/genes/2024.6.9/prunus-avium/paccyp707a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-avium/paccyp707a2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PacCYP707A2 Gene Name: Genome: Species: Prunus avium Functional Descriptions: PacCYP707A2 negatively regulates cherry fruit ripening while PacCYP707A1 mediates drought tolerance.</description>
+    </item>
+    <item>
+      <title>RbCP1</title>
+      <link>/genes/2024.7.17/rosa-burboniana/rbcp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/rosa-burboniana/rbcp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: RbCP1 Gene Name: cysteine protease 1 Genome: Species: Rosa burboniana Functional Descriptions: Transcriptional activation of a 37 kDa ethylene responsive cysteine protease gene, RbCP1, is associated with protein degradation during petal abscission in rose.</description>
+    </item>
+    <item>
+      <title>RhERF113</title>
+      <link>/genes/2024.6.9/rosa-hybridaa/rherf113/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/rosa-hybridaa/rherf113/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: RhERF113 Gene Name: cultivar cultivar Samantha ERF113 Genome: Species: Rosa hybridaa Functional Descriptions: RhERF113 Functions in Ethylene-Induced Petal Senescence by Modulating Cytokinin Content in Rose.</description>
+    </item>
+    <item>
+      <title>SlERF.H6</title>
+      <link>/genes/solanum_lycopersicum/slerf.h6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slerf.h6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g120840 Gene Symbol: SlERF.H6 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlGT31</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g012720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g012720/</guid>
+      <description>Gene Details: Gene ID: Solyc11g012720 Gene Symbol: SlGT31 Gene Name: GT factor31 Genome: Species: Solanum lycopersicum Functional Descriptions: Trihelix transcription factor SlGT31 regulates fruit ripening mediated by ethylene in tomato.</description>
+    </item>
+    <item>
+      <title>TaAQP8</title>
+      <link>/genes/triticum_aestivum/taaqp8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taaqp8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaAQP8 Gene Name: aquaporin 8 Genome: Species: Triticum aestivum Functional Descriptions: Overexpression of a Wheat Aquaporin Gene, TaAQP8, Enhances Salt Stress Tolerance in Transgenic Tobacco.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>heat stress on funPlantGenes</title>
+    <link>/tags/heat-stress/</link>
+    <description>Recent content in heat stress on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/heat-stress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CaHsfA2</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cahsfa2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cahsfa2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaHsfA2 Gene Name: heat stress transcription factor A2 Genome: Species: Capsicum annuum Functional Descriptions: CaHsfA2 was located in the nucleus and had transcriptional activity, consistent with the typical features of Hsfs.</description>
+    </item>
+    <item>
+      <title>CaWRKY40</title>
+      <link>/genes/capsicum_annuum/cawrky40/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/capsicum_annuum/cawrky40/</guid>
+      <description>Gene Details: Gene ID:&#x9;CA00g87690 Gene Symbol: CaWRKY40 Gene Name: WRKY family transcription factor44 Genome: Species: Capsicum annuum Functional Description: A conserved double-W box in the promoter of CaWRKY40 mediates autoregulation during response to pathogen attack and heat stress in pepper.</description>
+    </item>
+    <item>
+      <title>CaWRKY6</title>
+      <link>/genes/2024.6.9/capsicum-annuum/cawrky6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/cawrky6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaWRKY6 Gene Name: WRKY transcription factor 6 Genome: Species: Capsicum annuum Functional Descriptions: CaWRKY6 transcriptionally activates CaWRKY40, regulates Ralstonia solanacearum resistance, and confers high-temperature and high-humidity tolerance in pepper.</description>
+    </item>
+    <item>
+      <title>CmDREB6</title>
+      <link>/genes/2024.6.9/chrysanthemum-morifolium/cmdreb6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/chrysanthemum-morifolium/cmdreb6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CmDREB6 Gene Name: Genome: Species: Chrysanthemum morifolium Functional Descriptions: Over-expression of chrysanthemum CmDREB6 enhanced tolerance of chrysanthemum to heat stress.</description>
+    </item>
+    <item>
+      <title>CmMYB121</title>
+      <link>/genes/2024.7.17/chrysanthemum-morifolium/unigene68526-all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/chrysanthemum-morifolium/unigene68526-all/</guid>
+      <description>Gene Details: Gene ID: Unigene68526-All Gene Symbol: CmMYB121 Gene Name: MYB transcription factor 121 Genome: Species: Chrysanthemum morifolium Functional Descriptions: Transcription factor CmHSFA4-CmMYBS3 complex enhances salt tolerance in chrysanthemum by repressing CmMYB121 expression.</description>
+    </item>
+    <item>
+      <title>CsHSFA1b</title>
+      <link>/genes/camellia_sinensis/cshsfa1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/cshsfa1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TEA030860 Gene Symbol: CsHSFA1b Gene Name: Camellia sinensis Heat stress factors A1b Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>CsHSFA1d</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csa3g008920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csa3g008920/</guid>
+      <description>Gene Details: Gene ID: Csa3G008920 Gene Symbol: CsHSFA1d Gene Name: heat-shock transcription factor HSFA1d Genome: Species: Cucumis sativus Functional Descriptions: Report that heat shock induces cold acclimation in cucumber seedlings, via a process involving the heat-shock transcription factor HSFA1d.</description>
+    </item>
+    <item>
+      <title>CsHSFA2</title>
+      <link>/genes/camellia_sinensis/cshsfa2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/cshsfa2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TEA023633 Gene Symbol: CsHSFA2 Gene Name: Camellia sinensis Heat stress factors A2 Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>CsIVP</title>
+      <link>/genes/2024.6.9/cucumis-sativus/cucsa_101020.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/cucsa_101020.1/</guid>
+      <description>Gene Details: Gene ID: Cucsa_101020.1 Gene Symbol: CsIVP Gene Name: Irregular Vasculature Patterning Genome: Species: Cucumis sativus Functional Descriptions: CsIVP Modulates Low Nitrogen and High-Temperature Resistance in Cucumber.</description>
+    </item>
+    <item>
+      <title>DcHSP17.7</title>
+      <link>/genes/2024.6.9/daucus-carota/dchsp17.7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dchsp17.7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: DcHSP17.7 Gene Name: heat shock protein17 Genome: P27396 Species: Daucus carota Functional Descriptions: DcHSP17.</description>
+    </item>
+    <item>
+      <title>GhHSP24.7</title>
+      <link>/genes/gossypium_hirsutum/ghhsp24.7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghhsp24.7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhHSP24.7 Gene Name: Genome: M-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The regulation circuit composed of GhHSP24.</description>
+    </item>
+    <item>
+      <title>GhHSP70-26</title>
+      <link>/genes/gossypium_hirsutum/ghhsp70-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghhsp70-26/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gohir.D06G173000 Gene Symbol: GhHSP70-26 Gene Name: Genome: Gossypium hirsutum L.</description>
+    </item>
+    <item>
+      <title>Hsf70;hsp70-6</title>
+      <link>/genes/zea_mays/hsf70hsp70-6zmhsp70-class-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/hsf70hsp70-6zmhsp70-class-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb012470 Gene Symbol: Hsf70 hsp70-6 ZmHSP70 class A Gene Name: heat shock protein70-6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>HSFB2b</title>
+      <link>/genes/glycine_max/hsfb2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/hsfb2b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.11G025700 Gene Symbol: HSFB2b Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: HSFB2b improves salt tolerance through the promotion of flavonoid accumulation by activating one subset of flavonoid biosynthesis-related genes and by inhibiting the repressor gene GmNAC2 to release another subset of genes in the flavonoid biosynthesis pathway.</description>
+    </item>
+    <item>
+      <title>Hsftf20</title>
+      <link>/genes/zea_mays/hsftf20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/hsftf20/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb428800 Gene Symbol: Hsftf20 Gene Name: HSF-transcription factor 20 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Hsftf6</title>
+      <link>/genes/zea_mays/hsftf6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/hsftf6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb242480 Gene Symbol: Hsftf6 Gene Name: HSF-transcription factor 6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>HSP22</title>
+      <link>/genes/2024.6.9/pisum-sativum/hsp22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pisum-sativum/hsp22/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HSP22 Gene Name: heat shock protein 22 Genome: Species: Pisum sativum Functional Descriptions: Variability within a pea core collection of LEAM and HSP22, two mitochondrial seed proteins involved in stress tolerance.</description>
+    </item>
+    <item>
+      <title>HTH5</title>
+      <link>/genes/oryza_sativa/loc_os05g05740/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g05740/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g05740 RAPdb gene ID: Os05g0150000 Gene Symbol: HTH5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>INVAN6;Mei025</title>
+      <link>/genes/zea_mays/invan6mei025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/invan6mei025/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb230860 Gene Symbol: INVAN6 Mei025 Gene Name: INVERTASE ALKALINE NEUTRAL 6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>JrGRAS2</title>
+      <link>/genes/2024.6.9/juglans-regia/jrgras2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/juglans-regia/jrgras2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: JrGRAS2 Gene Name: GRAS TF 2 Genome: Species: Juglans regia Functional Descriptions: JrGRAS2 improves plant HT tolerance involving in HSP expression.</description>
+    </item>
+    <item>
+      <title>LEAM</title>
+      <link>/genes/2024.6.9/pisum-sativum/leam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pisum-sativum/leam/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LEAM Gene Name: late embryogenesis abundant protein Genome: Species: Pisum sativum Functional Descriptions: Variability within a pea core collection of LEAM and HSP22, two mitochondrial seed proteins involved in stress tolerance.</description>
+    </item>
+    <item>
+      <title>LeCDJ1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/lecdj1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/lecdj1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeCDJ1 Gene Name: DnaJ protein1 Genome: Species: Solanum lycopersicum Functional Descriptions: The roles of a tomato (Solanum lycopersicum) chloroplast-targeted DnaJ protein (LeCDJ1), whose expression was upregulated by treatment at 4 and 42 °C, and with high light, NaCl, polyethylene glycol, and H2O2, were investigated here using sense and antisense transgenic tomatoes.</description>
+    </item>
+    <item>
+      <title>LePHGPx</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/lephgpx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/lephgpx/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LePHGPx Gene Name: phospholipid hydroperoxide glutathione peroxidase Genome: Species: Solanum lycopersicum Functional Descriptions: We have isolated a tomato (Lycopersicon esculentum) gene encoding a phospholipid hydroperoxide glutathione peroxidase (LePHGPx).</description>
+    </item>
+    <item>
+      <title>MdHsp70</title>
+      <link>/genes/2024.6.9/malus-domestica/mdhsp70/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdhsp70/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdHsp70 Gene Name: heat shock protein 70 Genome: Species: Malus domestica Functional Descriptions: Elongation factor MdEF-Tu coordinates with heat shock protein MdHsp70 to enhance apple thermotolerance.</description>
+    </item>
+    <item>
+      <title>MdVQ37</title>
+      <link>/genes/malus_domestica/mdvq37/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/mdvq37/</guid>
+      <description>Gene Details: Gene ID:&#x9;MD15G1043200 Gene Symbol: MdVQ37 Gene Name: Genome: Malus × domestica genome GDDH13 v 1.</description>
+    </item>
+    <item>
+      <title>NtCP2</title>
+      <link>/genes/2024.7.17/nicotiana-tabacum/ntcp2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/nicotiana-tabacum/ntcp2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtCP2 Gene Name: cysteine protease 2 Genome: Species: Nicotiana tabacum Functional Descriptions: NtCP2 has a high similarity to KDEL-tailed cysteine proteinases and is expressed in mature green leaves.</description>
+    </item>
+    <item>
+      <title>NUT1;NAC46</title>
+      <link>/genes/zea_mays/nut1nac46nac91nactf91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/nut1nac46nac91nactf91/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d045601 Gene Symbol: NUT1 NAC46 nac91 nactf91 Gene Name: Necrotic upper tips1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ONAC127</title>
+      <link>/genes/oryza_sativa/loc_os11g31340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g31340/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g31340 RAPdb gene ID: Os11g0512100 Gene Symbol: ONAC127 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ONAC129</title>
+      <link>/genes/oryza_sativa/loc_os11g31380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g31380/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g31380 RAPdb gene ID: Os11g0512600 Gene Symbol: ONAC129 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsbZIP14</title>
+      <link>/genes/oryza_sativa/loc_os02g03960/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g03960/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g03960 RAPdb gene ID: Os02g0132500 Gene Symbol: OsbZIP14 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCG5</title>
+      <link>/genes/oryza_sativa/loc_os05g40850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g40850/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g40850 RAPdb gene ID: Os05g0487100 Gene Symbol: OsCG5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsDOF27</title>
+      <link>/genes/oryza_sativa/loc_os10g35300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g35300/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g35300 RAPdb gene ID: Os10g0496000 Gene Symbol: OsDOF27 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsEDS1</title>
+      <link>/genes/oryza_sativa/loc_os09g22450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g22450/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g22450 RAPdb gene ID: Os09g0392100 Gene Symbol: OsEDS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsGapC2</title>
+      <link>/genes/oryza_sativa/loc_os04g40950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g40950/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g40950 RAPdb gene ID: Os04g0486600 Gene Symbol: OsGapC2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNCED1;OsCCD4a</title>
+      <link>/genes/oryza_sativa/loc_os02g47510/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g47510/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g47510 RAPdb gene ID: Os02g0704000 Gene Symbol: OsNCED1 OsCCD4a Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNSUN2</title>
+      <link>/genes/oryza_sativa/loc_os09g29630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g29630/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g29630 RAPdb gene ID: Os09g0471900 Gene Symbol: OsNSUN2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNTL3</title>
+      <link>/genes/oryza_sativa/loc_os01g15640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g15640/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g15640 RAPdb gene ID: Os01g0261200 Gene Symbol: OsNTL3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsProDH</title>
+      <link>/genes/oryza_sativa/loc_os10g40360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g40360/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g40360 RAPdb gene ID: Os10g0550900 Gene Symbol: OsProDH Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSPL7</title>
+      <link>/genes/oryza_sativa/loc_os04g46580/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g46580/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g46580 RAPdb gene ID: Os04g0551500 Gene Symbol: OsSPL7 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSRDP</title>
+      <link>/genes/oryza_sativa/loc_os04g59420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g59420/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g59420 RAPdb gene ID: Os04g0690500 Gene Symbol: OsSRDP Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsUBP21</title>
+      <link>/genes/oryza_sativa/loc_os11g36470/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g36470/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g36470 RAPdb gene ID: Os11g0573000 Gene Symbol: OsUBP21 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PGD3</title>
+      <link>/genes/zea_mays/zm00001eb169570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb169570/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb169570 Gene Symbol: PGD3 Gene Name: 6-phosphogluconate dehydrogenase Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>SlHSP21.5A</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc03g113930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc03g113930/</guid>
+      <description>Gene Details: Gene ID: Solyc03g113930 Gene Symbol: SlHSP21.5A Gene Name: heat shock protein 21 Genome: Species: Solanum lycopersicum Functional Descriptions: WHIRLY1 Regulates HSP21.</description>
+    </item>
+    <item>
+      <title>SlSIZ1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slsiz1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slsiz1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlSIZ1 Gene Name: E3 SUMO-protein ligase SIZ1 Genome: Species: Solanum lycopersicum Functional Descriptions: SUMO E3 Ligase SlSIZ1 Facilitates Heat Tolerance in Tomato.</description>
+    </item>
+    <item>
+      <title>SlSNAT</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g074910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g074910/</guid>
+      <description>Gene Details: Gene ID: Solyc10g074910 Gene Symbol: SlSNAT Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Identified the SlSNAT gene, which is responsible for melatonin biosynthesis in tomato.</description>
+    </item>
+    <item>
+      <title>SlTPI1</title>
+      <link>/genes/solanum_lycopersicum/sltpi1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sltpi1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g054870 Gene Symbol: SlTPI1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlTPI2</title>
+      <link>/genes/solanum_lycopersicum/sltpi2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sltpi2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc01g111120 Gene Symbol: SlTPI2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>TaAVP1-7A</title>
+      <link>/genes/triticum_aestivum/taavp1-7a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taavp1-7a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7A02G141300 Gene Symbol: TaAVP1-7A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaAVP1-7B</title>
+      <link>/genes/triticum_aestivum/taavp1-7b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taavp1-7b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7B02G042600 Gene Symbol: TaAVP1-7B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaAVP1-7D</title>
+      <link>/genes/triticum_aestivum/taavp1-7d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taavp1-7d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7D02G142600 Gene Symbol: TaAVP1-7D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaGAMyb</title>
+      <link>/genes/triticum_aestivum/tagamyb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tagamyb/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaGAMyb Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: The wheat transcription factor TaGAMyb recruits histone acetyltransferase and activates the expression of a high-molecular-weight glutenin subunit gene.</description>
+    </item>
+    <item>
+      <title>TaHAG1</title>
+      <link>/genes/triticum_aestivum/tahag1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahag1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1D02G134200 Gene Symbol: TaHAG1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHsfA1-A</title>
+      <link>/genes/triticum_aestivum/tahsfa1-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahsfa1-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4A02G322300 Gene Symbol: TaHsfA1-A Gene Name: Heat shock transcription factor 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHsfA1-B</title>
+      <link>/genes/triticum_aestivum/tahsfa1-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahsfa1-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5B02G556200 Gene Symbol: TaHsfA1-B Gene Name: Heat shock transcription factor 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHsfA1-D</title>
+      <link>/genes/triticum_aestivum/tahsfa1-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahsfa1-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G553300 Gene Symbol: TaHsfA1-D Gene Name: Heat shock transcription factor 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHsfA6b</title>
+      <link>/genes/triticum_aestivum/traescs4d02g276500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs4d02g276500/</guid>
+      <description>Gene Details: Gene ID: TraesCS4D02G276500 Gene Symbol: TaHsfA6b Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Overexpression of wheat transcription factor (TaHsfA6b) provides thermotolerance in barley.</description>
+    </item>
+    <item>
+      <title>TaHSFA6e</title>
+      <link>/genes/triticum_aestivum/tahsfa6e/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahsfa6e/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: TaHSFA6e Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHsfA6f</title>
+      <link>/genes/triticum_aestivum/tahsfa6f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahsfa6f/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaHsfA6f Gene Name: Heat shock factor A6 Genome: Species: Triticum aestivum Functional Descriptions: TaHsfA6f is a transcriptional activator that regulates a suite of heat stress protection genes in wheat (Triticum aestivum L.</description>
+    </item>
+    <item>
+      <title>TaHSP70-1</title>
+      <link>/genes/triticum_aestivum/tahsp70-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahsp70-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1D02G284000 Gene Symbol: TaHSP70-1 Gene Name: Heat Shock Protein 70 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHSP70-2</title>
+      <link>/genes/triticum_aestivum/tahsp70-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahsp70-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4D02G206600 Gene Symbol: TaHSP70-2 Gene Name: Heat Shock Protein 70 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHSP70-3</title>
+      <link>/genes/triticum_aestivum/tahsp70-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahsp70-3/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4D02G207500 Gene Symbol: TaHSP70-3 Gene Name: Heat Shock Protein 70 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaMBF1c-7A</title>
+      <link>/genes/triticum_aestivum/tambf1c-7a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tambf1c-7a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7A02G369500 Gene Symbol: TaMBF1c-7A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaMBF1c-7B</title>
+      <link>/genes/triticum_aestivum/tambf1c-7b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tambf1c-7b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7B02G259000 Gene Symbol: TaMBF1c-7B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaMBF1c-7D</title>
+      <link>/genes/triticum_aestivum/tambf1c-7d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tambf1c-7d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7D02G353800 Gene Symbol: TaMBF1c-7D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaSINA</title>
+      <link>/genes/triticum_aestivum/tasina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tasina/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3B02G572900 Gene Symbol: TaSINA Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>VQ8</title>
+      <link>/genes/oryza_sativa/loc_os02g33600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g33600/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g33600 RAPdb gene ID: Os02g0539500 Gene Symbol: VQ8 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>VvGOLS1</title>
+      <link>/genes/2024.7.17/vitis-vinifera/vit_07s0005g01970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/vit_07s0005g01970/</guid>
+      <description>Gene Details: Gene ID: VIT_07s0005g01970 Gene Symbol: VvGOLS1 Gene Name: Hexosyltransferase 1 Genome: Species: Vitis vinifera Functional Descriptions: VvGOLS1 and VvHsfA2 are Involved in the Heat Stress Responses in Grapevine Berries.</description>
+    </item>
+    <item>
+      <title>VvHsfA2</title>
+      <link>/genes/2024.7.17/vitis-vinifera/vit_04s0008g01110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/vit_04s0008g01110/</guid>
+      <description>Gene Details: Gene ID: VIT_04s0008g01110 Gene Symbol: VvHsfA2 Gene Name: heat shock transcription factor A2 Genome: Species: Vitis vinifera Functional Descriptions: VvGOLS1 and VvHsfA2 are Involved in the Heat Stress Responses in Grapevine Berries.</description>
+    </item>
+    <item>
+      <title>ZmAPX7;apx10</title>
+      <link>/genes/zea_mays/zmapx7apx10apx6apxa2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmapx7apx10apx6apxa2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb082560 Gene Symbol: ZmAPX7 apx10 APX6 APXa2 Gene Name: ascorbate peroxidase10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmbHLH49;bhlh81</title>
+      <link>/genes/zea_mays/zmbhlh49bhlh81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmbhlh49bhlh81/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb036040 Gene Symbol: ZmbHLH49 bhlh81 Gene Name: bHLH-transcription factor 81 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmbHLH69_2;bhlh88</title>
+      <link>/genes/zea_mays/zmbhlh69_2bhlh88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmbhlh69_2bhlh88/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb099470 Gene Symbol: ZmbHLH69_2 bhlh88 Gene Name: bHLH-transcription factor 81 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBiP1;ZmHsp70-11</title>
+      <link>/genes/zea_mays/zmbip1zmhsp70-11stress70erzmhsp70-11b70ab-70/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmbip1zmhsp70-11stress70erzmhsp70-11b70ab-70/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb229930 Gene Symbol: ZmBiP1 ZmHsp70-11 Stress70er ZmHsp70-11 b70a b-70 Gene Name: Binding protein homolog1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCDPK7;ZmCPK29</title>
+      <link>/genes/zea_mays/zmcdpk7zmcpk29cdpk20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmcdpk7zmcpk29cdpk20/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb351760 Gene Symbol: ZmCDPK7 ZmCPK29 cdpk20 Gene Name: calcium dependent protein kinase20 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCGT1_1;ugt9250</title>
+      <link>/genes/zea_mays/zmcgt1_1ugt9250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmcgt1_1ugt9250/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb304010 Gene Symbol: ZmCGT1_1 ugt9250 Gene Name: uridinediphosphate-dependent glycosyltransferase9250 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCGT2_3;czog2</title>
+      <link>/genes/zea_mays/zmcgt2_3czog2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmcgt2_3czog2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb367250 Gene Symbol: ZmCGT2_3 czog2 Gene Name: cis-zeatin O-glucosyltransferase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCYP707A1;ABA1</title>
+      <link>/genes/zea_mays/zmcyp707a1aba1abh1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmcyp707a1aba1abh1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb251960 Gene Symbol: ZmCYP707A1 ABA1 abh1 Gene Name: abscisic acid 8&amp;rsquo;-hydroxylase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmERF1;RAP2-2</title>
+      <link>/genes/zea_mays/zmerf1rap2-2ereb202/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmerf1rap2-2ereb202/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb099980 Gene Symbol: ZmERF1 RAP2-2 ereb202 Gene Name: AP2-EREBP-transcription factor 202 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGA2ox;ZmGA2ox6</title>
+      <link>/genes/zea_mays/zmga2oxzmga2ox6ga2ox6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmga2oxzmga2ox6ga2ox6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb283860 Gene Symbol: ZmGA2ox ZmGA2ox6 ga2ox6 Gene Name: gibberellin 2-oxidase6 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGOLS2;gols2</title>
+      <link>/genes/zea_mays/zmgols2gols2gols3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmgols2gols2gols3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb395600 Gene Symbol: ZmGOLS2 gols2 gols3 Gene Name: GALACTINOL SYNTHASE2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGRXCC14;ZmGRXS9</title>
+      <link>/genes/zea_mays/zmgrxcc14zmgrxs9grx14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmgrxcc14zmgrxs9grx14/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb295860 Gene Symbol: ZmGRXCC14 ZmGRXS9 grx14 Gene Name: glutaredoxin14 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGRXCC5;grx12</title>
+      <link>/genes/zea_mays/zmgrxcc5grx12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmgrxcc5grx12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb121020 Gene Symbol: ZmGRXCC5 grx12 Gene Name: glutaredoxin12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGRXS17</title>
+      <link>/genes/zea_mays/zmgrxs17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmgrxs17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb044380 Gene Symbol: ZmGRXS17 Gene Name: glutaredoxin23 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGST23;ZmGSTU14</title>
+      <link>/genes/zea_mays/zmgst23zmgstu14gst29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmgst23zmgstu14gst29/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb141020 Gene Symbol: ZmGST23 ZmGSTU14 gst29 Gene Name: glutathione transferase29 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmGST24;ZmGSTU9</title>
+      <link>/genes/zea_mays/zmgst24zmgstu9gst24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmgst24zmgstu9gst24/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb256380 Gene Symbol: ZmGST24 ZmGSTU9 gst24 Gene Name: glutathione transferase24 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHSBP2;hsbp2</title>
+      <link>/genes/zea_mays/zmhsbp2hsbp2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmhsbp2hsbp2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb380410 Gene Symbol: ZmHSBP2 hsbp2 Gene Name: HEAT SHOCK BINDING PROTEIN 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHsf05;hsftf11</title>
+      <link>/genes/zea_mays/zmhsf05hsftf11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmhsf05hsftf11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb060670 Gene Symbol: ZmHsf05 hsftf11 Gene Name: HSF-transcription factor 11 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHSFA2;ZmHsf04</title>
+      <link>/genes/zea_mays/zmhsfa2zmhsf04hsf24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmhsfa2zmhsf04hsf24/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb047760 Gene Symbol: ZmHSFA2 ZmHsf04 hsf24 Gene Name: HEAT SHOCK FACTOR A2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHUG1</title>
+      <link>/genes/zea_mays/zm00001eb376850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb376850/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb376850 Gene Symbol: ZmHUG1 Gene Name: HEAT UP-REGULATED GENE 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmKL9;BZIP60</title>
+      <link>/genes/zea_mays/zmkl9bzip60zmbzip60zmbzip112/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmkl9bzip60zmbzip60zmbzip112/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb388050 Gene Symbol: ZmKL9 BZIP60 ZmbZIP60 ZmbZIP112 Gene Name: bZIP transcription factor60 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMYBC1;c1</title>
+      <link>/genes/zea_mays/zmmybc1c1myb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmmybc1c1myb1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb373660 Gene Symbol: ZmMYBC1 c1 myb1 Gene Name: colored aleurone1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPRA1.C1</title>
+      <link>/genes/zea_mays/zm00001eb120910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb120910/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb120910 Gene Symbol: ZmPRA1.C1 Gene Name: MAIZE PRENYLATED RAB ACCEPTOR 1.</description>
+    </item>
+    <item>
+      <title>ZmRAFS;ZmRS</title>
+      <link>/genes/zea_mays/zmrafszmrsrafs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmrafszmrsrafs1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb122980 Gene Symbol: ZmRAFS ZmRS rafs1 Gene Name: raffinose synthase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmRBOH8</title>
+      <link>/genes/zea_mays/zmrboh8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmrboh8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb040550 Gene Symbol: ZmRBOH8 Gene Name: respiratory burst oxidase8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSAG12;piip2</title>
+      <link>/genes/zea_mays/zmsag12piip2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmsag12piip2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb228160 Gene Symbol: ZmSAG12 piip2 Gene Name: physical impedance induced protein2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSERK2;ZmSERK1</title>
+      <link>/genes/zea_mays/zmserk2zmserk1serk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmserk2zmserk1serk1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb423960 Gene Symbol: ZmSERK2 ZmSERK1 serk1 Gene Name: somatic embryogenesis receptor-like kinase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSmallHSP class B;hsp18f</title>
+      <link>/genes/zea_mays/zmsmallhsp-class-bhsp18f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmsmallhsp-class-bhsp18f/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb121900 Gene Symbol: ZmSmallHSP class B hsp18f Gene Name: heat shock protein18f Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWRKY064;ZmWRKY66</title>
+      <link>/genes/zea_mays/zmwrky064zmwrky66zmwrky9wrky131/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmwrky064zmwrky66zmwrky9wrky131/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb256230 Gene Symbol: ZmWRKY064 ZmWRKY66 ZmWRKY9 wrky131 Gene Name: WRKY-transcription factor 131 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

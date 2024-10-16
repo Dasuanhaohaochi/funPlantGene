@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>toxic on funPlantGenes</title>
+    <link>/tags/toxic/</link>
+    <description>Recent content in toxic on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/toxic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BnaMs3</title>
+      <link>/genes/brassica_napus/bnams3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnams3/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaC9.Tic40 Gene Symbol: BnaMs3 Gene Name: Genome: Species: Brassica napus Functional Descriptions: In Brassica napus, the widely used genic male sterile breeding system 7365ABC is controlled by two young genes, Bnams4b and BnaMs3.</description>
+    </item>
+    <item>
+      <title>Bnams4b</title>
+      <link>/genes/brassica_napus/bnams4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnams4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: Bnams4b Gene Name: Brassica napus male sterile 4 Genome: Species: Brassica napus Functional Descriptions: Ectopic expression of AtBRUTUS (AtBTS) and comparison between Bnams4b-transgenic Arabidopsis and bts mutants suggested that Bnams4b may drive translocation of BTS to cause various toxic defects.</description>
+    </item>
+    <item>
+      <title>GmMATE100</title>
+      <link>/genes/2024.7.17/glycine-max/glyma.18g143700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/glycine-max/glyma.18g143700/</guid>
+      <description>Gene Details: Gene ID: Glyma.18G143700 Gene Symbol: GmMATE100 Gene Name: MATE-type soyasaponin transporter Genome: G.</description>
+    </item>
+    <item>
+      <title>LjMATE1</title>
+      <link>/genes/2024.6.9/lotus-japonicus/ljmate1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lotus-japonicus/ljmate1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LjMATE1 Gene Name: multidrug and toxic compound extrusion (MATE) protein1 Genome: Species: Lotus japonicus Functional Descriptions: LjMATE1: A Citrate Transporter Responsible for Iron Supply to the Nodule Infection Zone of Lotus japonicus.</description>
+    </item>
+    <item>
+      <title>MND8</title>
+      <link>/genes/hordeum_vulgare/mnd8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/hordeum_vulgare/mnd8/</guid>
+      <description>Gene Details: Gene ID:&#x9;HORVU5Hr1G118820 Gene Symbol: MND8 Gene Name: Genome: barley cultivar Morex V1 Species: Hordeum vulgare Functional Descriptions: Collectively, our results indicated that MND8ynp5 is a novel allele of the HORVU5Hr1G118820 gene that is possibly responsible for the shortened plastochron and many noded dwarf phenotype in barley.</description>
+    </item>
+    <item>
+      <title>SbMATE</title>
+      <link>/genes/2024.6.9/sorghum-bicolor/sb03g043890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/sorghum-bicolor/sb03g043890/</guid>
+      <description>Gene Details: Gene ID: Sb03g043890 Gene Symbol: SbMATE Gene Name: multi-drug and toxic compound extrusion Genome: Species: Sorghum bicolor Functional Descriptions: Sugarcane plants constitutively overexpressing the Sorghum bicolor MATE gene (SbMATE) showed improved tolerance to Al when compared to non-transgenic (NT) plants, characterized by sustained root growth and exclusion of aluminum from the root apex based on the result obtained with hematoxylin staining.</description>
+    </item>
+    <item>
+      <title>Sl23DOX</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc02g062460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc02g062460/</guid>
+      <description>Gene Details: Gene ID: Solyc02g062460 Gene Symbol: Sl23DOX Gene Name: C-23 hydroxylase Genome: Sol Genomics Network (http://solgenomics.</description>
+    </item>
+    <item>
+      <title>TaMATE1B</title>
+      <link>/genes/triticum_aestivum/tamate1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamate1b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaMATE1B Gene Name: multidrug and toxic compound extrusion Genome: Species: Triticum aestivum Functional Descriptions: Transposon-Mediated Alteration of TaMATE1B Expression in Wheat Confers Constitutive Citrate Efflux from Root Apices.</description>
+    </item>
+  </channel>
+</rss>

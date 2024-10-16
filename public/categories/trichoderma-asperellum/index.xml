@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trichoderma asperellum on funPlantGenes</title>
+    <link>/categories/trichoderma-asperellum/</link>
+    <description>Recent content in Trichoderma asperellum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/trichoderma-asperellum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TasHyd1</title>
+      <link>/genes/2024.7.17/trichoderma-asperellum/tashyd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/trichoderma-asperellum/tashyd1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TasHyd1 Gene Name: hydrophobin 1 Genome: Species: Trichoderma asperellum Functional Descriptions: TasHyd1, a new hydrophobin gene from the biocontrol agent Trichoderma asperellum, is involved in plant root colonization.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carotenoids on funPlantGenes</title>
+    <link>/tags/carotenoids/</link>
+    <description>Recent content in carotenoids on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/carotenoids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LeCCD1A</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/leccd1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/leccd1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeCCD1A Gene Name: carotenoid cleavage dioxygenase 1A Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato carotenoid cleavage dioxygenase 1 genes contribute to the formation of the flavor volatiles β-ionone, pseudoionone, and geranylacetone.</description>
+    </item>
+    <item>
+      <title>LeCCD1B</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/leccd1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/leccd1b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeCCD1B Gene Name: carotenoid cleavage dioxygenase 1B Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato carotenoid cleavage dioxygenase 1 genes contribute to the formation of the flavor volatiles β-ionone, pseudoionone, and geranylacetone.</description>
+    </item>
+    <item>
+      <title>Ven1;hyd3</title>
+      <link>/genes/zea_mays/ven1hyd3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/ven1hyd3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb428470 Gene Symbol: Ven1 hyd3 Gene Name: Vitreous endosperm 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

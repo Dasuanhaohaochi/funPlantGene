@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cotyledon adaxial epidermis on funPlantGenes</title>
+    <link>/tags/cotyledon-adaxial-epidermis/</link>
+    <description>Recent content in cotyledon adaxial epidermis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/cotyledon-adaxial-epidermis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT5G43810</title>
+      <link>/genes/arabidopsis_thaliana/at5g43810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g43810/</guid>
+      <description>Gene Details: Gene ID: AT5G43810 Gene Symbol: AGO10, PNH, ZLL Gene Name: ARGONAUTE 10, PINHEAD, ZWILLE Description: Stabilizer of iron transporter SufD / Polynucleotidyl transferase;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G43810.</description>
+    </item>
+  </channel>
+</rss>

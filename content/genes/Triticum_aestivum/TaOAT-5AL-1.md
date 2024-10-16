@@ -1,0 +1,45 @@
+---
+description: Ornithine aminotransferase ; Triticum aestivum
+meta_title:
+title: TaOAT-5AL-1
+categories: [Triticum aestivum]
+tags: [ nitrogen,development,drought,stress,drought stress,salt,tolerance,abiotic stress,drought tolerance,salt tolerance,salt stress,stress tolerance ]
+---
+
+## Gene Details:
+- **Gene ID:** []()
+- **Gene Symbol:** <u>TaOAT-5AL-1</u>
+- **Gene Name:** Ornithine aminotransferase
+- **Genome:** [Chinese_Spring1.0](https://ensembl.gramene.org/Triticum_aestivum/Info/Index)
+- **Species:** *Triticum aestivum*
+
+## Functional Descriptions:
+   - Expression profiling illustrated that TaOAT was highly induced in the wheat plants exposed to drought or salt stress condition. Upregulated expression of TaOATs was observed in stamens and at the heading stage.
+   - TaOATs genes were involved in proline synthesis and nitrogen remobilization because they interacted with genes related to proline biosynthesis enzymes and arginine catabolism.
+   - TaOAT genes had a role in abiotic stress tolerance and a potential role in floret development.
+   - A potential role of TaOAT genes during floret development was also revealed. Furthermore, the transgenic plants overexpressing TaOAT showed enhanced tolerance to drought stress by increasing proline accumulation. In addition, salt tolerance of the transgenic plants was also enhanced.
+
+## Function-related keywords:
+   - [nitrogen](/tags/nitrogen/),&nbsp;&nbsp;[development](/tags/development/),&nbsp;&nbsp;[drought](/tags/drought/),&nbsp;&nbsp;[stress](/tags/stress/),&nbsp;&nbsp;[drought-stress](/tags/drought-stress/),&nbsp;&nbsp;[salt](/tags/salt/),&nbsp;&nbsp;[tolerance](/tags/tolerance/),&nbsp;&nbsp;[abiotic-stress](/tags/abiotic-stress/),&nbsp;&nbsp;[drought-tolerance](/tags/drought-tolerance/),&nbsp;&nbsp;[salt-tolerance](/tags/salt-tolerance/),&nbsp;&nbsp;[salt-stress](/tags/salt-stress/),&nbsp;&nbsp;[stress-tolerance](/tags/stress-tolerance/)
+
+## Literature:
+   - [Cloning and molecular characterization of Triticum aestivum ornithine amino transferase (TaOAT) encoding genes.](https://doi.org/10.1186/s12870-020-02396-2)&nbsp;&nbsp;DOI:&nbsp;&nbsp;[10.1186/s12870-020-02396-2](https://doi.org/10.1186/s12870-020-02396-2);&nbsp;&nbsp;PMID:&nbsp;&nbsp;[32349679](https://pubmed.ncbi.nlm.nih.gov/32349679/)
+
+## Related News:
+
+## Gene Resources:
+- **NCBI ID:**  [MK942062](https://www.ncbi.nlm.nih.gov/gene/?term=MK942062)
+- **UniProt accessions:**  [](https://www.uniprot.org/uniprotkb//entry)
+
+## Orthologs:
+
+## Sequences:
+{{< accordion "cDNA Sequence" >}}
+
+{{< /accordion >}}
+{{< accordion "CDS Sequence" >}}
+
+{{< /accordion >}}
+{{< accordion "Protein Sequence" >}}
+
+{{< /accordion >}}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beta vulgaris on funPlantGenes</title>
+    <link>/categories/beta-vulgaris/</link>
+    <description>Recent content in Beta vulgaris on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/beta-vulgaris/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BvFL1</title>
+      <link>/genes/2024.6.9/beta-vulgaris/bvfl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/beta-vulgaris/bvfl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BvFL1 Gene Name: FLC-like 1 Genome: Species: Beta vulgaris Functional Descriptions: EcoTILLING in Beta vulgaris reveals polymorphisms in the FLC-like gene BvFL1that are associated with annuality and winter hardiness.</description>
+    </item>
+    <item>
+      <title>Hs4</title>
+      <link>/genes/beta_vulgaris/hs4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/beta_vulgaris/hs4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: Hs4 Gene Name: Genome: Species: Beta vulgaris Functional Description: The Hs4 gene constitutes a novel mechanism of plant resistance to nematodes Literature: A rhomboid-like protease gene from an interspecies translocation confers resistance to cyst nematodes.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cicer arietinum on funPlantGenes</title>
+    <link>/categories/cicer-arietinum/</link>
+    <description>Recent content in Cicer arietinum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/cicer-arietinum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ArPEC25</title>
+      <link>/genes/cicer_arietinum/arpec25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/cicer_arietinum/arpec25/</guid>
+      <description>Gene Details: Gene ID:&#x9;ST47_g1734 Gene Symbol: ArPEC25 Gene Name: Genome: Species: Cicer arietinum Functional Description: ArPEC25 inhibits the transactivation of CaβLIM1a by interfering with its DNA-binding ability, resulting in negative regulation of the phenylpropanoid pathway and decreased levels of intermediates of lignin biosynthesis, thereby suppressing lignin production.</description>
+    </item>
+    <item>
+      <title>CaABCC3(6)</title>
+      <link>/genes/2024.7.17/cicer-arietinum/ca_09705/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/cicer-arietinum/ca_09705/</guid>
+      <description>Gene Details: Gene ID: Ca_09705 Gene Symbol: CaABCC3(6) Gene Name: ABC transporter 3 Genome: Cicer_arietinum_GA_v1.</description>
+    </item>
+    <item>
+      <title>CaCKX6</title>
+      <link>/genes/cicer_arietinum/cackx6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/cicer_arietinum/cackx6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CaCKX6 Gene Name: Genome: CaGAv1.</description>
+    </item>
+    <item>
+      <title>CaHDZ12</title>
+      <link>/genes/2024.6.9/cicer-arietinum/cahdz12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cicer-arietinum/cahdz12/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaHDZ12 Gene Name: Homeodomain-Leucine Zipper (HD-Zip) I Transcription Factor12 Genome: Species: Cicer arietinum Functional Descriptions: Chickpea WRKY70 Regulates the Expression of a Homeodomain-Leucine Zipper (HD-Zip) I Transcription Factor CaHDZ12, which Confers Abiotic Stress Tolerance in Transgenic Tobacco and Chickpea.</description>
+    </item>
+    <item>
+      <title>CaMIPS1</title>
+      <link>/genes/2024.7.17/cicer-arietinum/camips1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/cicer-arietinum/camips1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaMIPS1 Gene Name: L-myo-inositol 1-phosphate synthase1 Genome: Species: Cicer arietinum Functional Descriptions: Two divergent genes encoding L-myo-inositol 1-phosphate synthase1 (CaMIPS1) and 2 (CaMIPS2) are differentially expressed in chickpea.</description>
+    </item>
+    <item>
+      <title>CaMIPS2</title>
+      <link>/genes/2024.7.17/cicer-arietinum/camips2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/cicer-arietinum/camips2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaMIPS2 Gene Name: L-myo-inositol 1-phosphate synthase2 Genome: Species: Cicer arietinum Functional Descriptions: Two divergent genes encoding L-myo-inositol 1-phosphate synthase1 (CaMIPS1) and 2 (CaMIPS2) are differentially expressed in chickpea.</description>
+    </item>
+    <item>
+      <title>CaMYB39</title>
+      <link>/genes/2024.6.9/cicer-arietinum/camyb39/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cicer-arietinum/camyb39/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaMYB39 Gene Name: R2R3-MYB-SG7 transcription factor Genome: Species: Cicer arietinum Functional Descriptions: The R2R3-MYB-SG7 transcription factor CaMYB39 orchestrates surface phenylpropanoid metabolism and pathogen resistance in chickpea.</description>
+    </item>
+    <item>
+      <title>CaPIMT1</title>
+      <link>/genes/2024.6.9/cicer-arietinum/capimt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cicer-arietinum/capimt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaPIMT1 Gene Name: L-isoaspartyl methyltransferase 1 Genome: Species: Cicer arietinum Functional Descriptions: PROTEIN L-ISOASPARTYL METHYLTRANSFERASE1 (CaPIMT1) from chickpea mitigates oxidative stress-induced growth inhibition of Escherichia coli.</description>
+    </item>
+    <item>
+      <title>CaRAX1;2a</title>
+      <link>/genes/2024.6.9/cicer-arietinum/carax12a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cicer-arietinum/carax12a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaRAX1;2a|SFL Gene Name: SINGLE FLOWER Genome: Species: Cicer arietinum Functional Descriptions: The SINGLE FLOWER (2a|SFL) gene encodes a MYB transcription factor that regulates the number of flowers produced by the inflorescence of chickpea.</description>
+    </item>
+    <item>
+      <title>CaRR13</title>
+      <link>/genes/cicer_arietinum/carr13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/cicer_arietinum/carr13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ca_01726 Gene Symbol: CaRR13 Gene Name: Genome: Species: Cicer arietinum Functional Description: Overexpression, RNAi lines and complementation of cre1 mutants with CaRR13 revealed its critical involvement as an important signalling molecule regulating early events of nodule organogenesis in chickpea.</description>
+    </item>
+    <item>
+      <title>CaTIFY4b</title>
+      <link>/genes/cicer_arietinum/catify4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/cicer_arietinum/catify4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ca_04558 Gene Symbol: CaTIFY4b Gene Name: Genome: CaGAv1.</description>
+    </item>
+  </channel>
+</rss>

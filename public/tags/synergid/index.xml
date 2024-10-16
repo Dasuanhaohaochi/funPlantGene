@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>synergid on funPlantGenes</title>
+    <link>/tags/synergid/</link>
+    <description>Recent content in synergid on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/synergid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT4G18770</title>
+      <link>/genes/arabidopsis_thaliana/at4g18770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g18770/</guid>
+      <description>Gene Details: Gene ID: AT4G18770 Gene Symbol: AtMYB98, MYB98 Gene Name: myb domain protein 98, myb domain protein 98 Description: myb domain protein 98;(source:Araport11) TAIR Accession: locus:2124162 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G18770.</description>
+    </item>
+    <item>
+      <title>AT5G43285</title>
+      <link>/genes/arabidopsis_thaliana/at5g43285/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g43285/</guid>
+      <description>Gene Details: Gene ID: AT5G43285 Gene Symbol: AtLURE1.1, CRP810_1.1, LURE1.1 Gene Name: LURE 1.</description>
+    </item>
+    <item>
+      <title>AT5G43510</title>
+      <link>/genes/arabidopsis_thaliana/at5g43510/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g43510/</guid>
+      <description>Gene Details: Gene ID: AT5G43510 Gene Symbol: AtLURE1.2, CRP810_1.2, LURE1.2 Gene Name: LURE 1.</description>
+    </item>
+    <item>
+      <title>AT5G43513</title>
+      <link>/genes/arabidopsis_thaliana/at5g43513/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g43513/</guid>
+      <description>Gene Details: Gene ID: AT5G43513 Gene Symbol: AtLURE1.3, CRP810_1.3, LURE1.3 Gene Name: LURE 1.</description>
+    </item>
+    <item>
+      <title>AT5G43518</title>
+      <link>/genes/arabidopsis_thaliana/at5g43518/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g43518/</guid>
+      <description>Gene Details: Gene ID: AT5G43518 Gene Symbol: AtLURE1.4, CRP810_1.4, LURE1.4 Gene Name: LURE 1.</description>
+    </item>
+    <item>
+      <title>AT5G43525</title>
+      <link>/genes/arabidopsis_thaliana/at5g43525/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g43525/</guid>
+      <description>Gene Details: Gene ID: AT5G43525 Gene Symbol: AtLURE1.5, CRP810_1.5, LURE1.5 Gene Name: LURE 1.</description>
+    </item>
+  </channel>
+</rss>

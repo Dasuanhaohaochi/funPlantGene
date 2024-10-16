@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phosphate signaling on funPlantGenes</title>
+    <link>/tags/phosphate-signaling/</link>
+    <description>Recent content in phosphate signaling on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/phosphate-signaling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsPHL3</title>
+      <link>/genes/2024.6.9/citrus-sinensis/cs2g01480.1-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/cs2g01480.1-/</guid>
+      <description>Gene Details: Gene ID: Cs2g01480.1 Gene Symbol: CsPHL3 Gene Name: Citrus Phosphate Starvation Response Factor 3 Genome: Species: Citrus sinensis Functional Descriptions: CsPHL3 could directly represses the expression of PSY, thus resulting in a reduction of carotenoid contents, which may release less amounts of SLs and ultimately suppress Pi signaling.</description>
+    </item>
+    <item>
+      <title>GmPHR25</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.15g123100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.15g123100/</guid>
+      <description>Gene Details: Gene ID: Glyma.15g123100 Gene Symbol: GmPHR25 Gene Name: PHOSPHATE STARVATION RESPONSE 25 Genome: Wm82.</description>
+    </item>
+    <item>
+      <title>OsARF16</title>
+      <link>/genes/oryza_sativa/loc_os06g09660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g09660/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g09660 RAPdb gene ID: Os06g0196700 Gene Symbol: OsARF16 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSPX4</title>
+      <link>/genes/oryza_sativa/loc_os03g61200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g61200/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g61200 RAPdb gene ID: Os03g0827500 Gene Symbol: OsSPX4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlFHY3</title>
+      <link>/genes/solanum_lycopersicum/slfhy3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slfhy3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc07g043270 Gene Symbol: SlFHY3 Gene Name: FAR-RED ELONGATED HYPOCOTYL3 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlHY5</title>
+      <link>/genes/solanum_lycopersicum/slhy5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slhy5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g061130 Gene Symbol: SlHY5 Gene Name: ELONGATED HYPOCOTYL5 Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>TaPHT2</title>
+      <link>/genes/triticum_aestivum/tapht2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tapht2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaPHT2|1 Gene Name: phosphate transporter 2-1 Genome: Species: Triticum aestivum Functional Descriptions: Function of wheat phosphate transporter gene TaPHT2|1|TaPHT2|1 in Pi translocation and plant growth regulation under replete and limited Pi supply conditions.</description>
+    </item>
+    <item>
+      <title>Tasg-D1</title>
+      <link>/genes/triticum_aestivum/tasg-d1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tasg-d1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3D02G137200 Gene Symbol: Tasg-D1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>ZmPHO2;PHO2</title>
+      <link>/genes/zea_mays/zmpho2pho2uce10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpho2pho2uce10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb295490 Gene Symbol: ZmPHO2 PHO2 uce10 Gene Name: Phosphate 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

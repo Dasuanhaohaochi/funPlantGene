@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vesicular on funPlantGenes</title>
+    <link>/tags/vesicular/</link>
+    <description>Recent content in vesicular on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/vesicular/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LRD6-6;LMR</title>
+      <link>/genes/oryza_sativa/loc_os06g03940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g03940/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g03940 RAPdb gene ID: Os06g0130000 Gene Symbol: LRD6-6 LMR Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPIN2;LRA1</title>
+      <link>/genes/oryza_sativa/loc_os06g44970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g44970/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g44970 RAPdb gene ID: Os06g0660200 Gene Symbol: OsPIN2 LRA1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSCD2;OsCEF3</title>
+      <link>/genes/oryza_sativa/loc_os01g70320/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g70320/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g70320 RAPdb gene ID: Os01g0928100 Gene Symbol: OsSCD2 OsCEF3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsUBC5a</title>
+      <link>/genes/oryza_sativa/loc_os01g46926/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g46926/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g46926 RAPdb gene ID: Os01g0658400 Gene Symbol: OsUBC5a Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SPL35</title>
+      <link>/genes/oryza_sativa/loc_os03g10750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g10750/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g10750 RAPdb gene ID: Os03g0205000 Gene Symbol: SPL35 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

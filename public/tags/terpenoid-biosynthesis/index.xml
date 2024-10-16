@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>terpenoid biosynthesis on funPlantGenes</title>
+    <link>/tags/terpenoid-biosynthesis/</link>
+    <description>Recent content in terpenoid biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/terpenoid-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CrWRKY1</title>
+      <link>/genes/2024.6.9/catharanthus-roseus/crwrky1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/catharanthus-roseus/crwrky1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CrWRKY1 Gene Name: WRKY transcription factor 1 Genome: Species: Catharanthus roseus Functional Descriptions: Promoter analysis reveals cis-regulatory motifs associated with the expression of the WRKY transcription factor CrWRKY1 in Catharanthus roseus.</description>
+    </item>
+    <item>
+      <title>LeGGPS1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leggps1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leggps1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeGGPS1 Gene Name: geranylgeranyl pyrophosphate synthase1 Genome: Species: Solanum lycopersicum Functional Descriptions: LeGGPS1 was predominantly expressed in leaf tissue and LeGGPS2 in ripening fruit and flower tissue.</description>
+    </item>
+    <item>
+      <title>OsHDR;OsHMBPP</title>
+      <link>/genes/oryza_sativa/loc_os03g52170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g52170/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g52170 RAPdb gene ID: Os03g0731900 Gene Symbol: OsHDR OsHMBPP OsIspH1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmTPS1</title>
+      <link>/genes/zea_mays/zmtps1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmtps1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb071090 Gene Symbol: ZmTPS1 Gene Name: terpene synthase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

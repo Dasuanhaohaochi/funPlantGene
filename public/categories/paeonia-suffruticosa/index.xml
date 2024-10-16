@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paeonia suffruticosa on funPlantGenes</title>
+    <link>/categories/paeonia-suffruticosa/</link>
+    <description>Recent content in Paeonia suffruticosa on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/paeonia-suffruticosa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PsMYB30</title>
+      <link>/genes/2024.6.9/paeonia-suffruticosa/cluster_9455/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/paeonia-suffruticosa/cluster_9455/</guid>
+      <description>Gene Details: Gene ID: Cluster_9455 Gene Symbol: PsMYB30 Gene Name: R2R3-MYB Transcription Factor30 Genome: Species: Paeonia suffruticosa Functional Descriptions: Tree Peony R2R3-MYB Transcription Factor PsMYB30 Promotes Petal Blotch Formation by Activating the Transcription of the Anthocyanin Synthase Gene.</description>
+    </item>
+    <item>
+      <title>PsRGL1</title>
+      <link>/genes/2024.6.9/paeonia-suffruticosa/psrgl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/paeonia-suffruticosa/psrgl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PsRGL1 Gene Name: Genome: Species: Paeonia suffruticosa Functional Descriptions: PsRGL1 negatively regulates chilling- and gibberellin-induced dormancy release by PsF-box1-mediated targeting for proteolytic degradation in tree peony.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saccharum spontaneum on funPlantGenes</title>
+    <link>/categories/saccharum-spontaneum/</link>
+    <description>Recent content in Saccharum spontaneum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/saccharum-spontaneum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ScAIL1</title>
+      <link>/genes/saccharum_spontaneum/scail1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/saccharum_spontaneum/scail1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: ScAIL1 Gene Name: Genome: S.</description>
+    </item>
+    <item>
+      <title>ScPep1</title>
+      <link>/genes/saccharum_spontaneum/scpep1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/saccharum_spontaneum/scpep1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Sspon.05G0022600-1B Gene Symbol: ScPep1 Gene Name: Genome: S.</description>
+    </item>
+    <item>
+      <title>ScPEPR1</title>
+      <link>/genes/saccharum_spontaneum/scpepr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/saccharum_spontaneum/scpepr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: ScPEPR1 Gene Name: PLANT ELICITOR PEPTIDE RECEPTOR1 Genome: S.</description>
+    </item>
+    <item>
+      <title>ScWRKY4</title>
+      <link>/genes/2024.7.17/saccharum-spontaneum/scwrky4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/saccharum-spontaneum/scwrky4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ScWRKY4 Gene Name: Saccharum hybrid cultivar ROC22 WRKY transcription factor 4 Genome: Species: Saccharum spontaneum Functional Descriptions: ScWRKY4 is involved in growth and development and in defense against biotic stresses in sugarcane.</description>
+    </item>
+  </channel>
+</rss>

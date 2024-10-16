@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>early leaf senescence on funPlantGenes</title>
+    <link>/tags/early-leaf-senescence/</link>
+    <description>Recent content in early leaf senescence on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/early-leaf-senescence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABC1;OsFd-GOGAT</title>
+      <link>/genes/oryza_sativa/loc_os07g46460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g46460/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g46460 RAPdb gene ID: Os07g0658400 Gene Symbol: ABC1 OsFd-GOGAT SPL32 ES7 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ES1;TUT1</title>
+      <link>/genes/oryza_sativa/loc_os01g11040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g11040/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g11040 RAPdb gene ID: Os01g0208600 Gene Symbol: ES1 TUT1 OsSCAR1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>GhWRKY27</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghwrky27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghwrky27/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhWRKY27 Gene Name: WRKY transcription factor 27 Genome: Species: Gossypium hirsutum Functional Descriptions: GhWRKY27, was isolated and characterized.</description>
+    </item>
+    <item>
+      <title>LjIPT3</title>
+      <link>/genes/2024.6.9/lotus-japonicus/ljipt3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lotus-japonicus/ljipt3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LjIPT3 Gene Name: isopentenyltransferase3 Genome: Species: Lotus japonicus Functional Descriptions: Knockdown of LjIPT3 influences nodule development in Lotus japonicus.</description>
+    </item>
+    <item>
+      <title>LMM5.1;SPL33</title>
+      <link>/genes/oryza_sativa/loc_os01g02720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g02720/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g02720 RAPdb gene ID: Os01g0116600 Gene Symbol: LMM5.</description>
+    </item>
+    <item>
+      <title>OsBBS1;OsRLCK109</title>
+      <link>/genes/oryza_sativa/loc_os03g24930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g24930/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g24930 RAPdb gene ID: Os03g0364400 Gene Symbol: OsBBS1 OsRLCK109 LMM24 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsIPK2;IPK2</title>
+      <link>/genes/oryza_sativa/loc_os02g32370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g32370/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g32370 RAPdb gene ID: Os02g0523800 Gene Symbol: OsIPK2 IPK2 IP6K ES2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNaPRT1</title>
+      <link>/genes/oryza_sativa/loc_os03g62110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g62110/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g62110 RAPdb gene ID: Os03g0837300 Gene Symbol: OsNaPRT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPLS1</title>
+      <link>/genes/oryza_sativa/loc_os06g45120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g45120/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g45120 RAPdb gene ID: Os06g0662000 Gene Symbol: OsPLS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PpCBF1</title>
+      <link>/genes/2024.6.9/prunus-persica/ppcbf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/ppcbf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PpCBF1 Gene Name: C-repeat binding factor 1 Genome: Species: Prunus persica Functional Descriptions: The overexpression of a peach CBF (PpCBF1) gene in a transgenic line of own-rooted apple (Malus×domestica) M.</description>
+    </item>
+    <item>
+      <title>PtRD26</title>
+      <link>/genes/2024.6.9/populus-tomentosa/potri.001g404100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-tomentosa/potri.001g404100/</guid>
+      <description>Gene Details: Gene ID: Potri.001G404100 Gene Symbol: PtRD26 Gene Name: Genome: Species: Populus tomentosa Functional Descriptions: An alternative splicing variant of PtRD26 delays leaf senescence by regulating multiple NAC transcription factors in Populus.</description>
+    </item>
+    <item>
+      <title>SUI2;ES5</title>
+      <link>/genes/oryza_sativa/loc_os05g48060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g48060/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g48060 RAPdb gene ID: Os05g0554400 Gene Symbol: SUI2 ES5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>WLS5</title>
+      <link>/genes/oryza_sativa/loc_os05g04900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g04900/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g04900 RAPdb gene ID: None Gene Symbol: WLS5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

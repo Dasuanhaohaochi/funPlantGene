@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vaccinium corymbosum on funPlantGenes</title>
+    <link>/categories/vaccinium-corymbosum/</link>
+    <description>Recent content in Vaccinium corymbosum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/vaccinium-corymbosum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VcHKT1;1</title>
+      <link>/genes/vaccinium_corymbosum/vchkt11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vaccinium_corymbosum/vchkt11/</guid>
+      <description>Gene Details: Gene ID:&#x9;VaccDscaff40_211.21 Gene Symbol: VcHKT1;1 Gene Name: Genome: reference genome (Draper) Species: Vaccinium corymbosum Functional Description: we provide evidence that VcHKT1****;1 promotes leaf Na+ exclusion and propose natural variation in VcHKT1****;1 will be valuable for breeding Na+-tolerant blueberry cultivars in the future.</description>
+    </item>
+  </channel>
+</rss>

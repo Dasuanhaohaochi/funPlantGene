@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sesamum indicum on funPlantGenes</title>
+    <link>/categories/sesamum-indicum/</link>
+    <description>Recent content in Sesamum indicum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/sesamum-indicum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SiNAC1</title>
+      <link>/genes/sesamum_indicum/sinac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/sesamum_indicum/sinac1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Sindi_2309500 Gene Symbol: SiNAC1 Gene Name: Genome: Species: Sesamum indicum Functional Description: A GWAS of 560 57 sesame accessions combined with an overexpression study confirmed NAC1 and PPO 58 genes play an important role in oil content upregulation in sesame.</description>
+    </item>
+    <item>
+      <title>SiPPO</title>
+      <link>/genes/sesamum_indicum/sippo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/sesamum_indicum/sippo/</guid>
+      <description>Gene Details: Gene ID:&#x9;Sindi_2087700 Gene Symbol: SiPPO Gene Name: Genome: Species: Sesamum indicum Functional Description: A GWAS of 560 57 sesame accessions combined with an overexpression study confirmed NAC1 and PPO 58 genes play an important role in oil content upregulation in sesame.</description>
+    </item>
+    <item>
+      <title>SiRLK1</title>
+      <link>/genes/2024.7.17/sesamum-indicum/sindi_0812400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/sesamum-indicum/sindi_0812400/</guid>
+      <description>Gene Details: Gene ID: Sindi_0812400 Gene Symbol: SiRLK1 Gene Name: Genome: Species: Sesamum indicum Functional Descriptions: A marker S3_21381019 developed based on the variation within the SiRLK1 locus will facilitate marker-assisted breeding for the improvement of sesame disease resistance.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>megaspore on funPlantGenes</title>
+    <link>/tags/megaspore/</link>
+    <description>Recent content in megaspore on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/megaspore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT3G19150</title>
+      <link>/genes/arabidopsis_thaliana/at3g19150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g19150/</guid>
+      <description>Gene Details: Gene ID: AT3G19150 Gene Symbol: ACK1, AtKRP6, ICK4, KRP6 Gene Name: ARABIDOPSIS CDK INHIBITOR 1, KIP-related protein 6 Description: KIP-related protein 6;(source:Araport11) TAIR Accession: locus:2094118 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G19150.</description>
+    </item>
+  </channel>
+</rss>

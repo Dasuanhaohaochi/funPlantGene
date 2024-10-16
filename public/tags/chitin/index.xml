@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chitin on funPlantGenes</title>
+    <link>/tags/chitin/</link>
+    <description>Recent content in chitin on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/chitin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BjCHI1</title>
+      <link>/genes/2024.6.9/brassica-juncea/bjchi1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-juncea/bjchi1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BjCHI1 Gene Name: chitinase1 Genome: Species: Brassica juncea Functional Descriptions: Brassica juncea chitinase BjCHI1 inhibits growth of fungal phytopathogens and agglutinates Gram-negative bacteria.</description>
+    </item>
+    <item>
+      <title>GhWAK7A</title>
+      <link>/genes/gossypium_hirsutum/ghwak7a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghwak7a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh A02G0727 Gene Symbol: GhWAK7A Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>HvCEBiP</title>
+      <link>/genes/hordeum_vulgare/hvcebip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/hordeum_vulgare/hvcebip/</guid>
+      <description>Gene Details: Gene ID:&#x9;TA30910_4513 Gene Symbol: HvCEBiP Gene Name: CEBiP chitin receptor Genome: barley EST database Species: Hordeum vulgare Functional Descriptions: Our findings suggest that HvWRKY2 represses barley basal immunity by directly targeting pathogen-associated molecular pattern (PAMP) recognition receptor genes, suggesting that HvCEBiP and likely chitin signaling function in barley PAMP-triggered immune responses to Bgh infection.</description>
+    </item>
+    <item>
+      <title>HvWRKY2</title>
+      <link>/genes/hordeum_vulgare/hvwrky2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/hordeum_vulgare/hvwrky2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: HvWRKY2 Gene Name: Genome: Species: Hordeum vulgare Functional Descriptions: Our findings suggest that HvWRKY2 represses barley basal immunity by directly targeting pathogen-associated molecular pattern (PAMP) recognition receptor genes, suggesting that HvCEBiP and likely chitin signaling function in barley PAMP-triggered immune responses to Bgh infection.</description>
+    </item>
+  </channel>
+</rss>

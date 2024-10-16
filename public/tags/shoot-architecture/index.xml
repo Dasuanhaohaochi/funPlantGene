@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shoot architecture on funPlantGenes</title>
+    <link>/tags/shoot-architecture/</link>
+    <description>Recent content in shoot architecture on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/shoot-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCUC2</title>
+      <link>/genes/gossypium_hirsutum/ghcuc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghcuc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GhCUC2 Gene Name: CUP-SHAPED COTYLEDON2 Genome: reference genome TM-1 (AD1) genome NAU-NBI Species: Gossypium hirsutum Functional Descriptions: The miR164-GhCUC2-GhBRC1 module regulates plant architecture through abscisic acid in cotton.</description>
+    </item>
+    <item>
+      <title>miR156</title>
+      <link>/genes/oryza_sativa/mir156/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/mir156/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: None Gene Symbol: miR156 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MIR396e</title>
+      <link>/genes/oryza_sativa/mir396e/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/mir396e/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: None Gene Symbol: MIR396e Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MIR396f</title>
+      <link>/genes/oryza_sativa/mir396f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/mir396f/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: None Gene Symbol: MIR396f Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MtLUX</title>
+      <link>/genes/medicago_truncatula/mtlux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/medicago_truncatula/mtlux/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: MtLUX Gene Name: Genome: Species: Medicago truncatula Functional Descriptions: In vivo and in vitro experiments showed that MtLUX directly binds to a cis-element in the promoter of MtTB1/MtTCP1A, suggesting that MtLUX regulates branching by rhythmically suppressing MtTB1/MtTCP1A.</description>
+    </item>
+    <item>
+      <title>OsCKX9</title>
+      <link>/genes/oryza_sativa/loc_os05g31040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g31040/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g31040 RAPdb gene ID: Os05g0374200 Gene Symbol: OsCKX9 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsIAAGLU;OsIAGT1</title>
+      <link>/genes/oryza_sativa/loc_os03g48740/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g48740/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g48740 RAPdb gene ID: Os03g0693600 Gene Symbol: OsIAAGLU OsIAGT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPIN2;LRA1</title>
+      <link>/genes/oryza_sativa/loc_os06g44970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g44970/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g44970 RAPdb gene ID: Os06g0660200 Gene Symbol: OsPIN2 LRA1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsXylT;RCN11</title>
+      <link>/genes/oryza_sativa/loc_os08g39380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g39380/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g39380 RAPdb gene ID: Os08g0503800 Gene Symbol: OsXylT RCN11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PvWOX3a</title>
+      <link>/genes/2024.6.9/panicum-virgatum/pavir.8kg017200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/panicum-virgatum/pavir.8kg017200/</guid>
+      <description>Gene Details: Gene ID: Pavir.8KG017200 Gene Symbol: PvWOX3a Gene Name: WUSCHEL-related homeobox transcription factor Genome: Species: Panicum virgatum Functional Descriptions: Overexpression of PvWOX3a in switchgrass promotes stem development and increases plant height.</description>
+    </item>
+    <item>
+      <title>Rcn1;OsABCG5</title>
+      <link>/genes/oryza_sativa/loc_os03g17350/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g17350/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g17350 RAPdb gene ID: Os03g0281900 Gene Symbol: Rcn1 OsABCG5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlCCD8</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/slccd8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/slccd8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlCCD8 Gene Name: CAROTENOID CLEAVAGE DIOXYGENASE8 Genome: Species: Solanum lycopersicum Functional Descriptions: The tomato CAROTENOID CLEAVAGE DIOXYGENASE8 (SlCCD8) regulates rhizosphere signaling, plant architecture and affects reproductive development through strigolactone biosynthesis.</description>
+    </item>
+    <item>
+      <title>TAC1</title>
+      <link>/genes/oryza_sativa/loc_os09g35980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g35980/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g35980 RAPdb gene ID: Os09g0529300 Gene Symbol: TAC1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaCol-B5</title>
+      <link>/genes/triticum_aestivum/tacol-b5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacol-b5/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7B02G400600 Gene Symbol: TaCol-B5 Gene Name: CONSTANS-like protein Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Zmksl4;ZmKS3</title>
+      <link>/genes/zea_mays/zmksl4zmks3zmksl2zmtps11ks4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmksl4zmks3zmksl2zmtps11ks4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb133200 Gene Symbol: Zmksl4 ZmKS3 ZmKSL2 ZmTPS11 ks4 Gene Name: kaurene synthase4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPIN1b;pin2</title>
+      <link>/genes/zea_mays/zmpin1bpin2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpin1bpin2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb254390 Gene Symbol: ZmPIN1b pin2 Gene Name: PIN-formed protein2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmTAC1</title>
+      <link>/genes/zea_mays/zmtac1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmtac1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb103250 Gene Symbol: ZmTAC1 Gene Name: tiller angle control1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

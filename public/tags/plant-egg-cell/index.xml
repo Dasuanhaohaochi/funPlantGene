@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plant egg cell on funPlantGenes</title>
+    <link>/tags/plant-egg-cell/</link>
+    <description>Recent content in plant egg cell on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/plant-egg-cell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G41500</title>
+      <link>/genes/arabidopsis_thaliana/at2g41500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g41500/</guid>
+      <description>Gene Details: Gene ID: AT2G41500 Gene Symbol: AtPRP4, AtSAP60, EMB2776, LIS, PRP4 Gene Name: LACHESIS, proline-rich protein 4 Description: WD-40 repeat family protein / small nuclear ribonucleoprotein Prp4p-like protein;(source:Araport11) TAIR Accession: locus:2060560 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G41500.</description>
+    </item>
+  </channel>
+</rss>

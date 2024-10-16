@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bioethanol production on funPlantGenes</title>
+    <link>/tags/bioethanol-production/</link>
+    <description>Recent content in bioethanol production on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/bioethanol-production/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsSEX4</title>
+      <link>/genes/oryza_sativa/loc_os03g01750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g01750/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g01750 RAPdb gene ID: Os03g0107800 Gene Symbol: OsSEX4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>RSUS3;SUS3</title>
+      <link>/genes/oryza_sativa/loc_os07g42490/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g42490/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g42490 RAPdb gene ID: Os07g0616800 Gene Symbol: RSUS3 SUS3 OsSUS3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

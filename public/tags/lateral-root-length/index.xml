@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lateral root length on funPlantGenes</title>
+    <link>/tags/lateral-root-length/</link>
+    <description>Recent content in lateral root length on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/lateral-root-length/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GmEIL4</title>
+      <link>/genes/glycine_max/gmeil4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmeil4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.02g274600 Gene Symbol: GmEIL4 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: GmEIL4 enhances soybean (Glycine max) phosphorus efficiency by improving root system development.</description>
+    </item>
+    <item>
+      <title>GmWNK1</title>
+      <link>/genes/2024.6.9/glycine-max/gmwnk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/gmwnk1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GmWNK1 Gene Name: WNK kinase homolog1 Genome: Species: Glycine max Functional Descriptions: The soybean root-specific protein kinase GmWNK1 regulates stress-responsive ABA signaling on the root system architecture.</description>
+    </item>
+    <item>
+      <title>LaCLE35</title>
+      <link>/genes/2024.6.9/lupinus-albus/lalb_chr05g0213851/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lupinus-albus/lalb_chr05g0213851/</guid>
+      <description>Gene Details: Gene ID: Lalb_Chr05g0213851 Gene Symbol: LaCLE35 Gene Name: Genome: Species: lupinus albus Functional Descriptions: The LaCLE35 peptide modifies rootlet density and length in cluster roots of white lupin.</description>
+    </item>
+    <item>
+      <title>MtLBD29a</title>
+      <link>/genes/2024.7.17/medicago-truncatula/mtruna17chr1g0184271/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/medicago-truncatula/mtruna17chr1g0184271/</guid>
+      <description>Gene Details: Gene ID: MtrunA17Chr1g0184271 Gene Symbol: MtLBD29a Gene Name: LATERAL ORGAN BOUNDARIES DOMAIN 29a Genome: M.</description>
+    </item>
+    <item>
+      <title>MtLBD29b</title>
+      <link>/genes/2024.7.17/medicago-truncatula/mtruna17chr7g0261031/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/medicago-truncatula/mtruna17chr7g0261031/</guid>
+      <description>Gene Details: Gene ID: MtrunA17Chr7g0261031 Gene Symbol: MtLBD29b Gene Name: LATERAL ORGAN BOUNDARIES DOMAIN 29b Genome: M.</description>
+    </item>
+    <item>
+      <title>OsMADS25</title>
+      <link>/genes/oryza_sativa/loc_os04g23910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g23910/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g23910 RAPdb gene ID: Os04g0304400 Gene Symbol: OsMADS25 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMYB58;OsMYB63</title>
+      <link>/genes/oryza_sativa/loc_os04g50770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g50770/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g50770 RAPdb gene ID: Os04g0594100 Gene Symbol: OsMYB58 OsMYB63 RRS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmCKX5;cko5</title>
+      <link>/genes/zea_mays/zmckx5cko5ckx5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmckx5cko5ckx5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb337910 Gene Symbol: ZmCKX5 cko5 ckx5 Gene Name: cytokinin oxidase 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmIAA5;ZmIAA10</title>
+      <link>/genes/zea_mays/zmiaa5zmiaa10rum1iaa13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmiaa5zmiaa10rum1iaa13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb156910 Gene Symbol: ZmIAA5 ZmIAA10 rum1 iaa13 Gene Name: rootless with undetectable meristems1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMADS60</title>
+      <link>/genes/zea_mays/zmmads60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmmads60/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb372610 Gene Symbol: ZmMADS60 Gene Name: MADS-transcription factor 60 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

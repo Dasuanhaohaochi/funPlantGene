@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stevia rebaudiana on funPlantGenes</title>
+    <link>/categories/stevia-rebaudiana/</link>
+    <description>Recent content in Stevia rebaudiana on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/stevia-rebaudiana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SrDXS1</title>
+      <link>/genes/2024.6.9/stevia-rebaudiana/srdxs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/stevia-rebaudiana/srdxs1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SrDXS1 Gene Name: 1-deoxy-d-xylulose-5-phosphate synthase 1 Genome: Species: Stevia rebaudiana Functional Descriptions: Overexpression of SrDXS1 and SrKAH enhances steviol glycosides content in transgenic Stevia plants.</description>
+    </item>
+    <item>
+      <title>SrKAH</title>
+      <link>/genes/2024.6.9/stevia-rebaudiana/srkah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/stevia-rebaudiana/srkah/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SrKAH Gene Name: kaurenoic acid hydroxylase Genome: Species: Stevia rebaudiana Functional Descriptions: Overexpression of SrDXS1 and SrKAH enhances steviol glycosides content in transgenic Stevia plants.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pinus sylvestris on funPlantGenes</title>
+    <link>/categories/pinus-sylvestris/</link>
+    <description>Recent content in Pinus sylvestris on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/pinus-sylvestris/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PsAS1</title>
+      <link>/genes/2024.6.9/pinus-sylvestris/psas1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pinus-sylvestris/psas1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PsAS1 Gene Name: Asparagine synthetase 1 Genome: Species: Pinus sylvestris Functional Descriptions: Coordination of PsAS1 and PsASPG expression controls timing of re-allocated N utilization in hypocotyls of pine seedlings.</description>
+    </item>
+    <item>
+      <title>PsASPG</title>
+      <link>/genes/2024.6.9/pinus-sylvestris/psaspg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pinus-sylvestris/psaspg/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PsASPG Gene Name: L-asparaginase Genome: Species: Pinus sylvestris Functional Descriptions: Coordination of PsAS1 and PsASPG expression controls timing of re-allocated N utilization in hypocotyls of pine seedlings.</description>
+    </item>
+  </channel>
+</rss>

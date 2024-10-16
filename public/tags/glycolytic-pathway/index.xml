@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>glycolytic pathway on funPlantGenes</title>
+    <link>/tags/glycolytic-pathway/</link>
+    <description>Recent content in glycolytic pathway on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/glycolytic-pathway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsF2KP2</title>
+      <link>/genes/oryza_sativa/loc_os03g18310/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g18310/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g18310 RAPdb gene ID: Os03g0294200 Gene Symbol: OsF2KP2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTMT1;OsTST1</title>
+      <link>/genes/oryza_sativa/loc_os10g39440/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g39440/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g39440 RAPdb gene ID: Os10g0539900 Gene Symbol: OsTMT1 OsTST1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmSTK1</title>
+      <link>/genes/zea_mays/zm00001eb374240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb374240/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb374240 Gene Symbol: ZmSTK1 Gene Name: serine threonine kinase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSTK2</title>
+      <link>/genes/zea_mays/zm00001eb192750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb192750/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb192750 Gene Symbol: ZmSTK2|stk3 Gene Name: serine-threonine kinase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

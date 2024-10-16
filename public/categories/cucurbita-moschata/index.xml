@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cucurbita moschata on funPlantGenes</title>
+    <link>/categories/cucurbita-moschata/</link>
+    <description>Recent content in Cucurbita moschata on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/cucurbita-moschata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CmCNIH1</title>
+      <link>/genes/2024.6.9/cucurbita-moschata/cmoch07g013500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-moschata/cmoch07g013500/</guid>
+      <description>Gene Details: Gene ID: CmoCh07G013500 Gene Symbol: CmCNIH1 Gene Name: Genome: Species: Cucurbita moschata Functional Descriptions: CmCNIH1 improves salt tolerance by influencing the trafficking of CmHKT1|1 in pumpkin.</description>
+    </item>
+    <item>
+      <title>CmoAKT1</title>
+      <link>/genes/2024.6.9/cucurbita-moschata/cmoch10g006200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-moschata/cmoch10g006200/</guid>
+      <description>Gene Details: Gene ID: CmoCh10G006200 Gene Symbol: CmoAKT1|2 Gene Name: Genome: Species: Cucurbita moschata Functional Descriptions: CmoNAC1 in pumpkin rootstocks improves salt tolerance of grafted cucumbers by binding to the promoters of CmoRBOHD1, CmoNCED6, CmoAKT1|2|CmoAKT1|2 and CmoHKT1|1 to regulate HCmoAKT1|2OCmoAKT1|2, ABA signaling and K+/Na+ homeostasis.</description>
+    </item>
+    <item>
+      <title>CmoHKT1</title>
+      <link>/genes/2024.6.9/cucurbita-moschata/cmoch10g003830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-moschata/cmoch10g003830/</guid>
+      <description>Gene Details: Gene ID: CmoCh10G003830 Gene Symbol: CmoHKT1|1 Gene Name: Genome: Species: Cucurbita moschata Functional Descriptions: CmoNACCmoHKT1|1 in pumpkin rootstocks improves salt tolerance of grafted cucumbers by binding to the promoters of CmoRBOHDCmoHKT1|1, CmoNCED6, CmoAKTCmoHKT1|1|2 and CmoHKT1|1|CmoHKT1|1 to regulate H2O2, ABA signaling and K+/Na+ homeostasis.</description>
+    </item>
+    <item>
+      <title>CmoNAC1</title>
+      <link>/genes/2024.6.9/cucurbita-moschata/cmocholg014300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-moschata/cmocholg014300/</guid>
+      <description>Gene Details: Gene ID: CmoChOlG014300 Gene Symbol: CmoNAC1 Gene Name: Genome: Species: Cucurbita moschata Functional Descriptions: CmoNAC1 in pumpkin rootstocks improves salt tolerance of grafted cucumbers by binding to the promoters of CmoRBOHD1, CmoNCED6, CmoAKT1|2 and CmoHKT1|1 to regulate H2O2, ABA signaling and K+/Na+ homeostasis.</description>
+    </item>
+    <item>
+      <title>CmoNCED6</title>
+      <link>/genes/2024.6.9/cucurbita-moschata/cmoch16g004950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-moschata/cmoch16g004950/</guid>
+      <description>Gene Details: Gene ID: CmoCh16G004950 Gene Symbol: CmoNCED6 Gene Name: Genome: Species: Cucurbita moschata Functional Descriptions: CmoNAC1 in pumpkin rootstocks improves salt tolerance of grafted cucumbers by binding to the promoters of CmoRBOHD1, CmoNCED6, CmoAKT1|2 and CmoHKT1|1 to regulate H2O2, ABA signaling and K+/Na+ homeostasis.</description>
+    </item>
+    <item>
+      <title>CmoRBOHD1</title>
+      <link>/genes/2024.6.9/cucurbita-moschata/cmoch06g017360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-moschata/cmoch06g017360/</guid>
+      <description>Gene Details: Gene ID: CmoCh06G017360 Gene Symbol: CmoRBOHD1 Gene Name: respiratory burst oxidase homolog D1 Genome: Species: Cucurbita moschata Functional Descriptions: CmoNAC1 in pumpkin rootstocks improves salt tolerance of grafted cucumbers by binding to the promoters of CmoRBOHD1, CmoNCED6, CmoAKT1|2 and CmoHKT1|1 to regulate H2O2, ABA signaling and K+/Na+ homeostasis.</description>
+    </item>
+  </channel>
+</rss>

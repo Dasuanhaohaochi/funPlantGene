@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>copper accumulation on funPlantGenes</title>
+    <link>/tags/copper-accumulation/</link>
+    <description>Recent content in copper accumulation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/copper-accumulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COPT1</title>
+      <link>/genes/oryza_sativa/loc_os01g56420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g56420/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g56420 RAPdb gene ID: Os01g0770700 Gene Symbol: COPT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>COPT5</title>
+      <link>/genes/oryza_sativa/loc_os05g35050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g35050/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g35050 RAPdb gene ID: Os05g0424700 Gene Symbol: COPT5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MdHMA5</title>
+      <link>/genes/2024.6.9/malus-domestica/md03g1182600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md03g1182600/</guid>
+      <description>Gene Details: Gene ID: Md03G1182600 Gene Symbol: MdHMA5 Gene Name: Genome: Species: Malus domestica Functional Descriptions: MdWRKY11 improves copper tolerance by directly promoting the expression of the copper transporter gene MdHMA5.</description>
+    </item>
+    <item>
+      <title>MdWRKY11</title>
+      <link>/genes/2024.6.9/malus-domestica/md15g1054000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/md15g1054000/</guid>
+      <description>Gene Details: Gene ID: Md15G1054000 Gene Symbol: MdWRKY11 Gene Name: Genome: Species: Malus domestica Functional Descriptions: MdWRKY11 improves copper tolerance by directly promoting the expression of the copper transporter gene MdHMA5.</description>
+    </item>
+    <item>
+      <title>OsHMA5</title>
+      <link>/genes/oryza_sativa/loc_os04g46940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g46940/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g46940 RAPdb gene ID: Os04g0556000 Gene Symbol: OsHMA5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaCZSOD2-7A</title>
+      <link>/genes/triticum_aestivum/traescs7a02g292100.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7a02g292100.1/</guid>
+      <description>Gene Details: Gene ID: TraesCs7A02G292100.1 Gene Symbol: TaCZSOD2-7A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCZSOD2-7B</title>
+      <link>/genes/triticum_aestivum/traescs7b02g197300.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7b02g197300.1/</guid>
+      <description>Gene Details: Gene ID: TraesCs7B02G197300.1 Gene Symbol: TaCZSOD2-7B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaCZSOD2-7D</title>
+      <link>/genes/triticum_aestivum/traescs7d02g290700.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7d02g290700.1/</guid>
+      <description>Gene Details: Gene ID: TraesCs7D02G290700.1 Gene Symbol: TaCZSOD2-7D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaWRKY74</title>
+      <link>/genes/2024.6.9/brassica-napus/traescs5d02g190800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-napus/traescs5d02g190800/</guid>
+      <description>Gene Details: Gene ID: TraesCS5D02G190800 Gene Symbol: TaWRKY74 Gene Name: WRKY transcription factor 74 Genome: Species: Brassica napus Functional Descriptions: TaWRKY74 participates copper tolerance through regulation of TaGST1 expression and GSH content in wheat.</description>
+    </item>
+  </channel>
+</rss>

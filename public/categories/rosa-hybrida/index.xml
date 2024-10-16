@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rosa hybrida on funPlantGenes</title>
+    <link>/categories/rosa-hybrida/</link>
+    <description>Recent content in Rosa hybrida on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/rosa-hybrida/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RhAPC3b</title>
+      <link>/genes/rosa_hybrida/rhapc3b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/rosa_hybrida/rhapc3b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: RhAPC3b Gene Name: Genome: Species: Rosa hybrida Functional Description: RhPMP1 induces the expression of ANAPHASE-PROMOTING COMPLEX 3b (RhAPC3b), thereby increasing the endoreduplication level of parenchyma cells on the adaxial side of the petal (ADSP) base, resulting in asymmetric growth of the petal base.</description>
+    </item>
+    <item>
+      <title>RhPMP1</title>
+      <link>/genes/rosa_hybrida/rhpmp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/rosa_hybrida/rhpmp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: RhPMP1 Gene Name: PETAL MOVEMENT-RELATED PROTEIN1 Genome: Species: Rosa hybrida Functional Description: RhPMP1 induces the expression of ANAPHASE-PROMOTING COMPLEX 3b (RhAPC3b), thereby increasing the endoreduplication level of parenchyma cells on the adaxial side of the petal (ADSP) base, resulting in asymmetric growth of the petal base.</description>
+    </item>
+    <item>
+      <title>RhWRKY13</title>
+      <link>/genes/rosa_hybrida/rhwrky13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/rosa_hybrida/rhwrky13/</guid>
+      <description>Gene Details: Gene ID:&#x9;RchiOBHm_Chr2g0133001 Gene Symbol: RhWRKY13 Gene Name: Genome: Rosa chinensis OldBlush Hm r2.</description>
+    </item>
+  </channel>
+</rss>

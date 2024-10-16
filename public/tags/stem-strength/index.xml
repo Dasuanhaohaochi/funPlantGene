@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stem strength on funPlantGenes</title>
+    <link>/tags/stem-strength/</link>
+    <description>Recent content in stem strength on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/stem-strength/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CmHLB</title>
+      <link>/genes/chrysanthemum_morifolium/cmhlb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/chrysanthemum_morifolium/cmhlb/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CmHLB Gene Name: HLH PROTEIN INVOLVED IN LIGNIN BIOSYNTHESIS Genome: Chrysanthemum genome v2.</description>
+    </item>
+    <item>
+      <title>OsIRX14</title>
+      <link>/genes/oryza_sativa/loc_os06g47340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g47340/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g47340 RAPdb gene ID: Os06g0687900 Gene Symbol: OsIRX14 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PlWRKY41a</title>
+      <link>/genes/paeonia_lactiflora/plwrky41a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/paeonia_lactiflora/plwrky41a/</guid>
+      <description>Gene Details: Gene ID:&#x9;i0_HQ_PL_c2640/f3p2/735 Gene Symbol: PlWRKY41a Gene Name: i0_HQ_PL_c2640 Genome: Species: ** Functional Description: These data support that the PlMYB43-PlWRKY41a protein complex can directly activate the expression of PlXTH4 to enhance stem strength by modulating secondary cell wall thickness in P.</description>
+    </item>
+    <item>
+      <title>ZmSPL12</title>
+      <link>/genes/zea_mays/zmspl12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmspl12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb233320 Gene Symbol: ZmSPL12 Gene Name: SBP-transcription factor 12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

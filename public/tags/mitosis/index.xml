@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mitosis on funPlantGenes</title>
+    <link>/tags/mitosis/</link>
+    <description>Recent content in mitosis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/mitosis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BBM1;OsASGR-BBML1</title>
+      <link>/genes/oryza_sativa/loc_os11g19060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g19060/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g19060 RAPdb gene ID: Os11g0295900 Gene Symbol: BBM1 OsASGR-BBML1 OsBBM1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>CDKB2;1;cdc2Os3</title>
+      <link>/genes/oryza_sativa/loc_os08g40170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g40170/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g40170 RAPdb gene ID: Os08g0512600 Gene Symbol: CDKB2 1 cdc2Os3 CDKB2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>CycB1;1;OsCycB1;1</title>
+      <link>/genes/oryza_sativa/loc_os01g59120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g59120/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g59120 RAPdb gene ID: Os01g0805600 Gene Symbol: CycB1 1 OsCycB1 1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ENL1</title>
+      <link>/genes/oryza_sativa/loc_os04g59624/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g59624/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g59624 RAPdb gene ID: Os04g0692750 Gene Symbol: ENL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ESA1</title>
+      <link>/genes/oryza_sativa/loc_os01g34010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g34010/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g34010 RAPdb gene ID: Os01g0524100 Gene Symbol: ESA1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MtCcs52B</title>
+      <link>/genes/2024.7.17/medicago-truncatula/mtruna17_chr3g0111961/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/medicago-truncatula/mtruna17_chr3g0111961/</guid>
+      <description>Gene Details: Gene ID: MtrunA17_Chr3g0111961 Gene Symbol: MtCcs52B Gene Name: B-type cell cycle switch protein ccs52B Genome: Species: Medicago truncatula Functional Descriptions: The MtCcs52A and MtCcs52B proteins represent two subgroups of the Cdh1-type activators, which display differences in their cell cycle regulation, structure, and function.</description>
+    </item>
+    <item>
+      <title>NbRae1</title>
+      <link>/genes/2024.6.9/nicotiana-benthamiana/nbrae1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-benthamiana/nbrae1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NbRae1 Gene Name: RNA export 1 Genome: Species: Nicotiana benthamiana Functional Descriptions: Virus-induced gene silencing of Nicotiana benthamiana Rae1, NbRae1, which encodes a protein with four WD40 repeats, resulted in growth arrest and abnormal leaf development.</description>
+    </item>
+    <item>
+      <title>OsAHL1;AHL1</title>
+      <link>/genes/oryza_sativa/loc_os08g02490/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g02490/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g02490 RAPdb gene ID: Os08g0118000 Gene Symbol: OsAHL1 AHL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsDLK</title>
+      <link>/genes/oryza_sativa/loc_os07g01490/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g01490/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g01490 RAPdb gene ID: Os07g0105700 Gene Symbol: OsDLK Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OseIF3e;EIF3E</title>
+      <link>/genes/oryza_sativa/loc_os07g12110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g12110/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g12110 RAPdb gene ID: Os07g0222300 Gene Symbol: OseIF3e EIF3E Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsGT1</title>
+      <link>/genes/oryza_sativa/loc_os01g15780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g15780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g15780 RAPdb gene ID: Os01g0262600 Gene Symbol: OsGT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMRE11</title>
+      <link>/genes/oryza_sativa/loc_os04g54340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g54340/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g54340 RAPdb gene ID: Os04g0635900 Gene Symbol: OsMRE11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMYB3R-2</title>
+      <link>/genes/oryza_sativa/loc_os01g62410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g62410/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g62410 RAPdb gene ID: Os01g0841500 Gene Symbol: OsMYB3R-2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRAD21-3</title>
+      <link>/genes/oryza_sativa/loc_os08g16610/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g16610/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g16610 RAPdb gene ID: Os08g0266700 Gene Symbol: OsRAD21-3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRAN2</title>
+      <link>/genes/oryza_sativa/loc_os05g49890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g49890/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g49890 RAPdb gene ID: Os05g0574500 Gene Symbol: OsRAN2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRPA1a</title>
+      <link>/genes/oryza_sativa/loc_os02g53680/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g53680/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g53680 RAPdb gene ID: Os02g0776800 Gene Symbol: OsRPA1a Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSGO1</title>
+      <link>/genes/oryza_sativa/loc_os02g55570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g55570/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g55570 RAPdb gene ID: Os02g0799100 Gene Symbol: OsSGO1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PMR</title>
+      <link>/genes/oryza_sativa/loc_os05g34780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g34780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g34780 RAPdb gene ID: None Gene Symbol: PMR Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>RAD51C</title>
+      <link>/genes/oryza_sativa/loc_os01g39630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g39630/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g39630 RAPdb gene ID: Os01g0578000 Gene Symbol: RAD51C Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>VKS1;KIN11</title>
+      <link>/genes/zea_mays/vks1kin11krp11zmakin11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/vks1kin11krp11zmakin11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb298280 Gene Symbol: VKS1 KIN11 krp11 ZmaKIN11 Gene Name: varied kernel size 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSMC2</title>
+      <link>/genes/zea_mays/zm00001eb144310/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb144310/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb144310 Gene Symbol: ZmSMC2 Gene Name: structural maintenance of chromosomes2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSMC4</title>
+      <link>/genes/zea_mays/zm00001eb291710/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb291710/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb291710 Gene Symbol: ZmSMC4 Gene Name: structural maintenance of chromosomes4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

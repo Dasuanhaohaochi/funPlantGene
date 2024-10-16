@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vitis vinifera on funPlantGenes</title>
+    <link>/categories/vitis-vinifera/</link>
+    <description>Recent content in Vitis vinifera on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/vitis-vinifera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACS1</title>
+      <link>/genes/vitis_vinifera/acs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/acs1/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_215s0046g02220 Gene Symbol: ACS1 Gene Name: Genome: genome assembly 12X.</description>
+    </item>
+    <item>
+      <title>DELLA1</title>
+      <link>/genes/vitis_vinifera/della1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/della1/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_211s0016g04630 Gene Symbol: DELLA1 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>FaOMT</title>
+      <link>/genes/2024.7.17/vitis-vinifera/faomt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/faomt/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FaOMT Gene Name: O-methyltransferase Genome: Species: Vitis vinifera Functional Descriptions: It is methylated further by FaOMT (Fragaria×ananassa O-methyltransferase) to 2,5-dimethyl-4-methoxy-3(2H)-furanone (DMMF) during the ripening process.</description>
+    </item>
+    <item>
+      <title>INO</title>
+      <link>/genes/vitis_vinifera/ino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/ino/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_201s0127g00330 Gene Symbol: INO Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>MYB108A</title>
+      <link>/genes/vitis_vinifera/myb108a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/myb108a/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_205s0077g00500 Gene Symbol: MYB108A Gene Name: Genome: genome assembly 12X.</description>
+    </item>
+    <item>
+      <title>P450 CYP78A5</title>
+      <link>/genes/vitis_vinifera/p450-cyp78a5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/p450-cyp78a5/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_215s0021g01625 Gene Symbol: P450 CYP78A5 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VIT_17s0000g08960</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_17s0000g08960/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_17s0000g08960/</guid>
+      <description>Gene Details: Gene ID: VIT_17s0000g08960 Gene Symbol: VIT_17s0000g08960 Gene Name: Genome: Grape Genome Database v2.</description>
+    </item>
+    <item>
+      <title>VlbZIP30</title>
+      <link>/genes/vitis_vinifera/vlbzip30/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vlbzip30/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_13s0175g00120 Gene Symbol: VlbZIP30 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VqWRKY31</title>
+      <link>/genes/vitis_vinifera/vqwrky31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vqwrky31/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_10s0116g01200 Gene Symbol: VqWRKY31 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvABF2</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vtt_180001g10450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vtt_180001g10450/</guid>
+      <description>Gene Details: Gene ID: VTT_180001g10450 Gene Symbol: VvABF2 Gene Name: ABSCISIC ACID RESPONSE ELEMENT-BINDING FACTOR2 Genome: Species: Vitis vinifera Functional Descriptions: The Basic Leucine Zipper Transcription Factor ABSCISIC ACID RESPONSE ELEMENT-BINDING FACTOR2 (VvABF2) Is an Important Transcriptional Regulator of Abscisic Acid-Dependent Grape Berry Ripening Processes.</description>
+    </item>
+    <item>
+      <title>VvAGL11</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_00025945001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_00025945001/</guid>
+      <description>Gene Details: Gene ID: VIT_00025945001 Gene Symbol: VvAGL11|VvMADS5|VvAG3 Gene Name: Agamous-like MADS-box protein AGL11 Genome: Species: Vitis vinifera Functional Descriptions: Molecular, genetic and transcriptional evidence for a role of VvAGL11|VvMADS5|VvAG3 in stenospermocarpic seedlessness in grapevine.</description>
+    </item>
+    <item>
+      <title>VvBAM1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvbam1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvbam1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvBAM1 Gene Name: beta-amylase 1 Genome: Species: Vitis vinifera Functional Descriptions: Genome-wide identification of BAM genes in grapevine (Vitis vinifera L.</description>
+    </item>
+    <item>
+      <title>VvBBX44</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_200s0347g00030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_200s0347g00030/</guid>
+      <description>Gene Details: Gene ID: VIT_200s0347g00030 Gene Symbol: VvBBX44 Gene Name: Vitis vinifera B-box protein 44 Genome: Species: Vitis vinifera Functional Descriptions: Our previous work has shown that Vitis vinifera B-box protein 44 (VvBBX44) inhibits anthocyanin synthesis and represses VvHY5 expression in grape calli.</description>
+    </item>
+    <item>
+      <title>VvBG2</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_07s0005g00390/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_07s0005g00390/</guid>
+      <description>Gene Details: Gene ID: VIT_07s0005g00390 Gene Symbol: VvBG2 Gene Name: β-glucosidase 2 Genome: Species: Vitis vinifera Functional Descriptions: At this point in the culture, our results suggest that of those genes involved in ABA accumulation, one (VvNCED1) was repressed, while another (VvBG2) was activated.</description>
+    </item>
+    <item>
+      <title>VvBOR1</title>
+      <link>/genes/2024.7.17/vitis-vinifera/vvbor1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/vvbor1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvBOR1 Gene Name: boron transporter 1 Genome: Species: Vitis vinifera Functional Descriptions: VvBOR1, the Grapevine Ortholog of AtBOR1, Encodes an Efflux Boron Transporter That is Differentially Expressed Throughout Reproductive Development of Vitis vinifera L.</description>
+    </item>
+    <item>
+      <title>VvbZIP36</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_18s0122g00500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_18s0122g00500/</guid>
+      <description>Gene Details: Gene ID: VIT_18s0122g00500 Gene Symbol: VvbZIP36 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: CRISPR/Cas9-mediated mutagenesis of VvbZIP36 promotes anthocyanin accumulation in grapevine.</description>
+    </item>
+    <item>
+      <title>VvbZIP61</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_212s0028g02590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_212s0028g02590/</guid>
+      <description>Gene Details: Gene ID: VIT_212s0028g02590 Gene Symbol: VvbZIP61 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: Basic leucine zipper gene VvbZIP61 is expressed at a quantitative trait locus for high monoterpene content in grape berries.</description>
+    </item>
+    <item>
+      <title>VvCAX3</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvcax3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvcax3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvCAX3 Gene Name: Vacuolar cation/H+ exchanger 3 Genome: Species: Vitis vinifera Functional Descriptions: The grapevine VvCAX3 is a cation/H+ exchanger involved in vacuolar Ca2+ homeostasis.</description>
+    </item>
+    <item>
+      <title>VvCBF4</title>
+      <link>/genes/2024.7.17/vitis-vinifera/vvcbf4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/vvcbf4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvCBF4 Gene Name: C-repeat binding protein 4 Genome: Species: Vitis vinifera Functional Descriptions: To overcome such production losses, a recently identified grapevine C-repeat binding factor (CBF) gene, VvCBF4, was overexpressed in grape vine cv.</description>
+    </item>
+    <item>
+      <title>VvCCD1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvccd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvccd1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvCCD1 Gene Name: carotenoid cleavage dioxygenase1 Genome: Species: Vitis vinifera Functional Descriptions: A Carotenoid Cleavage Dioxygenase from Vitis vinifera L.</description>
+    </item>
+    <item>
+      <title>VvCCoAOMT</title>
+      <link>/genes/vitis_vinifera/vvccoaomt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvccoaomt/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_11s0016g02610 Gene Symbol: VvCCoAOMT Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvCEB1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvceb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvceb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvCEB1 Gene Name: basic helix–loop–helix transcription factor Genome: Species: Vitis vinifera Functional Descriptions: The grape berry-specific basic helix–loop–helix transcription factor VvCEB1 affects cell size.</description>
+    </item>
+    <item>
+      <title>VvCXIP4</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvcxip4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvcxip4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvCXIP4 Gene Name: CAX-interacting protein 4 Genome: Species: Vitis vinifera Functional Descriptions: The grapevine CAX-interacting protein VvCXIP4 is exported from the nucleus to activate the tonoplast Ca2+/H+ exchanger VvCAX3.</description>
+    </item>
+    <item>
+      <title>VvDELLA1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvdella1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvdella1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvDELLA1 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: Spatiotemporal analysis of VvDELLAs showed that both VvDELLA1 and VvDELLA2 are abundant in most tissues, except in developing fruit where VvDELLA2 is uniquely expressed at high levels, suggesting a key role in fruit development.</description>
+    </item>
+    <item>
+      <title>VvDELLA2</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvdella2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvdella2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvDELLA2 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: Spatiotemporal analysis of VvDELLAs showed that both VvDELLA1 and VvDELLA2 are abundant in most tissues, except in developing fruit where VvDELLA2 is uniquely expressed at high levels, suggesting a key role in fruit development.</description>
+    </item>
+    <item>
+      <title>VvDXS</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvdxs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvdxs/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvDXS Gene Name: 1-deoxy-D-xylulose 5-phosphate synthase Genome: Species: Vitis vinifera Functional Descriptions: A structural gene of the plastidial methyl-erythritol-phosphate (MEP) pathway, 1-deoxy-D-xylulose 5-phosphate synthase (VvDXS), was recently suggested as a candidate gene for this trait, having been co-localized with a major quantitative trait locus for linalool, nerol, and geraniol concentrations in berries.</description>
+    </item>
+    <item>
+      <title>VvERF113</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vitvi17g00025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vitvi17g00025/</guid>
+      <description>Gene Details: Gene ID: Vitvi17g00025 Gene Symbol: VvERF113 Gene Name: Genome: grape reference genome (https://plants.</description>
+    </item>
+    <item>
+      <title>VvFT</title>
+      <link>/genes/2024.6.9/vitis-vinifera/gsvivt00012870001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/gsvivt00012870001/</guid>
+      <description>Gene Details: Gene ID: GSVIVT00012870001 Gene Symbol: VvFT Gene Name: FLOWERING LOCUS T Genome: Species: Vitis vinifera Functional Descriptions: Relationship between endodormancy, FLOWERING LOCUS T (VvFT) and cell cycle genes in Vitis vinifera.</description>
+    </item>
+    <item>
+      <title>VvGOLS1</title>
+      <link>/genes/2024.7.17/vitis-vinifera/vit_07s0005g01970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/vit_07s0005g01970/</guid>
+      <description>Gene Details: Gene ID: VIT_07s0005g01970 Gene Symbol: VvGOLS1 Gene Name: Hexosyltransferase 1 Genome: Species: Vitis vinifera Functional Descriptions: VvGOLS1 and VvHsfA2 are Involved in the Heat Stress Responses in Grapevine Berries.</description>
+    </item>
+    <item>
+      <title>VvHB58</title>
+      <link>/genes/2024.6.9/vitis-vinifera/gsvivt01008065001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/gsvivt01008065001/</guid>
+      <description>Gene Details: Gene ID: GSVIVT01008065001 Gene Symbol: VvHB58 Gene Name: homeobox 58 Genome: Species: Vitis vinifera Functional Descriptions: The grapevine homeobox gene VvHB58 influences seed and fruit development through multiple hormonal signaling pathways.</description>
+    </item>
+    <item>
+      <title>VvHDZ28</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_16s0098g01170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_16s0098g01170/</guid>
+      <description>Gene Details: Gene ID: VIT_16s0098g01170 Gene Symbol: VvHDZ28 Gene Name: HD-Zip transcription factor 28 Genome: Species: Vitis vinifera Functional Descriptions: VvHDZ28 positively regulate salicylic acid biosynthesis during seed abortion in Thompson Seedless.</description>
+    </item>
+    <item>
+      <title>VvHsfA2</title>
+      <link>/genes/2024.7.17/vitis-vinifera/vit_04s0008g01110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/vit_04s0008g01110/</guid>
+      <description>Gene Details: Gene ID: VIT_04s0008g01110 Gene Symbol: VvHsfA2 Gene Name: heat shock transcription factor A2 Genome: Species: Vitis vinifera Functional Descriptions: VvGOLS1 and VvHsfA2 are Involved in the Heat Stress Responses in Grapevine Berries.</description>
+    </item>
+    <item>
+      <title>VvHT1</title>
+      <link>/genes/2024.7.17/vitis-vinifera/vit_14s0006g02720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/vit_14s0006g02720/</guid>
+      <description>Gene Details: Gene ID: VIT_14s0006g02720 Gene Symbol: VvHT1 Gene Name: hexose transporter 1 Genome: Species: Vitis vinifera Functional Descriptions: VvHT1 encodes a monosaccharide transporter expressed in the conducting complex of the grape berry phloem.</description>
+    </item>
+    <item>
+      <title>VvHyd2</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_02s0087g00710/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_02s0087g00710/</guid>
+      <description>Gene Details: Gene ID: VIT_02s0087g00710 Gene Symbol: VvHyd2 Gene Name: 8′-hydroxylase 2 Genome: Species: Vitis vinifera Functional Descriptions: At this point in the culture, our results suggest that of those genes involved in ABA accumulation, one (VvNCED1) was repressed, while another (VvBG2) was activated.</description>
+    </item>
+    <item>
+      <title>VviAGL11</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_18s0041g01880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_18s0041g01880/</guid>
+      <description>Gene Details: Gene ID: VIT_18s0041g01880 Gene Symbol: VviAGL11 Gene Name: AGAMOUS-LIKE 11 Genome: Species: Vitis vinifera Functional Descriptions: VviAGL11 self-regulates and targets hormone- and secondary metabolism-related genes during seed development.</description>
+    </item>
+    <item>
+      <title>VvibZIPC22</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_07s0005g01450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_07s0005g01450/</guid>
+      <description>Gene Details: Gene ID: VIT_07s0005g01450 Gene Symbol: VvibZIPC22 Gene Name: Pinot Noir basic region/leucine zipper motif C22 protein Genome: 12Xv1 assembly of the Pinot Noir genome(http://genomes.</description>
+    </item>
+    <item>
+      <title>VviCRC</title>
+      <link>/genes/vitis_vinifera/vvicrc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvicrc/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_201s0011g00140 Gene Symbol: VviCRC Gene Name: Genome: genome assembly 12X.</description>
+    </item>
+    <item>
+      <title>VviEDR1</title>
+      <link>/genes/2024.7.17/vitis-vinifera/vviedr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/vviedr1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VviEDR1 Gene Name: ENHANCED DISEASE RESISTANCE1 Genome: Species: Vitis vinifera Functional Descriptions: Chimeric mutations in grapevine ENHANCED DISEASE RESISTANCE1 improve resistance to powdery mildew without growth penalty.</description>
+    </item>
+    <item>
+      <title>VviINO</title>
+      <link>/genes/vitis_vinifera/vviino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vviino/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_201s0127g00330 Gene Symbol: VviINO Gene Name: Vitis vinifera INNER NO OUTER Genome: Vitis vinifera genome 12X V2 Species: Vitis vinifera Functional Descriptions: We conclusively demonstrated that the grapevine orthologue VviINO retains similar protein targets and activity in the grape as in Arabidopsis, since it could fully restore the outer integument growth in Arabidopsis ino-1 mutant.</description>
+    </item>
+    <item>
+      <title>VviMYB80</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvimyb80/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvimyb80/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VviMYB80 Gene Name: MYB transcription factor 80 Genome: Species: Vitis vinifera Functional Descriptions: The VviMYB80 Gene is Abnormally Expressed in Vitis vinifera L.</description>
+    </item>
+    <item>
+      <title>VviNAC33</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_19s0027g00230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_19s0027g00230/</guid>
+      <description>Gene Details: Gene ID: VIT_19s0027g00230 Gene Symbol: VviNAC33 Gene Name: NAC transcription factor 33 Genome: Species: Vitis vinifera Functional Descriptions: VviNAC33 promotes organ de-greening and represses vegetative growth during the vegetative-to-mature phase transition in grapevine.</description>
+    </item>
+    <item>
+      <title>VviNAC60</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_08s0007g07670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_08s0007g07670/</guid>
+      <description>Gene Details: Gene ID: VIT_08s0007g07670 Gene Symbol: VviNAC60 Gene Name: NAC transcription factor 60 Genome: 12X.</description>
+    </item>
+    <item>
+      <title>VviYAB5</title>
+      <link>/genes/vitis_vinifera/vviyab5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vviyab5/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_211s0016g05590 Gene Symbol: VviYAB5 Gene Name: Genome: genome assembly 12X.</description>
+    </item>
+    <item>
+      <title>VviYAB6</title>
+      <link>/genes/vitis_vinifera/vviyab6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vviyab6/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_202s0154g00070 Gene Symbol: VviYAB6 Gene Name: Genome: genome assembly 12X.</description>
+    </item>
+    <item>
+      <title>VviYAB7</title>
+      <link>/genes/vitis_vinifera/vviyab7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vviyab7/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_215s0048g00550 Gene Symbol: VviYAB7 Gene Name: Genome: genome assembly 12X.</description>
+    </item>
+    <item>
+      <title>VvJAZ2</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvjaz2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvjaz2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvJAZ2 Gene Name: JA signaling suppressor Genome: Species: Vitis vinifera Functional Descriptions: Determined that VvWRKY5 regulated the JA response by directly binding to the promoters of VvJAZ2 (a JA signaling suppressor) and VvMYC2 (a JA signaling activator), thereby inhibiting and activating the transcription of VvJAZ2 and VvMYC2, respectively.</description>
+    </item>
+    <item>
+      <title>VvK3.1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvk3.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvk3.1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvK3.1 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: Characterization of the grapevine Shaker K+ channel VvK3.</description>
+    </item>
+    <item>
+      <title>VvLAR1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvlar1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvlar1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvLAR1 Gene Name: leucoanthocyanidin reductase 1 Genome: Species: Vitis vinifera Functional Descriptions: VvLAR1 and VvLAR2 Are Bifunctional Enzymes for Proanthocyanidin Biosynthesis in Grapevine.</description>
+    </item>
+    <item>
+      <title>VvLAR2</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvlar2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvlar2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvLAR2 Gene Name: leucoanthocyanidin reductase 2 Genome: Species: Vitis vinifera Functional Descriptions: VvLAR1 and VvLAR2 Are Bifunctional Enzymes for Proanthocyanidin Biosynthesis in Grapevine.</description>
+    </item>
+    <item>
+      <title>VvMADS28</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmads28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmads28/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMADS28 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: In this study, we demonstrate an essential role for the grapevine MADS-box gene VvMADS28 in morphogenesis of the ovule.</description>
+    </item>
+    <item>
+      <title>VvMLO3</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmlo3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmlo3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMLO3 Gene Name: mildew resistance Locus O 3 Genome: Species: Vitis vinifera Functional Descriptions: CRISPR/Cas9-mediated mutagenesis of VvMLO3 results in enhanced resistance to powdery mildew in grapevine.</description>
+    </item>
+    <item>
+      <title>VvMYB114</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmyb114/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmyb114/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMYB114 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: VvMYB114 mediated by miR828 negatively regulates trichome development of Arabidopsis.</description>
+    </item>
+    <item>
+      <title>VvMYB14</title>
+      <link>/genes/vitis_vinifera/vvmyb14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvmyb14/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_207s0005g03340 Gene Symbol: VvMYB14 Gene Name: MYB transcription factor 14 Genome: V.</description>
+    </item>
+    <item>
+      <title>VvMYB30</title>
+      <link>/genes/vitis_vinifera/vvmyb30/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvmyb30/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_217s0000g06190 Gene Symbol: VvMYB30 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvMYB4-like</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vitvi17g00231/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vitvi17g00231/</guid>
+      <description>Gene Details: Gene ID: Vitvi17g00231 Gene Symbol: VvMYB4-like Gene Name: Genome: grape reference genome (https://plants.</description>
+    </item>
+    <item>
+      <title>VvMYB5a</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_08s0007g07230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_08s0007g07230/</guid>
+      <description>Gene Details: Gene ID: VIT_08s0007g07230 Gene Symbol: VvMYB5a Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: Transgenic grapevine plants with altered expression of VvMYB5a, VvMYB5b, and VvWRKY26 show phenotypic aberrations which strongly support a role for the MBWW complex in controlling different aspects of grape plant development and the accumulation of flavonoids.</description>
+    </item>
+    <item>
+      <title>VvMYB5b</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_06s0004g00570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_06s0004g00570/</guid>
+      <description>Gene Details: Gene ID: VIT_06s0004g00570 Gene Symbol: VvMYB5b Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: Transgenic grapevine plants with altered expression of VvMYB5a, VvMYB5b, and VvWRKY26 show phenotypic aberrations which strongly support a role for the MBWW complex in controlling different aspects of grape plant development and the accumulation of flavonoids.</description>
+    </item>
+    <item>
+      <title>VvMYB5b</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmyb5b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmyb5b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMYB5b Gene Name: MYB transcription factor5 Genome: Species: Vitis vinifera Functional Descriptions: A single amino acid change within the R2 domain of the VvMYB5b transcription factor modulates affinity for protein partners and target promoters selectivity.</description>
+    </item>
+    <item>
+      <title>VvMybA1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmyba1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmyba1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMybA1 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: Color recovery in berries of grape (Vitis vinifera L.</description>
+    </item>
+    <item>
+      <title>VvMYBA1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_02s0033g00410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_02s0033g00410/</guid>
+      <description>Gene Details: Gene ID: VIT_02s0033g00410 Gene Symbol: VvMYBA1 Gene Name: Myb-related transcription factor 1 Genome: Species: Vitis vinifera Functional Descriptions: VvBBX44 and VvMYBA1 form a regulatory feedback loop to balance anthocyanin biosynthesis in grape.</description>
+    </item>
+    <item>
+      <title>VvMYBA2r</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmyba2r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmyba2r/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMYBA2r Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: The role of VvMYBA2r and VvMYBA2w alleles of the MYBA2 locus in the regulation of anthocyanin biosynthesis for molecular breeding of grape (Vitis spp.</description>
+    </item>
+    <item>
+      <title>VvMYBA2w</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmyba2w/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmyba2w/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMYBA2w Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: The role of VvMYBA2r and VvMYBA2w alleles of the MYBA2 locus in the regulation of anthocyanin biosynthesis for molecular breeding of grape (Vitis spp.</description>
+    </item>
+    <item>
+      <title>VvMybPA1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmybpa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmybpa1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMybPA1 Gene Name: MYB transcription factor PA1 Genome: Species: Vitis vinifera Functional Descriptions: A previous study has already identified VvMybPA1 as the first transcription factor involved in the regulation of the proanthocyanidin pathway during seed development in grapevine.</description>
+    </item>
+    <item>
+      <title>VvMybPA2</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmybpa2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmybpa2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMybPA2 Gene Name: MYB transcription factor PA2 Genome: Species: Vitis vinifera Functional Descriptions: Ectopic Expression of VvMybPA2 Promotes Proanthocyanidin Biosynthesis in Grapevine and Suggests Additional Targets in the Pathway.</description>
+    </item>
+    <item>
+      <title>VvNAC17</title>
+      <link>/genes/vitis_vinifera/vvnac17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvnac17/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_19s0014g03290 Gene Symbol: VvNAC17 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvNAC26</title>
+      <link>/genes/vitis_vinifera/vvnac26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvnac26/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_01s0026g02710 Gene Symbol: VvNAC26 Gene Name: NAC domain-containing transcription factor 26 Genome: V.</description>
+    </item>
+    <item>
+      <title>VvNAC72</title>
+      <link>/genes/vitis_vinifera/vvnac72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvnac72/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: VvNAC72 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: These results demonstrate that grapevine VvNAC72 negatively modulates detoxification of MG through repression of VvGLYI-4, and finally enhances resistance to downy mildew, at least in part, via the modulation of MG-associated ROS homeostasis through a salicylic acid-mediated defense pathway.</description>
+    </item>
+    <item>
+      <title>VvNAC83</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vitvi17g00066/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vitvi17g00066/</guid>
+      <description>Gene Details: Gene ID: Vitvi17g00066 Gene Symbol: VvNAC83 Gene Name: Genome: grape reference genome (https://plants.</description>
+    </item>
+    <item>
+      <title>VvNCED1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_19s0093g00550/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_19s0093g00550/</guid>
+      <description>Gene Details: Gene ID: VIT_19s0093g00550 Gene Symbol: VvNCED1 Gene Name: 9-cis-epoxycarotenoid dioxygenase 1 Genome: Species: Vitis vinifera Functional Descriptions: At this point in the culture, our results suggest that of those genes involved in ABA accumulation, one (VvNCED1) was repressed, while another (VvBG2) was activated.</description>
+    </item>
+    <item>
+      <title>VvNPR1.1</title>
+      <link>/genes/2024.7.17/vitis-vinifera/gsvivt00016536001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/gsvivt00016536001/</guid>
+      <description>Gene Details: Gene ID: GSVIVT00016536001 Gene Symbol: VvNPR1.1 Gene Name: Non-Expressor of PR genes 1 Genome: Species: Vitis vinifera Functional Descriptions: Vitis vinifera VvNPR1.</description>
+    </item>
+    <item>
+      <title>VvPGIP1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvpgip1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvpgip1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvPGIP1 Gene Name: polygalacturonase-inhibiting protein 1 Genome: Species: Vitis vinifera Functional Descriptions: VvPGIP1 overexpression therefore results in cell wall remodeling and reorganization of the cellulose-xyloglucan network in tobacco in advance of potential infection.</description>
+    </item>
+    <item>
+      <title>VvPIP2</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvpip2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvpip2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvPIP2|4N Gene Name: aquaporin PIP2 Genome: Species: Vitis vinifera Functional Descriptions: The Grapevine Root-Specific Aquaporin **VvPIP2|4N **|**VvPIP2|4N **Controls Root Hydraulic Conductance and Leaf Gas Exchange under Well-Watered Conditions But Not under Water Stress.</description>
+    </item>
+    <item>
+      <title>VvPLT1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvplt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvplt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvPLT1 Gene Name: polyol transporter1 Genome: Species: Vitis vinifera Functional Descriptions: The biochemical function of a grapevine fruit mesocarp polyol transporter (VvPLT1) was characterized after its heterologous expression in yeast.</description>
+    </item>
+    <item>
+      <title>VvPR4b</title>
+      <link>/genes/vitis_vinifera/vvpr4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvpr4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: VvPR4b Gene Name: Genome: “Pinot Noir” reference genome Species: Vitis vinifera Functional Descriptions: Our results confirm that VvPR4b plays an active role in the defense of grapevine against downy mildew.</description>
+    </item>
+    <item>
+      <title>VvPRX1</title>
+      <link>/genes/vitis_vinifera/vvprx1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvprx1/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_08s0058g00970 Gene Symbol: VvPRX1 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvPRX4</title>
+      <link>/genes/vitis_vinifera/vvprx4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvprx4/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_06s0004g07770 Gene Symbol: VvPRX4 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvPRX4-like</title>
+      <link>/genes/vitis_vinifera/vvprx4-like/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvprx4-like/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_13s0067g02360 Gene Symbol: VvPRX4-like Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvPRX47</title>
+      <link>/genes/vitis_vinifera/vvprx47/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvprx47/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_07s0130g00220 Gene Symbol: VvPRX47 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvPRX72</title>
+      <link>/genes/vitis_vinifera/vvprx72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvprx72/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_04s0023g02570 Gene Symbol: VvPRX72 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvPRXN1</title>
+      <link>/genes/vitis_vinifera/vvprxn1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvprxn1/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_12s0055g01010 Gene Symbol: VvPRXN1 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvPUB26</title>
+      <link>/genes/2024.7.17/vitis-vinifera/vit_03s0063g00180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/vitis-vinifera/vit_03s0063g00180/</guid>
+      <description>Gene Details: Gene ID: VIT_03s0063g00180 Gene Symbol: VvPUB26 Gene Name: U-box domain-containing protein 26 Genome: grape genome database Species: Vitis vinifera Functional Descriptions: Ubiquitin ligase VvPUB26 in grapevine promotes proanthocyanidin synthesis and resistance to powdery mildew.</description>
+    </item>
+    <item>
+      <title>VvRHIP1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_06s0004g00100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_06s0004g00100/</guid>
+      <description>Gene Details: Gene ID: VIT_06s0004g00100 Gene Symbol: VvRHIP1 Gene Name: RGS1-HXK1-interacting protein 1 Genome: Species: Vitis vinifera Functional Descriptions: The woody plant-degrading pathogen Lasiodiplodia theobromae effector LtCre1 targets the grapevine sugar-signaling protein VvRHIP1 to suppress host immunity.</description>
+    </item>
+    <item>
+      <title>VvSBP13</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvsbp13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvsbp13/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvSBP13 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: miR156b-targeted VvSBP8/VvSBP13 functions downstream of the abscisic acid signal to regulate anthocyanins biosynthesis in grapevine fruit under drought.</description>
+    </item>
+    <item>
+      <title>VvSBP8</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvsbp8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvsbp8/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvSBP8 Gene Name: Genome: Species: Vitis vinifera Functional Descriptions: miR156b-targeted VvSBP8/VvSBP13 functions downstream of the abscisic acid signal to regulate anthocyanins biosynthesis in grapevine fruit under drought.</description>
+    </item>
+    <item>
+      <title>VvSDH3</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_214s0030g00660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_214s0030g00660/</guid>
+      <description>Gene Details: Gene ID: VIT_214s0030g00660 Gene Symbol: VvSDH3 Gene Name: shikimate dehydrogenase 3 Genome: Species: Vitis vinifera Functional Descriptions: Two shikimate dehydrogenases, VvSDH3 and VvSDH4, are involved in gallic acid biosynthesis in grapevine.</description>
+    </item>
+    <item>
+      <title>VvSDH4</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_214s0030g00650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_214s0030g00650/</guid>
+      <description>Gene Details: Gene ID: VIT_214s0030g00650 Gene Symbol: VvSDH4 Gene Name: hikimate dehydrogenase 4 Genome: Species: Vitis vinifera Functional Descriptions: Two shikimate dehydrogenases, VvSDH3 and VvSDH4, are involved in gallic acid biosynthesis in grapevine.</description>
+    </item>
+    <item>
+      <title>VvSIP1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvsip1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvsip1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvSIP1 Gene Name: small basic intrinsic protein 1 Genome: Species: Vitis vinifera Functional Descriptions: The grape aquaporin VvSIP1 transports water across the ER membrane.</description>
+    </item>
+    <item>
+      <title>VvSnRK1.1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_00025806001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_00025806001/</guid>
+      <description>Gene Details: Gene ID: VIT_00025806001 Gene Symbol: VvSnRK1.1 Gene Name: SNF1-related protein kinase catalytic subunit alpha KIN10 Genome: Species: Vitis vinifera Functional Descriptions: VvTOR interacts with VvSnRK1.</description>
+    </item>
+    <item>
+      <title>VvSUN</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_00033548001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_00033548001/</guid>
+      <description>Gene Details: Gene ID: VIT_00033548001 Gene Symbol: VvSUN Gene Name: protein IQ-DOMAIN 12 Genome: Species: Vitis vinifera Functional Descriptions: VvSUN may act in the auxin pathway to regulate fruit shape in grape,VvSUN, which belongs to the SUN/IQ67-DOMAIN (IQD) family, localizes to the plasma membrane and chloroplast and may be involved in controlling fruit shape through auxin.</description>
+    </item>
+    <item>
+      <title>VvSUP-like</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_05s0049g00070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_05s0049g00070/</guid>
+      <description>Gene Details: Gene ID: VIT_05s0049g00070 Gene Symbol: VvSUP-like Gene Name: VvSUPERMAN-like Genome: Species: Vitis vinifera Functional Descriptions: The VvSUPERMAN-like Gene Is Differentially Expressed between Bicarpellate and Tricarpellate Florets of Vitis vinifera L.</description>
+    </item>
+    <item>
+      <title>VvTFL1A</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvtfl1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvtfl1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvTFL1A Gene Name: terminal flower 1 Genome: Species: Vitis vinifera Functional Descriptions: Cytokinin-induced VvTFL1A expression may be involved in the control of grapevine fruitfulness.</description>
+    </item>
+    <item>
+      <title>VvTOR</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvtor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvtor/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvTOR Gene Name: serine/threonine-protein kinase TOR Genome: Species: Vitis vinifera Functional Descriptions: VvTOR interacts with VvSnRK1.</description>
+    </item>
+    <item>
+      <title>VvVPT1</title>
+      <link>/genes/vitis_vinifera/vvvpt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvvpt1/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_202s0025g04540 Gene Symbol: VvVPT1 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvWRKY1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vitvi17g00102/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vitvi17g00102/</guid>
+      <description>Gene Details: Gene ID: Vitvi17g00102 Gene Symbol: VvWRKY1 Gene Name: WRKY-type DNA binding protein 1 Genome: grape reference genome (https://plants.</description>
+    </item>
+    <item>
+      <title>VvWRKY26</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_08s0040g03070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_08s0040g03070/</guid>
+      <description>Gene Details: Gene ID: VIT_08s0040g03070 Gene Symbol: VvWRKY26 Gene Name: WRKY transcription factor 26 Genome: Species: Vitis vinifera Functional Descriptions: Our data indicated that VvWRKY26 enhances the expression of selected target genes induced by VvMYB5a/b.</description>
+    </item>
+    <item>
+      <title>VvWRKY31</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vitvi10g00063/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vitvi10g00063/</guid>
+      <description>Gene Details: Gene ID: Vitvi10g00063 Gene Symbol: VvWRKY31 Gene Name: Genome: grape reference genome (https://plants.</description>
+    </item>
+    <item>
+      <title>VvWRKY46</title>
+      <link>/genes/vitis_vinifera/vvwrky46/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvwrky46/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_215s0046g01140 Gene Symbol: VvWRKY46 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvWRKY5</title>
+      <link>/genes/2024.6.9/vitis-vinifera/gsvivt01019419001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/gsvivt01019419001/</guid>
+      <description>Gene Details: Gene ID: GSVIVT01019419001 Gene Symbol: VvWRKY5 Gene Name: Genome: Grape Genome (http://www.</description>
+    </item>
+    <item>
+      <title>VvWRKY70</title>
+      <link>/genes/vitis_vinifera/vvwrky70/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvwrky70/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_213s0067g03140 Gene Symbol: VvWRKY70 Gene Name: Genome: V.</description>
+    </item>
+    <item>
+      <title>VvWRKY8</title>
+      <link>/genes/vitis_vinifera/vvwrky8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/vvwrky8/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_201s0010g03930 Gene Symbol: VvWRKY8 Gene Name: WRKY transcription factor 8 Genome: V.</description>
+    </item>
+    <item>
+      <title>VvZIP3</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvzip3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvzip3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvZIP3 Gene Name: zinc transporter protein3 Genome: Species: Vitis vinifera Functional Descriptions: Characterization of a putative grapevine Zn transporter, VvZIP3, suggests its involvement in early reproductive development in Vitis vinifera L.</description>
+    </item>
+    <item>
+      <title>WUSCHEL</title>
+      <link>/genes/vitis_vinifera/wuschel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/wuschel/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_217s0000g02460 Gene Symbol: WUSCHEL Gene Name: Genome: V.</description>
+    </item>
+  </channel>
+</rss>

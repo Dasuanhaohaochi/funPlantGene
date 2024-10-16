@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lilium regale on funPlantGenes</title>
+    <link>/categories/lilium-regale/</link>
+    <description>Recent content in Lilium regale on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/lilium-regale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LrABCF1</title>
+      <link>/genes/2024.6.9/lilium-regale/lrabcf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lilium-regale/lrabcf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LrABCF1 Gene Name: ATP-binding cassette transporter1 Genome: Species: Lilium regale Functional Descriptions: LrABCF1, a GCN-type ATP-binding cassette transporter from Lilium regale, is involved in defense responses against viral and fungal pathogens.</description>
+    </item>
+    <item>
+      <title>LrDef1</title>
+      <link>/genes/2024.6.9/lilium-regale/lrdef1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lilium-regale/lrdef1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LrDef1 Gene Name: Genome: Species: Lilium regale Functional Descriptions: Lilium regale Wilson WRKY3 modulates an antimicrobial peptide gene, LrDef1, during response to Fusarium oxysporum.</description>
+    </item>
+    <item>
+      <title>LrNAC35</title>
+      <link>/genes/2024.6.9/lilium-regale/unigene0012070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lilium-regale/unigene0012070/</guid>
+      <description>Gene Details: Gene ID: Unigene0012070 Gene Symbol: LrNAC35 Gene Name: NAC domain-containing protein 35-like Genome: Species: Lilium regale Functional Descriptions: Ectopic overexpression of LrNAC35 alters flowering time in petunia.</description>
+    </item>
+    <item>
+      <title>LrWRKY3</title>
+      <link>/genes/2024.6.9/lilium-regale/lrwrky3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lilium-regale/lrwrky3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LrWRKY3 Gene Name: Genome: Species: Lilium regale Functional Descriptions: Lilium regale Wilson WRKY3 (LrWRKY3) modulates an antimicrobial peptide gene, LrDef1, during response to Fusarium oxysporum.</description>
+    </item>
+  </channel>
+</rss>

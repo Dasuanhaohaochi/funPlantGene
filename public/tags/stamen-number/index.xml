@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stamen number on funPlantGenes</title>
+    <link>/tags/stamen-number/</link>
+    <description>Recent content in stamen number on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/stamen-number/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GmAP1a</title>
+      <link>/genes/glycine_max/gmap1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmap1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.16G091300 Gene Symbol: GmAP1a Gene Name: APETALA1 Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: APETALA1 (AP1) functions as a class A gene in the ABCE model for floral organ development, helping to specify carpel, stamen, petal, and sepal identities.</description>
+    </item>
+    <item>
+      <title>GmAP1b</title>
+      <link>/genes/glycine_max/gmap1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmap1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.08G269800 Gene Symbol: GmAP1b Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: APETALA1 (AP1) functions as a class A gene in the ABCE model for floral organ development, helping to specify carpel, stamen, petal, and sepal identities.</description>
+    </item>
+    <item>
+      <title>GmAP1c</title>
+      <link>/genes/glycine_max/gmap1c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmap1c/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.01G064200 Gene Symbol: GmAP1c Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: APETALA1 (AP1) functions as a class A gene in the ABCE model for floral organ development, helping to specify carpel, stamen, petal, and sepal identities.</description>
+    </item>
+    <item>
+      <title>GmAP1d</title>
+      <link>/genes/glycine_max/gmap1d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmap1d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.02G121600 Gene Symbol: GmAP1d Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: APETALA1 (AP1) functions as a class A gene in the ABCE model for floral organ development, helping to specify carpel, stamen, petal, and sepal identities.</description>
+    </item>
+    <item>
+      <title>OsCUC1;OMTN5</title>
+      <link>/genes/oryza_sativa/loc_os06g23650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g23650/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g23650 RAPdb gene ID: Os06g0344900 Gene Symbol: OsCUC1 OMTN5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCUC3</title>
+      <link>/genes/oryza_sativa/loc_os08g40030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g40030/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g40030 RAPdb gene ID: Os08g0511200 Gene Symbol: OsCUC3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRAD51D</title>
+      <link>/genes/oryza_sativa/loc_os09g01680/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g01680/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g01680 RAPdb gene ID: Os09g0104200 Gene Symbol: OsRAD51D Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ROX1</title>
+      <link>/genes/2024.6.9/nicotiana-tabacum/rox1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-tabacum/rox1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ROX1 Gene Name: Putative ROX1 Genome: Species: Nicotiana tabacum Functional Descriptions: ROX1, a gene induced by rolB, is involved in procambial cell proliferation and xylem differentiation in tobacco stamen.</description>
+    </item>
+    <item>
+      <title>Td1;ZmRLK</title>
+      <link>/genes/zea_mays/td1zmrlkzmkin5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/td1zmrlkzmkin5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb228140 Gene Symbol: Td1 ZmRLK ZmKIN5 Gene Name: thick tassel dwarf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

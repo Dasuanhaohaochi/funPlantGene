@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>histidine phosphotransfer proteins on funPlantGenes</title>
+    <link>/tags/histidine-phosphotransfer-proteins/</link>
+    <description>Recent content in histidine phosphotransfer proteins on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/histidine-phosphotransfer-proteins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OHP1;OsAHP1</title>
+      <link>/genes/oryza_sativa/loc_os08g44350/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g44350/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g44350 RAPdb gene ID: Os08g0557700 Gene Symbol: OHP1 OsAHP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OHP2;OsAHP2</title>
+      <link>/genes/oryza_sativa/loc_os09g39400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g39400/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g39400 RAPdb gene ID: Os09g0567400 Gene Symbol: OHP2 OsAHP2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

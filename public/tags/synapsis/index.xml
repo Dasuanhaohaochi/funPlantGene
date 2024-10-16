@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>synapsis on funPlantGenes</title>
+    <link>/tags/synapsis/</link>
+    <description>Recent content in synapsis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/synapsis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACOZ1</title>
+      <link>/genes/zea_mays/acoz1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/acoz1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb119810 Gene Symbol: ACOZ1 Gene Name: abnormal chromosome organization in zygotene1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>OsCLR1;DSNP1</title>
+      <link>/genes/oryza_sativa/loc_os06g42700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g42700/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g42700 RAPdb gene ID: Os06g0633500 Gene Symbol: OsCLR1 DSNP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaSPO11-2-7A</title>
+      <link>/genes/triticum_aestivum/traescs7a02g300300.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7a02g300300.1/</guid>
+      <description>Gene Details: Gene ID: TraesCS7A02G300300.1 Gene Symbol: TaSPO11-2-7A Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: SPO11.</description>
+    </item>
+    <item>
+      <title>TaSPO11-2-7B</title>
+      <link>/genes/triticum_aestivum/traescs7b02g201200.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7b02g201200.1/</guid>
+      <description>Gene Details: Gene ID: TraesCS7B02G201200.1 Gene Symbol: TaSPO11-2-7B Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: SPO11.</description>
+    </item>
+    <item>
+      <title>TaSPO11-2-7D</title>
+      <link>/genes/triticum_aestivum/traescs7d02g296000.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7d02g296000.2/</guid>
+      <description>Gene Details: Gene ID: TraesCS7D02G296000.2 Gene Symbol: TaSPO11-2-7D Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: SPO11.</description>
+    </item>
+    <item>
+      <title>TaZIP4-A1</title>
+      <link>/genes/triticum_aestivum/tazip4-a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tazip4-a1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3A02G401700 Gene Symbol: TaZIP4-A1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaZIP4-B1</title>
+      <link>/genes/triticum_aestivum/tazip4-b1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tazip4-b1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3B02G434600 Gene Symbol: TaZIP4-B1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaZIP4-B2</title>
+      <link>/genes/triticum_aestivum/tazip4-b2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tazip4-b2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5B02G255100 Gene Symbol: TaZIP4-B2 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaZIP4-D1</title>
+      <link>/genes/triticum_aestivum/tazip4-d1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tazip4-d1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3D02G396500 Gene Symbol: TaZIP4-D1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+  </channel>
+</rss>

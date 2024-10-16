@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embryo basal cell on funPlantGenes</title>
+    <link>/tags/embryo-basal-cell/</link>
+    <description>Recent content in embryo basal cell on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/embryo-basal-cell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT4G21750</title>
+      <link>/genes/arabidopsis_thaliana/at4g21750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g21750/</guid>
+      <description>Gene Details: Gene ID: AT4G21750 Gene Symbol: ATML1 Gene Name: MERISTEM LAYER 1 Description: Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein;(source:Araport11) TAIR Accession: locus:2119048 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G21750.</description>
+    </item>
+  </channel>
+</rss>

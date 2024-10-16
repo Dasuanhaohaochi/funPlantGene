@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citrus trifoliata on funPlantGenes</title>
+    <link>/categories/citrus-trifoliata/</link>
+    <description>Recent content in Citrus trifoliata on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/citrus-trifoliata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PtrABF</title>
+      <link>/genes/2024.6.9/citrus-trifoliata/ptrabf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-trifoliata/ptrabf/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PtrABF Gene Name: ABA responsive element binding factor Genome: Species: Citrus trifoliata Functional Descriptions: Overexpression of PtrABF gene, a bZIP transcription factor isolated from Poncirus trifoliata, enhances dehydration and drought tolerance in tobacco via scavenging ROS and modulating expression of stress-responsive genes.</description>
+    </item>
+    <item>
+      <title>PtrbHLH</title>
+      <link>/genes/2024.6.9/citrus-trifoliata/ptrbhlh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-trifoliata/ptrbhlh/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PtrbHLH Gene Name: Basic Helix-Loop-Helix Transcription Factor Genome: Species: Citrus trifoliata Functional Descriptions: A Basic Helix-Loop-Helix Transcription Factor, PtrbHLH, of Poncirus trifoliata Confers Cold Tolerance and Modulates Peroxidase-Mediated Scavenging of Hydrogen Peroxide.</description>
+    </item>
+  </channel>
+</rss>

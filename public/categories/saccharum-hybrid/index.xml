@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saccharum hybrid on funPlantGenes</title>
+    <link>/categories/saccharum-hybrid/</link>
+    <description>Recent content in Saccharum hybrid on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/saccharum-hybrid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ShSUT1</title>
+      <link>/genes/2024.6.9/saccharum-hybrid/shsut1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/saccharum-hybrid/shsut1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: ShSUT1 Gene Name: sucrose transporter 1 Genome: Species: Saccharum hybrid Functional Descriptions: Here we present a functional analysis of the SUT ShSUT1 from sugarcane, an important crop species grown for its ability to accumulate high amounts of sucrose in the stem.</description>
+    </item>
+  </channel>
+</rss>

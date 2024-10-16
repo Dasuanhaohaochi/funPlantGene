@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tracheary element on funPlantGenes</title>
+    <link>/tags/tracheary-element/</link>
+    <description>Recent content in tracheary element on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/tracheary-element/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT3G09820</title>
+      <link>/genes/arabidopsis_thaliana/at3g09820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g09820/</guid>
+      <description>Gene Details: Gene ID: AT3G09820 Gene Symbol: ADK1, ATADK1 Gene Name: adenosine kinase 1 Description: adenosine kinase 1;(source:Araport11) TAIR Accession: locus:2085079 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G09820.</description>
+    </item>
+    <item>
+      <title>AT3G23810</title>
+      <link>/genes/arabidopsis_thaliana/at3g23810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g23810/</guid>
+      <description>Gene Details: Gene ID: AT3G23810 Gene Symbol: ATSAHH2, SAHH2 Gene Name: S-ADENOSYL-L-HOMOCYSTEINE (SAH) HYDROLASE 2, S-adenosyl-l-homocysteine (SAH) hydrolase 2 Description: S-adenosyl-l-homocysteine (SAH) hydrolase 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G23810.</description>
+    </item>
+    <item>
+      <title>AT5G03300</title>
+      <link>/genes/arabidopsis_thaliana/at5g03300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g03300/</guid>
+      <description>Gene Details: Gene ID: AT5G03300 Gene Symbol: ADK2 Gene Name: adenosine kinase 2 Description: adenosine kinase 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G03300.</description>
+    </item>
+  </channel>
+</rss>

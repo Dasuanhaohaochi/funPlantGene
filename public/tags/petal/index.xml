@@ -1,0 +1,1957 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>petal on funPlantGenes</title>
+    <link>/tags/petal/</link>
+    <description>Recent content in petal on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/petal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT1G01030</title>
+      <link>/genes/arabidopsis_thaliana/at1g01030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01030/</guid>
+      <description>Gene Details: Gene ID: AT1G01030 Gene Symbol: NGA3 Gene Name: NGATHA3 Description: AP2/B3-like transcriptional factor family protein;(source:Araport11) TAIR Accession: locus:2200950 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01030.</description>
+    </item>
+    <item>
+      <title>AT1G01040</title>
+      <link>/genes/arabidopsis_thaliana/at1g01040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01040/</guid>
+      <description>Gene Details: Gene ID: AT1G01040 Gene Symbol: ASU1, ATDCL1, CAF, DCL1, EMB60, EMB76, SIN1, SUS1 Gene Name: ABNORMAL SUSPENSOR 1, DICER-LIKE 1, CARPEL FACTORY, dicer-like 1, EMBRYO DEFECTIVE 60, EMBRYO DEFECTIVE 76, SHORT INTEGUMENTS 1, SUSPENSOR 1 Description: dicer-like 1;(source:Araport11) TAIR Accession: locus:2200960 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01040.</description>
+    </item>
+    <item>
+      <title>AT1G01050</title>
+      <link>/genes/arabidopsis_thaliana/at1g01050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01050/</guid>
+      <description>Gene Details: Gene ID: AT1G01050 Gene Symbol: AtPPa1, PPa1 Gene Name: pyrophosphorylase 1, pyrophosphorylase 1 Description: pyrophosphorylase 1;(source:Araport11) TAIR Accession: locus:2200965 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01050.</description>
+    </item>
+    <item>
+      <title>AT1G01060</title>
+      <link>/genes/arabidopsis_thaliana/at1g01060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01060/</guid>
+      <description>Gene Details: Gene ID: AT1G01060 Gene Symbol: LHY, LHY1 Gene Name: LATE ELONGATED HYPOCOTYL, LATE ELONGATED HYPOCOTYL 1 Description: Homeodomain-like superfamily protein;(source:Araport11) TAIR Accession: locus:2200970 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01060.</description>
+    </item>
+    <item>
+      <title>AT1G01070</title>
+      <link>/genes/arabidopsis_thaliana/at1g01070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01070/</guid>
+      <description>Gene Details: Gene ID: AT1G01070 Gene Symbol: UMAMIT28 Gene Name: Usually multiple acids move in and out Transporters 28 Description: nodulin MtN21 /EamA-like transporter family protein;(source:Araport11) TAIR Accession: locus:2200990 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01070.</description>
+    </item>
+    <item>
+      <title>AT1G01080</title>
+      <link>/genes/arabidopsis_thaliana/at1g01080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01080/</guid>
+      <description>Gene Details: Gene ID: AT1G01080 Gene Symbol: CP28B Gene Name: CHLOROPLAST RNA BINDING PROTEIN 28B Description: RNA-binding (RRM/RBD/RNP motifs) family protein;(source:Araport11) TAIR Accession: locus:2200975 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01080.</description>
+    </item>
+    <item>
+      <title>AT1G01090</title>
+      <link>/genes/arabidopsis_thaliana/at1g01090/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01090/</guid>
+      <description>Gene Details: Gene ID: AT1G01090 Gene Symbol: PDH-E1 ALPHA Gene Name: pyruvate dehydrogenase E1 alpha Description: pyruvate dehydrogenase E1 alpha;(source:Araport11) TAIR Accession: locus:2200980 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01090.</description>
+    </item>
+    <item>
+      <title>AT1G01100</title>
+      <link>/genes/arabidopsis_thaliana/at1g01100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01100/</guid>
+      <description>Gene Details: Gene ID: AT1G01100 Gene Symbol: P1w, RPP1.1, RPP1A Gene Name: Ribosomal Protein P1w, RPP1 co-orthologous gene 1, 60S acidic ribosomal protein P1-1 Description: 60S acidic ribosomal protein family;(source:Araport11) TAIR Accession: locus:2200985 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01100.</description>
+    </item>
+    <item>
+      <title>AT1G01110</title>
+      <link>/genes/arabidopsis_thaliana/at1g01110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01110/</guid>
+      <description>Gene Details: Gene ID: AT1G01110 Gene Symbol: IQD18 Gene Name: IQ-domain 18 Description: IQ-domain 18;(source:Araport11) TAIR Accession: locus:2200945 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01110.</description>
+    </item>
+    <item>
+      <title>AT1G01120</title>
+      <link>/genes/arabidopsis_thaliana/at1g01120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01120/</guid>
+      <description>Gene Details: Gene ID: AT1G01120 Gene Symbol: KCS1 Gene Name: 3-ketoacyl-CoA synthase 1 Description: 3-ketoacyl-CoA synthase 1;(source:Araport11) TAIR Accession: locus:2200955 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01120.</description>
+    </item>
+    <item>
+      <title>AT1G01140</title>
+      <link>/genes/arabidopsis_thaliana/at1g01140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01140/</guid>
+      <description>Gene Details: Gene ID: AT1G01140 Gene Symbol: CIPK9, PKS6, SnRK3.12 Gene Name: CBL-interacting protein kinase 9, PROTEIN KINASE 6, SNF1-RELATED PROTEIN KINASE 3.</description>
+    </item>
+    <item>
+      <title>AT1G01160</title>
+      <link>/genes/arabidopsis_thaliana/at1g01160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01160/</guid>
+      <description>Gene Details: Gene ID: AT1G01160 Gene Symbol: GIF2 Gene Name: GRF1-interacting factor 2 Description: GRF1-interacting factor 2;(source:Araport11) TAIR Accession: locus:2035232 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01160.</description>
+    </item>
+    <item>
+      <title>AT1G01220</title>
+      <link>/genes/arabidopsis_thaliana/at1g01220/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01220/</guid>
+      <description>Gene Details: Gene ID: AT1G01220 Gene Symbol: AtFKGP, FKGP Gene Name: Arabidopsis thaliana L-fucokinase/GDP-L-fucose pyrophosphorylase, L-fucokinase/GDP-L-fucose pyrophosphorylase Description: L-fucokinase/GDP-L-fucose pyrophosphorylase;(source:Araport11) TAIR Accession: locus:2035362 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01220.</description>
+    </item>
+    <item>
+      <title>AT1G01230</title>
+      <link>/genes/arabidopsis_thaliana/at1g01230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01230/</guid>
+      <description>Gene Details: Gene ID: AT1G01230 Gene Symbol: AtORM1, ORM1 Gene Name: Orosomucoid-like 1 Description: ORMDL family protein;(source:Araport11) TAIR Accession: locus:2035352 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01230.</description>
+    </item>
+    <item>
+      <title>AT1G01260</title>
+      <link>/genes/arabidopsis_thaliana/at1g01260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01260/</guid>
+      <description>Gene Details: Gene ID: AT1G01260 Gene Symbol: bHLH013, bHLH13, JAM2 Gene Name: Jasmonate Associated MYC2 LIKE 2 Description: basic helix-loop-helix (bHLH) DNA-binding superfamily protein;(source:Araport11) TAIR Accession: locus:2035237 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01260.</description>
+    </item>
+    <item>
+      <title>AT1G01290</title>
+      <link>/genes/arabidopsis_thaliana/at1g01290/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01290/</guid>
+      <description>Gene Details: Gene ID: AT1G01290 Gene Symbol: CNX3 Gene Name: cofactor of nitrate reductase and xanthine dehydrogenase 3 Description: cofactor of nitrate reductase and xanthine dehydrogenase 3;(source:Araport11) TAIR Accession: locus:2035277 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01290.</description>
+    </item>
+    <item>
+      <title>AT1G01320</title>
+      <link>/genes/arabidopsis_thaliana/at1g01320/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01320/</guid>
+      <description>Gene Details: Gene ID: AT1G01320 Gene Symbol: FLL2, REC1 Gene Name: FLOURY ENDOSPERM LIKE 2, REDUCED CHLOROPLAST COVERAGE Description: Tetratricopeptide repeat (TPR)-like superfamily protein;(source:Araport11) TAIR Accession: locus:2035327 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01320.</description>
+    </item>
+    <item>
+      <title>AT1G01360</title>
+      <link>/genes/arabidopsis_thaliana/at1g01360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01360/</guid>
+      <description>Gene Details: Gene ID: AT1G01360 Gene Symbol: PYL9, RCAR1 Gene Name: PYRABACTIN RESISTANCE 1-LIKE 9, regulatory component of ABA receptor 1 Description: regulatory component of ABA receptor 1;(source:Araport11) TAIR Accession: locus:2035227 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01360.</description>
+    </item>
+    <item>
+      <title>AT1G01370</title>
+      <link>/genes/arabidopsis_thaliana/at1g01370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01370/</guid>
+      <description>Gene Details: Gene ID: AT1G01370 Gene Symbol: CENH3, HTR12 Gene Name: CENTROMERIC HISTONE H3 Description: Histone superfamily protein;(source:Araport11) TAIR Accession: locus:2035252 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01370.</description>
+    </item>
+    <item>
+      <title>AT1G01430</title>
+      <link>/genes/arabidopsis_thaliana/at1g01430/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01430/</guid>
+      <description>Gene Details: Gene ID: AT1G01430 Gene Symbol: MOAT3, TBL25 Gene Name: mannan O-acetyltransferase 3, TRICHOME BIREFRINGENCE-LIKE 25 Description: TRICHOME BIREFRINGENCE-LIKE 25;(source:Araport11) TAIR Accession: locus:2035342 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01430.</description>
+    </item>
+    <item>
+      <title>AT1G01470</title>
+      <link>/genes/arabidopsis_thaliana/at1g01470/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01470/</guid>
+      <description>Gene Details: Gene ID: AT1G01470 Gene Symbol: AtLEA14, LEA1, LEA14, LSR3 Gene Name: Arabidopsis thaliana Late Embryogenesis abundant 14, LATE EMBRYOGENESIS ABUNDANT 14, LIGHT STRESS-REGULATED 3 Description: Late embryogenesis abundant protein;(source:Araport11) TAIR Accession: locus:2025346 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01470.</description>
+    </item>
+    <item>
+      <title>AT1G01490</title>
+      <link>/genes/arabidopsis_thaliana/at1g01490/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01490/</guid>
+      <description>Gene Details: Gene ID: AT1G01490 Gene Symbol: AtHMP01 Gene Name: Heavy Metal Protein 1 Description: Heavy metal transport/detoxification superfamily protein;(source:Araport11) TAIR Accession: locus:2025421 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01490.</description>
+    </item>
+    <item>
+      <title>AT1G01510</title>
+      <link>/genes/arabidopsis_thaliana/at1g01510/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01510/</guid>
+      <description>Gene Details: Gene ID: AT1G01510 Gene Symbol: AN, DOQ Gene Name: ANGUSTIFOLIA, DETORQUEO Description: NAD(P)-binding Rossmann-fold superfamily protein;(source:Araport11) TAIR Accession: locus:2025376 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01510.</description>
+    </item>
+    <item>
+      <title>AT1G01550</title>
+      <link>/genes/arabidopsis_thaliana/at1g01550/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01550/</guid>
+      <description>Gene Details: Gene ID: AT1G01550 Gene Symbol: BPS1 Gene Name: BYPASS 1 Description: BPS1-like protein (DUF793);(source:Araport11) TAIR Accession: locus:2025406 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01550.</description>
+    </item>
+    <item>
+      <title>AT1G01560</title>
+      <link>/genes/arabidopsis_thaliana/at1g01560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01560/</guid>
+      <description>Gene Details: Gene ID: AT1G01560 Gene Symbol: ATMPK11, MPK11 Gene Name: MAP kinase 11, MAP kinase 11 Description: MAP kinase 11;(source:Araport11) TAIR Accession: locus:2025341 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01560.</description>
+    </item>
+    <item>
+      <title>AT1G01600</title>
+      <link>/genes/arabidopsis_thaliana/at1g01600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01600/</guid>
+      <description>Gene Details: Gene ID: AT1G01600 Gene Symbol: CYP86A4 Gene Name: cytochrome P450, family 86, subfamily A, polypeptide 4 Description: cytochrome P450, family 86, subfamily A, polypeptide 4;(source:Araport11) TAIR Accession: locus:2025371 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01600.</description>
+    </item>
+    <item>
+      <title>AT1G01610</title>
+      <link>/genes/arabidopsis_thaliana/at1g01610/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01610/</guid>
+      <description>Gene Details: Gene ID: AT1G01610 Gene Symbol: ATGPAT4, GPAT4 Gene Name: GLYCEROL-3-PHOSPHATE sn-2-ACYLTRANSFERASE 4, GLYCEROL-3-PHOSPHATE sn-2-ACYLTRANSFERASE 4 Description: glycerol-3-phosphate acyltransferase 4;(source:Araport11) TAIR Accession: locus:2025381 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01610.</description>
+    </item>
+    <item>
+      <title>AT1G01620</title>
+      <link>/genes/arabidopsis_thaliana/at1g01620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01620/</guid>
+      <description>Gene Details: Gene ID: AT1G01620 Gene Symbol: PIP1;3, PIP1C, TMP-B Gene Name: PLASMA MEMBRANE INTRINSIC PROTEIN 1;3, plasma membrane intrinsic protein 1C Description: plasma membrane intrinsic protein 1C;(source:Araport11) TAIR Accession: locus:2025391 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01620.</description>
+    </item>
+    <item>
+      <title>AT1G01650</title>
+      <link>/genes/arabidopsis_thaliana/at1g01650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01650/</guid>
+      <description>Gene Details: Gene ID: AT1G01650 Gene Symbol: ATSPPL4, SPPL4 Gene Name: ARABIDOPSIS THALIANA SIGNAL PEPTIDE PEPTIDASE-LIKE 4, SIGNAL PEPTIDE PEPTIDASE-LIKE 4 Description: SIGNAL PEPTIDE PEPTIDASE-LIKE 4;(source:Araport11) TAIR Accession: locus:2198155 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01650.</description>
+    </item>
+    <item>
+      <title>AT1G01720</title>
+      <link>/genes/arabidopsis_thaliana/at1g01720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01720/</guid>
+      <description>Gene Details: Gene ID: AT1G01720 Gene Symbol: ANAC002, ANAC2, ATAF1 Gene Name: Arabidopsis NAC domain containing protein 2 Description: NAC (No Apical Meristem) domain transcriptional regulator superfamily protein;(source:Araport11) TAIR Accession: locus:2198225 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01720.</description>
+    </item>
+    <item>
+      <title>AT1G01740</title>
+      <link>/genes/arabidopsis_thaliana/at1g01740/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01740/</guid>
+      <description>Gene Details: Gene ID: AT1G01740 Gene Symbol: BSK4 Gene Name: brassinosteroid-signaling kinase 4 Description: kinase with tetratricopeptide repeat domain-containing protein;(source:Araport11) TAIR Accession: locus:2198160 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01740.</description>
+    </item>
+    <item>
+      <title>AT1G01750</title>
+      <link>/genes/arabidopsis_thaliana/at1g01750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01750/</guid>
+      <description>Gene Details: Gene ID: AT1G01750 Gene Symbol: ADF11 Gene Name: actin depolymerizing factor 11 Description: actin depolymerizing factor 11;(source:Araport11) TAIR Accession: locus:2198175 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01750.</description>
+    </item>
+    <item>
+      <title>AT1G01780</title>
+      <link>/genes/arabidopsis_thaliana/at1g01780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01780/</guid>
+      <description>Gene Details: Gene ID: AT1G01780 Gene Symbol: PLIM2b Gene Name: PLIM2b Description: GATA type zinc finger transcription factor family protein;(source:Araport11) TAIR Accession: locus:2198210 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01780.</description>
+    </item>
+    <item>
+      <title>AT1G01790</title>
+      <link>/genes/arabidopsis_thaliana/at1g01790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01790/</guid>
+      <description>Gene Details: Gene ID: AT1G01790 Gene Symbol: ATKEA1, KEA1 Gene Name: K+ EFFLUX ANTIPORTER 1, K+ efflux antiporter 1 Description: K+ efflux antiporter 1;(source:Araport11) TAIR Accession: locus:2198215 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01790.</description>
+    </item>
+    <item>
+      <title>AT1G01820</title>
+      <link>/genes/arabidopsis_thaliana/at1g01820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01820/</guid>
+      <description>Gene Details: Gene ID: AT1G01820 Gene Symbol: PEX11C Gene Name: peroxin 11c Description: peroxin 11c;(source:Araport11) TAIR Accession: locus:2198150 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01820.</description>
+    </item>
+    <item>
+      <title>AT1G01860</title>
+      <link>/genes/arabidopsis_thaliana/at1g01860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01860/</guid>
+      <description>Gene Details: Gene ID: AT1G01860 Gene Symbol: PFC1 Gene Name: PALEFACE 1 Description: Ribosomal RNA adenine dimethylase family protein;(source:Araport11) TAIR Accession: locus:2025437 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01860.</description>
+    </item>
+    <item>
+      <title>AT1G01900</title>
+      <link>/genes/arabidopsis_thaliana/at1g01900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01900/</guid>
+      <description>Gene Details: Gene ID: AT1G01900 Gene Symbol: ATSBT1.1, SBTI1.1 Gene Name: Description: subtilase family protein;(source:Araport11) TAIR Accession: locus:2025457 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01900.</description>
+    </item>
+    <item>
+      <title>AT1G01910</title>
+      <link>/genes/arabidopsis_thaliana/at1g01910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01910/</guid>
+      <description>Gene Details: Gene ID: AT1G01910 Gene Symbol: AtGET3a, GET3a Gene Name: Guided Entry of Tail-anchored protein 3a, Guided Entry of Tail-anchored protein 3a Description: P-loop containing nucleoside triphosphate hydrolases superfamily protein;(source:Araport11) TAIR Accession: locus:2025467 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01910.</description>
+    </item>
+    <item>
+      <title>AT1G01940</title>
+      <link>/genes/arabidopsis_thaliana/at1g01940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01940/</guid>
+      <description>Gene Details: Gene ID: AT1G01940 Gene Symbol: CYP18-1 Gene Name: CYCLOPHILIN 18-1 Description: Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein;(source:Araport11) TAIR Accession: locus:2025492 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01940.</description>
+    </item>
+    <item>
+      <title>AT1G01950</title>
+      <link>/genes/arabidopsis_thaliana/at1g01950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01950/</guid>
+      <description>Gene Details: Gene ID: AT1G01950 Gene Symbol: ARK2, AtKINUb Gene Name: armadillo repeat kinesin 2, Arabidopsis thaliana KINESIN Ungrouped clade, gene B Description: armadillo repeat kinesin 2;(source:Araport11) TAIR Accession: locus:2025497 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01950.</description>
+    </item>
+    <item>
+      <title>AT1G01960</title>
+      <link>/genes/arabidopsis_thaliana/at1g01960/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01960/</guid>
+      <description>Gene Details: Gene ID: AT1G01960 Gene Symbol: BIG3, EDA10 Gene Name: BIG3, embryo sac development arrest 10 Description: SEC7-like guanine nucleotide exchange family protein;(source:Araport11) TAIR Accession: locus:2025502 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01960.</description>
+    </item>
+    <item>
+      <title>AT1G01970</title>
+      <link>/genes/arabidopsis_thaliana/at1g01970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01970/</guid>
+      <description>Gene Details: Gene ID: AT1G01970 Gene Symbol: DG409 Gene Name: DELAYED GREENING409 Description: Tetratricopeptide repeat (TPR)-like superfamily protein;(source:Araport11) TAIR Accession: locus:2025442 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01970.</description>
+    </item>
+    <item>
+      <title>AT1G01980</title>
+      <link>/genes/arabidopsis_thaliana/at1g01980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g01980/</guid>
+      <description>Gene Details: Gene ID: AT1G01980 Gene Symbol: AtBBE1, OGOX4 Gene Name: oligogalacturonide oxidase 4 Description: FAD-binding Berberine family protein;(source:Araport11) TAIR Accession: locus:2025452 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G01980.</description>
+    </item>
+    <item>
+      <title>AT1G02000</title>
+      <link>/genes/arabidopsis_thaliana/at1g02000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02000/</guid>
+      <description>Gene Details: Gene ID: AT1G02000 Gene Symbol: GAE2 Gene Name: UDP-D-glucuronate 4-epimerase 2 Description: UDP-D-glucuronate 4-epimerase 2;(source:Araport11) TAIR Accession: locus:2025472 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02000.</description>
+    </item>
+    <item>
+      <title>AT1G02050</title>
+      <link>/genes/arabidopsis_thaliana/at1g02050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02050/</guid>
+      <description>Gene Details: Gene ID: AT1G02050 Gene Symbol: LAP6, PKSA Gene Name: LESS ADHESIVE POLLEN 6, polyketide synthase A Description: Chalcone and stilbene synthase family protein;(source:Araport11) TAIR Accession: locus:2205588 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02050.</description>
+    </item>
+    <item>
+      <title>AT1G02080</title>
+      <link>/genes/arabidopsis_thaliana/at1g02080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02080/</guid>
+      <description>Gene Details: Gene ID: AT1G02080 Gene Symbol: NOT1 Gene Name: Description: transcription regulator;(source:Araport11) TAIR Accession: locus:2205614 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02080.</description>
+    </item>
+    <item>
+      <title>AT1G02090</title>
+      <link>/genes/arabidopsis_thaliana/at1g02090/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02090/</guid>
+      <description>Gene Details: Gene ID: AT1G02090 Gene Symbol: ATCSN7, COP15, CSN7, FUS5 Gene Name: ARABIDOPSIS THALIANA COP9 SIGNALOSOME SUBUNIT 7, CONSTITUTIVE PHOTOMORPHOGENIC 15, COP9 SIGNALOSOME SUBUNIT 7, FUSCA 5 Description: Proteasome component (PCI) domain protein;(source:Araport11) TAIR Accession: locus:2205593 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02090.</description>
+    </item>
+    <item>
+      <title>AT1G02100</title>
+      <link>/genes/arabidopsis_thaliana/at1g02100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02100/</guid>
+      <description>Gene Details: Gene ID: AT1G02100 Gene Symbol: LCMT1, SBI1 Gene Name: leucine carboxyl methyl transferase 1, SUPPRESSOR OF BRI1 Description: Leucine carboxyl methyltransferase;(source:Araport11) TAIR Accession: locus:2205619 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02100.</description>
+    </item>
+    <item>
+      <title>AT1G02120</title>
+      <link>/genes/arabidopsis_thaliana/at1g02120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02120/</guid>
+      <description>Gene Details: Gene ID: AT1G02120 Gene Symbol: VAD1 Gene Name: VASCULAR ASSOCIATED DEATH1 Description: GRAM domain family protein;(source:Araport11) TAIR Accession: locus:2205625 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02120.</description>
+    </item>
+    <item>
+      <title>AT1G02130</title>
+      <link>/genes/arabidopsis_thaliana/at1g02130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02130/</guid>
+      <description>Gene Details: Gene ID: AT1G02130 Gene Symbol: ARA-5, ARA5, ATRAB1B, ATRABD2A, RA-5, RABD2A Gene Name: RAS 5, ARABIDOPSIS RAS 5, ARABIDOPSIS THALIANA RESPONSIVE TO ABSCISIC ACID 1B, ARABIDOPSIS THALIANA RAB D2A, RAS 5, RAB D2A Description: RAS 5;(source:Araport11) TAIR Accession: locus:2205603 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02130.</description>
+    </item>
+    <item>
+      <title>AT1G02140</title>
+      <link>/genes/arabidopsis_thaliana/at1g02140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02140/</guid>
+      <description>Gene Details: Gene ID: AT1G02140 Gene Symbol: HAP1, MAGO, MEE63 Gene Name: HAPLESS 1, MAGO NASHI, MATERNAL EFFECT EMBRYO ARREST 63 Description: mago nashi family protein;(source:Araport11) TAIR Accession: locus:2205630 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02140.</description>
+    </item>
+    <item>
+      <title>AT1G02150</title>
+      <link>/genes/arabidopsis_thaliana/at1g02150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02150/</guid>
+      <description>Gene Details: Gene ID: AT1G02150 Gene Symbol: CCR16 Gene Name: Description: Tetratricopeptide repeat (TPR)-like superfamily protein;(source:Araport11) TAIR Accession: locus:2204793 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02150.</description>
+    </item>
+    <item>
+      <title>AT1G02170</title>
+      <link>/genes/arabidopsis_thaliana/at1g02170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02170/</guid>
+      <description>Gene Details: Gene ID: AT1G02170 Gene Symbol: ATMC1, AtMCP1b, ATMCPB1, LOL3, MC1, MCP1b Gene Name: ARABIDOPSIS THALIANA METACASPASE 1, metacaspase 1b, ARABIDOPSIS THALIANA METACASPASE 1B, LSD ONE LIKE 3, metacaspase 1, metacaspase 1b Description: metacaspase 1;(source:Araport11) TAIR Accession: locus:2204798 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02170.</description>
+    </item>
+    <item>
+      <title>AT1G02190</title>
+      <link>/genes/arabidopsis_thaliana/at1g02190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02190/</guid>
+      <description>Gene Details: Gene ID: AT1G02190 Gene Symbol: CER1-L1 Gene Name: ECERIFERUM1-like1 Description: Fatty acid hydroxylase superfamily;(source:Araport11) TAIR Accession: locus:2204813 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02190.</description>
+    </item>
+    <item>
+      <title>AT1G02205</title>
+      <link>/genes/arabidopsis_thaliana/at1g02205/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02205/</guid>
+      <description>Gene Details: Gene ID: AT1G02205 Gene Symbol: CER1, CER22 Gene Name: ECERIFERUM 1, ECERIFERUM 22 Description: Fatty acid hydroxylase superfamily;(source:Araport11) TAIR Accession: locus:2827068 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02205.</description>
+    </item>
+    <item>
+      <title>AT1G02220</title>
+      <link>/genes/arabidopsis_thaliana/at1g02220/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02220/</guid>
+      <description>Gene Details: Gene ID: AT1G02220 Gene Symbol: ANAC003, NAC003, XVP Gene Name: NAC domain containing protein 3, NAC domain containing protein 3 Description: NAC domain containing protein 3;(source:Araport11) TAIR Accession: locus:2204833 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02220.</description>
+    </item>
+    <item>
+      <title>AT1G02280</title>
+      <link>/genes/arabidopsis_thaliana/at1g02280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02280/</guid>
+      <description>Gene Details: Gene ID: AT1G02280 Gene Symbol: ATTOC33, PPI1, TOC33 Gene Name: PLASTID PROTEIN IMPORT 1, translocon at the outer envelope membrane of chloroplasts 33 Description: translocon at the outer envelope membrane of chloroplasts 33;(source:Araport11) TAIR Accession: locus:2204923 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02280.</description>
+    </item>
+    <item>
+      <title>AT1G02300</title>
+      <link>/genes/arabidopsis_thaliana/at1g02300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02300/</guid>
+      <description>Gene Details: Gene ID: AT1G02300 Gene Symbol: AtcathB1 Gene Name: Description: Cysteine proteinases superfamily protein;(source:Araport11) TAIR Accession: locus:2204873 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02300.</description>
+    </item>
+    <item>
+      <title>AT1G02305</title>
+      <link>/genes/arabidopsis_thaliana/at1g02305/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02305/</guid>
+      <description>Gene Details: Gene ID: AT1G02305 Gene Symbol: AtcathB2 Gene Name: Description: Cysteine proteinases superfamily protein;(source:Araport11) TAIR Accession: locus:505006093 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02305.</description>
+    </item>
+    <item>
+      <title>AT1G02330</title>
+      <link>/genes/arabidopsis_thaliana/at1g02330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02330/</guid>
+      <description>Gene Details: Gene ID: AT1G02330 Gene Symbol: CSU2 Gene Name: COP1 SUPPRESSOR 2 Description: integrator complex subunit-like protein;(source:Araport11) TAIR Accession: locus:2204888 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02330.</description>
+    </item>
+    <item>
+      <title>AT1G02340</title>
+      <link>/genes/arabidopsis_thaliana/at1g02340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02340/</guid>
+      <description>Gene Details: Gene ID: AT1G02340 Gene Symbol: FBI1, HFR1, REP1, RSF1 Gene Name: LONG HYPOCOTYL IN FAR-RED, REDUCED PHYTOCHROME SIGNALING 1, REDUCED SENSITIVITY TO FAR-RED LIGHT 1 Description: basic helix-loop-helix (bHLH) DNA-binding superfamily protein;(source:Araport11) TAIR Accession: locus:2204898 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02340.</description>
+    </item>
+    <item>
+      <title>AT1G02400</title>
+      <link>/genes/arabidopsis_thaliana/at1g02400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02400/</guid>
+      <description>Gene Details: Gene ID: AT1G02400 Gene Symbol: ATGA2OX4, ATGA2OX6, DTA1, GA2OX6 Gene Name: Arabidopsis thaliana gibberellin 2-oxidase 4, ARABIDOPSIS THALIANA GIBBERELLIN 2-OXIDASE 6, DOWNSTREAM TARGET OF AGL15 1, gibberellin 2-oxidase 6 Description: gibberellin 2-oxidase 6;(source:Araport11) TAIR Accession: locus:2204823 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02400.</description>
+    </item>
+    <item>
+      <title>AT1G02410</title>
+      <link>/genes/arabidopsis_thaliana/at1g02410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02410/</guid>
+      <description>Gene Details: Gene ID: AT1G02410 Gene Symbol: COX11 Gene Name: cytochrome c oxidase 11 Description: cytochrome c oxidase assembly protein CtaG / Cox11 family;(source:Araport11) TAIR Accession: locus:2204838 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02410.</description>
+    </item>
+    <item>
+      <title>AT1G02450</title>
+      <link>/genes/arabidopsis_thaliana/at1g02450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02450/</guid>
+      <description>Gene Details: Gene ID: AT1G02450 Gene Symbol: NIMIN-1, NIMIN1 Gene Name: NIM1-interacting 1 Description: NIM1-interacting 1;(source:Araport11) TAIR Accession: locus:2196065 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02450.</description>
+    </item>
+    <item>
+      <title>AT1G02500</title>
+      <link>/genes/arabidopsis_thaliana/at1g02500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02500/</guid>
+      <description>Gene Details: Gene ID: AT1G02500 Gene Symbol: AtSAM1, MAT1, METK1, SAM-1, SAM1, SAMS1 Gene Name: S-ADENOSYLMETHIONINE SYNTHETASE-1, S-adenosylmethionine synthetase 1 Description: S-adenosylmethionine synthetase 1;(source:Araport11) TAIR Accession: locus:2196160 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02500.</description>
+    </item>
+    <item>
+      <title>AT1G02560</title>
+      <link>/genes/arabidopsis_thaliana/at1g02560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02560/</guid>
+      <description>Gene Details: Gene ID: AT1G02560 Gene Symbol: CLPP5, NCLPP1, NCLPP5 Gene Name: nuclear encoded CLP protease 5, NUCLEAR-ENCODED CLPP 1, NUCLEAR CLPP 5 Description: nuclear encoded CLP protease 5;(source:Araport11) TAIR Accession: locus:2196120 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02560.</description>
+    </item>
+    <item>
+      <title>AT1G02640</title>
+      <link>/genes/arabidopsis_thaliana/at1g02640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02640/</guid>
+      <description>Gene Details: Gene ID: AT1G02640 Gene Symbol: ATBXL2, BXL2 Gene Name: BETA-XYLOSIDASE 2, beta-xylosidase 2 Description: beta-xylosidase 2;(source:Araport11) TAIR Accession: locus:2196060 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02640.</description>
+    </item>
+    <item>
+      <title>AT1G02660</title>
+      <link>/genes/arabidopsis_thaliana/at1g02660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02660/</guid>
+      <description>Gene Details: Gene ID: AT1G02660 Gene Symbol: PLIP2 Gene Name: PLASTID LIPASE2 Description: alpha/beta-Hydrolases superfamily protein;(source:Araport11) TAIR Accession: locus:2196045 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02660.</description>
+    </item>
+    <item>
+      <title>AT1G02680</title>
+      <link>/genes/arabidopsis_thaliana/at1g02680/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02680/</guid>
+      <description>Gene Details: Gene ID: AT1G02680 Gene Symbol: TAF13 Gene Name: TBP-associated factor 13 Description: TBP-associated factor 13;(source:Araport11) TAIR Accession: locus:2196040 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02680.</description>
+    </item>
+    <item>
+      <title>AT1G02690</title>
+      <link>/genes/arabidopsis_thaliana/at1g02690/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02690/</guid>
+      <description>Gene Details: Gene ID: AT1G02690 Gene Symbol: IMPA-6 Gene Name: importin alpha isoform 6 Description: importin alpha isoform 6;(source:Araport11) TAIR Accession: locus:2196140 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02690.</description>
+    </item>
+    <item>
+      <title>AT1G02720</title>
+      <link>/genes/arabidopsis_thaliana/at1g02720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02720/</guid>
+      <description>Gene Details: Gene ID: AT1G02720 Gene Symbol: AtGATL5, GATL5 Gene Name: galacturonosyltransferase-like 5 Description: galacturonosyltransferase 5;(source:Araport11) TAIR Accession: locus:2024740 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02720.</description>
+    </item>
+    <item>
+      <title>AT1G02730</title>
+      <link>/genes/arabidopsis_thaliana/at1g02730/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02730/</guid>
+      <description>Gene Details: Gene ID: AT1G02730 Gene Symbol: ATCSLD5, CSLD5, CSLD5, SOS6 Gene Name: cellulose synthase-like D5, CELLULOSE SYNTHASE LIKE D5, cellulose synthase-like D5, SALT OVERLY SENSITIVE 6 Description: cellulose synthase-like D5;(source:Araport11) TAIR Accession: locus:2024745 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02730.</description>
+    </item>
+    <item>
+      <title>AT1G02740</title>
+      <link>/genes/arabidopsis_thaliana/at1g02740/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02740/</guid>
+      <description>Gene Details: Gene ID: AT1G02740 Gene Symbol: MRG2 Gene Name: MORF related gene 2 Description: MRG family protein;(source:Araport11) TAIR Accession: locus:2024725 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02740.</description>
+    </item>
+    <item>
+      <title>AT1G02750</title>
+      <link>/genes/arabidopsis_thaliana/at1g02750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02750/</guid>
+      <description>Gene Details: Gene ID: AT1G02750 Gene Symbol: DiL-2 Gene Name: Description: Drought-responsive family protein;(source:Araport11) TAIR Accession: locus:2196125 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02750.</description>
+    </item>
+    <item>
+      <title>AT1G02780</title>
+      <link>/genes/arabidopsis_thaliana/at1g02780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02780/</guid>
+      <description>Gene Details: Gene ID: AT1G02780 Gene Symbol: eL19x, emb2386 Gene Name: Ribosomal Protein eL19x, embryo defective 2386 Description: Ribosomal protein L19e family protein;(source:Araport11) TAIR Accession: locus:2024695 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02780.</description>
+    </item>
+    <item>
+      <title>AT1G02790</title>
+      <link>/genes/arabidopsis_thaliana/at1g02790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02790/</guid>
+      <description>Gene Details: Gene ID: AT1G02790 Gene Symbol: PG45, PGA4 Gene Name: polygalacturonase 4 Description: polygalacturonase 4;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02790.</description>
+    </item>
+    <item>
+      <title>AT1G02800</title>
+      <link>/genes/arabidopsis_thaliana/at1g02800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02800/</guid>
+      <description>Gene Details: Gene ID: AT1G02800 Gene Symbol: ATCEL2, CEL2, CEL2 Gene Name: cellulase 2, cellulase 2 Description: cellulase 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02800.</description>
+    </item>
+    <item>
+      <title>AT1G02810</title>
+      <link>/genes/arabidopsis_thaliana/at1g02810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02810/</guid>
+      <description>Gene Details: Gene ID: AT1G02810 Gene Symbol: PMEI-PME7 Gene Name: pectin methyl esterase inhibitor-pectin methylesterase7 Description: Plant invertase/pectin methylesterase inhibitor superfamily;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02810.</description>
+    </item>
+    <item>
+      <title>AT1G02820</title>
+      <link>/genes/arabidopsis_thaliana/at1g02820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02820/</guid>
+      <description>Gene Details: Gene ID: AT1G02820 Gene Symbol: AtLEA3, LEA2, LEA3 Gene Name: late embryogenesis abundant 38, late embryogenesis abundant 3 Description: Late embryogenesis abundant 3 (LEA3) family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02820.</description>
+    </item>
+    <item>
+      <title>AT1G02840</title>
+      <link>/genes/arabidopsis_thaliana/at1g02840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02840/</guid>
+      <description>Gene Details: Gene ID: AT1G02840 Gene Symbol: At-SR34, ATSRP34, SR1, SR34, SRP34 Gene Name: Serine/Arginine-Rich Protein Splicing Factor 34, Serine/Arginine-Rich Protein Splicing Factor 34 Description: RNA-binding (RRM/RBD/RNP motifs) family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02840.</description>
+    </item>
+    <item>
+      <title>AT1G02850</title>
+      <link>/genes/arabidopsis_thaliana/at1g02850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02850/</guid>
+      <description>Gene Details: Gene ID: AT1G02850 Gene Symbol: BGLU11 Gene Name: beta glucosidase 11 Description: beta glucosidase 11;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02850.</description>
+    </item>
+    <item>
+      <title>AT1G02860</title>
+      <link>/genes/arabidopsis_thaliana/at1g02860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02860/</guid>
+      <description>Gene Details: Gene ID: AT1G02860 Gene Symbol: BAH1, NLA, SYG1 Gene Name: BENZOIC ACID HYPERSENSITIVE 1, nitrogen limitation adaptation Description: SPX (SYG1/Pho81/XPR1) domain-containing protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02860.</description>
+    </item>
+    <item>
+      <title>AT1G02910</title>
+      <link>/genes/arabidopsis_thaliana/at1g02910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02910/</guid>
+      <description>Gene Details: Gene ID: AT1G02910 Gene Symbol: LPA1 Gene Name: LOW PSII ACCUMULATION1 Description: tetratricopeptide repeat (TPR)-containing protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02910.</description>
+    </item>
+    <item>
+      <title>AT1G02940</title>
+      <link>/genes/arabidopsis_thaliana/at1g02940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02940/</guid>
+      <description>Gene Details: Gene ID: AT1G02940 Gene Symbol: ATGSTF5, GSTF5 Gene Name: GLUTATHIONE S-TRANSFERASE (CLASS PHI) 5, glutathione S-transferase (class phi) 5 Description: glutathione S-transferase (class phi) 5;(source:Araport11) TAIR Accession: locus:2024775 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02940.</description>
+    </item>
+    <item>
+      <title>AT1G02950</title>
+      <link>/genes/arabidopsis_thaliana/at1g02950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02950/</guid>
+      <description>Gene Details: Gene ID: AT1G02950 Gene Symbol: ATGSTF4, GST31, GSTF4 Gene Name: glutathione S-transferase F4, GLUTATHIONE S-TRANSFERASE 31, glutathione S-transferase F4 Description: glutathione S-transferase F4;(source:Araport11) TAIR Accession: locus:2024765 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02950.</description>
+    </item>
+    <item>
+      <title>AT1G02970</title>
+      <link>/genes/arabidopsis_thaliana/at1g02970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g02970/</guid>
+      <description>Gene Details: Gene ID: AT1G02970 Gene Symbol: ATWEE1, WEE1 Gene Name: WEE1 kinase homolog Description: WEE1-like kinase;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G02970.</description>
+    </item>
+    <item>
+      <title>AT1G03000</title>
+      <link>/genes/arabidopsis_thaliana/at1g03000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03000/</guid>
+      <description>Gene Details: Gene ID: AT1G03000 Gene Symbol: PEX6 Gene Name: peroxin 6 Description: peroxin 6;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03000.</description>
+    </item>
+    <item>
+      <title>AT1G03040</title>
+      <link>/genes/arabidopsis_thaliana/at1g03040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03040/</guid>
+      <description>Gene Details: Gene ID: AT1G03040 Gene Symbol: bHLH007, PFB2 Gene Name: PERICYCLE FACTOR TYPE-B 2 Description: basic helix-loop-helix (bHLH) DNA-binding superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03040.</description>
+    </item>
+    <item>
+      <title>AT1G03050</title>
+      <link>/genes/arabidopsis_thaliana/at1g03050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03050/</guid>
+      <description>Gene Details: Gene ID: AT1G03050 Gene Symbol: PICALM5A Gene Name: Phosphatidylinositol binding clathrin assembly protein 5a Description: ENTH/ANTH/VHS superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03050.</description>
+    </item>
+    <item>
+      <title>AT1G03055</title>
+      <link>/genes/arabidopsis_thaliana/at1g03055/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03055/</guid>
+      <description>Gene Details: Gene ID: AT1G03055 Gene Symbol: AtD27, D27 Gene Name: A.</description>
+    </item>
+    <item>
+      <title>AT1G03060</title>
+      <link>/genes/arabidopsis_thaliana/at1g03060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03060/</guid>
+      <description>Gene Details: Gene ID: AT1G03060 Gene Symbol: BCHA1, SPI Gene Name: Beach-Domain Homolog A1, SPIRRIG Description: BEACH-DOMAIN HOMOLOG A1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03060.</description>
+    </item>
+    <item>
+      <title>AT1G03070</title>
+      <link>/genes/arabidopsis_thaliana/at1g03070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03070/</guid>
+      <description>Gene Details: Gene ID: AT1G03070 Gene Symbol: AtLFG4, LFG4 Gene Name: LIFEGUARD 4 Description: Bax inhibitor-1 family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03070.</description>
+    </item>
+    <item>
+      <title>AT1G03080</title>
+      <link>/genes/arabidopsis_thaliana/at1g03080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03080/</guid>
+      <description>Gene Details: Gene ID: AT1G03080 Gene Symbol: NET1D Gene Name: Networked 1D Description: kinase interacting (KIP1-like) family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03080.</description>
+    </item>
+    <item>
+      <title>AT1G03090</title>
+      <link>/genes/arabidopsis_thaliana/at1g03090/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03090/</guid>
+      <description>Gene Details: Gene ID: AT1G03090 Gene Symbol: MCCA Gene Name: Description: methylcrotonyl-CoA carboxylase alpha chain;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03090.</description>
+    </item>
+    <item>
+      <title>AT1G03110</title>
+      <link>/genes/arabidopsis_thaliana/at1g03110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03110/</guid>
+      <description>Gene Details: Gene ID: AT1G03110 Gene Symbol: AtTRM82, TRM82 Gene Name: tRNA modification 82 Description: Transducin/WD40 repeat-like superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03110.</description>
+    </item>
+    <item>
+      <title>AT1G03130</title>
+      <link>/genes/arabidopsis_thaliana/at1g03130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03130/</guid>
+      <description>Gene Details: Gene ID: AT1G03130 Gene Symbol: PSAD-2 Gene Name: photosystem I subunit D-2 Description: photosystem I subunit D-2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03130.</description>
+    </item>
+    <item>
+      <title>AT1G03150</title>
+      <link>/genes/arabidopsis_thaliana/at1g03150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03150/</guid>
+      <description>Gene Details: Gene ID: AT1G03150 Gene Symbol: NAA20 Gene Name: NatB catalytic subunit Description: Acyl-CoA N-acyltransferases (NAT) superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03150.</description>
+    </item>
+    <item>
+      <title>AT1G03160</title>
+      <link>/genes/arabidopsis_thaliana/at1g03160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03160/</guid>
+      <description>Gene Details: Gene ID: AT1G03160 Gene Symbol: FZL Gene Name: FZO-like Description: FZO-like protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03160.</description>
+    </item>
+    <item>
+      <title>AT1G03170</title>
+      <link>/genes/arabidopsis_thaliana/at1g03170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03170/</guid>
+      <description>Gene Details: Gene ID: AT1G03170 Gene Symbol: FAF2, FTM5 Gene Name: FANTASTIC FOUR 2, FLORAL TRANSITION AT THE MERISTEM5 Description: FANTASTIC four-like protein (DUF3049);(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03170.</description>
+    </item>
+    <item>
+      <title>AT1G03180</title>
+      <link>/genes/arabidopsis_thaliana/at1g03180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03180/</guid>
+      <description>Gene Details: Gene ID: AT1G03180 Gene Symbol: COMET Gene Name: Description: non-structural protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03180.</description>
+    </item>
+    <item>
+      <title>AT1G03190</title>
+      <link>/genes/arabidopsis_thaliana/at1g03190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03190/</guid>
+      <description>Gene Details: Gene ID: AT1G03190 Gene Symbol: ATXPD, UVH6 Gene Name: ARABIDOPSIS THALIANA XERODERMA PIGMENTOSUM GROUP D, ULTRAVIOLET HYPERSENSITIVE 6 Description: RAD3-like DNA-binding helicase protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03190.</description>
+    </item>
+    <item>
+      <title>AT1G03300</title>
+      <link>/genes/arabidopsis_thaliana/at1g03300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03300/</guid>
+      <description>Gene Details: Gene ID: AT1G03300 Gene Symbol: ATDUF1, DUF1 Gene Name: DOMAIN OF UNKNOWN FUNCTION 724 1, DOMAIN OF UNKNOWN FUNCTION 724 1 Description: agenet domain protein (DOMAIN OF UNKNOWN FUNCTION 724 1);(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03300.</description>
+    </item>
+    <item>
+      <title>AT1G03310</title>
+      <link>/genes/arabidopsis_thaliana/at1g03310/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03310/</guid>
+      <description>Gene Details: Gene ID: AT1G03310 Gene Symbol: AtBE2, ATISA2, BE2, DBE1, ISA2 Gene Name: ARABIDOPSIS THALIANA ISOAMYLASE 2, BRANCHING ENZYME 2, debranching enzyme 1 Description: debranching enzyme 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03310.</description>
+    </item>
+    <item>
+      <title>AT1G03330</title>
+      <link>/genes/arabidopsis_thaliana/at1g03330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03330/</guid>
+      <description>Gene Details: Gene ID: AT1G03330 Gene Symbol: LSM2 Gene Name: SM-like 2 Description: Small nuclear ribonucleoprotein family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03330.</description>
+    </item>
+    <item>
+      <title>AT1G03360</title>
+      <link>/genes/arabidopsis_thaliana/at1g03360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03360/</guid>
+      <description>Gene Details: Gene ID: AT1G03360 Gene Symbol: ATRRP4, RRP4, SOP2 Gene Name: ribosomal RNA processing 4, ribosomal RNA processing 4, SUPPRESSOR OF PAS2 2 Description: ribosomal RNA processing 4;(source:Araport11) TAIR Accession: locus:2014535 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03360.</description>
+    </item>
+    <item>
+      <title>AT1G03380</title>
+      <link>/genes/arabidopsis_thaliana/at1g03380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03380/</guid>
+      <description>Gene Details: Gene ID: AT1G03380 Gene Symbol: ATATG18G, ATG18G Gene Name: homolog of yeast autophagy 18 (ATG18) G, homolog of yeast autophagy 18 (ATG18) G Description: yeast autophagy 18 G-like protein;(source:Araport11) TAIR Accession: locus:2020853 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03380.</description>
+    </item>
+    <item>
+      <title>AT1G03410</title>
+      <link>/genes/arabidopsis_thaliana/at1g03410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03410/</guid>
+      <description>Gene Details: Gene ID: AT1G03410 Gene Symbol: 2A6 Gene Name: Description: 2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein;(source:Araport11) TAIR Accession: locus:2020798 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03410.</description>
+    </item>
+    <item>
+      <title>AT1G03420</title>
+      <link>/genes/arabidopsis_thaliana/at1g03420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03420/</guid>
+      <description>Gene Details: Gene ID: AT1G03420 Gene Symbol: Sadhu4-2 Gene Name: sadhu non-coding retrotransposon 4-2 Description: transposable_element_gene;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03420.</description>
+    </item>
+    <item>
+      <title>AT1G03430</title>
+      <link>/genes/arabidopsis_thaliana/at1g03430/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03430/</guid>
+      <description>Gene Details: Gene ID: AT1G03430 Gene Symbol: AHP5 Gene Name: histidine-containing phosphotransfer factor 5 Description: histidine-containing phosphotransfer factor 5;(source:Araport11) TAIR Accession: locus:2020868 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03430.</description>
+    </item>
+    <item>
+      <title>AT1G03457</title>
+      <link>/genes/arabidopsis_thaliana/at1g03457/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03457/</guid>
+      <description>Gene Details: Gene ID: AT1G03457 Gene Symbol: AtBRN2, BRN2 Gene Name: Bruno-like 2 Description: RNA-binding (RRM/RBD/RNP motifs) family protein;(source:Araport11) TAIR Accession: locus:2825067 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03457.</description>
+    </item>
+    <item>
+      <title>AT1G03475</title>
+      <link>/genes/arabidopsis_thaliana/at1g03475/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03475/</guid>
+      <description>Gene Details: Gene ID: AT1G03475 Gene Symbol: ATCPO-I, HEMF1, LIN2 Gene Name: LESION INITIATION 2 Description: Coproporphyrinogen III oxidase;(source:Araport11) TAIR Accession: locus:2825062 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03475.</description>
+    </item>
+    <item>
+      <title>AT1G03530</title>
+      <link>/genes/arabidopsis_thaliana/at1g03530/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03530/</guid>
+      <description>Gene Details: Gene ID: AT1G03530 Gene Symbol: ATNAF1, NAF1 Gene Name: nuclear assembly factor 1 Description: nuclear assembly factor 1;(source:Araport11) TAIR Accession: locus:2020713 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03530.</description>
+    </item>
+    <item>
+      <title>AT1G03550</title>
+      <link>/genes/arabidopsis_thaliana/at1g03550/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03550/</guid>
+      <description>Gene Details: Gene ID: AT1G03550 Gene Symbol: AtSCAMP4, SCAMP4 Gene Name: Secretory carrier membrane protein 4 Description: Secretory carrier membrane protein (SCAMP) family protein;(source:Araport11) TAIR Accession: locus:2020828 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03550.</description>
+    </item>
+    <item>
+      <title>AT1G03600</title>
+      <link>/genes/arabidopsis_thaliana/at1g03600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03600/</guid>
+      <description>Gene Details: Gene ID: AT1G03600 Gene Symbol: PSB27 Gene Name: Description: photosystem II family protein;(source:Araport11) TAIR Accession: locus:2020788 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03600.</description>
+    </item>
+    <item>
+      <title>AT1G03620</title>
+      <link>/genes/arabidopsis_thaliana/at1g03620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03620/</guid>
+      <description>Gene Details: Gene ID: AT1G03620 Gene Symbol: ELMOD_E Gene Name: Engulfment and Cell Motility (ELMO) domain E Description: ELMO/CED-12 family protein;(source:Araport11) TAIR Accession: locus:2020753 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03620.</description>
+    </item>
+    <item>
+      <title>AT1G03630</title>
+      <link>/genes/arabidopsis_thaliana/at1g03630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03630/</guid>
+      <description>Gene Details: Gene ID: AT1G03630 Gene Symbol: POR C, PORC Gene Name: protochlorophyllide oxidoreductase C Description: protochlorophyllide oxidoreductase C;(source:Araport11) TAIR Accession: locus:2020738 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03630.</description>
+    </item>
+    <item>
+      <title>AT1G03680</title>
+      <link>/genes/arabidopsis_thaliana/at1g03680/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03680/</guid>
+      <description>Gene Details: Gene ID: AT1G03680 Gene Symbol: ATHM1, ATM1, THM1, TRX-M1 Gene Name: thioredoxin M-type 1, ARABIDOPSIS THIOREDOXIN M-TYPE 1, thioredoxin M-type 1, THIOREDOXIN M-TYPE 1 Description: thioredoxin M-type 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03680.</description>
+    </item>
+    <item>
+      <title>AT1G03750</title>
+      <link>/genes/arabidopsis_thaliana/at1g03750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03750/</guid>
+      <description>Gene Details: Gene ID: AT1G03750 Gene Symbol: CHR9 Gene Name: CHROMATIN REMODELING 9 Description: switch 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03750.</description>
+    </item>
+    <item>
+      <title>AT1G03770</title>
+      <link>/genes/arabidopsis_thaliana/at1g03770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03770/</guid>
+      <description>Gene Details: Gene ID: AT1G03770 Gene Symbol: ATRING1B, RING1B Gene Name: ARABIDOPSIS THALIANA RING 1B, RING 1B Description: RING 1B;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03770.</description>
+    </item>
+    <item>
+      <title>AT1G03780</title>
+      <link>/genes/arabidopsis_thaliana/at1g03780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03780/</guid>
+      <description>Gene Details: Gene ID: AT1G03780 Gene Symbol: AtTPX2, TPX2 Gene Name: targeting protein for XKLP2 Description: targeting protein for XKLP2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03780.</description>
+    </item>
+    <item>
+      <title>AT1G03830</title>
+      <link>/genes/arabidopsis_thaliana/at1g03830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03830/</guid>
+      <description>Gene Details: Gene ID: AT1G03830 Gene Symbol: GBPL1 Gene Name: GUANYLATE-BINDING PROTEIN-LIKE 1 Description: guanylate-binding family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03830.</description>
+    </item>
+    <item>
+      <title>AT1G03850</title>
+      <link>/genes/arabidopsis_thaliana/at1g03850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03850/</guid>
+      <description>Gene Details: Gene ID: AT1G03850 Gene Symbol: ATGRXS13, GRXS13, ROXY18 Gene Name: glutaredoxin 13, glutaredoxin 13 Description: Glutaredoxin family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03850.</description>
+    </item>
+    <item>
+      <title>AT1G03860</title>
+      <link>/genes/arabidopsis_thaliana/at1g03860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03860/</guid>
+      <description>Gene Details: Gene ID: AT1G03860 Gene Symbol: ATPHB2, PHB2 Gene Name: prohibitin 2, prohibitin 2 Description: prohibitin 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03860.</description>
+    </item>
+    <item>
+      <title>AT1G03870</title>
+      <link>/genes/arabidopsis_thaliana/at1g03870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03870/</guid>
+      <description>Gene Details: Gene ID: AT1G03870 Gene Symbol: FLA9 Gene Name: FASCICLIN-like arabinoogalactan 9 Description: FASCICLIN-like arabinoogalactan 9;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03870.</description>
+    </item>
+    <item>
+      <title>AT1G03900</title>
+      <link>/genes/arabidopsis_thaliana/at1g03900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03900/</guid>
+      <description>Gene Details: Gene ID: AT1G03900 Gene Symbol: ABCI18, ATNAP4, NAP4 Gene Name: ATP-binding cassette I18, non-intrinsic ABC protein 4, non-intrinsic ABC protein 4 Description: non-intrinsic ABC protein 4;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03900.</description>
+    </item>
+    <item>
+      <title>AT1G03910</title>
+      <link>/genes/arabidopsis_thaliana/at1g03910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03910/</guid>
+      <description>Gene Details: Gene ID: AT1G03910 Gene Symbol: CTN Gene Name: CACTIN Description: cactus-binding carboxy-terminal, cactin;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03910.</description>
+    </item>
+    <item>
+      <title>AT1G03920</title>
+      <link>/genes/arabidopsis_thaliana/at1g03920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03920/</guid>
+      <description>Gene Details: Gene ID: AT1G03920 Gene Symbol: NDR2 Gene Name: nuclear Dbf2-related 2 Description: Protein kinase family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03920.</description>
+    </item>
+    <item>
+      <title>AT1G03950</title>
+      <link>/genes/arabidopsis_thaliana/at1g03950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03950/</guid>
+      <description>Gene Details: Gene ID: AT1G03950 Gene Symbol: VPS2.3 Gene Name: vacuolar protein sorting-associated protein 2.</description>
+    </item>
+    <item>
+      <title>AT1G03970</title>
+      <link>/genes/arabidopsis_thaliana/at1g03970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03970/</guid>
+      <description>Gene Details: Gene ID: AT1G03970 Gene Symbol: GBF4 Gene Name: G-box binding factor 4 Description: G-box binding factor 4;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03970.</description>
+    </item>
+    <item>
+      <title>AT1G03980</title>
+      <link>/genes/arabidopsis_thaliana/at1g03980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g03980/</guid>
+      <description>Gene Details: Gene ID: AT1G03980 Gene Symbol: ATPCS2, PCS2 Gene Name: phytochelatin synthase 2, phytochelatin synthase 2 Description: phytochelatin synthase 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G03980.</description>
+    </item>
+    <item>
+      <title>AT1G04010</title>
+      <link>/genes/arabidopsis_thaliana/at1g04010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04010/</guid>
+      <description>Gene Details: Gene ID: AT1G04010 Gene Symbol: ATPSAT1, ERP1, PSAT1 Gene Name: enhanced response to Phytophthora 1, phospholipid sterol acyl transferase 1 Description: phospholipid sterol acyl transferase 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04010.</description>
+    </item>
+    <item>
+      <title>AT1G04020</title>
+      <link>/genes/arabidopsis_thaliana/at1g04020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04020/</guid>
+      <description>Gene Details: Gene ID: AT1G04020 Gene Symbol: ATBARD1, BARD1, ROW1 Gene Name: breast cancer associated RING 1, REPRESSOR OF WUSCHEL1 Description: breast cancer associated RING 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04020.</description>
+    </item>
+    <item>
+      <title>AT1G04050</title>
+      <link>/genes/arabidopsis_thaliana/at1g04050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04050/</guid>
+      <description>Gene Details: Gene ID: AT1G04050 Gene Symbol: SDG13, SUVR1 Gene Name: SET DOMAIN PROTEIN 13, homolog of SU(var)3-9 1 Description: histone-lysine N-methyltransferase SUVR2-like protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04050.</description>
+    </item>
+    <item>
+      <title>AT1G04070</title>
+      <link>/genes/arabidopsis_thaliana/at1g04070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04070/</guid>
+      <description>Gene Details: Gene ID: AT1G04070 Gene Symbol: ATTOM22-I, TOM22-I Gene Name: translocase of outer membrane 22-I Description: translocase of outer membrane 22-I;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04070.</description>
+    </item>
+    <item>
+      <title>AT1G04080</title>
+      <link>/genes/arabidopsis_thaliana/at1g04080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04080/</guid>
+      <description>Gene Details: Gene ID: AT1G04080 Gene Symbol: PRP39, PRP39a Gene Name: Description: Tetratricopeptide repeat (TPR)-like superfamily protein;(source:Araport11) TAIR Accession: locus:2020265 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04080.</description>
+    </item>
+    <item>
+      <title>AT1G04110</title>
+      <link>/genes/arabidopsis_thaliana/at1g04110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04110/</guid>
+      <description>Gene Details: Gene ID: AT1G04110 Gene Symbol: AtSDD1, SDD1 Gene Name: STOMATAL DENSITY AND DISTRIBUTION 1 Description: Subtilase family protein;(source:Araport11) TAIR Accession: locus:2020245 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04110.</description>
+    </item>
+    <item>
+      <title>AT1G04120</title>
+      <link>/genes/arabidopsis_thaliana/at1g04120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04120/</guid>
+      <description>Gene Details: Gene ID: AT1G04120 Gene Symbol: ABCC5, ATABCC5, ATMRP5, MRP5, MRP5 Gene Name: ATP-binding cassette C5, Arabidopsis thaliana ATP-binding cassette C5, multidrug resistance-associated protein 5, MULTIDRUG RESISTANCE PROTEIN 5, multidrug resistance-associated protein 5 Description: multidrug resistance-associated protein 5;(source:Araport11) TAIR Accession: locus:2020235 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04120.</description>
+    </item>
+    <item>
+      <title>AT1G04130</title>
+      <link>/genes/arabidopsis_thaliana/at1g04130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04130/</guid>
+      <description>Gene Details: Gene ID: AT1G04130 Gene Symbol: AtTPR2, TPR2 Gene Name: tetratricopeptide repeat 2 Description: Tetratricopeptide repeat (TPR)-like superfamily protein;(source:Araport11) TAIR Accession: locus:2020225 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04130.</description>
+    </item>
+    <item>
+      <title>AT1G04150</title>
+      <link>/genes/arabidopsis_thaliana/at1g04150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04150/</guid>
+      <description>Gene Details: Gene ID: AT1G04150 Gene Symbol: MCTP10 Gene Name: multiple C2 domain and transmembrane region protein 10 Description: C2 calcium/lipid-binding plant phosphoribosyltransferase family protein;(source:Araport11) TAIR Accession: locus:2020280 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04150.</description>
+    </item>
+    <item>
+      <title>AT1G04160</title>
+      <link>/genes/arabidopsis_thaliana/at1g04160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04160/</guid>
+      <description>Gene Details: Gene ID: AT1G04160 Gene Symbol: ATXIB, XI-8, XI-B, XIB Gene Name: ARABIDOPSIS THALIANA MYOSIN XI B, MYOSIN XI-8, MYOSIN XI B, myosin XI B Description: myosin XI B;(source:Araport11) TAIR Accession: locus:2020270 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04160.</description>
+    </item>
+    <item>
+      <title>AT1G04170</title>
+      <link>/genes/arabidopsis_thaliana/at1g04170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04170/</guid>
+      <description>Gene Details: Gene ID: AT1G04170 Gene Symbol: EIF2 GAMMA Gene Name: eukaryotic translation initiation factor 2 gamma subunit Description: eukaryotic translation initiation factor 2 gamma subunit;(source:Araport11) TAIR Accession: locus:2020260 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04170.</description>
+    </item>
+    <item>
+      <title>AT1G04190</title>
+      <link>/genes/arabidopsis_thaliana/at1g04190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04190/</guid>
+      <description>Gene Details: Gene ID: AT1G04190 Gene Symbol: TPR3 Gene Name: tetratricopeptide repeat 3 Description: Tetratricopeptide repeat (TPR)-like superfamily protein;(source:Araport11) TAIR Accession: locus:2020240 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04190.</description>
+    </item>
+    <item>
+      <title>AT1G04220</title>
+      <link>/genes/arabidopsis_thaliana/at1g04220/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04220/</guid>
+      <description>Gene Details: Gene ID: AT1G04220 Gene Symbol: DAISY, KCS2 Gene Name: DAISY, 3-ketoacyl-CoA synthase 2 Description: 3-ketoacyl-CoA synthase 2;(source:Araport11) TAIR Accession: locus:2020215 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04220.</description>
+    </item>
+    <item>
+      <title>AT1G04240</title>
+      <link>/genes/arabidopsis_thaliana/at1g04240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04240/</guid>
+      <description>Gene Details: Gene ID: AT1G04240 Gene Symbol: IAA3, SHY2 Gene Name: indole-3-acetic acid inducible 3, SHORT HYPOCOTYL 2 Description: AUX/IAA transcriptional regulator family protein;(source:Araport11) TAIR Accession: locus:2018379 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04240.</description>
+    </item>
+    <item>
+      <title>AT1G04250</title>
+      <link>/genes/arabidopsis_thaliana/at1g04250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04250/</guid>
+      <description>Gene Details: Gene ID: AT1G04250 Gene Symbol: AtIAA17, AXR3, IAA17 Gene Name: AUXIN RESISTANT 3, indole-3-acetic acid inducible 17 Description: AUX/IAA transcriptional regulator family protein;(source:Araport11) TAIR Accession: locus:2018374 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04250.</description>
+    </item>
+    <item>
+      <title>AT1G04260</title>
+      <link>/genes/arabidopsis_thaliana/at1g04260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04260/</guid>
+      <description>Gene Details: Gene ID: AT1G04260 Gene Symbol: MPI1, MPI1, MPI7, MPIP1, MPIP7, PRA1.</description>
+    </item>
+    <item>
+      <title>AT1G04270</title>
+      <link>/genes/arabidopsis_thaliana/at1g04270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04270/</guid>
+      <description>Gene Details: Gene ID: AT1G04270 Gene Symbol: RPS15, uS19u Gene Name: cytosolic ribosomal protein S15, Ribosomal Protein uS19u Description: cytosolic ribosomal protein S15;(source:Araport11) TAIR Accession: locus:2018324 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04270.</description>
+    </item>
+    <item>
+      <title>AT1G04300</title>
+      <link>/genes/arabidopsis_thaliana/at1g04300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04300/</guid>
+      <description>Gene Details: Gene ID: AT1G04300 Gene Symbol: MUSE13, TRAF1b Gene Name: Tumor necrosis factor Receptor-Associated Factor 1b Description: TRAF-like superfamily protein;(source:Araport11) TAIR Accession: locus:2018279 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04300.</description>
+    </item>
+    <item>
+      <title>AT1G04310</title>
+      <link>/genes/arabidopsis_thaliana/at1g04310/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04310/</guid>
+      <description>Gene Details: Gene ID: AT1G04310 Gene Symbol: ERS2 Gene Name: ethylene response sensor 2 Description: ethylene response sensor 2;(source:Araport11) TAIR Accession: locus:2018259 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04310.</description>
+    </item>
+    <item>
+      <title>AT1G04400</title>
+      <link>/genes/arabidopsis_thaliana/at1g04400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04400/</guid>
+      <description>Gene Details: Gene ID: AT1G04400 Gene Symbol: AT-PHH1, ATCRY2, CRY2, FHA, PHH1 Gene Name: cryptochrome 2 Description: cryptochrome 2;(source:Araport11) TAIR Accession: locus:2018254 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04400.</description>
+    </item>
+    <item>
+      <title>AT1G04410</title>
+      <link>/genes/arabidopsis_thaliana/at1g04410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04410/</guid>
+      <description>Gene Details: Gene ID: AT1G04410 Gene Symbol: c-NAD-MDH1 Gene Name: cytosolic-NAD-dependent malate dehydrogenase 1 Description: Lactate/malate dehydrogenase family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04410.</description>
+    </item>
+    <item>
+      <title>AT1G04440</title>
+      <link>/genes/arabidopsis_thaliana/at1g04440/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04440/</guid>
+      <description>Gene Details: Gene ID: AT1G04440 Gene Symbol: CKL13 Gene Name: casein kinase like 13 Description: casein kinase like 13;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04440.</description>
+    </item>
+    <item>
+      <title>AT1G04480</title>
+      <link>/genes/arabidopsis_thaliana/at1g04480/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04480/</guid>
+      <description>Gene Details: Gene ID: AT1G04480 Gene Symbol: uL14x Gene Name: Ribosomal Protein uL14x Description: Ribosomal protein L14p/L23e family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04480.</description>
+    </item>
+    <item>
+      <title>AT1G04510</title>
+      <link>/genes/arabidopsis_thaliana/at1g04510/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04510/</guid>
+      <description>Gene Details: Gene ID: AT1G04510 Gene Symbol: MAC3A, PUB59 Gene Name: MOS4-associated complex 3A, Plant U-box 59 Description: MOS4-associated complex 3A;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04510.</description>
+    </item>
+    <item>
+      <title>AT1G04520</title>
+      <link>/genes/arabidopsis_thaliana/at1g04520/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04520/</guid>
+      <description>Gene Details: Gene ID: AT1G04520 Gene Symbol: PDLP2 Gene Name: plasmodesmata-located protein 2 Description: plasmodesmata-located protein 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04520.</description>
+    </item>
+    <item>
+      <title>AT1G04530</title>
+      <link>/genes/arabidopsis_thaliana/at1g04530/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04530/</guid>
+      <description>Gene Details: Gene ID: AT1G04530 Gene Symbol: TPR4 Gene Name: tetratricopeptide repeat 4 Description: Tetratricopeptide repeat (TPR)-like superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04530.</description>
+    </item>
+    <item>
+      <title>AT1G04550</title>
+      <link>/genes/arabidopsis_thaliana/at1g04550/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04550/</guid>
+      <description>Gene Details: Gene ID: AT1G04550 Gene Symbol: BDL, IAA12 Gene Name: BODENLOS, indole-3-acetic acid inducible 12 Description: AUX/IAA transcriptional regulator family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04550.</description>
+    </item>
+    <item>
+      <title>AT1G04600</title>
+      <link>/genes/arabidopsis_thaliana/at1g04600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04600/</guid>
+      <description>Gene Details: Gene ID: AT1G04600 Gene Symbol: ATXIA, XIA Gene Name: myosin XI A Description: myosin XI A;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04600.</description>
+    </item>
+    <item>
+      <title>AT1G04610</title>
+      <link>/genes/arabidopsis_thaliana/at1g04610/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04610/</guid>
+      <description>Gene Details: Gene ID: AT1G04610 Gene Symbol: YUC3 Gene Name: YUCCA 3 Description: YUCCA 3;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04610.</description>
+    </item>
+    <item>
+      <title>AT1G04620</title>
+      <link>/genes/arabidopsis_thaliana/at1g04620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04620/</guid>
+      <description>Gene Details: Gene ID: AT1G04620 Gene Symbol: HCAR Gene Name: 7-hydroxymethyl chlorophyll a (HMChl) reductase Description: coenzyme F420 hydrogenase family / dehydrogenase, beta subunit family;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04620.</description>
+    </item>
+    <item>
+      <title>AT1G04640</title>
+      <link>/genes/arabidopsis_thaliana/at1g04640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04640/</guid>
+      <description>Gene Details: Gene ID: AT1G04640 Gene Symbol: LIP2 Gene Name: lipoyltransferase 2 Description: lipoyltransferase 2;(source:Araport11) TAIR Accession: locus:2197818 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04640.</description>
+    </item>
+    <item>
+      <title>AT1G04650</title>
+      <link>/genes/arabidopsis_thaliana/at1g04650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04650/</guid>
+      <description>Gene Details: Gene ID: AT1G04650 Gene Symbol: FLIP Gene Name: FIDGETIN-LIKE-1 INTERACTING PROTEIN Description: holliday junction resolvase;(source:Araport11) TAIR Accession: locus:2197858 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04650.</description>
+    </item>
+    <item>
+      <title>AT1G04690</title>
+      <link>/genes/arabidopsis_thaliana/at1g04690/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04690/</guid>
+      <description>Gene Details: Gene ID: AT1G04690 Gene Symbol: KAB1, KV-BETA1 Gene Name: potassium channel beta subunit 1 Description: potassium channel beta subunit 1;(source:Araport11) TAIR Accession: locus:2197793 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04690.</description>
+    </item>
+    <item>
+      <title>AT1G04700</title>
+      <link>/genes/arabidopsis_thaliana/at1g04700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04700/</guid>
+      <description>Gene Details: Gene ID: AT1G04700 Gene Symbol: RAF16 Gene Name: Description: PB1 domain-containing protein tyrosine kinase;(source:Araport11) TAIR Accession: locus:2197788 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04700.</description>
+    </item>
+    <item>
+      <title>AT1G04710</title>
+      <link>/genes/arabidopsis_thaliana/at1g04710/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04710/</guid>
+      <description>Gene Details: Gene ID: AT1G04710 Gene Symbol: KAT1, PKT4 Gene Name: 3-KETO-ACYL-COA THIOLASE 1, peroxisomal 3-ketoacyl-CoA thiolase 4 Description: peroxisomal 3-ketoacyl-CoA thiolase 4;(source:Araport11) TAIR Accession: locus:2197778 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04710.</description>
+    </item>
+    <item>
+      <title>AT1G04730</title>
+      <link>/genes/arabidopsis_thaliana/at1g04730/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04730/</guid>
+      <description>Gene Details: Gene ID: AT1G04730 Gene Symbol: CTF18 Gene Name: CHROMOSOME TRANSMISSION FIDELITY 18 Description: P-loop containing nucleoside triphosphate hydrolases superfamily protein;(source:Araport11) TAIR Accession: locus:2197853 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04730.</description>
+    </item>
+    <item>
+      <title>AT1G04750</title>
+      <link>/genes/arabidopsis_thaliana/at1g04750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04750/</guid>
+      <description>Gene Details: Gene ID: AT1G04750 Gene Symbol: AT VAMP7B, ATVAMP721, VAMP721, VAMP7B Gene Name: vesicle-associated membrane protein 721, VESICLE-ASSOCIATED MEMBRANE PROTEIN 7B Description: vesicle-associated membrane protein 721;(source:Araport11) TAIR Accession: locus:2010642 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04750.</description>
+    </item>
+    <item>
+      <title>AT1G04760</title>
+      <link>/genes/arabidopsis_thaliana/at1g04760/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04760/</guid>
+      <description>Gene Details: Gene ID: AT1G04760 Gene Symbol: ATVAMP726, VAMP726 Gene Name: vesicle-associated membrane protein 726, vesicle-associated membrane protein 726 Description: vesicle-associated membrane protein 726;(source:Araport11) TAIR Accession: locus:2010627 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04760.</description>
+    </item>
+    <item>
+      <title>AT1G04770</title>
+      <link>/genes/arabidopsis_thaliana/at1g04770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04770/</guid>
+      <description>Gene Details: Gene ID: AT1G04770 Gene Symbol: SDI2 Gene Name: Sulfur Deficiency Induced 2 Description: Tetratricopeptide repeat (TPR)-like superfamily protein;(source:Araport11) TAIR Accession: locus:2010612 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04770.</description>
+    </item>
+    <item>
+      <title>AT1G04820</title>
+      <link>/genes/arabidopsis_thaliana/at1g04820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04820/</guid>
+      <description>Gene Details: Gene ID: AT1G04820 Gene Symbol: TOR2, TUA4 Gene Name: TORTIFOLIA 2, tubulin alpha-4 chain Description: tubulin alpha-4 chain;(source:Araport11) TAIR Accession: locus:2010677 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04820.</description>
+    </item>
+    <item>
+      <title>AT1G04860</title>
+      <link>/genes/arabidopsis_thaliana/at1g04860/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04860/</guid>
+      <description>Gene Details: Gene ID: AT1G04860 Gene Symbol: ATUBP2, UBP2 Gene Name: ubiquitin-specific protease 2 Description: ubiquitin-specific protease 2;(source:Araport11) TAIR Accession: locus:2010622 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04860.</description>
+    </item>
+    <item>
+      <title>AT1G04870</title>
+      <link>/genes/arabidopsis_thaliana/at1g04870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04870/</guid>
+      <description>Gene Details: Gene ID: AT1G04870 Gene Symbol: ATPRMT10, PRMT10 Gene Name: protein arginine methyltransferase 10 Description: protein arginine methyltransferase 10;(source:Araport11) TAIR Accession: locus:2010607 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04870.</description>
+    </item>
+    <item>
+      <title>AT1G04880</title>
+      <link>/genes/arabidopsis_thaliana/at1g04880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04880/</guid>
+      <description>Gene Details: Gene ID: AT1G04880 Gene Symbol: AtHMGB15, HMGBD15 Gene Name: ARID-HMG DNA-binding protein 15, ARID-HMG DNA-binding protein 15 Description: HMG (high mobility group) box protein with ARID/BRIGHT DNA-binding domain-containing protein;(source:Araport11) TAIR Accession: locus:2010587 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04880.</description>
+    </item>
+    <item>
+      <title>AT1G04920</title>
+      <link>/genes/arabidopsis_thaliana/at1g04920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04920/</guid>
+      <description>Gene Details: Gene ID: AT1G04920 Gene Symbol: ATSPS3F, AtSPSB, SPS3F, SPSB Gene Name: sucrose phosphate synthase 3F, sucrose phosphate synthase 3F, sucrose phosphate synthase B Description: sucrose phosphate synthase 3F;(source:Araport11) TAIR Accession: locus:2010647 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04920.</description>
+    </item>
+    <item>
+      <title>AT1G04930</title>
+      <link>/genes/arabidopsis_thaliana/at1g04930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04930/</guid>
+      <description>Gene Details: Gene ID: AT1G04930 Gene Symbol: LIN37A Gene Name: LIN37 homolog A Description: hydroxyproline-rich glycoprotein family protein;(source:Araport11) TAIR Accession: locus:2010632 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04930.</description>
+    </item>
+    <item>
+      <title>AT1G04950</title>
+      <link>/genes/arabidopsis_thaliana/at1g04950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04950/</guid>
+      <description>Gene Details: Gene ID: AT1G04950 Gene Symbol: ATTAF6, EMB2781, TAF6, TAFII59 Gene Name: EMBRYO DEFECTIVE 2781, TBP-associated factor 6, TATA BOX ASSOCIATED FACTOR II 59 Description: TATA BOX ASSOCIATED FACTOR II 59;(source:Araport11) TAIR Accession: locus:2010667 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04950.</description>
+    </item>
+    <item>
+      <title>AT1G04970</title>
+      <link>/genes/arabidopsis_thaliana/at1g04970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04970/</guid>
+      <description>Gene Details: Gene ID: AT1G04970 Gene Symbol: LBR-1 Gene Name: Description: lipid-binding serum glycoprotein family protein;(source:Araport11) TAIR Accession: locus:2010592 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04970.</description>
+    </item>
+    <item>
+      <title>AT1G04980</title>
+      <link>/genes/arabidopsis_thaliana/at1g04980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04980/</guid>
+      <description>Gene Details: Gene ID: AT1G04980 Gene Symbol: ATPDI10, ATPDIL2-2, PDI10, PDIL2-2 Gene Name: ARABIDOPSIS THALIANA PROTEIN DISULFIDE ISOMERASE 10, PDI-like 2-2, PROTEIN DISULFIDE ISOMERASE, PDI-like 2-2 Description: PDI-like 2-2;(source:Araport11) TAIR Accession: locus:2010577 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04980.</description>
+    </item>
+    <item>
+      <title>AT1G04990</title>
+      <link>/genes/arabidopsis_thaliana/at1g04990/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g04990/</guid>
+      <description>Gene Details: Gene ID: AT1G04990 Gene Symbol: AtC3H3 Gene Name: Description: Zinc finger C-x8-C-x5-C-x3-H type family protein;(source:Araport11) TAIR Accession: locus:2010562 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G04990.</description>
+    </item>
+    <item>
+      <title>AT1G05000</title>
+      <link>/genes/arabidopsis_thaliana/at1g05000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05000/</guid>
+      <description>Gene Details: Gene ID: AT1G05000 Gene Symbol: AtPFA-DSP1, PFA-DSP1 Gene Name: plant and fungi atypical dual-speci&amp;amp; Description: TAIR Accession: locus:2205513 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: Plant Ontology Annotations: PO:0009030 &amp;mdash; carpel &amp;mdash; carpelo (Spanish, exact), 心皮 (Japanese, exact), Poaceae carpel (narrow), Zea carpel (narrow), pistil (broad) PO:0009032 &amp;mdash; petal &amp;mdash; pétalo (Spanish, exact), 花弁 (Japanese, exact) PO:0009047 &amp;mdash; stem &amp;mdash; caña (Spanish, exact), culm (exact), eje primario (Spanish, exact), primary axis (exact), primary stem (exact), tallo (Spanish, exact), tronco (Spanish, exact), 茎 (Japanese, exact), bole (narrow), cane (narrow), caudex (narrow), caudices (narrow), core (narrow), primocane (narrow), scape (narrow), stalk (narrow), trunk (narrow) PO:0025281 &amp;mdash; pollen &amp;mdash; polen (Spanish, exact), pollen grain (exact), 花粉 (Japanese, exact) PO:0000293 &amp;mdash; guard cell &amp;mdash; célula guardiana (Spanish, exact), occlusive cell (exact), 孔辺細胞 (Japanese, exact) Gene Ontology: GO:0016791 &amp;mdash; enables &amp;mdash; phosphatase activity GO:0005737 &amp;mdash; located in &amp;mdash; cytoplasm GO:0008138 &amp;mdash; enables &amp;mdash; protein tyrosine/serine/threonine phosphatase activity GO:0005737 &amp;mdash; is active in &amp;mdash; cytoplasm GO:0004725 &amp;mdash; enables &amp;mdash; protein tyrosine phosphatase activity GO:0016311 &amp;mdash; acts upstream of or within &amp;mdash; dephosphorylation GO:0006470 &amp;mdash; involved in &amp;mdash; protein dephosphorylation Function-related keywords: carpel , petal , stem , pollen , guard cell Literature: Pattern Formation in the Arabidopsis Embryo Revealed by Position-Specific Lipid Transfer Protein Gene Expression.</description>
+    </item>
+    <item>
+      <title>AT1G05010</title>
+      <link>/genes/arabidopsis_thaliana/at1g05010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05010/</guid>
+      <description>Gene Details: Gene ID: AT1G05010 Gene Symbol: ACO4, EAT1, EFE Gene Name: ethylene forming enzyme, ethylene-forming enzyme Description: ethylene-forming enzyme;(source:Araport11) TAIR Accession: locus:2205568 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05010.</description>
+    </item>
+    <item>
+      <title>AT1G05020</title>
+      <link>/genes/arabidopsis_thaliana/at1g05020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05020/</guid>
+      <description>Gene Details: Gene ID: AT1G05020 Gene Symbol: AP180, PICALM6 Gene Name: ANTH protein 180 Description: ENTH/ANTH/VHS superfamily protein;(source:Araport11) TAIR Accession: locus:2205558 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05020.</description>
+    </item>
+    <item>
+      <title>AT1G05055</title>
+      <link>/genes/arabidopsis_thaliana/at1g05055/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05055/</guid>
+      <description>Gene Details: Gene ID: AT1G05055 Gene Symbol: ATGTF2H2, GTF2H2 Gene Name: general transcription factor II H2 Description: general transcription factor II H2;(source:Araport11) TAIR Accession: locus:504956103 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05055.</description>
+    </item>
+    <item>
+      <title>AT1G05070</title>
+      <link>/genes/arabidopsis_thaliana/at1g05070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05070/</guid>
+      <description>Gene Details: Gene ID: AT1G05070 Gene Symbol: ELMO2 Gene Name: Description: transmembrane protein, putative (DUF1068);(source:Araport11) TAIR Accession: locus:2205543 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05070.</description>
+    </item>
+    <item>
+      <title>AT1G05160</title>
+      <link>/genes/arabidopsis_thaliana/at1g05160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05160/</guid>
+      <description>Gene Details: Gene ID: AT1G05160 Gene Symbol: ATKAO1, CYP88A3, KAO1 Gene Name: cytochrome P450, family 88, subfamily A, polypeptide 3, ENT-KAURENOIC ACID OXYDASE 1 Description: cytochrome P450, family 88, subfamily A, polypeptide 3;(source:Araport11) TAIR Accession: locus:2207240 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05160.</description>
+    </item>
+    <item>
+      <title>AT1G05170</title>
+      <link>/genes/arabidopsis_thaliana/at1g05170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05170/</guid>
+      <description>Gene Details: Gene ID: AT1G05170 Gene Symbol: CAGE1 Gene Name: Description: Galactosyltransferase family protein;(source:Araport11) TAIR Accession: locus:2207225 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05170.</description>
+    </item>
+    <item>
+      <title>AT1G05180</title>
+      <link>/genes/arabidopsis_thaliana/at1g05180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05180/</guid>
+      <description>Gene Details: Gene ID: AT1G05180 Gene Symbol: AXR1 Gene Name: AUXIN RESISTANT 1 Description: NAD(P)-binding Rossmann-fold superfamily protein;(source:Araport11) TAIR Accession: locus:2207220 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05180.</description>
+    </item>
+    <item>
+      <title>AT1G05190</title>
+      <link>/genes/arabidopsis_thaliana/at1g05190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05190/</guid>
+      <description>Gene Details: Gene ID: AT1G05190 Gene Symbol: EMB2394, RPL6, uL6c Gene Name: embryo defective 2394, Ribosomal Protein uL6c Description: Ribosomal protein L6 family;(source:Araport11) TAIR Accession: locus:2207190 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05190.</description>
+    </item>
+    <item>
+      <title>AT1G05200</title>
+      <link>/genes/arabidopsis_thaliana/at1g05200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05200/</guid>
+      <description>Gene Details: Gene ID: AT1G05200 Gene Symbol: ATGLR3.4, GLR3.4, GLUR3 Gene Name: glutamate receptor 3.</description>
+    </item>
+    <item>
+      <title>AT1G05230</title>
+      <link>/genes/arabidopsis_thaliana/at1g05230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05230/</guid>
+      <description>Gene Details: Gene ID: AT1G05230 Gene Symbol: HDG2 Gene Name: homeodomain GLABROUS 2 Description: homeodomain GLABROUS 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05230.</description>
+    </item>
+    <item>
+      <title>AT1G05260</title>
+      <link>/genes/arabidopsis_thaliana/at1g05260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05260/</guid>
+      <description>Gene Details: Gene ID: AT1G05260 Gene Symbol: PER3, RCI3, RCI3A Gene Name: PEROXIDASE 3, RARE COLD INDUCIBLE GENE 3 Description: Peroxidase superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05260.</description>
+    </item>
+    <item>
+      <title>AT1G05270</title>
+      <link>/genes/arabidopsis_thaliana/at1g05270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05270/</guid>
+      <description>Gene Details: Gene ID: AT1G05270 Gene Symbol: TRB1 Gene Name: Description: TraB family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05270.</description>
+    </item>
+    <item>
+      <title>AT1G05340</title>
+      <link>/genes/arabidopsis_thaliana/at1g05340/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05340/</guid>
+      <description>Gene Details: Gene ID: AT1G05340 Gene Symbol: AthCYSTM1 Gene Name: Cysteine-Rich Transmembrane Module 1 Description: cysteine-rich TM module stress tolerance protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05340.</description>
+    </item>
+    <item>
+      <title>AT1G05360</title>
+      <link>/genes/arabidopsis_thaliana/at1g05360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05360/</guid>
+      <description>Gene Details: Gene ID: AT1G05360 Gene Symbol: KMS2 Gene Name: Killing Me Slowly 2 Description: vacuole membrane-like protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05360.</description>
+    </item>
+    <item>
+      <title>AT1G05385</title>
+      <link>/genes/arabidopsis_thaliana/at1g05385/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05385/</guid>
+      <description>Gene Details: Gene ID: AT1G05385 Gene Symbol: LPA19, Psb27-H1 Gene Name: LOW PSII ACCUMULATION 19 Description: photosystem II 11 kDa protein-like protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05385.</description>
+    </item>
+    <item>
+      <title>AT1G05460</title>
+      <link>/genes/arabidopsis_thaliana/at1g05460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05460/</guid>
+      <description>Gene Details: Gene ID: AT1G05460 Gene Symbol: SDE3 Gene Name: SILENCING DEFECTIVE Description: P-loop containing nucleoside triphosphate hydrolases superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05460.</description>
+    </item>
+    <item>
+      <title>AT1G05470</title>
+      <link>/genes/arabidopsis_thaliana/at1g05470/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05470/</guid>
+      <description>Gene Details: Gene ID: AT1G05470 Gene Symbol: CVP2 Gene Name: COTYLEDON VASCULAR PATTERN 2 Description: DNAse I-like superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05470.</description>
+    </item>
+    <item>
+      <title>AT1G05490</title>
+      <link>/genes/arabidopsis_thaliana/at1g05490/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05490/</guid>
+      <description>Gene Details: Gene ID: AT1G05490 Gene Symbol: chr31, CLSY3 Gene Name: chromatin remodeling 31, CLASSY3 Description: chromatin remodeling 31;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05490.</description>
+    </item>
+    <item>
+      <title>AT1G05500</title>
+      <link>/genes/arabidopsis_thaliana/at1g05500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05500/</guid>
+      <description>Gene Details: Gene ID: AT1G05500 Gene Symbol: ATSYTE, NTMC2T2.1, NTMC2TYPE2.1, SYT5, SYTE Gene Name: ARABIDOPSIS THALIANA SYNAPTOTAGMIN HOMOLOG E, synaptotagmin 5, SYNAPTOTAGMIN HOMOLOG E Description: Calcium-dependent lipid-binding (CaLB domain) family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05500.</description>
+    </item>
+    <item>
+      <title>AT1G05520</title>
+      <link>/genes/arabidopsis_thaliana/at1g05520/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05520/</guid>
+      <description>Gene Details: Gene ID: AT1G05520 Gene Symbol: AtSEC23B Gene Name: Description: Sec23/Sec24 protein transport family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05520.</description>
+    </item>
+    <item>
+      <title>AT1G05540</title>
+      <link>/genes/arabidopsis_thaliana/at1g05540/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05540/</guid>
+      <description>Gene Details: Gene ID: AT1G05540 Gene Symbol: AtDOA1 Gene Name: DUF295 Organellar A 1 Description: hypothetical protein (DUF295);(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05540.</description>
+    </item>
+    <item>
+      <title>AT1G05560</title>
+      <link>/genes/arabidopsis_thaliana/at1g05560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05560/</guid>
+      <description>Gene Details: Gene ID: AT1G05560 Gene Symbol: UGT1, UGT75B1 Gene Name: UDP-GLUCOSE TRANSFERASE 1, UDP-glucosyltransferase 75B1 Description: UDP-glucosyltransferase 75B1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05560.</description>
+    </item>
+    <item>
+      <title>AT1G05570</title>
+      <link>/genes/arabidopsis_thaliana/at1g05570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05570/</guid>
+      <description>Gene Details: Gene ID: AT1G05570 Gene Symbol: ATGSL06, ATGSL6, CALS1, GSL06, GSL6 Gene Name: callose synthase 1, GLUCAN SYNTHASE-LIKE 6 Description: callose synthase 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05570.</description>
+    </item>
+    <item>
+      <title>AT1G05577</title>
+      <link>/genes/arabidopsis_thaliana/at1g05577/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05577/</guid>
+      <description>Gene Details: Gene ID: AT1G05577 Gene Symbol: SOK1 Gene Name: SOSEKI1 Description: UPSTREAM OF FLC protein (DUF966);(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05577.</description>
+    </item>
+    <item>
+      <title>AT1G05590</title>
+      <link>/genes/arabidopsis_thaliana/at1g05590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05590/</guid>
+      <description>Gene Details: Gene ID: AT1G05590 Gene Symbol: ATHEX3, HEXO2 Gene Name: BETA-HEXOSAMINIDASE 3, beta-hexosaminidase 2 Description: TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: Plant Ontology Annotations: PO:0000013 &amp;mdash; cauline leaf &amp;mdash; hoja caulinar (Spanish, exact), 茎生葉、茎葉 (Japanese, exact) PO:0000230 &amp;mdash; inflorescence meristem &amp;mdash; meristema de la inflorescencia (Spanish, exact), 花序分裂組織 (Japanese, exact) PO:0009010 &amp;mdash; seed &amp;mdash; semilla (Spanish, exact), 種子 (Japanese, exact), pyrene (narrow), diaspore (broad) PO:0009030 &amp;mdash; carpel &amp;mdash; carpelo (Spanish, exact), 心皮 (Japanese, exact), Poaceae carpel (narrow), Zea carpel (narrow), pistil (broad) PO:0009032 &amp;mdash; petal &amp;mdash; pétalo (Spanish, exact), 花弁 (Japanese, exact) PO:0009047 &amp;mdash; stem &amp;mdash; caña (Spanish, exact), culm (exact), eje primario (Spanish, exact), primary axis (exact), primary stem (exact), tallo (Spanish, exact), tronco (Spanish, exact), 茎 (Japanese, exact), bole (narrow), cane (narrow), caudex (narrow), caudices (narrow), core (narrow), primocane (narrow), scape (narrow), stalk (narrow), trunk (narrow) PO:0025281 &amp;mdash; pollen &amp;mdash; polen (Spanish, exact), pollen grain (exact), 花粉 (Japanese, exact) PO:0009001 &amp;mdash; fruit &amp;mdash; frucht (exact, German), fruto (exact, Spanish), 果実 (exact, Japanese), coenocarp (narrow), syncarp (narrow), aggregate fruit (broad), compound fruit (broad), dehiscent fruit (broad), diaspore (broad), indehiscent fruit (broad), multiple fruit (broad), propagule (broad) PO:0009005 &amp;mdash; root &amp;mdash; raíz (Spanish, exact), radices (exact, plural), radix (exact), 根 (Japanese, exact), aerial root (narrow), climbing root (narrow) PO:0009025 &amp;mdash; vascular leaf &amp;mdash; foliage leaf (exact), hoja vascular (Spanish, exact), leaf, vascular (exact), vascular leaves (exact, plural), 維管束のある葉, または維管束植物の葉 (Japanese, exact), crozier (related), macrophyll (related), megaphyll (related), ascidia (narrow), ascidium (narrow), fiddlehead (narrow), frond (narrow), needle-like leaf (narrow), pitcher (narrow), pitcher blade (narrow), pitcher-blade (narrow), scale-like leaf (narrow), sterile frond (narrow), trophophyll (narrow) PO:0009046 &amp;mdash; flower &amp;mdash; flor (Spanish, exact), 花 (Japanese, exact), floret (related), Asteraceae floret (narrow), basal flower (narrow), double flower (narrow), hermaphrodite flower (narrow), monoclinous flower (narrow), perfect flower (narrow) PO:0000293 &amp;mdash; guard cell &amp;mdash; célula guardiana (Spanish, exact), occlusive cell (exact), 孔辺細胞 (Japanese, exact) Function-related keywords: cauline leaf , inflorescence meristem , seed , carpel , petal , stem , pollen , fruit , root , vascular leaf , flower , stem , guard cell Literature: Independent action of ELF3 and phyB to control hypocotyl elongation and flowering time.</description>
+    </item>
+    <item>
+      <title>AT1G05600</title>
+      <link>/genes/arabidopsis_thaliana/at1g05600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05600/</guid>
+      <description>Gene Details: Gene ID: AT1G05600 Gene Symbol: EMB3101 Gene Name: EMBRYO DEFECTIVE 3101 Description: Tetratricopeptide repeat (TPR)-like superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05600.</description>
+    </item>
+    <item>
+      <title>AT1G05620</title>
+      <link>/genes/arabidopsis_thaliana/at1g05620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05620/</guid>
+      <description>Gene Details: Gene ID: AT1G05620 Gene Symbol: NSH2, URH2 Gene Name: nucleoside hydrolase 2, uridine-ribohydrolase 2 Description: uridine-ribohydrolase 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05620.</description>
+    </item>
+    <item>
+      <title>AT1G05630</title>
+      <link>/genes/arabidopsis_thaliana/at1g05630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05630/</guid>
+      <description>Gene Details: Gene ID: AT1G05630 Gene Symbol: 5PTASE13, AT5PTASE13 Gene Name: inositol-polyphosphate 5-phosphatase 13, Arabidopsis thaliana inositol-polyphosphate 5-phosphatase 13 Description: Endonuclease/exonuclease/phosphatase family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05630.</description>
+    </item>
+    <item>
+      <title>AT1G05680</title>
+      <link>/genes/arabidopsis_thaliana/at1g05680/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05680/</guid>
+      <description>Gene Details: Gene ID: AT1G05680 Gene Symbol: UGT74E2 Gene Name: Uridine diphosphate glycosyltransferase 74E2 Description: Uridine diphosphate glycosyltransferase 74E2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05680.</description>
+    </item>
+    <item>
+      <title>AT1G05690</title>
+      <link>/genes/arabidopsis_thaliana/at1g05690/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05690/</guid>
+      <description>Gene Details: Gene ID: AT1G05690 Gene Symbol: BT3 Gene Name: BTB and TAZ domain protein 3 Description: BTB and TAZ domain protein 3;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05690.</description>
+    </item>
+    <item>
+      <title>AT1G05760</title>
+      <link>/genes/arabidopsis_thaliana/at1g05760/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05760/</guid>
+      <description>Gene Details: Gene ID: AT1G05760 Gene Symbol: RTM1 Gene Name: restricted tev movement 1 Description: Mannose-binding lectin superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05760.</description>
+    </item>
+    <item>
+      <title>AT1G05805</title>
+      <link>/genes/arabidopsis_thaliana/at1g05805/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05805/</guid>
+      <description>Gene Details: Gene ID: AT1G05805 Gene Symbol: AKS2 Gene Name: ABA-responsive kinase substrate 2 Description: basic helix-loop-helix (bHLH) DNA-binding superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05805.</description>
+    </item>
+    <item>
+      <title>AT1G05810</title>
+      <link>/genes/arabidopsis_thaliana/at1g05810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05810/</guid>
+      <description>Gene Details: Gene ID: AT1G05810 Gene Symbol: ARA, ARA-1, ATRAB11D, ATRABA5E, RABA5E Gene Name: ARABIDOPSIS THALIANA RAB GTPASE HOMOLOG A5E, RAB GTPase homolog A5E Description: Rab GTPase-like A5A protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05810.</description>
+    </item>
+    <item>
+      <title>AT1G05850</title>
+      <link>/genes/arabidopsis_thaliana/at1g05850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05850/</guid>
+      <description>Gene Details: Gene ID: AT1G05850 Gene Symbol: ATCTL1, CTL1, ELP, ELP1, ERH1, ERH1, ERH2, HOT2, POM1 Gene Name: CHITINASE-LIKE PROTEIN 1, ECTOPIC DEPOSITION OF LIGNIN IN PITH, ECTOPIC DEPOSITION OF LIGNIN IN PITH 1, ECTOPIC ROOT HAIR 1, ECTOPIC ROOT HAIR 2, SENSITIVE TO HOT TEMPERATURES 2, POM-POM1 Description: Chitinase family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05850.</description>
+    </item>
+    <item>
+      <title>AT1G05890</title>
+      <link>/genes/arabidopsis_thaliana/at1g05890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05890/</guid>
+      <description>Gene Details: Gene ID: AT1G05890 Gene Symbol: ARI5, ATARI5 Gene Name: ARIADNE 5, ARABIDOPSIS ARIADNE 5 Description: RING/U-box superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05890.</description>
+    </item>
+    <item>
+      <title>AT1G05900</title>
+      <link>/genes/arabidopsis_thaliana/at1g05900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05900/</guid>
+      <description>Gene Details: Gene ID: AT1G05900 Gene Symbol: ATNTH2, NTH2 Gene Name: endonuclease III 2 Description: endonuclease III 2;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05900.</description>
+    </item>
+    <item>
+      <title>AT1G05910</title>
+      <link>/genes/arabidopsis_thaliana/at1g05910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05910/</guid>
+      <description>Gene Details: Gene ID: AT1G05910 Gene Symbol: BRAT1 Gene Name: Bromodomain and ATPase domain-containing protein 1 Description: cell division cycle protein 48-related / CDC48-like protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05910.</description>
+    </item>
+    <item>
+      <title>AT1G05940</title>
+      <link>/genes/arabidopsis_thaliana/at1g05940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05940/</guid>
+      <description>Gene Details: Gene ID: AT1G05940 Gene Symbol: CAT9 Gene Name: cationic amino acid transporter 9 Description: cationic amino acid transporter 9;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G05940.</description>
+    </item>
+    <item>
+      <title>AT1G05960</title>
+      <link>/genes/arabidopsis_thaliana/at1g05960/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g05960/</guid>
+      <description>Gene Details: Gene ID: AT1G05960 Gene Symbol: EFOP3 Gene Name: EFR3 OF PLANT 3 Description: TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: Plant Ontology Annotations: PO:0000013 &amp;mdash; cauline leaf &amp;mdash; hoja caulinar (Spanish, exact), 茎生葉、茎葉 (Japanese, exact) PO:0000230 &amp;mdash; inflorescence meristem &amp;mdash; meristema de la inflorescencia (Spanish, exact), 花序分裂組織 (Japanese, exact) PO:0009010 &amp;mdash; seed &amp;mdash; semilla (Spanish, exact), 種子 (Japanese, exact), pyrene (narrow), diaspore (broad) PO:0009030 &amp;mdash; carpel &amp;mdash; carpelo (Spanish, exact), 心皮 (Japanese, exact), Poaceae carpel (narrow), Zea carpel (narrow), pistil (broad) PO:0009032 &amp;mdash; petal &amp;mdash; pétalo (Spanish, exact), 花弁 (Japanese, exact) PO:0009047 &amp;mdash; stem &amp;mdash; caña (Spanish, exact), culm (exact), eje primario (Spanish, exact), primary axis (exact), primary stem (exact), tallo (Spanish, exact), tronco (Spanish, exact), 茎 (Japanese, exact), bole (narrow), cane (narrow), caudex (narrow), caudices (narrow), core (narrow), primocane (narrow), scape (narrow), stalk (narrow), trunk (narrow) PO:0025281 &amp;mdash; pollen &amp;mdash; polen (Spanish, exact), pollen grain (exact), 花粉 (Japanese, exact) PO:0000084 &amp;mdash; plant sperm cell &amp;mdash; célula espermática o esperma (Spanish, exact), male gamete (exact), microgamete (exact), 植物精子細胞 (Japanese, exact), sperm nucleus (related), sperm cell (broad) PO:0025195 &amp;mdash; pollen tube cell &amp;mdash; célula del tubo polínico (Spanish, exact), 花粉管細胞 (Japanese, exact) PO:0000293 &amp;mdash; guard cell &amp;mdash; célula guardiana (Spanish, exact), occlusive cell (exact), 孔辺細胞 (Japanese, exact) Function-related keywords: cauline leaf , inflorescence meristem , seed , carpel , petal , stem , pollen , plant sperm cell , pollen tube cell , guard cell Literature: Drought and salt stress tolerance of an Arabidopsis glutathione S-transferase U17 knockout mutant are attributed to the combined effect of glutathione and abscisic acid.</description>
+    </item>
+    <item>
+      <title>AT1G06000</title>
+      <link>/genes/arabidopsis_thaliana/at1g06000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06000/</guid>
+      <description>Gene Details: Gene ID: AT1G06000 Gene Symbol: UGT89C1 Gene Name: Description: UDP-Glycosyltransferase superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06000.</description>
+    </item>
+    <item>
+      <title>AT1G06040</title>
+      <link>/genes/arabidopsis_thaliana/at1g06040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06040/</guid>
+      <description>Gene Details: Gene ID: AT1G06040 Gene Symbol: BBX24, STO Gene Name: B-box domain protein 24, SALT TOLERANCE Description: B-box zinc finger family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06040.</description>
+    </item>
+    <item>
+      <title>AT1G06070</title>
+      <link>/genes/arabidopsis_thaliana/at1g06070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06070/</guid>
+      <description>Gene Details: Gene ID: AT1G06070 Gene Symbol: bZIP69 Gene Name: basic leucine-zipper 69 Description: Basic-leucine zipper (bZIP) transcription factor family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06070.</description>
+    </item>
+    <item>
+      <title>AT1G06080</title>
+      <link>/genes/arabidopsis_thaliana/at1g06080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06080/</guid>
+      <description>Gene Details: Gene ID: AT1G06080 Gene Symbol: ADS1, AtADS1 Gene Name: delta 9 desaturase 1 Description: delta 9 desaturase 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06080.</description>
+    </item>
+    <item>
+      <title>AT1G06100</title>
+      <link>/genes/arabidopsis_thaliana/at1g06100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06100/</guid>
+      <description>Gene Details: Gene ID: AT1G06100 Gene Symbol: ADS1.3 Gene Name: Description: Fatty acid desaturase family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06100.</description>
+    </item>
+    <item>
+      <title>AT1G06110</title>
+      <link>/genes/arabidopsis_thaliana/at1g06110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06110/</guid>
+      <description>Gene Details: Gene ID: AT1G06110 Gene Symbol: SKIP16 Gene Name: SKP1/ASK-interacting protein 16 Description: SKP1/ASK-interacting protein 16;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06110.</description>
+    </item>
+    <item>
+      <title>AT1G06130</title>
+      <link>/genes/arabidopsis_thaliana/at1g06130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06130/</guid>
+      <description>Gene Details: Gene ID: AT1G06130 Gene Symbol: GLX2-4, GLXII.4 Gene Name: glyoxalase 2-4 Description: glyoxalase 2-4;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06130.</description>
+    </item>
+    <item>
+      <title>AT1G06170</title>
+      <link>/genes/arabidopsis_thaliana/at1g06170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06170/</guid>
+      <description>Gene Details: Gene ID: AT1G06170 Gene Symbol: bHLH089 Gene Name: Basic Helix Loop Helix Protein 89 Description: basic helix-loop-helix (bHLH) DNA-binding superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06170.</description>
+    </item>
+    <item>
+      <title>AT1G06180</title>
+      <link>/genes/arabidopsis_thaliana/at1g06180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06180/</guid>
+      <description>Gene Details: Gene ID: AT1G06180 Gene Symbol: ATMYB13, ATMYBLFGN, MYB13 Gene Name: myb domain protein 13, myb domain protein 13 Description: myb domain protein 13;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06180.</description>
+    </item>
+    <item>
+      <title>AT1G06190</title>
+      <link>/genes/arabidopsis_thaliana/at1g06190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06190/</guid>
+      <description>Gene Details: Gene ID: AT1G06190 Gene Symbol: RHON1 Gene Name: Rho-N 1 Description: Rho termination factor;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06190.</description>
+    </item>
+    <item>
+      <title>AT1G06210</title>
+      <link>/genes/arabidopsis_thaliana/at1g06210/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06210/</guid>
+      <description>Gene Details: Gene ID: AT1G06210 Gene Symbol: TOL2 Gene Name: TOM1-LIKE 2 Description: ENTH/VHS/GAT family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06210.</description>
+    </item>
+    <item>
+      <title>AT1G06230</title>
+      <link>/genes/arabidopsis_thaliana/at1g06230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06230/</guid>
+      <description>Gene Details: Gene ID: AT1G06230 Gene Symbol: GTE4 Gene Name: global transcription factor group E4 Description: global transcription factor group E4;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06230.</description>
+    </item>
+    <item>
+      <title>AT1G06390</title>
+      <link>/genes/arabidopsis_thaliana/at1g06390/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06390/</guid>
+      <description>Gene Details: Gene ID: AT1G06390 Gene Symbol: ATGSK1, ATSK2-3, ATSK22, BIL2, GSK1, SK22 Gene Name: A.</description>
+    </item>
+    <item>
+      <title>AT1G06400</title>
+      <link>/genes/arabidopsis_thaliana/at1g06400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06400/</guid>
+      <description>Gene Details: Gene ID: AT1G06400 Gene Symbol: ARA-2, ARA2, ATRAB11E, ATRABA1A Gene Name: ARABIDOPSIS THALIANA RAB GTPASE HOMOLOG A1A Description: Ras-related small GTP-binding family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06400.</description>
+    </item>
+    <item>
+      <title>AT1G06410</title>
+      <link>/genes/arabidopsis_thaliana/at1g06410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06410/</guid>
+      <description>Gene Details: Gene ID: AT1G06410 Gene Symbol: ATTPS7, ATTPSA, TPS7, TPS7 Gene Name: trehalose-phosphatase/synthase 7, TREHALOSE -6-PHOSPHATASE SYNTHASE S7, trehalose-phosphatase/synthase 7 Description: trehalose-phosphatase/synthase 7;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06410.</description>
+    </item>
+    <item>
+      <title>AT1G06430</title>
+      <link>/genes/arabidopsis_thaliana/at1g06430/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06430/</guid>
+      <description>Gene Details: Gene ID: AT1G06430 Gene Symbol: FTSH8 Gene Name: FTSH protease 8 Description: FTSH protease 8;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06430.</description>
+    </item>
+    <item>
+      <title>AT1G06450</title>
+      <link>/genes/arabidopsis_thaliana/at1g06450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06450/</guid>
+      <description>Gene Details: Gene ID: AT1G06450 Gene Symbol: CAF1g Gene Name: CCR4-associated factor 1g Description: Polynucleotidyl transferase, ribonuclease H-like superfamily protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06450.</description>
+    </item>
+    <item>
+      <title>AT1G06460</title>
+      <link>/genes/arabidopsis_thaliana/at1g06460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06460/</guid>
+      <description>Gene Details: Gene ID: AT1G06460 Gene Symbol: ACD31.2, ACD32.1 Gene Name: ALPHA-CRYSTALLIN DOMAIN 31.</description>
+    </item>
+    <item>
+      <title>AT1G06490</title>
+      <link>/genes/arabidopsis_thaliana/at1g06490/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06490/</guid>
+      <description>Gene Details: Gene ID: AT1G06490 Gene Symbol: ATGSL07, atgsl7, CalS7, gsl07, GSL07, GSL7 Gene Name: Arabidopsis thaliana glucan synthase-like 7, callose synthase 7, glucan synthase-like 7, glucan synthase-like 7 Description: glucan synthase-like 7;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06490.</description>
+    </item>
+    <item>
+      <title>AT1G06500</title>
+      <link>/genes/arabidopsis_thaliana/at1g06500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06500/</guid>
+      <description>Gene Details: Gene ID: AT1G06500 Gene Symbol: PSA2, SSM Gene Name: PLANT-SPECIFIC SWI/SNF-ASSOCIATED PROTEIN 2, small subunit of MINU1/2-associated SWI/SNF complex Description: hypothetical protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06500.</description>
+    </item>
+    <item>
+      <title>AT1G06520</title>
+      <link>/genes/arabidopsis_thaliana/at1g06520/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06520/</guid>
+      <description>Gene Details: Gene ID: AT1G06520 Gene Symbol: ATGPAT1, GPAT1, sn-2-GPAT1 Gene Name: GLYCEROL-3-PHOSPHATE sn-2-ACYLTRANSFERASE 1, GLYCEROL-3-PHOSPHATE sn-2-ACYLTRANSFERASE 1, GLYCEROL-3-PHOSPHATE sn-2-ACYLTRANSFERASE 1 Description: glycerol-3-phosphate acyltransferase 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06520.</description>
+    </item>
+    <item>
+      <title>AT1G06530</title>
+      <link>/genes/arabidopsis_thaliana/at1g06530/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06530/</guid>
+      <description>Gene Details: Gene ID: AT1G06530 Gene Symbol: PMD2 Gene Name: peroxisomal and mitochondrial division factor 2 Description: Tropomyosin-like protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06530.</description>
+    </item>
+    <item>
+      <title>AT1G06560</title>
+      <link>/genes/arabidopsis_thaliana/at1g06560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06560/</guid>
+      <description>Gene Details: Gene ID: AT1G06560 Gene Symbol: AtTRM4f, NOP2C, TRM4f Gene Name: tRNA methyltransferase 4f Description: NOL1/NOP2/sun family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06560.</description>
+    </item>
+    <item>
+      <title>AT1G06570</title>
+      <link>/genes/arabidopsis_thaliana/at1g06570/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06570/</guid>
+      <description>Gene Details: Gene ID: AT1G06570 Gene Symbol: HPD, HPPD, PDS1 Gene Name: 4-hydroxyphenylpyruvate dioxygenase, 4-hydroxyphenylpyruvate dioxygenase, phytoene desaturation 1 Description: 4-hydroxyphenylpyruvate dioxygenase;(source:Araport11) TAIR Accession: locus:2009160 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06570.</description>
+    </item>
+    <item>
+      <title>AT1G06670</title>
+      <link>/genes/arabidopsis_thaliana/at1g06670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06670/</guid>
+      <description>Gene Details: Gene ID: AT1G06670 Gene Symbol: NIH Gene Name: nuclear DEIH-boxhelicase Description: nuclear DEIH-boxhelicase;(source:Araport11) TAIR Accession: locus:2009200 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06670.</description>
+    </item>
+    <item>
+      <title>AT1G06680</title>
+      <link>/genes/arabidopsis_thaliana/at1g06680/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06680/</guid>
+      <description>Gene Details: Gene ID: AT1G06680 Gene Symbol: OE23, OEE2, PSBP-1, PSII-P Gene Name: OXYGEN EVOLVING COMPLEX SUBUNIT 23 KDA, OXYGEN-EVOLVING ENHANCER PROTEIN 2, photosystem II subunit P-1, PHOTOSYSTEM II SUBUNIT P Description: photosystem II subunit P-1;(source:Araport11) TAIR Accession: locus:2033087 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06680.</description>
+    </item>
+    <item>
+      <title>AT1G06700</title>
+      <link>/genes/arabidopsis_thaliana/at1g06700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06700/</guid>
+      <description>Gene Details: Gene ID: AT1G06700 Gene Symbol: CARK7 Gene Name: Cytosolic ABA Receptor Kinase 7 Description: Protein kinase superfamily protein;(source:Araport11) TAIR Accession: locus:2009115 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06700.</description>
+    </item>
+    <item>
+      <title>AT1G06730</title>
+      <link>/genes/arabidopsis_thaliana/at1g06730/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06730/</guid>
+      <description>Gene Details: Gene ID: AT1G06730 Gene Symbol: PNK1 Gene Name: PLASTID NUCLEOSIDE KINASE 1 Description: pfkB-like carbohydrate kinase family protein;(source:Araport11) TAIR Accession: locus:2033138 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06730.</description>
+    </item>
+    <item>
+      <title>AT1G06760</title>
+      <link>/genes/arabidopsis_thaliana/at1g06760/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06760/</guid>
+      <description>Gene Details: Gene ID: AT1G06760 Gene Symbol: H1.1, HON1 Gene Name: Histone 1.</description>
+    </item>
+    <item>
+      <title>AT1G06770</title>
+      <link>/genes/arabidopsis_thaliana/at1g06770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06770/</guid>
+      <description>Gene Details: Gene ID: AT1G06770 Gene Symbol: AtBMI1B, ATDRIP1, AtRING1B, BMI1B, DRIP1 Gene Name: DREB2A-interacting protein 1 Description: DREB2A-interacting protein 1;(source:Araport11) TAIR Accession: locus:2033103 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06770.</description>
+    </item>
+    <item>
+      <title>AT1G06780</title>
+      <link>/genes/arabidopsis_thaliana/at1g06780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06780/</guid>
+      <description>Gene Details: Gene ID: AT1G06780 Gene Symbol: GAUT6 Gene Name: galacturonosyltransferase 6 Description: galacturonosyltransferase 6;(source:Araport11) TAIR Accession: locus:2033092 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06780.</description>
+    </item>
+    <item>
+      <title>AT1G06790</title>
+      <link>/genes/arabidopsis_thaliana/at1g06790/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06790/</guid>
+      <description>Gene Details: Gene ID: AT1G06790 Gene Symbol: NRPC7 Gene Name: NUCLEAR RNA POLYMERASE C, SUBUNIT 7 Description: RNA polymerase Rpb7 N-terminal domain-containing protein;(source:Araport11) TAIR Accession: locus:2033077 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06790.</description>
+    </item>
+    <item>
+      <title>AT1G06800</title>
+      <link>/genes/arabidopsis_thaliana/at1g06800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06800/</guid>
+      <description>Gene Details: Gene ID: AT1G06800 Gene Symbol: DALL4, PLA-I{gamma}1 Gene Name: DAD1-Like Lipase 4, phospholipase A I gamma 1 Description: alpha/beta-Hydrolases superfamily protein;(source:Araport11) TAIR Accession: locus:2033066 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06800.</description>
+    </item>
+    <item>
+      <title>AT1G06820</title>
+      <link>/genes/arabidopsis_thaliana/at1g06820/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06820/</guid>
+      <description>Gene Details: Gene ID: AT1G06820 Gene Symbol: CCR2, CRTISO Gene Name: CAROTENOID AND CHLOROPLAST REGULATION 2, carotenoid isomerase Description: carotenoid isomerase;(source:Araport11) TAIR Accession: locus:2033055 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06820.</description>
+    </item>
+    <item>
+      <title>AT1G06830</title>
+      <link>/genes/arabidopsis_thaliana/at1g06830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06830/</guid>
+      <description>Gene Details: Gene ID: AT1G06830 Gene Symbol: CEPD1, ROXY6 Gene Name: CEP DOWNSTREAM 1 Description: Glutaredoxin family protein;(source:Araport11) TAIR Accession: locus:2033148 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06830.</description>
+    </item>
+    <item>
+      <title>AT1G06840</title>
+      <link>/genes/arabidopsis_thaliana/at1g06840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06840/</guid>
+      <description>Gene Details: Gene ID: AT1G06840 Gene Symbol: HAK1 Gene Name: HDS-associated RLK1 Description: Leucine-rich repeat protein kinase family protein;(source:Araport11) TAIR Accession: locus:2033158 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06840.</description>
+    </item>
+    <item>
+      <title>AT1G06850</title>
+      <link>/genes/arabidopsis_thaliana/at1g06850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06850/</guid>
+      <description>Gene Details: Gene ID: AT1G06850 Gene Symbol: AtbZIP52, bZIP52 Gene Name: basic leucine-zipper 52, basic leucine-zipper 52 Description: basic leucine-zipper 52;(source:Araport11) TAIR Accession: locus:2033123 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06850.</description>
+    </item>
+    <item>
+      <title>AT1G06890</title>
+      <link>/genes/arabidopsis_thaliana/at1g06890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06890/</guid>
+      <description>Gene Details: Gene ID: AT1G06890 Gene Symbol: UXT3 Gene Name: UDP-XYLOSE TRANSPORTER3 Description: nodulin MtN21 /EamA-like transporter family protein;(source:Araport11) TAIR Accession: locus:2033097 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06890.</description>
+    </item>
+    <item>
+      <title>AT1G06950</title>
+      <link>/genes/arabidopsis_thaliana/at1g06950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06950/</guid>
+      <description>Gene Details: Gene ID: AT1G06950 Gene Symbol: ATTIC110, TIC110 Gene Name: ARABIDOPSIS THALIANA TRANSLOCON AT THE INNER ENVELOPE MEMBRANE OF CHLOROPLASTS 110, translocon at the inner envelope membrane of chloroplasts 110 Description: translocon at the inner envelope membrane of chloroplasts 110;(source:Araport11) TAIR Accession: locus:2007437 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06950.</description>
+    </item>
+    <item>
+      <title>AT1G06960</title>
+      <link>/genes/arabidopsis_thaliana/at1g06960/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at1g06960/</guid>
+      <description>Gene Details: Gene ID: AT1G06960 Gene Symbol: U2BL Gene Name: U2B-LIKE Description: RNA-binding (RRM/RBD/RNP motifs) family protein;(source:Araport11) TAIR Accession: locus:2007417 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT1G06960.</description>
+    </item>
+    <item>
+      <title>AT2G26890</title>
+      <link>/genes/arabidopsis_thaliana/at2g26890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g26890/</guid>
+      <description>Gene Details: Gene ID: AT2G26890 Gene Symbol: GRV2, KAM2, MTV12, SGR8 Gene Name: GRAVITROPISM DEFECTIVE 2, KATAMARI2, modified transport to the vacuole 12 Description: DNAJ heat shock N-terminal domain-containing protein;(source:Araport11) TAIR Accession: locus:2039543 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G26890.</description>
+    </item>
+    <item>
+      <title>AT2G28850</title>
+      <link>/genes/arabidopsis_thaliana/at2g28850/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g28850/</guid>
+      <description>Gene Details: Gene ID: AT2G28850 Gene Symbol: CYP710A3 Gene Name: cytochrome P450, family 710, subfamily A, polypeptide 3 Description: cytochrome P450, family 710, subfamily A, polypeptide 3;(source:Araport11) TAIR Accession: locus:2053220 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G28850.</description>
+    </item>
+    <item>
+      <title>AT2G31270</title>
+      <link>/genes/arabidopsis_thaliana/at2g31270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g31270/</guid>
+      <description>Gene Details: Gene ID: AT2G31270 Gene Symbol: ATCDT1A, CDT1, CDT1A Gene Name: ARABIDOPSIS HOMOLOG OF YEAST CDT1 A, ARABIDOPSIS HOMOLOG OF YEAST CDT1, homolog of yeast CDT1 A Description: CDT1-like protein A;(source:Araport11) TAIR Accession: locus:2042541 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G31270.</description>
+    </item>
+    <item>
+      <title>AT3G04090</title>
+      <link>/genes/arabidopsis_thaliana/at3g04090/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g04090/</guid>
+      <description>Gene Details: Gene ID: AT3G04090 Gene Symbol: SIP1;1, SIP1A Gene Name: small and basic intrinsic protein 1A Description: small and basic intrinsic protein 1A;(source:Araport11) TAIR Accession: locus:2103010 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G04090.</description>
+    </item>
+    <item>
+      <title>AT3G20310</title>
+      <link>/genes/arabidopsis_thaliana/at3g20310/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g20310/</guid>
+      <description>Gene Details: Gene ID: AT3G20310 Gene Symbol: ATERF-7, ATERF7, ERF7 Gene Name: ethylene response factor 7 Description: ethylene response factor 7;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G20310.</description>
+    </item>
+    <item>
+      <title>AT3G44600</title>
+      <link>/genes/arabidopsis_thaliana/at3g44600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g44600/</guid>
+      <description>Gene Details: Gene ID: AT3G44600 Gene Symbol: AtCYP71, CYP71 Gene Name: cyclophilin 71 Description: cyclophilin71;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G44600.</description>
+    </item>
+    <item>
+      <title>AT3G49670</title>
+      <link>/genes/arabidopsis_thaliana/at3g49670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g49670/</guid>
+      <description>Gene Details: Gene ID: AT3G49670 Gene Symbol: BAM2 Gene Name: BARELY ANY MERISTEM 2 Description: Leucine-rich receptor-like protein kinase family protein;(source:Araport11) TAIR Accession: locus:2097310 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G49670.</description>
+    </item>
+    <item>
+      <title>AT4G15560</title>
+      <link>/genes/arabidopsis_thaliana/at4g15560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g15560/</guid>
+      <description>Gene Details: Gene ID: AT4G15560 Gene Symbol: AtCLA1, CLA, CLA1, DEF, DXPS2, DXS, DXS1 Gene Name: CLOROPLASTOS ALTERADOS 1, 1-DEOXY-D-XYLULOSE 5-PHOSPHATE SYNTHASE 2, 1-DEOXY-D-XYLULOSE 5-PHOSPHATE SYNTHASE, 1-deoxy-D-xylulose 5-phosphate (DXP) synthase 1 Description: Deoxyxylulose-5-phosphate synthase;(source:Araport11) TAIR Accession: locus:2130374 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G15560.</description>
+    </item>
+    <item>
+      <title>AT4G24120</title>
+      <link>/genes/arabidopsis_thaliana/at4g24120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g24120/</guid>
+      <description>Gene Details: Gene ID: AT4G24120 Gene Symbol: ATYSL1, YSL1 Gene Name: YELLOW STRIPE LIKE 1, YELLOW STRIPE like 1 Description: YELLOW STRIPE like 1;(source:Araport11) TAIR Accession: locus:2134956 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G24120.</description>
+    </item>
+    <item>
+      <title>AT4G25470</title>
+      <link>/genes/arabidopsis_thaliana/at4g25470/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g25470/</guid>
+      <description>Gene Details: Gene ID: AT4G25470 Gene Symbol: ATCBF2, CBF2, DREB1C, FTQ4 Gene Name: C-repeat/DRE binding factor 2, DRE/CRT-BINDING PROTEIN 1C, FREEZING TOLERANCE QTL 4 Description: C-repeat/DRE binding factor 2;(source:Araport11) TAIR Accession: locus:2131834 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G25470.</description>
+    </item>
+    <item>
+      <title>AT4G25480</title>
+      <link>/genes/arabidopsis_thaliana/at4g25480/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g25480/</guid>
+      <description>Gene Details: Gene ID: AT4G25480 Gene Symbol: ATCBF3, CBF3, DREB1A Gene Name: C-REPEAT BINDING FACTOR 3, dehydration response element B1A Description: dehydration response element B1A;(source:Araport11) TAIR Accession: locus:2131849 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G25480.</description>
+    </item>
+    <item>
+      <title>AT4G26200</title>
+      <link>/genes/arabidopsis_thaliana/at4g26200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g26200/</guid>
+      <description>Gene Details: Gene ID: AT4G26200 Gene Symbol: ACCS7, ACS7, ATACS7 Gene Name: 1-amino-cyclopropane-1-carboxylate synthase 7, 1-amino-cyclopropane-1-carboxylate synthase 7 Description: 1-amino-cyclopropane-1-carboxylate synthase 7;(source:Araport11) TAIR Accession: locus:2136779 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G26200.</description>
+    </item>
+    <item>
+      <title>AT4G26260</title>
+      <link>/genes/arabidopsis_thaliana/at4g26260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g26260/</guid>
+      <description>Gene Details: Gene ID: AT4G26260 Gene Symbol: MIOX4 Gene Name: myo-inositol oxygenase 4 Description: TAIR Accession: locus:2136839 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: Plant Ontology Annotations: PO:0009001 &amp;mdash; fruit &amp;mdash; frucht (exact, German), fruto (exact, Spanish), 果実 (exact, Japanese), coenocarp (narrow), syncarp (narrow), aggregate fruit (broad), compound fruit (broad), dehiscent fruit (broad), diaspore (broad), indehiscent fruit (broad), multiple fruit (broad), propagule (broad) PO:0009031 &amp;mdash; sepal &amp;mdash; sépalo (Spanish, exact), がく片 (Japanese, exact) PO:0009032 &amp;mdash; petal &amp;mdash; pétalo (Spanish, exact), 花弁 (Japanese, exact) PO:0009046 &amp;mdash; flower &amp;mdash; flor (Spanish, exact), 花 (Japanese, exact), floret (related), Asteraceae floret (narrow), basal flower (narrow), double flower (narrow), hermaphrodite flower (narrow), monoclinous flower (narrow), perfect flower (narrow) PO:0020021 &amp;mdash; plant ovule integument &amp;mdash; integumento (Spanish, exact), portion of integument tissue (exact), 珠皮 (Japanese, exact), Poaceae integument (narrow), Zea integument (narrow) PO:0025277 &amp;mdash; pollen sac &amp;mdash; saco polínico (Spanish, exact), 花粉のう (Japanese, exact), Poaceae microsporangium (narrow), Zea microsporangium (narrow), anther lobe (narrow) PO:0000037 &amp;mdash; shoot axis apex &amp;mdash; ápice del epiblasto (epiblastema) (Spanish, exact), シュート頂、茎頂 (Japanese, exact) PO:0009009 &amp;mdash; plant embryo &amp;mdash; embrión (Spanish, exact), 植物胚 (Japanese, exact), germ (related), embryo (broad) PO:0009025 &amp;mdash; vascular leaf &amp;mdash; foliage leaf (exact), hoja vascular (Spanish, exact), leaf, vascular (exact), vascular leaves (exact, plural), 維管束のある葉, または維管束植物の葉 (Japanese, exact), crozier (related), macrophyll (related), megaphyll (related), ascidia (narrow), ascidium (narrow), fiddlehead (narrow), frond (narrow), needle-like leaf (narrow), pitcher (narrow), pitcher blade (narrow), pitcher-blade (narrow), scale-like leaf (narrow), sterile frond (narrow), trophophyll (narrow) PO:0009029 &amp;mdash; stamen &amp;mdash; estambre (Spanish, exact), 雄蕊 (Japanese, exact), Poaceae stamen (narrow), Zea stamen (narrow) PO:0009052 &amp;mdash; inflorescence flower pedicel &amp;mdash; 小花柄 (Japanese, related), pedicelo (Spanish, broad) PO:0025022 &amp;mdash; collective leaf structure &amp;mdash; estructura colectiva de hoja (Spanish, exact), leaf series (exact), 葉が集まった構造 (Japanese, exact), leaf whorl (narrow), rosette (narrow), cycle (broad), verticil (broad) PO:0025281 &amp;mdash; pollen &amp;mdash; polen (Spanish, exact), pollen grain (exact), 花粉 (Japanese, exact) Gene Ontology: GO:0019310 &amp;mdash; involved in &amp;mdash; inositol catabolic process GO:0019853 &amp;mdash; acts upstream of or within &amp;mdash; L-ascorbic acid biosynthetic process GO:0005737 &amp;mdash; located in &amp;mdash; cytoplasm GO:0050113 &amp;mdash; enables &amp;mdash; inositol oxygenase activity GO:0006949 &amp;mdash; acts upstream of or within &amp;mdash; syncytium formation GO:0005506 &amp;mdash; enables &amp;mdash; iron ion binding Function-related keywords: fruit , sepal , petal , flower , plant ovule integument , pollen sac , shoot axis apex , plant embryo , vascular leaf , stamen , sepal , flower , inflorescence flower pedicel , collective leaf structure , pollen Literature: myo-inositol oxygenase offers a possible entry point into plant ascorbate biosynthesis.</description>
+    </item>
+    <item>
+      <title>AT5G04770</title>
+      <link>/genes/arabidopsis_thaliana/at5g04770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g04770/</guid>
+      <description>Gene Details: Gene ID: AT5G04770 Gene Symbol: ATCAT6, CAT6 Gene Name: ARABIDOPSIS THALIANA CATIONIC AMINO ACID TRANSPORTER 6, cationic amino acid transporter 6 Description: cationic amino acid transporter 6;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G04770.</description>
+    </item>
+    <item>
+      <title>AT5G18290</title>
+      <link>/genes/arabidopsis_thaliana/at5g18290/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g18290/</guid>
+      <description>Gene Details: Gene ID: AT5G18290 Gene Symbol: SIP1;2, SIP1B Gene Name: SMALL AND BASIC INTRINSIC PROTEIN 1B Description: Aquaporin-like superfamily protein;(source:Araport11) TAIR Accession: locus:2146268 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G18290.</description>
+    </item>
+    <item>
+      <title>AT5G18560</title>
+      <link>/genes/arabidopsis_thaliana/at5g18560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g18560/</guid>
+      <description>Gene Details: Gene ID: AT5G18560 Gene Symbol: PUCHI Gene Name: Description: Integrase-type DNA-binding superfamily protein;(source:Araport11) TAIR Accession: locus:2182993 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G18560.</description>
+    </item>
+    <item>
+      <title>AT5G22220</title>
+      <link>/genes/arabidopsis_thaliana/at5g22220/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g22220/</guid>
+      <description>Gene Details: Gene ID: AT5G22220 Gene Symbol: ATE2FB, E2F1, E2FB Gene Name: E2F transcription factor 1 Description: E2F transcription factor 1;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G22220.</description>
+    </item>
+    <item>
+      <title>AT5G27450</title>
+      <link>/genes/arabidopsis_thaliana/at5g27450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g27450/</guid>
+      <description>Gene Details: Gene ID: AT5G27450 Gene Symbol: MK, MVK Gene Name: mevalonate kinase, MEVALONATE KINASE Description: mevalonate kinase;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G27450.</description>
+    </item>
+    <item>
+      <title>AT5G37020</title>
+      <link>/genes/arabidopsis_thaliana/at5g37020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g37020/</guid>
+      <description>Gene Details: Gene ID: AT5G37020 Gene Symbol: ARF8, ATARF8 Gene Name: auxin response factor 8 Description: auxin response factor 8;(source:Araport11) TAIR Accession: locus:2152642 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G37020.</description>
+    </item>
+  </channel>
+</rss>

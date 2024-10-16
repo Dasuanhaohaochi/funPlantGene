@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aluminium on funPlantGenes</title>
+    <link>/tags/aluminium/</link>
+    <description>Recent content in aluminium on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/aluminium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CcCS</title>
+      <link>/genes/2024.6.9/cajanus-cajan/cccs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cajanus-cajan/cccs/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CcCS Gene Name: Citrate Synthase Genome: Species: Cajanus cajan Functional Descriptions: CcNFYB3-CcMATE35 and LncRNA CcLTCS-CcCS modules jointly regulate the efflux and synthesis of citrate to enhance aluminium tolerance in pigeon pea.</description>
+    </item>
+    <item>
+      <title>CcLTCS</title>
+      <link>/genes/2024.6.9/cajanus-cajan/ccltcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cajanus-cajan/ccltcs/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CcLTCS Gene Name: Long noncoding RNA Targeting Citrate Synthase Genome: Species: Cajanus cajan Functional Descriptions: CcNFYB3-CcMATE35 and LncRNA CcLTCS-CcCS modules jointly regulate the efflux and synthesis of citrate to enhance aluminium tolerance in pigeon pea.</description>
+    </item>
+    <item>
+      <title>CcMATE35</title>
+      <link>/genes/2024.6.9/cajanus-cajan/ccmate35/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cajanus-cajan/ccmate35/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CcMATE35 Gene Name: Genome: Species: Cajanus cajan Functional Descriptions: CcNFYB3-CcMATE35 and LncRNA CcLTCS-CcCS modules jointly regulate the efflux and synthesis of citrate to enhance aluminium tolerance in pigeon pea.</description>
+    </item>
+    <item>
+      <title>CcNFYB3</title>
+      <link>/genes/2024.6.9/cajanus-cajan/ccnfyb3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cajanus-cajan/ccnfyb3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CcNFYB3 Gene Name: Genome: Species: Cajanus cajan Functional Descriptions: CcNFYB3-CcMATE35 and LncRNA CcLTCS-CcCS modules jointly regulate the efflux and synthesis of citrate to enhance aluminium tolerance in pigeon pea.</description>
+    </item>
+    <item>
+      <title>HvALMT1</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvalmt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvalmt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvALMT1 Gene Name: Aluminum-Activated Malate Transporter 1 Genome: Species: Hordeum vulgare Functional Descriptions: HvALMT1 from barley is involved in the transport of organic anions.</description>
+    </item>
+    <item>
+      <title>OsAUX3</title>
+      <link>/genes/oryza_sativa/loc_os05g37470/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g37470/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g37470 RAPdb gene ID: Os05g0447200 Gene Symbol: OsAUX3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPIN2;LRA1</title>
+      <link>/genes/oryza_sativa/loc_os06g44970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g44970/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g44970 RAPdb gene ID: Os06g0660200 Gene Symbol: OsPIN2 LRA1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaALMT1</title>
+      <link>/genes/triticum_aestivum/taalmt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taalmt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaALMT1 Gene Name: aluminium-activated malate transporter 1 Genome: Species: Triticum aestivum Functional Descriptions: Role of TaALMT1 malate-GABA transporter in alkaline pH tolerance of wheat.</description>
+    </item>
+  </channel>
+</rss>

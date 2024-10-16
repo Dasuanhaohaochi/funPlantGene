@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trilobatin on funPlantGenes</title>
+    <link>/tags/trilobatin/</link>
+    <description>Recent content in trilobatin on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/trilobatin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PGT2</title>
+      <link>/genes/malus_domestica/pgt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/malus_domestica/pgt2/</guid>
+      <description>Gene Details: Gene ID:&#x9;MDP0000836043 Gene Symbol: PGT2 Gene Name: Phloretin glycosyltransferase2 Genome: M.</description>
+    </item>
+  </channel>
+</rss>

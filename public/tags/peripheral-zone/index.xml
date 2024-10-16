@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>peripheral zone on funPlantGenes</title>
+    <link>/tags/peripheral-zone/</link>
+    <description>Recent content in peripheral zone on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/peripheral-zone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G32710</title>
+      <link>/genes/arabidopsis_thaliana/at2g32710/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g32710/</guid>
+      <description>Gene Details: Gene ID: AT2G32710 Gene Symbol: ACK2, ICK7, KRP4 Gene Name: CYCLIN-DEPENDENT KINASE INHIBITOR 2, INTERACTORS OF CDC2 KINASE 7, KIP-RELATED PROTEIN 4 Description: Cyclin-dependent kinase inhibitor family protein;(source:Araport11) TAIR Accession: locus:2046427 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G32710.</description>
+    </item>
+    <item>
+      <title>AT3G24810</title>
+      <link>/genes/arabidopsis_thaliana/at3g24810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g24810/</guid>
+      <description>Gene Details: Gene ID: AT3G24810 Gene Symbol: ICK3, KRP5 Gene Name: kip-related protein 5 Description: Cyclin-dependent kinase inhibitor family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G24810.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>magnesium on funPlantGenes</title>
+    <link>/tags/magnesium/</link>
+    <description>Recent content in magnesium on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/magnesium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GmCHLI1</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.13g232500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.13g232500/</guid>
+      <description>Gene Details: Gene ID: Glyma.13g232500 Gene Symbol: GmCHLI1 Gene Name: Genome: Wm82.</description>
+    </item>
+    <item>
+      <title>MePIP2</title>
+      <link>/genes/2024.6.9/manihot-esculenta/mepip2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/manihot-esculenta/mepip2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MePIP2|7 Gene Name: Genome: Species: Manihot esculenta Functional Descriptions: Found that the cassava aquaporin MePIP2|7|MePIP2|7 was involved in Mg2+ transport through interaction with MeMGT9, a lower affinity magnesium transporter protein.</description>
+    </item>
+    <item>
+      <title>OsCCT38;OsPRR59</title>
+      <link>/genes/oryza_sativa/loc_os11g05930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g05930/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g05930 RAPdb gene ID: Os11g0157600 Gene Symbol: OsCCT38 OsPRR59 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsGUN4</title>
+      <link>/genes/oryza_sativa/loc_os11g16550/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g16550/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g16550 RAPdb gene ID: Os11g0267000 Gene Symbol: OsGUN4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMGT1</title>
+      <link>/genes/oryza_sativa/loc_os01g64890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g64890/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g64890 RAPdb gene ID: Os01g0869200 Gene Symbol: OsMGT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPRR95</title>
+      <link>/genes/oryza_sativa/loc_os09g36220/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os09g36220/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os09g36220 RAPdb gene ID: Os09g0532400 Gene Symbol: OsPRR95 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsRZF1</title>
+      <link>/genes/oryza_sativa/loc_os01g37460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g37460/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g37460 RAPdb gene ID: Os01g0555100 Gene Symbol: OsRZF1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PK4;OsPK4</title>
+      <link>/genes/oryza_sativa/loc_os05g43840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g43840/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g43840 RAPdb gene ID: Os05g0514200 Gene Symbol: PK4 OsPK4 OsCIPK19 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlBL4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc08g065420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc08g065420/</guid>
+      <description>Gene Details: Gene ID: Solyc08g065420 Gene Symbol: SlBL4 Gene Name: BEL1-LIKE HOMEODOMAIN4 Genome: Species: Solanum lycopersicum Functional Descriptions: Found that down-regulation of a tomato bell-like homeodomain 4 (SlBL4) resulted in a slightly darker-green fruit phenotype and increased accumulation of starch, fructose, and glucose.</description>
+    </item>
+  </channel>
+</rss>

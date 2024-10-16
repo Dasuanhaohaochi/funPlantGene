@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lilium hybrid on funPlantGenes</title>
+    <link>/categories/lilium-hybrid/</link>
+    <description>Recent content in Lilium hybrid on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/lilium-hybrid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LhMYB12</title>
+      <link>/genes/2024.6.9/lilium-hybrid/lhmyb12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lilium-hybrid/lhmyb12/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LhMYB12 Gene Name: R2R3-MYB transcription factor 12 Genome: Species: Lilium hybrid Functional Descriptions: The novel allele of the LhMYB12 gene is involved in splatter-type spot formation on the flower tepals of Asiatic hybrid lilies.</description>
+    </item>
+    <item>
+      <title>LhMYBSPLATTER</title>
+      <link>/genes/2024.6.9/lilium-hybrid/lhmybsplatter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lilium-hybrid/lhmybsplatter/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LhMYBSPLATTER|LhMYB12-Lat Gene Name: Genome: Species: Lilium hybrid Functional Descriptions: Transcription factor (TF) LhMYBSPLATTER|LhMYB12-Lat (formerly known as LhMYBSPLATTER|LhMYB12-Lat), identified as the major kernel protein, regulating the anthocyanin biosynthesis pathway in ‘Tiny Padhye’ of Tango Series cultivars, which the pigmentation density is high in the lower half of tepals and this patterning is of exceptional ornamental value.</description>
+    </item>
+  </channel>
+</rss>

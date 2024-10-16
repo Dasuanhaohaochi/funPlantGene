@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carthamus tinctorius on funPlantGenes</title>
+    <link>/categories/carthamus-tinctorius/</link>
+    <description>Recent content in Carthamus tinctorius on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/carthamus-tinctorius/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CtBB1</title>
+      <link>/genes/carthamus_tinctorius/ctbb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/carthamus_tinctorius/ctbb1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: CtBB1 Gene Name: Carthamus tinctorius BIG BROTHER 1 Genome: Species: Carthamus tinctorius Functional Description: CtBB1 (BIG BROTHER 1) can ubiquitinate CtbHLH41, marking it for degradation through the 26S proteasome and negatively regulating flavonoid accumulation.</description>
+    </item>
+    <item>
+      <title>CtCHI1</title>
+      <link>/genes/2024.6.9/carthamus-tinctorius/ctchi1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/carthamus-tinctorius/ctchi1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CtCHI1 Gene Name: chalcone isomerase1 Genome: Species: Carthamus tinctorius Functional Descriptions: Overexpression of CtCHS1 Increases Accumulation of Quinochalcone in Safflower.</description>
+    </item>
+    <item>
+      <title>CtMYB63</title>
+      <link>/genes/carthamus_tinctorius/ctmyb63/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/carthamus_tinctorius/ctmyb63/</guid>
+      <description>Gene Details: Gene ID:&#x9;CCG015314.1 Gene Symbol: CtMYB63 Gene Name: Carthamus tinctorius BIG BROTHER 1 Genome: Species: Carthamus tinctorius Functional Description: Overexpression of CtbHLH41, CtMYB63, or CtWD40-6 in safflower significantly increased the content of the natural pigment hydroxysafflor yellow A (HYSA) and negatively regulated safflower petal size.</description>
+    </item>
+  </channel>
+</rss>

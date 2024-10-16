@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meristem L1 layer on funPlantGenes</title>
+    <link>/tags/meristem-l1-layer/</link>
+    <description>Recent content in meristem L1 layer on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/meristem-l1-layer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G42840</title>
+      <link>/genes/arabidopsis_thaliana/at2g42840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g42840/</guid>
+      <description>Gene Details: Gene ID: AT2G42840 Gene Symbol: PDF1 Gene Name: protodermal factor 1 Description: protodermal factor 1;(source:Araport11) TAIR Accession: locus:2052408 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G42840.</description>
+    </item>
+  </channel>
+</rss>

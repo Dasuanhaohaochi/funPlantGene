@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Echinochloa colona on funPlantGenes</title>
+    <link>/categories/echinochloa-colona/</link>
+    <description>Recent content in Echinochloa colona on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/echinochloa-colona/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EcABCC8</title>
+      <link>/genes/echinochloa_colona/ecabcc8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/echinochloa_colona/ecabcc8/</guid>
+      <description>Gene Details: Gene ID:&#x9;EC_v4.g098055 Gene Symbol: EcABCC8 Gene Name: Genome: Species: Echinochloa colona Functional Description: EcABCC8 is likely a plasma membrane-localized transporter extruding cytoplasmic glyphosate to the apoplast, lowering the cellular glyphosate level.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capsicum chinense on funPlantGenes</title>
+    <link>/categories/capsicum-chinense/</link>
+    <description>Recent content in Capsicum chinense on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/capsicum-chinense/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CcLOL1</title>
+      <link>/genes/2024.6.9/capsicum-chinense/ca00g77830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-chinense/ca00g77830/</guid>
+      <description>Gene Details: Gene ID: CA00g77830 Gene Symbol: CcLOL1 Gene Name: LSD ONE LIKE1 Genome: Species: Capsicum chinense Functional Descriptions: CcLOL1, CaGLK2 and CcAPRR2 are highly diverged and are associated with immature fruit color variation in C.</description>
+    </item>
+    <item>
+      <title>MYB31</title>
+      <link>/genes/2024.7.17/capsicum-chinense/myb31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/capsicum-chinense/myb31/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MYB31 Gene Name: MYB transcription factor Cap1 Genome: Species: Capsicum chinense Functional Descriptions: Natural variations in the MYB transcription factor MYB31 determine the evolution of extremely pungent peppers.</description>
+    </item>
+  </channel>
+</rss>

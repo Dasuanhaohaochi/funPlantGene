@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>central zone on funPlantGenes</title>
+    <link>/tags/central-zone/</link>
+    <description>Recent content in central zone on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/central-zone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G27250</title>
+      <link>/genes/arabidopsis_thaliana/at2g27250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g27250/</guid>
+      <description>Gene Details: Gene ID: AT2G27250 Gene Symbol: AtCLV3, CLV3 Gene Name: CLAVATA3 Description: CLAVATA3;(source:Araport11) TAIR Accession: locus:2005502 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G27250.</description>
+    </item>
+  </channel>
+</rss>

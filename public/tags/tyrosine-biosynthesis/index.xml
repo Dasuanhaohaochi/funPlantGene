@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tyrosine biosynthesis on funPlantGenes</title>
+    <link>/tags/tyrosine-biosynthesis/</link>
+    <description>Recent content in tyrosine biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/tyrosine-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TAM1;OsPAL9</title>
+      <link>/genes/oryza_sativa/loc_os12g33610/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os12g33610/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g33610 RAPdb gene ID: Os12g0520200 Gene Symbol: TAM1 OsPAL9 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

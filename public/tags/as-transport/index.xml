@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>as transport on funPlantGenes</title>
+    <link>/tags/as-transport/</link>
+    <description>Recent content in as transport on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/as-transport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BIGE1</title>
+      <link>/genes/zea_mays/bige1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/bige1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb211050 Gene Symbol: BIGE1 Gene Name: Big embryo 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>BjCdR15</title>
+      <link>/genes/2024.6.9/brassica-juncea/bjcdr15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-juncea/bjcdr15/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BjCdR15 Gene Name: BZIP transcription factor15 Genome: Species: Brassica juncea Functional Descriptions: The Brassica juncea BjCdR15, an ortholog of Arabidopsis TGA3, is a regulator of cadmium uptake, transport and accumulation in shoots and confers cadmium tolerance in transgenic plants.</description>
+    </item>
+    <item>
+      <title>BnaA4.BOR2</title>
+      <link>/genes/brassica_napus/bnaann31830d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaann31830d/</guid>
+      <description>Gene Details: Gene ID: BnaAnn31830D Gene Symbol: BnaA4.BOR2 Gene Name: B efflux transporter Genome: Brassica napus Genome Resources Species: Brassica napus Functional Descriptions: BnaA4.</description>
+    </item>
+    <item>
+      <title>BrpABI449</title>
+      <link>/genes/2024.6.9/brassica-rapa/brpabi449/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/brpabi449/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BrpABI449 Gene Name: Genome: Species: Brassica rapa Functional Descriptions: BrpNAC895 and BrpABI449 coregulate the transcription of the afflux-type cadmium transporter BrpHMA2 in Brassica parachinensis.</description>
+    </item>
+    <item>
+      <title>BrpHMA2</title>
+      <link>/genes/2024.6.9/brassica-rapa/brphma2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/brphma2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BrpHMA2 Gene Name: Genome: Species: Brassica rapa Functional Descriptions: BrpHMA2 was induced by Cd stress and specifically expressed in vascular tissues, and the protein was localized in the plasma membrane.</description>
+    </item>
+    <item>
+      <title>BrpNAC895</title>
+      <link>/genes/2024.6.9/brassica-rapa/brpnac895/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/brpnac895/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BrpNAC895 Gene Name: Genome: Species: Brassica rapa Functional Descriptions: BrpNAC895 and BrpABI449 coregulate the transcription of the afflux-type cadmium transporter BrpHMA2 in Brassica parachinensis.</description>
+    </item>
+    <item>
+      <title>BrYUC6a</title>
+      <link>/genes/2024.7.17/brassica-campestris/braa02g041530/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/brassica-campestris/braa02g041530/</guid>
+      <description>Gene Details: Gene ID: BraA02g041530 Gene Symbol: BrYUC6a Gene Name: YUC6a protein Genome: Species: Brassica campestris Functional Descriptions: In CST versus CKT, the auxin biosynthesis genes such as YUC6 were down-regulated, while the auxin transport and signal transduction genes were dysregulated.</description>
+    </item>
+    <item>
+      <title>BrYUC6b</title>
+      <link>/genes/2024.7.17/brassica-campestris/braa06g032880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/brassica-campestris/braa06g032880/</guid>
+      <description>Gene Details: Gene ID: BraA06g032880 Gene Symbol: BrYUC6b Gene Name: YUC6b protein Genome: Species: Brassica campestris Functional Descriptions: In CST versus CKT, the auxin biosynthesis genes such as YUC6 were down-regulated, while the auxin transport and signal transduction genes were dysregulated.</description>
+    </item>
+    <item>
+      <title>BrYUC6c</title>
+      <link>/genes/2024.7.17/brassica-campestris/braa09g005830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/brassica-campestris/braa09g005830/</guid>
+      <description>Gene Details: Gene ID: BraA09g005830 Gene Symbol: BrYUC6c Gene Name: YUC6c protein Genome: Species: Brassica campestris Functional Descriptions: In CST versus CKT, the auxin biosynthesis genes such as YUC6 were down-regulated, while the auxin transport and signal transduction genes were dysregulated.</description>
+    </item>
+    <item>
+      <title>CmANR1</title>
+      <link>/genes/2024.6.9/chrysanthemum-morifolium/cmanr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/chrysanthemum-morifolium/cmanr1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CmANR1 Gene Name: MADS-box TF Genome: Species: Chrysanthemum morifolium Functional Descriptions: Identified bric-a-brac, tramtrack and broad (BTB) and transcription adapter putative zinc finger (TAZ) domain protein CmBT1 as the interacting partner of CmANR1 through a yeast-two-hybrid (Y2H) screening library.</description>
+    </item>
+    <item>
+      <title>CmCNIH1</title>
+      <link>/genes/2024.6.9/cucurbita-moschata/cmoch07g013500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-moschata/cmoch07g013500/</guid>
+      <description>Gene Details: Gene ID: CmoCh07G013500 Gene Symbol: CmCNIH1 Gene Name: Genome: Species: Cucurbita moschata Functional Descriptions: CmCNIH1 improves salt tolerance by influencing the trafficking of CmHKT1|1 in pumpkin.</description>
+    </item>
+    <item>
+      <title>CsAAP2</title>
+      <link>/genes/2024.7.17/cucumis-sativus/csav3_4g030920csa4g470690/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/cucumis-sativus/csav3_4g030920csa4g470690/</guid>
+      <description>Gene Details: Gene ID: CsaV3_4G030920;Csa4G470690 Gene Symbol: CsAAP2 Gene Name: Amino Acid Permease 2 Genome: Cucurbit Genomics Database Species: Cucumis sativus Functional Descriptions: Disruption of the amino acid transporter CsAAP2 inhibits auxin-mediated root development in cucumber.</description>
+    </item>
+    <item>
+      <title>CsGRP1</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csgrp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csgrp1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsGRP1 Gene Name: cell wall glycine-rich protein 1 Genome: Species: Cucumis sativus Functional Descriptions: Differential accumulation of the mRNA of the auxin-repressed gene CsGRP1 and the auxin-induced peg formation during gravimorphogenesis of cucumber seedlings.</description>
+    </item>
+    <item>
+      <title>CsLHT1</title>
+      <link>/genes/camellia_sinensis/cslht1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/cslht1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TEA026462 Gene Symbol: CsLHT1 Gene Name: Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>CsLHT6</title>
+      <link>/genes/camellia_sinensis/cslht6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/camellia_sinensis/cslht6/</guid>
+      <description>Gene Details: Gene ID:&#x9;TEA003706 Gene Symbol: CsLHT6 Gene Name: Genome: TeaPGDB V1.</description>
+    </item>
+    <item>
+      <title>CsSUP</title>
+      <link>/genes/cucumis_sativus/cssup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/cucumis_sativus/cssup/</guid>
+      <description>Gene Details: Gene ID:&#x9;Csa3G012410 Gene Symbol: CsSUP Gene Name: Genome: Cucumber (Chinese Long) v2 Genome Species: Cucumis sativus Functional Descriptions: A Functional Allele of CsFUL1 Regulates Fruit Length through Repressing CsSUP and Inhibiting Auxin Transport in Cucumber.</description>
+    </item>
+    <item>
+      <title>CsTT8</title>
+      <link>/genes/2024.6.9/citrus-sinensis/cs5g31400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-sinensis/cs5g31400/</guid>
+      <description>Gene Details: Gene ID: Cs5g31400 Gene Symbol: CsTT8 Gene Name: Genome: Species: Citrus sinensis Functional Descriptions: CsTT8 regulates anthocyanin accumulation in blood orange through alternative splicing transcription.</description>
+    </item>
+    <item>
+      <title>CsUGT84J2</title>
+      <link>/genes/2024.6.9/camellia-sinensis/tea000239/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/tea000239/</guid>
+      <description>Gene Details: Gene ID: TEA000239 Gene Symbol: CsUGT84J2 Gene Name: Al-induced glycosyltransferase Genome: Species: Camellia sinensis Functional Descriptions: Found that flavonol glycoside levels in tea roots increased following Al treatment, and the Al-induced UDP glycosyltransferase CsUGT84J2 was involved in this mechanism.</description>
+    </item>
+    <item>
+      <title>DFR</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana02g002763/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana02g002763/</guid>
+      <description>Gene Details: Gene ID: Capana02g002763 Gene Symbol: DFR Gene Name: dihydroflavonol 4-reductase Genome: Species: Capsicum annuum Functional Descriptions: The bHLH1-DTX35/DFR module regulates pollen fertility by promoting flavonoid biosynthesis in Capsicum annuum L.</description>
+    </item>
+    <item>
+      <title>DTX35</title>
+      <link>/genes/2024.6.9/capsicum-annuum/capana03g002183/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/capana03g002183/</guid>
+      <description>Gene Details: Gene ID: Capana03g002183 Gene Symbol: DTX35 Gene Name: Genome: Species: Capsicum annuum Functional Descriptions: The CabHLH1-DTX35/DFR module regulates pollen fertility by promoting flavonoid biosynthesis in Capsicum annuum L.</description>
+    </item>
+    <item>
+      <title>Gl13</title>
+      <link>/genes/zea_mays/gl13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/gl13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb122470 Gene Symbol: Gl13 Gene Name: glossy13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>GmAAP6a</title>
+      <link>/genes/glycine_max/gmaap6a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmaap6a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.17g192000 Gene Symbol: GmAAP6a Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: Overexpression of GmAAP6a enhances tolerance to low nitrogen and improves seed nitrogen status by optimizing amino acid partitioning in soybean.</description>
+    </item>
+    <item>
+      <title>GmYSL7</title>
+      <link>/genes/glycine_max/gmysl7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmysl7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.11G203400 Gene Symbol: GmYSL7 Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: GmYSL7 controls iron uptake, allocation, and cellular response of nodules in soybean.</description>
+    </item>
+    <item>
+      <title>HvALMT1</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvalmt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvalmt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvALMT1 Gene Name: Aluminum-Activated Malate Transporter 1 Genome: Species: Hordeum vulgare Functional Descriptions: HvALMT1 from barley is involved in the transport of organic anions.</description>
+    </item>
+    <item>
+      <title>HvBot1</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvbot1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvbot1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvBot1 Gene Name: Clipper boron transporter Genome: Species: Hordeum vulgare Functional Descriptions: Similar to HvBot1, the tolerant HvNIP2|1 allele was unique to the Sahara barley accessions.</description>
+    </item>
+    <item>
+      <title>HvHMA2</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvhma2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvhma2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvHMA2 Gene Name: heavy metal transporter Genome: Species: Hordeum vulgare Functional Descriptions: HvHMA2, a P1B-ATPase from Barley, Is Highly Conserved among Cereals and Functions in Zn and Cd Transport.</description>
+    </item>
+    <item>
+      <title>HvNIP2</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvnip2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvnip2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvNIP2|1 Gene Name: Nodulin-26 like intrinsic protein Genome: Species: Hordeum vulgare Functional Descriptions: Boron Toxicity Tolerance in Barley through Reduced Expression of the Multifunctional Aquaporin HvNIP2|1|HvNIP2|1.</description>
+    </item>
+    <item>
+      <title>HvPTR1</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvptr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvptr1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvPTR1 Gene Name: peptide transporter1 Genome: Species: Hordeum vulgare Functional Descriptions: A role for phosphorylation in the regulation of the barley scutellar peptide transporter HvPTR1 by amino acids.</description>
+    </item>
+    <item>
+      <title>HvSTP13</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvstp13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvstp13/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvSTP13 Gene Name: Genome: Species: Hordeum vulgare Functional Descriptions: The expression of HvSTP13 increased on bacterial and fungal pathogen-associated molecular pattern (PAMP) application, suggesting a PAMP-triggered signalling that converged on the transcriptional induction of the gene.</description>
+    </item>
+    <item>
+      <title>LeIRT2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leirt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leirt2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeIRT2 Gene Name: iron-regulated transporter 2 Genome: Species: Solanum lycopersicum Functional Descriptions: To extend our molecular knowledge of Fe transport in crop plants, we have isolated two cDNAs (LeIRT1 and LeIRT2) from a library constructed from roots of iron-deficient tomato (Solanum lycopersicum) plants, using the Arabidopsis iron transporter cDNA, IRT1, as a probe.</description>
+    </item>
+    <item>
+      <title>MdSWEET9b</title>
+      <link>/genes/2024.6.9/malus-domestica/mdsweet9b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdsweet9b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdSWEET9b Gene Name: sugars will eventually be exported transporter Genome: Species: Malus domestica Functional Descriptions: Abscisic acid and regulation of the sugar transporter gene MdSWEET9b promote apple sugar accumulation.</description>
+    </item>
+    <item>
+      <title>MeCGTR1</title>
+      <link>/genes/manihot_esculenta/mecgtr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/mecgtr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.17G021100 Gene Symbol: MeCGTR1 Gene Name: Genome: Manihot esculenta, v8.</description>
+    </item>
+    <item>
+      <title>MePIP2</title>
+      <link>/genes/2024.6.9/manihot-esculenta/mepip2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/manihot-esculenta/mepip2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MePIP2|7 Gene Name: Genome: Species: Manihot esculenta Functional Descriptions: Found that the cassava aquaporin MePIP2|7|MePIP2|7 was involved in Mg2+ transport through interaction with MeMGT9, a lower affinity magnesium transporter protein.</description>
+    </item>
+    <item>
+      <title>MtCRE1</title>
+      <link>/genes/2024.6.9/medicago-truncatula/mtruna17chr8g0392301/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/mtruna17chr8g0392301/</guid>
+      <description>Gene Details: Gene ID: MtrunA17Chr8g0392301 Gene Symbol: MtCRE1 Gene Name: Cytokinin Response Element 1 Genome: M.</description>
+    </item>
+    <item>
+      <title>NPF7.6</title>
+      <link>/genes/medicago_truncatula/npf7.6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/medicago_truncatula/npf7.6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Mtr.27727.1 Gene Symbol: NPF7.6 Gene Name: Genome: JCVI Mt 4.</description>
+    </item>
+    <item>
+      <title>NRT1.1A</title>
+      <link>/genes/2024.6.9/brachypodium-distachyon/bradi3g16670/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brachypodium-distachyon/bradi3g16670/</guid>
+      <description>Gene Details: Gene ID: Bradi3g16670 Gene Symbol: NRT1.1A Gene Name: Genome: reference Bd21 genome Species: Brachypodium distachyon Functional Descriptions: NRT1.</description>
+    </item>
+    <item>
+      <title>NtMATE21</title>
+      <link>/genes/2024.6.9/nicotiana-tabacum/ntmate21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-tabacum/ntmate21/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtMATE21 Gene Name: multidrug and toxic compound extrusion21 Genome: Species: Nicotiana tabacum Functional Descriptions: NtMATE21 and NtMATE22, and demonstrate their role in flavonol transport and in plant growth and development.</description>
+    </item>
+    <item>
+      <title>NtMATE22</title>
+      <link>/genes/2024.6.9/nicotiana-tabacum/ntmate22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/nicotiana-tabacum/ntmate22/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: NtMATE22 Gene Name: multidrug and toxic compound extrusion22 Genome: Species: Nicotiana tabacum Functional Descriptions: NtMATE21 and NtMATE22, and demonstrate their role in flavonol transport and in plant growth and development.</description>
+    </item>
+    <item>
+      <title>OsABCC1;MRP1</title>
+      <link>/genes/oryza_sativa/loc_os04g52900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g52900/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g52900 RAPdb gene ID: Os04g0620000 Gene Symbol: OsABCC1 MRP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsDOF11</title>
+      <link>/genes/oryza_sativa/loc_os02g47810/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g47810/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g47810 RAPdb gene ID: Os02g0707200 Gene Symbol: OsDOF11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PbABCG1</title>
+      <link>/genes/2024.6.9/phalaenopsis-bellina/pbabcg1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phalaenopsis-bellina/pbabcg1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PbABCG1 Gene Name: Genome: Species: Phalaenopsis bellina Functional Descriptions: PbABCG1 and PbABCG2 transporters are required for the emission of floral monoterpenes in Phalaenopsis bellina.</description>
+    </item>
+    <item>
+      <title>PbABCG2</title>
+      <link>/genes/2024.6.9/phalaenopsis-bellina/pbabcg2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/phalaenopsis-bellina/pbabcg2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PbABCG2 Gene Name: Genome: Species: Phalaenopsis bellina Functional Descriptions: PbABCG1 and PbABCG2 transporters are required for the emission of floral monoterpenes in Phalaenopsis bellina.</description>
+    </item>
+    <item>
+      <title>PbTST4</title>
+      <link>/genes/2024.6.9/pyrus-bretschneideri/pbr032130.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-bretschneideri/pbr032130.1/</guid>
+      <description>Gene Details: Gene ID: Pbr032130.1 Gene Symbol: PbTST4 Gene Name: tonoplast membrane sugar transporter Genome: Species: Pyrus bretschneideri Functional Descriptions: Furthermore, PbCPK28 interacts with and phosphorylates PbTST4, a proton antiporter, thereby coupling the sugar import into the vacuole with proton export.</description>
+    </item>
+    <item>
+      <title>PtrXB38</title>
+      <link>/genes/2024.6.9/populus-trichocarpa/potri.010g070800.6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-trichocarpa/potri.010g070800.6/</guid>
+      <description>Gene Details: Gene ID: Potri.010G070800.6 Gene Symbol: PtrXB38 Gene Name: Genome: Species: Populus trichocarpa Functional Descriptions: Expression quantitative trait loci mapping identified PtrXB38 as a key hub gene in adventitious root development in Populus.</description>
+    </item>
+    <item>
+      <title>PyWRKY26</title>
+      <link>/genes/2024.6.9/pyrus-communis/pbr013092.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-communis/pbr013092.1/</guid>
+      <description>Gene Details: Gene ID: Pbr013092.1 Gene Symbol: PyWRKY26 Gene Name: Genome: Species: Pyrus communis Functional Descriptions: PyWRKY26 and PybHLH3 cotargeted the PyMYB114 promoter to regulate anthocyanin biosynthesis and transport in red-skinned pears.</description>
+    </item>
+    <item>
+      <title>SbMATE</title>
+      <link>/genes/2024.6.9/sorghum-bicolor/sb03g043890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/sorghum-bicolor/sb03g043890/</guid>
+      <description>Gene Details: Gene ID: Sb03g043890 Gene Symbol: SbMATE Gene Name: multi-drug and toxic compound extrusion Genome: Species: Sorghum bicolor Functional Descriptions: Sugarcane plants constitutively overexpressing the Sorghum bicolor MATE gene (SbMATE) showed improved tolerance to Al when compared to non-transgenic (NT) plants, characterized by sustained root growth and exclusion of aluminum from the root apex based on the result obtained with hematoxylin staining.</description>
+    </item>
+    <item>
+      <title>SlALMT5</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slalmt5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slalmt5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlALMT5 Gene Name: aluminum-activated malate transporter 5 Genome: Species: Solanum lycopersicum Functional Descriptions: Two Members of the Aluminum-Activated Malate Transporter Family, SlALMT4 and SlALMT5, are Expressed during Fruit Development, and the Overexpression of SlALMT5 Alters Organic Acid Contents in Seeds in Tomato.</description>
+    </item>
+    <item>
+      <title>SlBEL11</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc11g068950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc11g068950/</guid>
+      <description>Gene Details: Gene ID: Solyc11g068950 Gene Symbol: SlBEL11 Gene Name: S.</description>
+    </item>
+    <item>
+      <title>SlJUL</title>
+      <link>/genes/solanum_lycopersicum/sljul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/sljul/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g067180.3.1 Gene Symbol: SlJUL Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>TaALMT1</title>
+      <link>/genes/triticum_aestivum/taalmt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taalmt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaALMT1 Gene Name: aluminium-activated malate transporter 1 Genome: Species: Triticum aestivum Functional Descriptions: Role of TaALMT1 malate-GABA transporter in alkaline pH tolerance of wheat.</description>
+    </item>
+    <item>
+      <title>TaHMA2</title>
+      <link>/genes/triticum_aestivum/tahma2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahma2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaHMA2 Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Se treatment significantly decreased the expression of TaHMA2 in root, indicating that the downregulation of TaHMA2 by Se might contribute to the inhibition of Cd root-to-shoot translocation and the final decrease in Cd accumulation in the shoot of winter wheat.</description>
+    </item>
+    <item>
+      <title>TaSTP3</title>
+      <link>/genes/triticum_aestivum/tastp3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tastp3/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G282400 Gene Symbol: TaSTP3 Gene Name: Sugar Transport Protein 3 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaVIT2-A</title>
+      <link>/genes/triticum_aestivum/tavit2-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavit2-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5A02G203400 Gene Symbol: TaVIT2-A Gene Name: VACUOLAR IRON TRANSPORTER 2 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaVIT2-B</title>
+      <link>/genes/triticum_aestivum/tavit2-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavit2-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5B02G202100 Gene Symbol: TaVIT2-B Gene Name: VACUOLAR IRON TRANSPORTER 2 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaVIT2-D</title>
+      <link>/genes/triticum_aestivum/tavit2-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavit2-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G209900 Gene Symbol: TaVIT2-D Gene Name: VACUOLAR IRON TRANSPORTER 2 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Tdy1</title>
+      <link>/genes/zea_mays/zm00001eb297040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb297040/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb297040 Gene Symbol: Tdy1 Gene Name: tie-dyed1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>TraesCS5A02G542600</title>
+      <link>/genes/triticum_aestivum/traescs5a02g542600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5a02g542600/</guid>
+      <description>Gene Details: Gene ID: TraesCS5A02G542600 Gene Symbol: TraesCS5A02G542600 Gene Name: transmembrane transporter Genome: Species: Triticum aestivum Functional Descriptions: We identified putative candidate genes that are potentially involved in metal uptake, transport, and assimilation, including TraesCS5A02G542600 on chromosome 5A, which was annotated as a Major Facilitator Superfamily transporter and acted on all the minerals except K.</description>
+    </item>
+    <item>
+      <title>VvCAX3</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvcax3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvcax3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvCAX3 Gene Name: Vacuolar cation/H+ exchanger 3 Genome: Species: Vitis vinifera Functional Descriptions: The grapevine VvCAX3 is a cation/H+ exchanger involved in vacuolar Ca2+ homeostasis.</description>
+    </item>
+    <item>
+      <title>ZmABCB19;ABCB19</title>
+      <link>/genes/zea_mays/zmabcb19abcb19mrpa24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmabcb19abcb19mrpa24/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb243520 Gene Symbol: ZmABCB19 ABCB19 mrpa24 Gene Name: multidrug resistance associated protein24 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmAFB1;tir1</title>
+      <link>/genes/zea_mays/zmafb1tir1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmafb1tir1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb354200 Gene Symbol: ZmAFB1 tir1 Gene Name: transport inhibitor response1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCOP1;ZmCOP1a</title>
+      <link>/genes/zea_mays/zmcop1zmcop1aupl13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmcop1zmcop1aupl13/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb256270 Gene Symbol: ZmCOP1 ZmCOP1a upl13 Gene Name: ubiquitin-protein ligase13 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLA1</title>
+      <link>/genes/zea_mays/zmla1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmla1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb169480 Gene Symbol: ZmLA1 Gene Name: lazy plant1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmLTPg10;plt39</title>
+      <link>/genes/zea_mays/zmltpg10plt39/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmltpg10plt39/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb080620 Gene Symbol: ZmLTPg10 plt39 Gene Name: phospholipid transfer protein39 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNRAMP4;ZmNRAMP6</title>
+      <link>/genes/zea_mays/zmnramp4zmnramp6nrat2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmnramp4zmnramp6nrat2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb231210 Gene Symbol: ZmNRAMP4 ZmNRAMP6 nrat2 Gene Name: nramp aluminum transporter2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPGP1;br2</title>
+      <link>/genes/zea_mays/zmpgp1br2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpgp1br2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb038710 Gene Symbol: ZmPGP1 br2 Gene Name: brachytic2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPKSB;chls1</title>
+      <link>/genes/zea_mays/zmpksbchls1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpksbchls1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb305800 Gene Symbol: ZmPKSB chls1 Gene Name: chalcone synthase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPP2Ac-2</title>
+      <link>/genes/zea_mays/zmpp2ac-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpp2ac-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb212620 Gene Symbol: ZmPP2Ac-2 Gene Name: prh28 - protein phosphatase homolog28 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSWEET3a;ZmSWEET15</title>
+      <link>/genes/zea_mays/zmsweet3azmsweet15zmsweet16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmsweet3azmsweet15zmsweet16/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb350590 Gene Symbol: ZmSWEET3a ZmSWEET15 ZmSWEET16 Gene Name: sugars will eventually be exported transporter3a Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSWEET4c</title>
+      <link>/genes/zea_mays/zmsweet4c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmsweet4c/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb236810 Gene Symbol: ZmSWEET4c Gene Name: sugars will eventually be exported transporter4c Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmVPP5</title>
+      <link>/genes/zea_mays/grmzm2g435818/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/grmzm2g435818/</guid>
+      <description>Gene Details: Gene ID: GRMZM2G435818 Gene Symbol: ZmVPP5 Gene Name: vacuole H+-PPase 5 Genome: B73_RefGen_v3 Species: Zea mays Functional Descriptions: Maize ZmVPP5 is a truncated Vacuole H+-PPase that confers hypersensitivity to salt stress.</description>
+    </item>
+    <item>
+      <title>ZmVPS29;vps29</title>
+      <link>/genes/zea_mays/zmvps29vps29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmvps29vps29/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb203950 Gene Symbol: ZmVPS29 vps29 Gene Name: vacuolar protein sorting29 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWRKY031;ZmWRKY130</title>
+      <link>/genes/zea_mays/zmwrky031zmwrky130zmwrky54wrky54/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmwrky031zmwrky130zmwrky54wrky54/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb148260 Gene Symbol: ZmWRKY031 ZmWRKY130 ZmWRKY54 wrky54 Gene Name: WRKY-transcription factor 54 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

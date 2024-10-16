@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gossypol on funPlantGenes</title>
+    <link>/tags/gossypol/</link>
+    <description>Recent content in gossypol on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/gossypol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CGP1a</title>
+      <link>/genes/gossypium_hirsutum/cgp1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/cgp1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_A07G0703 Gene Symbol: CGP1a Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>CGP1d</title>
+      <link>/genes/gossypium_hirsutum/cgp1d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/cgp1d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gh_D07G0770 Gene Symbol: CGP1d Gene Name: Genome: genomes of G.</description>
+    </item>
+    <item>
+      <title>GhERF105</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_a12g2166/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_a12g2166/</guid>
+      <description>Gene Details: Gene ID: GH_A12G2166 Gene Symbol: GhERF105 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: Silencing of GhERF105 reduced gland formation and gossypol biosynthesis.</description>
+    </item>
+    <item>
+      <title>GhMYC2</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_d12g2074/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_d12g2074/</guid>
+      <description>Gene Details: Gene ID: Gh_D12G2074 Gene Symbol: GhMYC2 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: GhMYC2 activates cytochrome P450 gene CYP71BE79 to regulate gossypol biosynthesis in cotton.</description>
+    </item>
+    <item>
+      <title>GoPGF</title>
+      <link>/genes/gossypium_hirsutum/gopgf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/gopgf/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: GoPGF Gene Name: Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: GoPGF, a key gene regulating gland formation, was expressed in gland cells and roots.</description>
+    </item>
+    <item>
+      <title>GoSPGF</title>
+      <link>/genes/gossypium_hirsutum/gospgf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/gospgf/</guid>
+      <description>Gene Details: Gene ID:&#x9;GH_D08G1984 Gene Symbol: GoSPGF Gene Name: Gossypium STEM PIGMENT GLAND FORMING GENE Genome: TM-1 reference genome Species: Gossypium hirsutum Functional Descriptions: The discovery of the novel stem pigment gland-forming gene GoSPGF by map-based cloning.</description>
+    </item>
+  </channel>
+</rss>

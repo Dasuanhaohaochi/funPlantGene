@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vernalization on funPlantGenes</title>
+    <link>/tags/vernalization/</link>
+    <description>Recent content in vernalization on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/vernalization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BnaFLC.A02</title>
+      <link>/genes/brassica_napus/bnaflc.a02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaflc.a02/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaA02g00370d Gene Symbol: BnaFLC.A02 Gene Name: FLOWERING LOCUS C Genome: Darmor-bzh reference genome Species: Brassica napus Functional Descriptions: Suggest allelic variation at BnaFT.</description>
+    </item>
+    <item>
+      <title>BnaFLC.A10</title>
+      <link>/genes/brassica_napus/bnaflc.a10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaflc.a10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: BnaFLC.A10 Gene Name: Genome: B.</description>
+    </item>
+    <item>
+      <title>BnaFLC.A2</title>
+      <link>/genes/brassica_napus/bnaflc.a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaflc.a2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: BnaFLC.A2 Gene Name: Genome: B.</description>
+    </item>
+    <item>
+      <title>BnaFT.A02</title>
+      <link>/genes/brassica_napus/bnaft.a02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_napus/bnaft.a02/</guid>
+      <description>Gene Details: Gene ID:&#x9;BnaA02g12130D Gene Symbol: BnaFT.A02 Gene Name: FLOWERING LOCUS T Genome: Darmor-bzh reference genome Species: Brassica napus Functional Descriptions: Suggest allelic variation at BnaFT.</description>
+    </item>
+    <item>
+      <title>BrCCA1</title>
+      <link>/genes/2024.7.17/brassica-rapa/bra004503/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/brassica-rapa/bra004503/</guid>
+      <description>Gene Details: Gene ID: Bra004503 Gene Symbol: BrCCA1 Gene Name: CIRCADIAN AND CLOCK ASSOCIATED 1 Genome: Species: Brassica rapa Functional Descriptions: Vernalization-mediated demethylation of BrCKA2 (casein kinase II α-subunit) and BrCKB4 (casein kinase II β-subunit) shorten the period of the clock gene BrCCA1 (circadian clock associated 1) in Brassica rapa.</description>
+    </item>
+    <item>
+      <title>BrFLC2</title>
+      <link>/genes/2024.6.9/brassica-rapa/bra028599/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-rapa/bra028599/</guid>
+      <description>Gene Details: Gene ID: Bra028599 Gene Symbol: BrFLC2|BraA.FLC.b Gene Name: FLOWERING LOCUS C2 Genome: Species: Brassica rapa Functional Descriptions: A naturally occurring InDel variation in BrFLC2|BraA.</description>
+    </item>
+    <item>
+      <title>FPL1</title>
+      <link>/genes/2024.6.9/brachypodium-distachyon/bradi3g12450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brachypodium-distachyon/bradi3g12450/</guid>
+      <description>Gene Details: Gene ID: Bradi3g12450 Gene Symbol: FPL1 Gene Name: FLOWERING PROMOTING FACTOR 1 Genome: Species: Brachypodium distachyon Functional Descriptions: FPL1 and FPL7 repress flowering under long-day conditions in B.</description>
+    </item>
+    <item>
+      <title>FPL7</title>
+      <link>/genes/2024.6.9/brachypodium-distachyon/bradi1g18240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brachypodium-distachyon/bradi1g18240/</guid>
+      <description>Gene Details: Gene ID: Bradi1g18240 Gene Symbol: FPL7 Gene Name: FLOWERING PROMOTING FACTOR 7 Genome: Species: Brachypodium distachyon Functional Descriptions: FPL1 and FPL7 repress flowering under long-day conditions in B.</description>
+    </item>
+    <item>
+      <title>FT-A1</title>
+      <link>/genes/triticum_aestivum/ft-a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ft-a1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7A02G115400 Gene Symbol: FT-A1 Gene Name: FLOWERING LOCUS T Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>FT-B1</title>
+      <link>/genes/triticum_aestivum/ft-b1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ft-b1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7B02G013100 Gene Symbol: FT-B1 Gene Name: FLOWERING LOCUS T Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>FT-D1</title>
+      <link>/genes/triticum_aestivum/ft-d1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ft-d1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7D02G111600 Gene Symbol: FT-D1 Gene Name: FLOWERING LOCUS T Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>HvFT3</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvft3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvft3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvFT3|PPDH2 Gene Name: FT-like protein 3 Genome: Species: Hordeum vulgare Functional Descriptions: Expression analysis of vernalization and day-length response genes in barley (Hordeum vulgare L.</description>
+    </item>
+    <item>
+      <title>HvOS2</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvos2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvos2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvOS2 Gene Name: Genome: Species: Hordeum vulgare Functional Descriptions: Fine-tuning of the flowering time control in winter barley: the importance of HvOS2 and HvVRN2 in non-inductive conditions.</description>
+    </item>
+    <item>
+      <title>LC2;OsVIL3</title>
+      <link>/genes/oryza_sativa/loc_os02g05840/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g05840/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g05840 RAPdb gene ID: Os02g0152500 Gene Symbol: LC2 OsVIL3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>LFS</title>
+      <link>/genes/oryza_sativa/loc_os08g34360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g34360/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g34360 RAPdb gene ID: Os08g0442400 Gene Symbol: LFS Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaAGO1b</title>
+      <link>/genes/triticum_aestivum/taago1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taago1b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaAGO1b Gene Name: Argonaute1 Genome: Species: Triticum aestivum Functional Descriptions: Two putative wheat Argonaute genes, TaAGO1b and TaAGO4, were cloned.</description>
+    </item>
+    <item>
+      <title>TaAGO4</title>
+      <link>/genes/triticum_aestivum/taago4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taago4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaAGO4 Gene Name: Argonaute4 Genome: Species: Triticum aestivum Functional Descriptions: Two putative wheat Argonaute genes, TaAGO1b and TaAGO4, were cloned.</description>
+    </item>
+    <item>
+      <title>TaGRP2</title>
+      <link>/genes/triticum_aestivum/tagrp2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tagrp2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4B02G020300 Gene Symbol: TaGRP2 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaIRI9</title>
+      <link>/genes/triticum_aestivum/tairi9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tairi9/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4A02G347000 Gene Symbol: TaIRI9 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaRF2b</title>
+      <link>/genes/triticum_aestivum/tarf2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tarf2b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5A02G308400 Gene Symbol: TaRF2b Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaSOC1</title>
+      <link>/genes/triticum_aestivum/tasoc1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tasoc1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4B02G346700 Gene Symbol: TaSOC1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaVRN-A1</title>
+      <link>/genes/triticum_aestivum/tavrn-a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavrn-a1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaVRN-A1|VRN-1 Gene Name: VERNALIZATION-A1 Genome: Species: Triticum aestivum Functional Descriptions: TaVRN-A1|VRN-1 gene- associated prerequisites of spring growth habit in wild tetraploid wheat T.</description>
+    </item>
+    <item>
+      <title>TaVRN1</title>
+      <link>/genes/triticum_aestivum/tavrn1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavrn1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5A02G391700 Gene Symbol: TaVRN1 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaVRN1-5A</title>
+      <link>/genes/triticum_aestivum/tavrn1-5a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavrn1-5a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5A02G391700 Gene Symbol: TaVRN1-5A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaVRN1-B1</title>
+      <link>/genes/triticum_aestivum/traescs5b02g396600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5b02g396600/</guid>
+      <description>Gene Details: Gene ID: TraesCS5B02G396600 Gene Symbol: TaVRN1-B1 Gene Name: MADS-box protein TaVRT-1 Genome: Wheat Chinese Spring IWGSC RefSeq v1.</description>
+    </item>
+    <item>
+      <title>TaVRN1-D1</title>
+      <link>/genes/triticum_aestivum/traescs5d02g401500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5d02g401500/</guid>
+      <description>Gene Details: Gene ID: TraesCS5D02G401500 Gene Symbol: TaVRN1-D1 Gene Name: MADS-box protein TaVRT-1 Genome: Wheat Chinese Spring IWGSC RefSeq v1.</description>
+    </item>
+    <item>
+      <title>TaVRT-2</title>
+      <link>/genes/triticum_aestivum/tavrt-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavrt-2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7D02G176700 Gene Symbol: TaVRT-2 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaVrt2</title>
+      <link>/genes/triticum_aestivum/tavrt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tavrt2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaVrt2 Gene Name: Vegetative to reproductive transition 2 Genome: Species: Triticum aestivum Functional Descriptions: TaVrt2, an SVP-like gene, cooperates with TaVrn1 to regulate vernalization-induced flowering in wheat.</description>
+    </item>
+    <item>
+      <title>VER2</title>
+      <link>/genes/triticum_aestivum/ver2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ver2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VER2 Gene Name: vernalization-related gene 2 Genome: Species: Triticum aestivum Functional Descriptions: Vernalization-induced flowering in wheat is mediated by a lectin-like gene VER2.</description>
+    </item>
+    <item>
+      <title>VRN-B2</title>
+      <link>/genes/triticum_aestivum/vrn-b2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/vrn-b2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4B02G372700 Gene Symbol: VRN-B2 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>VRN-D4</title>
+      <link>/genes/triticum_aestivum/vrn-d4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/vrn-d4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: VRN-D4 Gene Name: VERNALIZATION 4 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WPCL1-3A</title>
+      <link>/genes/triticum_aestivum/wpcl1-3a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wpcl1-3a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3A02G526600 Gene Symbol: WPCL1-3A Gene Name: WHEAT PHYTOCLOCK 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WPCL1-3B</title>
+      <link>/genes/triticum_aestivum/wpcl1-3b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wpcl1-3b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3B02G594300 Gene Symbol: WPCL1-3B Gene Name: Genome: Description:&#x9;Presumptive loss-of-function mutations in all WPCL1 homoeologous genes were found in ‘Chogokuwase’ and ‘Geurumil’, one of the parental cultivars.</description>
+    </item>
+    <item>
+      <title>WPCL1-3D</title>
+      <link>/genes/triticum_aestivum/wpcl1-3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wpcl1-3d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3D02G531900 Gene Symbol: WPCL1-3D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WSOC1-4B</title>
+      <link>/genes/triticum_aestivum/wsoc1-4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wsoc1-4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4B02G346700 Gene Symbol: WSOC1-4B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WSOC1-4D</title>
+      <link>/genes/triticum_aestivum/wsoc1-4d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wsoc1-4d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4D02G341700 Gene Symbol: WSOC1-4D Gene Name: WHEAT SUPPRESSOR OF OVEREXPRESSION OF CO 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WSOC1-5A</title>
+      <link>/genes/triticum_aestivum/wsoc1-5a-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wsoc1-5a-/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4B02G346700 Gene Symbol: WSOC1-5A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>herbicide on funPlantGenes</title>
+    <link>/tags/herbicide/</link>
+    <description>Recent content in herbicide on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/herbicide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FaGT2</title>
+      <link>/genes/2024.6.9/fragaria-ananassa/fagt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fragaria-ananassa/fagt2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FaGT2 Gene Name: UDP-glucose glucosyltransferase 2 Genome: Species: Fragaria ananassa Functional Descriptions: FaGT2: a multifunctional enzyme from strawberry (Fragaria × ananassa) fruits involved in the metabolism of natural and xenobiotic compounds.</description>
+    </item>
+    <item>
+      <title>Kn1</title>
+      <link>/genes/zea_mays/kn1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/kn1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb055920 Gene Symbol: Kn1 Gene Name: Knotted1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>OsACCase</title>
+      <link>/genes/oryza_sativa/loc_os05g22940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g22940/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g22940 RAPdb gene ID: Os05g0295300 Gene Symbol: OsACCase Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCCA1;Nhd1</title>
+      <link>/genes/oryza_sativa/loc_os08g06110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g06110/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g06110 RAPdb gene ID: Os08g0157600 Gene Symbol: OsCCA1 Nhd1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCYP1</title>
+      <link>/genes/oryza_sativa/loc_os05g11130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g11130/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g11130 RAPdb gene ID: Os05g0200400 Gene Symbol: OsCYP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsHPPD</title>
+      <link>/genes/oryza_sativa/loc_os02g07160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g07160/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g07160 RAPdb gene ID: Os02g0168100 Gene Symbol: OsHPPD Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmMATE21;mate21</title>
+      <link>/genes/zea_mays/zmmate21mate21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmmate21mate21/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb106010 Gene Symbol: ZmMATE21 mate21 Gene Name: multidrug and toxic compound extrusion21 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

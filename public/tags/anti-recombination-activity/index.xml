@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anti-recombination activity on funPlantGenes</title>
+    <link>/tags/anti-recombination-activity/</link>
+    <description>Recent content in anti-recombination activity on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/anti-recombination-activity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MSH2</title>
+      <link>/genes/oryza_sativa/loc_os05g19270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g19270/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g19270 RAPdb gene ID: Os05g0274200 Gene Symbol: MSH2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

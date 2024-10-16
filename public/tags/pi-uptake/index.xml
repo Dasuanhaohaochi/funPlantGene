@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pi uptake on funPlantGenes</title>
+    <link>/tags/pi-uptake/</link>
+    <description>Recent content in pi uptake on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/pi-uptake/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FaVPT1</title>
+      <link>/genes/fragaria_ananassa/favpt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/fragaria_ananassa/favpt1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: FaVPT1 Gene Name: Genome: Species: Fragaria ananassa Functional Description: Strawberry FaVPT1 transports Pi into vacuoles and promotes fruit ripening by sugar signaling.</description>
+    </item>
+    <item>
+      <title>GmETO1</title>
+      <link>/genes/glycine_max/gmeto1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmeto1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.14G197100 Gene Symbol: GmETO1 Gene Name: Ethylene-Overproduction Protein 1 Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: Up-regulating GmETO1 improves phosphorus uptake and use efficiency by promoting root growth in soybean.</description>
+    </item>
+    <item>
+      <title>Gn1a;OsCKX2</title>
+      <link>/genes/oryza_sativa/loc_os01g10110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g10110/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g10110 RAPdb gene ID: Os01g0197700 Gene Symbol: Gn1a OsCKX2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ID1;ZmIDD5</title>
+      <link>/genes/zea_mays/id1zmidd5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/id1zmidd5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb047750 Gene Symbol: ID1 ZmIDD5 Gene Name: indeterminate growth1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>MYB1</title>
+      <link>/genes/oryza_sativa/loc_os01g03720/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g03720/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g03720 RAPdb gene ID: Os01g0128000 Gene Symbol: MYB1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>NIGT1.2;ZmNIGT1.2</title>
+      <link>/genes/zea_mays/nigt1.2zmnigt1.2glk4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/nigt1.2zmnigt1.2glk4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb406610 Gene Symbol: NIGT1.2 ZmNIGT1.2 glk4 Gene Name: NITRATE-INDUCIBLE, GARP-TYPE TRANSCRIPTIOANL REPRESSOR1.</description>
+    </item>
+    <item>
+      <title>OsARF16</title>
+      <link>/genes/oryza_sativa/loc_os06g09660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g09660/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g09660 RAPdb gene ID: Os06g0196700 Gene Symbol: OsARF16 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsDEF7;CAL1</title>
+      <link>/genes/oryza_sativa/loc_os02g41904/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g41904/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g41904 RAPdb gene ID: Os02g0629800 Gene Symbol: OsDEF7 CAL1 OsAFP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNLA1</title>
+      <link>/genes/oryza_sativa/loc_os07g47590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g47590/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g47590 RAPdb gene ID: Os07g0673200 Gene Symbol: OsNLA1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPHR3</title>
+      <link>/genes/oryza_sativa/loc_os02g04640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g04640/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g04640 RAPdb gene ID: Os02g0139000 Gene Symbol: OsPHR3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPht1;3;OsPT3</title>
+      <link>/genes/oryza_sativa/loc_os10g30770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g30770/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g30770 RAPdb gene ID: Os10g0444600 Gene Symbol: OsPht1 3 OsPT3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPITP6</title>
+      <link>/genes/oryza_sativa/loc_os02g21630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g21630/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g21630 RAPdb gene ID: Os02g0321500 Gene Symbol: OsPITP6 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsWRKY10</title>
+      <link>/genes/oryza_sativa/loc_os01g09100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g09100/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g09100 RAPdb gene ID: Os01g0186000 Gene Symbol: OsWRKY10 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PuPHL1A</title>
+      <link>/genes/2024.6.9/populus-ussuriensis/puphl1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-ussuriensis/puphl1a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuPHL1A Gene Name: Genome: Species: Populus ussuriensis Functional Descriptions: Demonstrated that several nitrate-responsive genes (PuNRT1.</description>
+    </item>
+    <item>
+      <title>PuPHL1B</title>
+      <link>/genes/2024.6.9/populus-ussuriensis/puphl1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-ussuriensis/puphl1b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuPHL1B Gene Name: Genome: Species: Populus ussuriensis Functional Descriptions: Demonstrated that several nitrate-responsive genes (PuNRT1.</description>
+    </item>
+    <item>
+      <title>TaMYB4-7D</title>
+      <link>/genes/triticum_aestivum/tamyb4-7d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamyb4-7d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7D02G272400 Gene Symbol: TaMYB4-7D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaPHT1-9-4B</title>
+      <link>/genes/triticum_aestivum/tapht1-9-4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tapht1-9-4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4B02G317000 Gene Symbol: TaPHT1-9-4B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>ZmDDM1A;Chr101</title>
+      <link>/genes/zea_mays/zmddm1achr101lsh1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmddm1achr101lsh1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb117870 Gene Symbol: ZmDDM1A Chr101 Lsh1 Gene Name: chromatin complex subunit A 101 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNIGT1.1;NIGT1.1</title>
+      <link>/genes/zea_mays/zmnigt1.1nigt1.1glk5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmnigt1.1nigt1.1glk5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb406660 Gene Symbol: ZmNIGT1.1 NIGT1.1 glk5 Gene Name: G2-like-transcription factor 5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmPT7;pht1</title>
+      <link>/genes/zea_mays/zmpt7pht1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpt7pht1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb222510 Gene Symbol: ZmPT7 pht1 Gene Name: phosphate transporter protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

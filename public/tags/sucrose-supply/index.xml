@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sucrose supply on funPlantGenes</title>
+    <link>/tags/sucrose-supply/</link>
+    <description>Recent content in sucrose supply on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/sucrose-supply/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsSUT1</title>
+      <link>/genes/2024.6.9/cucumis-sativus/cssut1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/cssut1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsSUT1 Gene Name: Sucrose Transporter 1 Genome: Species: Cucumis sativus Functional Descriptions: Down-regulation of the Sucrose Transporter CsSUT1 Causes Male Sterility by Altering Carbohydrate Supply.</description>
+    </item>
+    <item>
+      <title>MOC2;FBP1</title>
+      <link>/genes/oryza_sativa/loc_os01g64660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g64660/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g64660 RAPdb gene ID: Os01g0866400 Gene Symbol: MOC2 FBP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaSnRK2.10-4A</title>
+      <link>/genes/triticum_aestivum/traescs4a02g235600.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs4a02g235600.2/</guid>
+      <description>Gene Details: Gene ID: TraesCS4A02G235600.2 Gene Symbol: TaSnRK2.10-4A Gene Name: Sucrose non-fermenting 1-related protein kinase 2 Genome: Species: Triticum aestivum Functional Descriptions: Sucrose non-fermenting 1-related protein kinase 2 (SnRK2) acts as a signaling hub in the response to drought stress, but whether SnRK2 helps plants cope with water deficit via other mechanisms is largely unknown.</description>
+    </item>
+    <item>
+      <title>TaSnRK2.10-4B</title>
+      <link>/genes/triticum_aestivum/traescs4b02g079300.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs4b02g079300.1/</guid>
+      <description>Gene Details: Gene ID: TraesCS4B02G079300.1 Gene Symbol: TaSnRK2.10-4B Gene Name: Sucrose non-fermenting 1-related protein kinase 2 Genome: Species: Triticum aestivum Functional Descriptions: Sucrose non-fermenting 1-related protein kinase 2 (SnRK2) acts as a signaling hub in the response to drought stress, but whether SnRK2 helps plants cope with water deficit via other mechanisms is largely unknown.</description>
+    </item>
+    <item>
+      <title>TaSnRK2.10-4D</title>
+      <link>/genes/triticum_aestivum/traescs4d02g078100.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs4d02g078100.2/</guid>
+      <description>Gene Details: Gene ID: TraesCS4D02G078100.2 Gene Symbol: TaSnRK2.10-4D Gene Name: Sucrose non-fermenting 1-related protein kinase 2 Genome: Species: Triticum aestivum Functional Descriptions: Sucrose non-fermenting 1-related protein kinase 2 (SnRK2) acts as a signaling hub in the response to drought stress, but whether SnRK2 helps plants cope with water deficit via other mechanisms is largely unknown.</description>
+    </item>
+    <item>
+      <title>ZmCESA5;ENB1</title>
+      <link>/genes/zea_mays/zmcesa5enb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmcesa5enb1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb061800 Gene Symbol: ZmCESA5 ENB1 Gene Name: cellulose synthase5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

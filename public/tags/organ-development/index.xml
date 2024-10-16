@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>organ development on funPlantGenes</title>
+    <link>/tags/organ-development/</link>
+    <description>Recent content in organ development on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/organ-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZMM14</title>
+      <link>/genes/zea_mays/zmm14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmm14/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb008690 Gene Symbol: ZMM14;ZmMADS14 Gene Name: Zea mays MADS14 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZMM8</title>
+      <link>/genes/zea_mays/zmm8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmm8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb400120 Gene Symbol: ZMM8;ZmMADS8 Gene Name: Zea mays MADS8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

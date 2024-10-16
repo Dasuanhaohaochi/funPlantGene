@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Picea abies on funPlantGenes</title>
+    <link>/categories/picea-abies/</link>
+    <description>Recent content in Picea abies on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/picea-abies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaWOX3</title>
+      <link>/genes/2024.6.9/picea-abies/pawox3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/picea-abies/pawox3/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PaWOX3 Gene Name: WUSCHEL homeobox protein WOX3 Genome: Species: Picea abies Functional Descriptions: The WUSCHEL-RELATED HOMEOBOX 3 gene PaWOX3 regulates lateral organ formation in Norway spruce.</description>
+    </item>
+  </channel>
+</rss>

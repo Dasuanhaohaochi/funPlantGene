@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hydrolase on funPlantGenes</title>
+    <link>/tags/hydrolase/</link>
+    <description>Recent content in hydrolase on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/hydrolase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CsGGT2</title>
+      <link>/genes/2024.6.9/camellia-sinensis/csggt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/camellia-sinensis/csggt2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CsGGT2 Gene Name: γ-glutamyl-transpeptidase Genome: Species: Camellia sinensis Functional Descriptions: γ-Glutamyl-transpeptidase CsGGT2 functions as light-activated theanine hydrolase in tea plant.</description>
+    </item>
+    <item>
+      <title>FtGH1</title>
+      <link>/genes/2024.6.9/fagopyrum-tataricum/ftping0201454200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fagopyrum-tataricum/ftping0201454200/</guid>
+      <description>Gene Details: Gene ID: FtPinG0201454200 Gene Symbol: FtGH1 Gene Name: glycosyl hydrolase 1 Genome: reference genome(https://www.</description>
+    </item>
+    <item>
+      <title>GhGDSL</title>
+      <link>/genes/gossypium_hirsutum/ghgdsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghgdsl/</guid>
+      <description>Gene Details: Gene ID:&#x9;CotAD_74480 Gene Symbol: GhGDSL Gene Name: Genome: Gossypium hirsutum genome (AD) Species: Gossypium hirsutum Functional Descriptions: GhMYB1 regulates SCW stage-specific expression of the GhGDSL promoter in the fibres of Gossypium hirsutum L.</description>
+    </item>
+    <item>
+      <title>HvDOF19</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvdof19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvdof19/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvDOF19 Gene Name: dof zinc finger protein19 Genome: Species: Hordeum vulgare Functional Descriptions: The HvDOF19 transcription factor mediates the abscisic acid-dependent repression of hydrolase genes in germinating barley aleurone.</description>
+    </item>
+    <item>
+      <title>LeMAN4</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/leman4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/leman4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: LeMAN4 Gene Name: endo-1,4-beta-mannosidase Genome: Species: Solanum lycopersicum Functional Descriptions: Characterisation of an endo-(1,4)-beta-mannanase (LeMAN4) expressed in ripening tomato fruit.</description>
+    </item>
+    <item>
+      <title>MKS1</title>
+      <link>/genes/2024.6.9/lycopersicon-hirsutum/mks1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lycopersicon-hirsutum/mks1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MKS1 Gene Name: Methylketone Synthase1 Genome: Species: Lycopersicon hirsutum Functional Descriptions: We report crystal structures of S.</description>
+    </item>
+    <item>
+      <title>MtNFH1</title>
+      <link>/genes/2024.6.9/medicago-truncatula/medtr4g116990.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/medicago-truncatula/medtr4g116990.1/</guid>
+      <description>Gene Details: Gene ID: Medtr4g116990.1 Gene Symbol: MtNFH1|MtChit5 Gene Name: NOD FACTOR HYDROLASE1 Genome: Species: Medicago truncatula Functional Descriptions: Role of the Nod Factor Hydrolase MtNFH1|MtChit5 in Regulating Nod Factor Levels during Rhizobial Infection and in Mature Nodules of Medicago truncatula.</description>
+    </item>
+    <item>
+      <title>OsUCH3</title>
+      <link>/genes/oryza_sativa/loc_os02g43760/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g43760/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g43760 RAPdb gene ID: Os02g0654500 Gene Symbol: OsUCH3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SaWRKY1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/sawrky1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/sawrky1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SaWRKY1 Gene Name: WRKY transcription factor 1 Genome: Species: Solanum lycopersicum Functional Descriptions: SaWRKY1 exhibited induced expression with significant modulation in xyloglucan endotrans hydrolase 5 (XTH5) and MYB2 expressions that correlated with the disease phenotypes.</description>
+    </item>
+    <item>
+      <title>STS1;OsLDDT1</title>
+      <link>/genes/oryza_sativa/loc_os03g02170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g02170/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g02170 RAPdb gene ID: Os03g0112800 Gene Symbol: STS1 OsLDDT1 OsSTS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmXTH;XTHB9</title>
+      <link>/genes/zea_mays/zmxthxthb9xth3gpm554/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmxthxthb9xth3gpm554/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb414340 Gene Symbol: ZmXTH XTHB9 xth3 gpm554 Gene Name: xyloglucan endo-transglycosylase/hydrolase3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmXTH1;XTHB10</title>
+      <link>/genes/zea_mays/zmxth1xthb10xth1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmxth1xthb10xth1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb414390 Gene Symbol: ZmXTH1 XTHB10 xth1 Gene Name: xyloglucan endo-transglycosylase/hydrolase1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

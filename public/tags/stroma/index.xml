@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stroma on funPlantGenes</title>
+    <link>/tags/stroma/</link>
+    <description>Recent content in stroma on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/stroma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FLO7</title>
+      <link>/genes/oryza_sativa/loc_os10g32680/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g32680/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g32680 RAPdb gene ID: Os10g0463800 Gene Symbol: FLO7 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsBTF3;Osj10gBTF3</title>
+      <link>/genes/oryza_sativa/loc_os10g34180/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g34180/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g34180 RAPdb gene ID: Os10g0483000 Gene Symbol: OsBTF3 Osj10gBTF3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsGGPPS1</title>
+      <link>/genes/oryza_sativa/loc_os07g39270/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g39270/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g39270 RAPdb gene ID: Os07g0580900 Gene Symbol: OsGGPPS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsGGPPS2;OsGRP</title>
+      <link>/genes/oryza_sativa/loc_os02g44780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g44780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g44780 RAPdb gene ID: Os02g0668100 Gene Symbol: OsGGPPS2 OsGRP Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsHO2;HO2</title>
+      <link>/genes/oryza_sativa/loc_os03g27770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g27770/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g27770 RAPdb gene ID: Os03g0395000 Gene Symbol: OsHO2 HO2 OsYLC2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPHT2;1</title>
+      <link>/genes/oryza_sativa/loc_os02g38020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g38020/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g38020 RAPdb gene ID: Os02g0593500 Gene Symbol: OsPHT2 1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>StAmy23</title>
+      <link>/genes/2024.6.9/solanum-tuberosum/pgsc0003dmg400009891/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-tuberosum/pgsc0003dmg400009891/</guid>
+      <description>Gene Details: Gene ID: PGSC0003DMG400009891 Gene Symbol: StAmy23 Gene Name: alpha-amylase 23 Genome: potato genome sequence consortium database (http://solanaceae.</description>
+    </item>
+    <item>
+      <title>SWL1</title>
+      <link>/genes/oryza_sativa/loc_os04g42030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g42030/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g42030 RAPdb gene ID: Os04g0497900 Gene Symbol: SWL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>YGL8;YL2</title>
+      <link>/genes/oryza_sativa/loc_os01g73450/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g73450/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g73450 RAPdb gene ID: Os01g0965400 Gene Symbol: YGL8 YL2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

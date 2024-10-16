@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Populus alba x Populus glandulosa on funPlantGenes</title>
+    <link>/categories/populus-alba-x-populus-glandulosa/</link>
+    <description>Recent content in Populus alba x Populus glandulosa on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/populus-alba-x-populus-glandulosa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PagFBL1</title>
+      <link>/genes/2024.6.9/populus-alba-x-populus-glandulosa/pagfbl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-alba-x-populus-glandulosa/pagfbl1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PagFBL1 Gene Name: TRANSPORT INHIBITOR RESPONSE 1 Genome: Species: Populus alba x Populus glandulosa Functional Descriptions: The auxin receptor TIR1 homolog (PagFBL1) regulates adventitious rooting through interactions with Aux/IAA28 in Populus.</description>
+    </item>
+    <item>
+      <title>PagIAA28.1</title>
+      <link>/genes/2024.6.9/populus-alba-x-populus-glandulosa/potri.018g057000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-alba-x-populus-glandulosa/potri.018g057000/</guid>
+      <description>Gene Details: Gene ID: Potri.018G057000 Gene Symbol: PagIAA28.1 Gene Name: Genome: Species: Populus alba x Populus glandulosa Functional Descriptions: PagFBL1 executes auxin signalling by interacting with PagIAA28.</description>
+    </item>
+    <item>
+      <title>PagIAA28.2</title>
+      <link>/genes/2024.6.9/populus-alba-x-populus-glandulosa/potri.006g236200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-alba-x-populus-glandulosa/potri.006g236200/</guid>
+      <description>Gene Details: Gene ID: Potri.006G236200 Gene Symbol: PagIAA28.2 Gene Name: Genome: Species: Populus alba x Populus glandulosa Functional Descriptions: PagFBL1 executes auxin signalling by interacting with PagIAA28.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fruit size on funPlantGenes</title>
+    <link>/tags/fruit-size/</link>
+    <description>Recent content in fruit size on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/fruit-size/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cm-ERS1</title>
+      <link>/genes/2024.7.17/cucumis-melo/cm-ers1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/cucumis-melo/cm-ers1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Cm-ERS1 Gene Name: ethylene response sensor 1 Genome: Species: Cucumis melo Functional Descriptions: Transgenic Lotus japonicus with an Ethylene Receptor Gene Cm-ERS1/H70A Enhances Formation of Infection Threads and Nodule Primordia.</description>
+    </item>
+    <item>
+      <title>CsMYB77</title>
+      <link>/genes/citrus_sinensis/csmyb77/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_sinensis/csmyb77/</guid>
+      <description>Gene Details: Gene ID:&#x9;Cs3g23950 Gene Symbol: CsMYB77 Gene Name: MYB77 transcription factor Genome: Citrus Pan-genome to Breeding Database Species: Citrus sinensis Functional Descriptions: The expression of PIN5 was activated by CsMYB77, which promoted free indole-3-acetic acid decline and modulated auxin signaling in the fruits of transgenic Hongkong kumquat lines.</description>
+    </item>
+    <item>
+      <title>SlGT30</title>
+      <link>/genes/2024.7.17/solanum-lycopersicum/solyc11g005380/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/solanum-lycopersicum/solyc11g005380/</guid>
+      <description>Gene Details: Gene ID: Solyc11g005380 Gene Symbol: SlGT30 Gene Name: trihelix transcription factor GT-2 Genome: Species: Solanum lycopersicum Functional Descriptions: CRISPR/Cas9 edited SlGT30 improved both drought resistance and fruit yield through endoreduplication.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>green ripe on funPlantGenes</title>
+    <link>/tags/green-ripe/</link>
+    <description>Recent content in green ripe on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/green-ripe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FaPE1</title>
+      <link>/genes/2024.6.9/fragaria-ananassa/fape1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/fragaria-ananassa/fape1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: FaPE1 Gene Name: pectinesterase1 Genome: Species: Fragaria ananassa Functional Descriptions: Concerning hormone regulation, auxin treatment increased FaPE1 mRNA levels in green fruit, whereas exogenous ethylene decreased FaPE1 mRNA levels in ripe and senescing fruits.</description>
+    </item>
+    <item>
+      <title>SlAREB1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slareb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slareb1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlAREB1 Gene Name: ABA-response element binding factor 1 Genome: Species: Solanum lycopersicum Functional Descriptions: The transcription factor AREB1 regulates primary metabolic pathways in tomato fruits.</description>
+    </item>
+    <item>
+      <title>SlGLK2</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g008160/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g008160/</guid>
+      <description>Gene Details: Gene ID: Solyc10g008160 Gene Symbol: SlGLK2 Gene Name: GOLDEN2-LIKE 2 Genome: Species: Solanum lycopersicum Functional Descriptions: Tomato GOLDEN2-LIKE Transcription Factors Reveal Molecular Gradients That Function during Fruit Development and Ripening.</description>
+    </item>
+    <item>
+      <title>SlPSY1</title>
+      <link>/genes/solanum_lycopersicum/slpsy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slpsy1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g031860 Gene Symbol: SlPSY1 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSGR1</title>
+      <link>/genes/solanum_lycopersicum/slsgr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slsgr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc08g080090 Gene Symbol: SlSGR1 Gene Name: Stay-Green 1 Genome: Tomato Genome version SL4.</description>
+    </item>
+  </channel>
+</rss>

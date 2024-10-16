@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solanum bulbocastanum on funPlantGenes</title>
+    <link>/categories/solanum-bulbocastanum/</link>
+    <description>Recent content in Solanum bulbocastanum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/solanum-bulbocastanum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rpi-blb2</title>
+      <link>/genes/2024.6.9/solanum-bulbocastanum/rpi-blb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-bulbocastanum/rpi-blb2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: Rpi-blb2 Gene Name: blight resistance protein Rpi-blb2 Genome: Species: Solanum bulbocastanum Functional Descriptions: The Rpi-blb2 gene from Solanum bulbocastanum is an Mi-1 gene homolog conferring broad-spectrum late blight resistance in potato.</description>
+    </item>
+  </channel>
+</rss>

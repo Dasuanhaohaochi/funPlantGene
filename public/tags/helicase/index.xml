@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>helicase on funPlantGenes</title>
+    <link>/tags/helicase/</link>
+    <description>Recent content in helicase on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/helicase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsAIP1;OsBAT1</title>
+      <link>/genes/oryza_sativa/loc_os01g36890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g36890/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g36890 RAPdb gene ID: Os01g0549700 Gene Symbol: OsAIP1 OsBAT1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsBIRH1;TCD33</title>
+      <link>/genes/oryza_sativa/loc_os03g01830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g01830/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g01830 RAPdb gene ID: Os03g0108600 Gene Symbol: OsBIRH1 TCD33 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSUV3;SUV3</title>
+      <link>/genes/oryza_sativa/loc_os03g53500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g53500/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g53500 RAPdb gene ID: Os03g0746500 Gene Symbol: OsSUV3 SUV3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>RECA3</title>
+      <link>/genes/oryza_sativa/loc_os01g67510/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g67510/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g67510 RAPdb gene ID: Os01g0901200 Gene Symbol: RECA3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>RLS3;OsPLS2</title>
+      <link>/genes/oryza_sativa/loc_os03g38990/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g38990/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g38990 RAPdb gene ID: Os03g0586900 Gene Symbol: RLS3 OsPLS2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>SlDEAD39</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc12g056740/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc12g056740/</guid>
+      <description>Gene Details: Gene ID: Solyc12g056740 Gene Symbol: SlDEAD39 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: The res (restored cell structure by salinity) tomato mutant reveals the role of the DEAD-box RNA helicase SlDEAD39 in plant development and salt response.</description>
+    </item>
+    <item>
+      <title>TWINKLE</title>
+      <link>/genes/oryza_sativa/loc_os06g45980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g45980/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g45980 RAPdb gene ID: Os06g0671700 Gene Symbol: TWINKLE Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmRH48</title>
+      <link>/genes/zea_mays/zmrh48/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmrh48/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb259260 Gene Symbol: ZmRH48 Gene Name: DEAD-box RNA helicase 48 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

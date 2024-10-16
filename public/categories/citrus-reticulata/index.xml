@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citrus reticulata on funPlantGenes</title>
+    <link>/categories/citrus-reticulata/</link>
+    <description>Recent content in Citrus reticulata on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/citrus-reticulata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CCD4b</title>
+      <link>/genes/citrus_reticulata/ccd4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/citrus_reticulata/ccd4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ciclev10028113m.g Gene Symbol: CCD4b Gene Name: CAROTENOID CLEAVAGE DIOXYGENASE 4 Genome: Citrus clementina v1.</description>
+    </item>
+    <item>
+      <title>CcOMT1</title>
+      <link>/genes/2024.7.17/citrus-clementina/czg_jg17822/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/citrus-clementina/czg_jg17822/</guid>
+      <description>Gene Details: Gene ID: CZG_jg17822 Gene Symbol: CcOMT1 Gene Name: O-methyltransferase Genome: Species: Citrus reticulata Functional Descriptions: Using multi-omics resources, we discover a putative caffeic acid O-methyltransferase (CcOMT1) that can transfer a methyl group to the 3-hydroxyl of natsudaidain to form 3,5,6,7,8,3’,4’-heptamethoxyflavone (HPMF).</description>
+    </item>
+    <item>
+      <title>CitSUS5</title>
+      <link>/genes/2024.6.9/citsus5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citsus5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CitSUS5 Gene Name: sucrose synthase 5 Genome: Citrus Genome Database Species: Citrus reticulata Functional Descriptions: Expression analyses and functional characterizations of CitSUS5 and CitSWEET6 support their proposed role in regulating fructose and glucose levels, hexose to sucrose ratio, and sucrose synthase cleavage activity.</description>
+    </item>
+    <item>
+      <title>CitSWEET6</title>
+      <link>/genes/2024.6.9/citsweet6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citsweet6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CitSWEET6 Gene Name: sugars will eventually be exported transporter 6 Genome: Citrus Genome Database Species: Citrus reticulata Functional Descriptions: Expression analyses and functional characterizations of CitSUS5 and CitSWEET6 support their proposed role in regulating fructose and glucose levels, hexose to sucrose ratio, and sucrose synthase cleavage activity.</description>
+    </item>
+    <item>
+      <title>CitZAT5</title>
+      <link>/genes/2024.6.9/citrus-reticulata/citzat5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-reticulata/citzat5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CitZAT5 Gene Name: ZINC FINGER OF ARABIDOPSIS THALIANA Genome: Citrus Genome Database Species: Citrus reticulata Functional Descriptions: The transcription factor CitZAT5 modifies sugar accumulation and hexose proportion in citrus fruit.</description>
+    </item>
+    <item>
+      <title>CrBCH2</title>
+      <link>/genes/2024.6.9/citrus-reticulata/crbch2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-reticulata/crbch2/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CrBCH2 Gene Name: β-carotene hydroxylases 2 Genome: Species: Citrus reticulata Functional Descriptions: An R2R3-MYB transcription factor represses the transformation of α- and β-branch carotenoids by negatively regulating expression of CrBCH2 and CrNCED5 in flavedo of Citrus reticulate.</description>
+    </item>
+    <item>
+      <title>CrNCED5</title>
+      <link>/genes/2024.6.9/citrus-reticulata/crnced5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/citrus-reticulata/crnced5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CrNCED5 Gene Name: 9-cis-epoxycarotenoid dioxygenase 5 Genome: Species: Citrus reticulata Functional Descriptions: An R2R3-MYB transcription factor represses the transformation of α- and β-branch carotenoids by negatively regulating expression of CrBCH2 and CrNCED5 in flavedo of Citrus reticulate.</description>
+    </item>
+  </channel>
+</rss>

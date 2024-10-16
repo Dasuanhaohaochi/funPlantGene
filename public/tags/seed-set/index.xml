@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seed set on funPlantGenes</title>
+    <link>/tags/seed-set/</link>
+    <description>Recent content in seed set on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/seed-set/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BoPMEI1</title>
+      <link>/genes/2024.6.9/brassica-oleracea/bopmei1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/brassica-oleracea/bopmei1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: BoPMEI1 Gene Name: pectin methylesterase inhibitor Genome: Species: Brassica oleracea Functional Descriptions: BoPMEI1, a pollen-specific pectin methylesterase inhibitor, has an essential role in pollen tube growth.</description>
+    </item>
+    <item>
+      <title>CsCWIN3</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csa3g777580/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csa3g777580/</guid>
+      <description>Gene Details: Gene ID: Csa3G777580 Gene Symbol: CsCWIN3 Gene Name: Cell wall invertase 3 Genome: Species: Cucumis sativus Functional Descriptions: Cell wall invertase 3 (CsCWIN3) plays critical roles in providing sugars during pollination and fertilization in cucumber CsCWIN3-RNA interference plants also showed affected seed development.</description>
+    </item>
+    <item>
+      <title>MS2</title>
+      <link>/genes/glycine_max/ms2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/ms2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.10G281800 Gene Symbol: MS2 Gene Name: Genome: Gmax_Wm82_a2_v1 Species: Glycine max Functional Descriptions: Natural variation of MS2 confers male fertility and drives hybrid breeding in soybean.</description>
+    </item>
+    <item>
+      <title>OsMKKK70</title>
+      <link>/genes/oryza_sativa/loc_os01g50410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g50410/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g50410 RAPdb gene ID: Os01g0699500 Gene Symbol: OsMKKK70 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMLH1;PSSR1</title>
+      <link>/genes/oryza_sativa/loc_os01g72880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g72880/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g72880 RAPdb gene ID: Os01g0958900 Gene Symbol: OsMLH1 PSSR1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNPK1-PK;OsMAPKKK62</title>
+      <link>/genes/oryza_sativa/loc_os01g50420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g50420/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g50420 RAPdb gene ID: Os01g0699600 Gene Symbol: OsNPK1-PK OsMAPKKK62 OsMKKK62 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>VvMybPA1</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vvmybpa1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vvmybpa1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VvMybPA1 Gene Name: MYB transcription factor PA1 Genome: Species: Vitis vinifera Functional Descriptions: A previous study has already identified VvMybPA1 as the first transcription factor involved in the regulation of the proanthocyanidin pathway during seed development in grapevine.</description>
+    </item>
+  </channel>
+</rss>

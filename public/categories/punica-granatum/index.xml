@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Punica granatum on funPlantGenes</title>
+    <link>/categories/punica-granatum/</link>
+    <description>Recent content in Punica granatum on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/punica-granatum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PgBEL1</title>
+      <link>/genes/punica_granatum/pgbel1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/punica_granatum/pgbel1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Pg029909.1 Gene Symbol: PgBEL1 Gene Name: Genome: Species: Punica granatum Functional Description: We report the function of PgCRC and PgINO in ovule and seed development and show that PgCRC and PgINO interact with PgBEL1.</description>
+    </item>
+    <item>
+      <title>PgCRC</title>
+      <link>/genes/punica_granatum/pgcrc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/punica_granatum/pgcrc/</guid>
+      <description>Gene Details: Gene ID:&#x9;Pg016200.1 Gene Symbol: PgCRC Gene Name: Genome: Species: Punica granatum Functional Description: We report the function of PgCRC and PgINO in ovule and seed development and show that PgCRC and PgINO interact with PgBEL1.</description>
+    </item>
+    <item>
+      <title>PgINO</title>
+      <link>/genes/punica_granatum/pgino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/punica_granatum/pgino/</guid>
+      <description>Gene Details: Gene ID:&#x9;Pg016102.1 Gene Symbol: PgINO Gene Name: Genome: Species: Punica granatum Functional Description: We report the function of PgCRC and PgINO in ovule and seed development and show that PgCRC and PgINO interact with PgBEL1.</description>
+    </item>
+  </channel>
+</rss>

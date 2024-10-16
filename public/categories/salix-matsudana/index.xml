@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salix matsudana on funPlantGenes</title>
+    <link>/categories/salix-matsudana/</link>
+    <description>Recent content in Salix matsudana on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/salix-matsudana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SmCAD7</title>
+      <link>/genes/salix_matsudana/smcad7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/salix_matsudana/smcad7/</guid>
+      <description>Gene Details: Gene ID:&#x9;d4_transcript_44168 Gene Symbol: SmCAD7 Gene Name: Genome: Species: Salix matsudana Functional Description: SmCAD7and SmCCR1increased lignin content and enhanced the Cd tolerance in poplar calli.</description>
+    </item>
+    <item>
+      <title>SmCCR1</title>
+      <link>/genes/salix_matsudana/smccr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/salix_matsudana/smccr1/</guid>
+      <description>Gene Details: Gene ID:&#x9;d4_transcript_16062 Gene Symbol: SmCCR1 Gene Name: Genome: Species: Salix matsudana Functional Description: SmCAD7and SmCCR1increased lignin content and enhanced the Cd tolerance in poplar calli.</description>
+    </item>
+  </channel>
+</rss>

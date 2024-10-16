@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>central root cap on funPlantGenes</title>
+    <link>/tags/central-root-cap/</link>
+    <description>Recent content in central root cap on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/central-root-cap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT4G30080</title>
+      <link>/genes/arabidopsis_thaliana/at4g30080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at4g30080/</guid>
+      <description>Gene Details: Gene ID: AT4G30080 Gene Symbol: ARF16 Gene Name: auxin response factor 16 Description: auxin response factor 16;(source:Araport11) TAIR Accession: locus:2126460 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT4G30080.</description>
+    </item>
+  </channel>
+</rss>

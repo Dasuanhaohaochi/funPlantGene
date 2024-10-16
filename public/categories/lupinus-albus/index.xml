@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lupinus albus on funPlantGenes</title>
+    <link>/categories/lupinus-albus/</link>
+    <description>Recent content in lupinus albus on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/lupinus-albus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LaCLE35</title>
+      <link>/genes/2024.6.9/lupinus-albus/lalb_chr05g0213851/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/lupinus-albus/lalb_chr05g0213851/</guid>
+      <description>Gene Details: Gene ID: Lalb_Chr05g0213851 Gene Symbol: LaCLE35 Gene Name: Genome: Species: lupinus albus Functional Descriptions: The LaCLE35 peptide modifies rootlet density and length in cluster roots of white lupin.</description>
+    </item>
+    <item>
+      <title>LaPAP12</title>
+      <link>/genes/lupinus_albus/lapap12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/lupinus_albus/lapap12/</guid>
+      <description>Gene Details: Gene ID:&#x9;Lalb_Chr23g0266391 Gene Symbol: LaPAP12 Gene Name: Genome: whole white lupin genome(https://www.</description>
+    </item>
+    <item>
+      <title>LaTRE1</title>
+      <link>/genes/2024.7.17/lupinus-albus/lalb_chr05g0223881/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/lupinus-albus/lalb_chr05g0223881/</guid>
+      <description>Gene Details: Gene ID: Lalb_Chr05g0223881 Gene Symbol: LaTRE1 Gene Name: TREHALASE1 Genome: Species: Lupinus albus Functional Descriptions: Under P deficiency, validamycin A treatment, which inhibits trehalase, led to the accumulation of trehalose and promoted the formation of CR with enhanced organic acid production, whereas overexpression of the white lupin TREHALASE1 (LaTRE1) led to decreased trehalose levels, lateral rootlet density, and organic acid production.</description>
+    </item>
+  </channel>
+</rss>

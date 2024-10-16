@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fatty acid hydroxylation on funPlantGenes</title>
+    <link>/tags/fatty-acid-hydroxylation/</link>
+    <description>Recent content in fatty acid hydroxylation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/fatty-acid-hydroxylation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GhCYP703A2</title>
+      <link>/genes/gossypium_hirsutum/ghcyp703a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ghcyp703a2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir D12G012350.1 Gene Symbol: GhCYP703A2 Gene Name: Genome: Gossypium hirsutum (TM-1) reference genome Species: Gossypium hirsutum Functional Descriptions: Cytochrome P450 mono-oxygenase CYP703A2 plays a central role in sporopollenin formation and ms5ms6 fertility in cotton.</description>
+    </item>
+    <item>
+      <title>Ms5</title>
+      <link>/genes/gossypium_hirsutum/ms5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ms5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_A12G012140 Gene Symbol: Ms5 Gene Name: Genome: genome sequence of G.</description>
+    </item>
+    <item>
+      <title>Ms6</title>
+      <link>/genes/gossypium_hirsutum/ms6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_hirsutum/ms6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ghir_D12G012350 Gene Symbol: Ms6 Gene Name: Genome: genome sequence of G.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drought sensitivity on funPlantGenes</title>
+    <link>/tags/drought-sensitivity/</link>
+    <description>Recent content in drought sensitivity on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/drought-sensitivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARGOS8</title>
+      <link>/genes/zea_mays/argos8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/argos8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb287000 Gene Symbol: ARGOS8 Gene Name: Zea mays ARGOS8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>CaAIRE1</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca05g17640/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca05g17640/</guid>
+      <description>Gene Details: Gene ID: CA05g17640 Gene Symbol: CaAIRE1 Gene Name: ABA Induced RING-type E3 ligase 1 Genome: Species: Capsicum annuum Functional Descriptions: Pepper E3 ligase CaAIRE1 promotes ABA sensitivity and drought tolerance by degradation of protein phosphatase CaAITP1.</description>
+    </item>
+    <item>
+      <title>CaCIPK3</title>
+      <link>/genes/2024.6.9/capsicum-annuum/ca01g29520/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/capsicum-annuum/ca01g29520/</guid>
+      <description>Gene Details: Gene ID: CA01g29520 Gene Symbol: CaCIPK3 Gene Name: CBL-interacting protein kinase 3 Genome: Species: Capsicum annuum Functional Descriptions: The CaCIPK3 gene positively regulates drought tolerance in pepper.</description>
+    </item>
+    <item>
+      <title>CaHDZ12</title>
+      <link>/genes/2024.6.9/cicer-arietinum/cahdz12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cicer-arietinum/cahdz12/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CaHDZ12 Gene Name: Homeodomain-Leucine Zipper (HD-Zip) I Transcription Factor12 Genome: Species: Cicer arietinum Functional Descriptions: Chickpea WRKY70 Regulates the Expression of a Homeodomain-Leucine Zipper (HD-Zip) I Transcription Factor CaHDZ12, which Confers Abiotic Stress Tolerance in Transgenic Tobacco and Chickpea.</description>
+    </item>
+    <item>
+      <title>CsATAF1</title>
+      <link>/genes/2024.6.9/cucumis-sativus/csa4m361820.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucumis-sativus/csa4m361820.1/</guid>
+      <description>Gene Details: Gene ID: Csa4M361820.1 Gene Symbol: CsATAF1 Gene Name: Genome: Species: Cucumis sativus Functional Descriptions: CsATAF1 Positively Regulates Drought Stress Tolerance by an ABA-Dependent Pathway and by Promoting ROS Scavenging in Cucumber.</description>
+    </item>
+    <item>
+      <title>DST;WL1</title>
+      <link>/genes/oryza_sativa/loc_os03g57240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g57240/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g57240 RAPdb gene ID: Os03g0786400 Gene Symbol: DST WL1 HST1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>GF14b;OsGF14b</title>
+      <link>/genes/oryza_sativa/loc_os04g38870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g38870/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g38870 RAPdb gene ID: Os04g0462500 Gene Symbol: GF14b OsGF14b Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>GhMKK5</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghmkk5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghmkk5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhMKK5 Gene Name: mitogen-activated protein kinase kinase5 Genome: Species: Gossypium hirsutum Functional Descriptions: Cotton GhMKK5 affects disease resistance, induces HR-like cell death, and reduces the tolerance to salt and drought stress in transgenic Nicotiana benthamiana.</description>
+    </item>
+    <item>
+      <title>GhWRKY17</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/ghwrky17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/ghwrky17/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: GhWRKY17 Gene Name: WRKY transcription factor 17 Genome: Species: Gossypium hirsutum Functional Descriptions: The Cotton WRKY Transcription Factor GhWRKY17 Functions in Drought and Salt Stress in Transgenic Nicotiana benthamiana Through ABA Signaling and the Modulation of Reactive Oxygen Species Production.</description>
+    </item>
+    <item>
+      <title>GmPLATZ17</title>
+      <link>/genes/glycine_max/gmplatz17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmplatz17/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.10G063200 Gene Symbol: GmPLATZ17 Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: The soybean PLATZ transcription factor GmPLATZ17 suppresses drought tolerance by interfering with stress-associated gene regulation of GmDREB5.</description>
+    </item>
+    <item>
+      <title>IbLEA14</title>
+      <link>/genes/2024.6.9/ipomoea-batatas/iblea14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/ipomoea-batatas/iblea14/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: IbLEA14 Gene Name: Late embryogenesis abundant 14 Genome: Species: Ipomoea batatas Functional Descriptions: Sweetpotato late embryogenesis abundant 14 (IbLEA14) gene influences lignification and increases osmotic- and salt stress-tolerance of transgenic calli.</description>
+    </item>
+    <item>
+      <title>LP2</title>
+      <link>/genes/oryza_sativa/loc_os02g40240/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g40240/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g40240 RAPdb gene ID: Os02g0615800 Gene Symbol: LP2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MdARF17</title>
+      <link>/genes/2024.6.9/malus-domestica/mdarf17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdarf17/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdARF17 Gene Name: Auxin Response Factor 17 Genome: Species: Malus domestica Functional Descriptions: Using stable transgenic plants, we found that drought tolerance was improved by higher levels of Mdm-miR160 or MdHYL1 and by decreased levels of MdARF17, whereas reductions in MdHYL1 or increases in MdARF17 led to greater drought sensitivity.</description>
+    </item>
+    <item>
+      <title>MdSAT1</title>
+      <link>/genes/2024.6.9/malus-domestica/mdsat1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdsat1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MdSAT1 Gene Name: Genome: Species: Malus domestica Functional Descriptions: Apple MdSAT1 encodes a bHLHm1 transcription factor involved in salinity and drought responses.</description>
+    </item>
+    <item>
+      <title>MdSHINE2</title>
+      <link>/genes/2024.6.9/malus-domestica/mdp0000178263/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/malus-domestica/mdp0000178263/</guid>
+      <description>Gene Details: Gene ID: MDP0000178263 Gene Symbol: MdSHINE2 Gene Name: AP2/EREBP transcription factor 2 Genome: Species: Malus domestica Functional Descriptions: Apple AP2/EREBP transcription factor MdSHINE2 confers drought resistance by regulating wax biosynthesis.</description>
+    </item>
+    <item>
+      <title>MeCatalase1</title>
+      <link>/genes/2024.6.9/manihot-esculenta/me.05g130500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/manihot-esculenta/me.05g130500/</guid>
+      <description>Gene Details: Gene ID: Me.05G130500 Gene Symbol: MeCatalase1 Gene Name: Genome: Species: Manihot esculenta Functional Descriptions: The chaperone MeHSP90 recruits MeWRKY20 and MeCatalase1 to regulate drought stress resistance in cassava.</description>
+    </item>
+    <item>
+      <title>MeWRKY20</title>
+      <link>/genes/2024.6.9/manihot-esculenta/me.15g118300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/manihot-esculenta/me.15g118300/</guid>
+      <description>Gene Details: Gene ID: Me.15G118300 Gene Symbol: MeWRKY20 Gene Name: Genome: Species: Manihot esculenta Functional Descriptions: The chaperone MeHSP90 recruits MeWRKY20 and MeCatalase1 to regulate drought stress resistance in cassava.</description>
+    </item>
+    <item>
+      <title>OsMYB60</title>
+      <link>/genes/oryza_sativa/loc_os12g03150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os12g03150/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g03150 RAPdb gene ID: Os12g0125000 Gene Symbol: OsMYB60 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPIP2;3</title>
+      <link>/genes/oryza_sativa/loc_os04g44060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g44060/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g44060 RAPdb gene ID: Os04g0521100 Gene Symbol: OsPIP2 3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Osr40c1</title>
+      <link>/genes/oryza_sativa/loc_os03g21040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g21040/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g21040 RAPdb gene ID: Os03g0327600 Gene Symbol: Osr40c1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsWRKY114</title>
+      <link>/genes/oryza_sativa/os12g0116100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/os12g0116100/</guid>
+      <description>Gene Details: MSU gene ID: None RAPdb gene ID: Os12g0116100 Gene Symbol: OsWRKY114 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PbrMYB21</title>
+      <link>/genes/2024.6.9/pyrus-betulaefolia/pbr028812.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-betulaefolia/pbr028812.1/</guid>
+      <description>Gene Details: Gene ID: Pbr028812.1 Gene Symbol: PbrMYB21 Gene Name: MYB transcription factor 21 Genome: Species: Pyrus betulaefolia Functional Descriptions: PbrMYB21, a novel MYB protein of Pyrus betulaefolia, functions in drought tolerance and modulates polyamine levels by regulating arginine decarboxylase gene.</description>
+    </item>
+    <item>
+      <title>SlNPR1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/slnpr1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/slnpr1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: SlNPR1 Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: CRISPR/Cas9-Mediated SlNPR1 mutagenesis reduces tomato plant drought tolerance.</description>
+    </item>
+    <item>
+      <title>SlUGT75C1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g092500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g092500/</guid>
+      <description>Gene Details: Gene ID: Solyc09g092500 Gene Symbol: SlUGT75C1 Gene Name: UDP-glycosyltransferase 75C1 Genome: Species: Solanum lycopersicum Functional Descriptions: SlUGT75C1 catalyzes the glucosylation of both ABA and IAA in vitro| SlUGT76E1 can only catalyze the conjugation of ABA| and SlUGT73C4 cannot glycosylate either ABA or IAA.</description>
+    </item>
+    <item>
+      <title>TaCIPK23</title>
+      <link>/genes/triticum_aestivum/tacipk23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tacipk23/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaCIPK23 Gene Name: CBL-interacting protein kinase 23 Genome: Species: Triticum aestivum Functional Descriptions: Wheat CBL-interacting protein kinase 23 (TaCIPK23) positively regulates drought stress and ABA responses TaCIPK23-overexpression wheat and Arabidopsis showed an higher survival rate under drought conditions with enhanced germination rate, developed root system, increased accumulation of osmolytes, and reduced water loss rate.</description>
+    </item>
+    <item>
+      <title>TaERF87</title>
+      <link>/genes/triticum_aestivum/taerf87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taerf87/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4A02G001300 Gene Symbol: TaERF87 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaMPK3-4A</title>
+      <link>/genes/triticum_aestivum/tampk3-4a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tampk3-4a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4A02G106400 Gene Symbol: TaMPK3-4A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaMPK3-4B</title>
+      <link>/genes/triticum_aestivum/tampk3-4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tampk3-4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4B02G197800 Gene Symbol: TaMPK3-4B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaMPK3-4D</title>
+      <link>/genes/triticum_aestivum/tampk3-4d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tampk3-4d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4D02G198600 Gene Symbol: TaMPK3-4D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaNAC48</title>
+      <link>/genes/triticum_aestivum/traescs1b02g274300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs1b02g274300/</guid>
+      <description>Gene Details: Gene ID: TraesCS1B02G274300 Gene Symbol: TaNAC48 Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: TaNAC48 positively regulates drought tolerance and ABA responses in wheat (Triticum aestivum L.</description>
+    </item>
+    <item>
+      <title>TaP5CR1-B</title>
+      <link>/genes/triticum_aestivum/tap5cr1-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tap5cr1-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3D02G357200 Gene Symbol: TaP5CR1-B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaP5CR1-D</title>
+      <link>/genes/triticum_aestivum/tap5cr1-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tap5cr1-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3D02G483400 Gene Symbol: TaP5CR1-D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaPYL1-1B</title>
+      <link>/genes/triticum_aestivum/tapyl1-1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tapyl1-1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1B02G206600 Gene Symbol: TaPYL1-1B Gene Name: Polyketide cyclase / dehydrase and lipid transport 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>ZmAL14</title>
+      <link>/genes/zea_mays/zm00001eb353930/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb353930/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb353930 Gene Symbol: ZmAL14|ZmAL9 Gene Name: Alfin-like-transcription factor 9 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmCCT9;ZmCOL04</title>
+      <link>/genes/zea_mays/zmcct9zmcol04zmbbx5col11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmcct9zmcol04zmbbx5col11/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb078490 Gene Symbol: ZmCCT9 ZmCOL04 ZmBBX5 col11 Gene Name: C2C2-CO-like-transcription factor 11 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmHsf08;ZmHSFA2-4</title>
+      <link>/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmhsf08zmhsfa2-4hsftf1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb100770 Gene Symbol: ZmHsf08 ZmHSFA2-4 hsftf1 Gene Name: HSF-transcription factor 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmNAC19;ZmNAC55</title>
+      <link>/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmnac19zmnac55zma006493nactf60/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb212120 Gene Symbol: ZmNAC19 ZmNAC55 Zma006493 nactf60 Gene Name: NAC-transcription factor 60 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSRL5</title>
+      <link>/genes/zea_mays/zmsrl5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmsrl5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb008140 Gene Symbol: ZmSRL5 Gene Name: semi-rolled leaf5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

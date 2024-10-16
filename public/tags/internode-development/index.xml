@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>internode development on funPlantGenes</title>
+    <link>/tags/internode-development/</link>
+    <description>Recent content in internode development on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/internode-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GmAP1a</title>
+      <link>/genes/glycine_max/gmap1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmap1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.16G091300 Gene Symbol: GmAP1a Gene Name: APETALA1 Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: APETALA1 (AP1) functions as a class A gene in the ABCE model for floral organ development, helping to specify carpel, stamen, petal, and sepal identities.</description>
+    </item>
+    <item>
+      <title>GmAP1b</title>
+      <link>/genes/glycine_max/gmap1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmap1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.08G269800 Gene Symbol: GmAP1b Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: APETALA1 (AP1) functions as a class A gene in the ABCE model for floral organ development, helping to specify carpel, stamen, petal, and sepal identities.</description>
+    </item>
+    <item>
+      <title>GmAP1c</title>
+      <link>/genes/glycine_max/gmap1c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmap1c/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.01G064200 Gene Symbol: GmAP1c Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: APETALA1 (AP1) functions as a class A gene in the ABCE model for floral organ development, helping to specify carpel, stamen, petal, and sepal identities.</description>
+    </item>
+    <item>
+      <title>GmAP1d</title>
+      <link>/genes/glycine_max/gmap1d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/gmap1d/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.02G121600 Gene Symbol: GmAP1d Gene Name: Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: APETALA1 (AP1) functions as a class A gene in the ABCE model for floral organ development, helping to specify carpel, stamen, petal, and sepal identities.</description>
+    </item>
+    <item>
+      <title>GN1</title>
+      <link>/genes/zea_mays/gn1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/gn1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb117820 Gene Symbol: GN1 Gene Name: Gnarley1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>MeHDZ14</title>
+      <link>/genes/manihot_esculenta/mehdz14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/mehdz14/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.01G242300 Gene Symbol: MeHDZ14 Gene Name: Genome: Manihot esculenta, v8.</description>
+    </item>
+    <item>
+      <title>PpTIP2</title>
+      <link>/genes/2024.6.9/prunus-persica/pp03g006310/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/pp03g006310/</guid>
+      <description>Gene Details: Gene ID: Pp03G006310 Gene Symbol: PpTIP2 Gene Name: aquaporin tonoplast intrinsic protein 2 Genome: CN14 genome Species: Prunus persica Functional Descriptions: De novo chromosome-level genome of a semi-dwarf cultivar of Prunus persica identifies the aquaporin PpTIP2 as responsible for temperature-sensitive semi-dwarf trait and PpB3-1 for flower type and size.</description>
+    </item>
+    <item>
+      <title>PvWOX3a</title>
+      <link>/genes/2024.6.9/panicum-virgatum/pavir.8kg017200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/panicum-virgatum/pavir.8kg017200/</guid>
+      <description>Gene Details: Gene ID: Pavir.8KG017200 Gene Symbol: PvWOX3a Gene Name: WUSCHEL-related homeobox transcription factor Genome: Species: Panicum virgatum Functional Descriptions: Overexpression of PvWOX3a in switchgrass promotes stem development and increases plant height.</description>
+    </item>
+    <item>
+      <title>SUI3</title>
+      <link>/genes/oryza_sativa/loc_os01g49024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g49024/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g49024 ,LOC_Os01g49020 RAPdb gene ID: Os01g0683500 Gene Symbol: SUI3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaARF12-2A</title>
+      <link>/genes/triticum_aestivum/taarf12-2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taarf12-2a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2A01G547800 Gene Symbol: TaARF12-2A Gene Name: Auxin response factor 12 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaARF12-2B</title>
+      <link>/genes/triticum_aestivum/taarf12-2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taarf12-2b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G578500 Gene Symbol: TaARF12-2B Gene Name: Auxin response factor 12 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaARF12-2D</title>
+      <link>/genes/triticum_aestivum/taarf12-2d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taarf12-2d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D02G548900 Gene Symbol: TaARF12-2D Gene Name: Auxin response factor 12 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>VaXTH1</title>
+      <link>/genes/2024.7.17/phaseolus-angularis/vaxth1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/phaseolus-angularis/vaxth1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: VaXTH1 Gene Name: Xyloglucan endotransglucosylase/hydrolase 1 Genome: Species: Phaseolus angularis Functional Descriptions: Two Azuki Bean XTH Genes, VaXTH1 and VaXTH2, with Similar Tissue-Specific Expression Profiles, are Differently Regulated by Auxin.</description>
+    </item>
+    <item>
+      <title>ZmCKX10</title>
+      <link>/genes/zea_mays/zmckx10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmckx10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb040280 Gene Symbol: ZmCKX10 Gene Name: cytokinin oxidase10 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmD1;ZmCYP90D1</title>
+      <link>/genes/zea_mays/zmd1zmcyp90d1cyp45/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmd1zmcyp90d1cyp45/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb120890 Gene Symbol: ZmD1 ZmCYP90D1 cyp45 Gene Name: cytochrome P450 45 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

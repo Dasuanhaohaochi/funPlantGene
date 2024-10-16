@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pinus densiflora on funPlantGenes</title>
+    <link>/categories/pinus-densiflora/</link>
+    <description>Recent content in Pinus densiflora on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/pinus-densiflora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PdGA20ox1</title>
+      <link>/genes/2024.6.9/pinus-densiflora/pdga20ox1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pinus-densiflora/pdga20ox1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PdGA20ox1 Gene Name: gibberellin 20-oxidase 1 Genome: Species: Pinus densiflora Functional Descriptions: Wood forming tissue-specific bicistronic expression of PdGA20ox1 and PtrMYB221 improves both the quality and quantity of woody biomass production in a hybrid poplar.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tiller bud outgrowth on funPlantGenes</title>
+    <link>/tags/tiller-bud-outgrowth/</link>
+    <description>Recent content in tiller bud outgrowth on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/tiller-bud-outgrowth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Csl-1A</title>
+      <link>/genes/triticum_aestivum/csl-1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/csl-1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1A02G010500 Gene Symbol: Csl-1A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>MOC1</title>
+      <link>/genes/oryza_sativa/loc_os06g40780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os06g40780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os06g40780 RAPdb gene ID: Os06g0610300 ,Os06g0610350 Gene Symbol: MOC1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MOC2;FBP1</title>
+      <link>/genes/oryza_sativa/loc_os01g64660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g64660/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g64660 RAPdb gene ID: Os01g0866400 Gene Symbol: MOC2 FBP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsAAP5</title>
+      <link>/genes/oryza_sativa/loc_os01g65660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g65660/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g65660 RAPdb gene ID: Os01g0878400 Gene Symbol: OsAAP5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsTB1;FC1</title>
+      <link>/genes/oryza_sativa/loc_os03g49880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g49880/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g49880 RAPdb gene ID: Os03g0706500 Gene Symbol: OsTB1 FC1 SCM3 MP3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaD27-B</title>
+      <link>/genes/triticum_aestivum/tad27-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tad27-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS7B02G319100 Gene Symbol: TaD27-B Gene Name: Beta-carotene isomerase D27 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>tin1</title>
+      <link>/genes/zea_mays/tin1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/tin1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb300220 Gene Symbol: tin1 Gene Name: tiller number 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Zcn8;pebp8</title>
+      <link>/genes/zea_mays/zcn8pebp8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zcn8pebp8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb353250 Gene Symbol: Zcn8 pebp8 Gene Name: phosphatidylethanolamine-binding protein8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stalk strength on funPlantGenes</title>
+    <link>/tags/stalk-strength/</link>
+    <description>Recent content in stalk strength on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/stalk-strength/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stiff1;ZmAPO1-6</title>
+      <link>/genes/zea_mays/stiff1zmapo1-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/stiff1zmapo1-6/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb274390 Gene Symbol: Stiff1 ZmAPO1-6 Gene Name: stiff stalk1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

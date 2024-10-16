@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>melatonin biosynthesis on funPlantGenes</title>
+    <link>/tags/melatonin-biosynthesis/</link>
+    <description>Recent content in melatonin biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/melatonin-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACS1</title>
+      <link>/genes/vitis_vinifera/acs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/acs1/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_215s0046g02220 Gene Symbol: ACS1 Gene Name: Genome: genome assembly 12X.</description>
+    </item>
+    <item>
+      <title>COMT;OsCOMT</title>
+      <link>/genes/oryza_sativa/loc_os08g06100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g06100/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g06100 RAPdb gene ID: Os08g0157500 Gene Symbol: COMT OsCOMT OsCAldOMT1 ROMT9 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>MeASMT1</title>
+      <link>/genes/manihot_esculenta/measmt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/measmt1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.13G140900 Gene Symbol: MeASMT1 Gene Name: N-aceylserotonin O-methyltransferase 1 Genome: Species: Manihot esculenta Functional Descriptions: Melatonin synthesis genes N-aceylserotonin O-methyltransferase 1 (MeASMT1) expression and antiviral response.</description>
+    </item>
+    <item>
+      <title>MeT5H</title>
+      <link>/genes/manihot_esculenta/met5h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/met5h/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.06G111700 Gene Symbol: MeT5H Gene Name: tryptamine 5-hydroxylase Genome: Species: Manihot esculenta Functional Descriptions: Melatonin synthesis genes tryptamine 5-hydroxylase (MeT5H) expression and antiviral response.</description>
+    </item>
+    <item>
+      <title>MeTDC2</title>
+      <link>/genes/manihot_esculenta/metdc2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/manihot_esculenta/metdc2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Manes.12G038600 Gene Symbol: MeTDC2 Gene Name: tryptophan decarboxylase 2 Genome: Species: Manihot esculenta Functional Descriptions: Melatonin synthesis genes tryptophan decarboxylase 2 (MeTDC2) expression and antiviral response.</description>
+    </item>
+    <item>
+      <title>MYB108A</title>
+      <link>/genes/vitis_vinifera/myb108a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/vitis_vinifera/myb108a/</guid>
+      <description>Gene Details: Gene ID:&#x9;VIT_205s0077g00500 Gene Symbol: MYB108A Gene Name: Genome: genome assembly 12X.</description>
+    </item>
+    <item>
+      <title>PuRBOHF</title>
+      <link>/genes/2024.6.9/pyrus-ussuriensis/purbohf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pyrus-ussuriensis/purbohf/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PuRBOHF Gene Name: respiratory burst oxidase homolog Genome: Species: Pyrus ussuriensis Functional Descriptions: Production of reactive oxygen species by PuRBOHF is critical for stone cell development in pear fruit.</description>
+    </item>
+    <item>
+      <title>SlASMT5</title>
+      <link>/genes/solanum_lycopersicum/slasmt5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slasmt5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc03g097700 Gene Symbol: SlASMT5 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlASMT7</title>
+      <link>/genes/solanum_lycopersicum/slasmt7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slasmt7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc06g064500 Gene Symbol: SlASMT7 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlCOMT2</title>
+      <link>/genes/solanum_lycopersicum/slcomt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/solanum_lycopersicum/slcomt2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Solyc10g85830 Gene Symbol: SlCOMT2 Gene Name: Genome: Tomato Genome version SL4.</description>
+    </item>
+    <item>
+      <title>SlSNAT</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc10g074910/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc10g074910/</guid>
+      <description>Gene Details: Gene ID: Solyc10g074910 Gene Symbol: SlSNAT Gene Name: Genome: Species: Solanum lycopersicum Functional Descriptions: Identified the SlSNAT gene, which is responsible for melatonin biosynthesis in tomato.</description>
+    </item>
+  </channel>
+</rss>

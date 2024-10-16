@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>somatic embryogenesis on funPlantGenes</title>
+    <link>/tags/somatic-embryogenesis/</link>
+    <description>Recent content in somatic embryogenesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/somatic-embryogenesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BBM1;OsASGR-BBML1</title>
+      <link>/genes/oryza_sativa/loc_os11g19060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g19060/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g19060 RAPdb gene ID: Os11g0295900 Gene Symbol: BBM1 OsASGR-BBML1 OsBBM1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>GhSPL10</title>
+      <link>/genes/2024.6.9/gossypium-hirsutum/gh_a12g0866/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/gossypium-hirsutum/gh_a12g0866/</guid>
+      <description>Gene Details: Gene ID: Gh_A12G0866 Gene Symbol: GhSPL10 Gene Name: Genome: Species: Gossypium hirsutum Functional Descriptions: The GhmiR157a–GhSPL10 regulatory module controls initial cellular dedifferentiation and callus proliferation in cotton by modulating ethylene-mediated flavonoid biosynthesis.</description>
+    </item>
+    <item>
+      <title>MtSERF1</title>
+      <link>/genes/2024.7.17/medicago-truncatula/mtserf1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/medicago-truncatula/mtserf1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: MtSERF1 Gene Name: SOMATIC EMBRYO RELATED FACTOR1 Genome: Species: Medicago truncatula Functional Descriptions: The transcription factor MtSERF1 of the ERF subfamily identified by transcriptional profiling is required for somatic embryogenesis induced by auxin plus cytokinin in Medicago truncatula.</description>
+    </item>
+    <item>
+      <title>OsRKD3</title>
+      <link>/genes/oryza_sativa/loc_os01g37100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g37100/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g37100 RAPdb gene ID: Os01g0551600 ,Os01g0551700 Gene Symbol: OsRKD3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmMADS3</title>
+      <link>/genes/zea_mays/zmmads3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmmads3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb298680 Gene Symbol: ZmMADS3 Gene Name: MADS3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWOX2A;Wox2a</title>
+      <link>/genes/zea_mays/zmwox2awox2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmwox2awox2a/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb148390 Gene Symbol: ZmWOX2A Wox2a Gene Name: Wuschel-like homeobox protein 2a Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmWus2;ZmWuschel2</title>
+      <link>/genes/zea_mays/zmwus2zmwuschel2hb122wus2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmwus2zmwuschel2hb122wus2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb433010 Gene Symbol: ZmWus2 ZmWuschel2 hb122 wus2 Gene Name: Homeobox-transcription factor 122 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

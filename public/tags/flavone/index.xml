@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flavone on funPlantGenes</title>
+    <link>/tags/flavone/</link>
+    <description>Recent content in flavone on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/flavone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CmFNSII-1</title>
+      <link>/genes/2024.6.9/chrysanthemum-morifolium/unigene0057769/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/chrysanthemum-morifolium/unigene0057769/</guid>
+      <description>Gene Details: Gene ID: Unigene0057769 Gene Symbol: CmFNSII-1 Gene Name: flavones synthase II gene Genome: Species: Chrysanthemum morifolium Functional Descriptions: The predominant flavones in the ray florets of chrysanthemum flowers are apigenin and its derivatives, of which the contents are highly correlated with the expression of flavones synthase II gene CmFNSII-1.</description>
+    </item>
+    <item>
+      <title>CmHY5</title>
+      <link>/genes/2024.6.9/chrysanthemum-morifolium/cmhy5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/chrysanthemum-morifolium/cmhy5/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CmHY5 Gene Name: ELONGATED HYPOCOTYL5 Genome: Species: Chrysanthemum morifolium Functional Descriptions: CmHY5 functions in apigenin biosynthesis by regulating flavone synthase II expression in chrysanthemum flowers.</description>
+    </item>
+    <item>
+      <title>GaPC</title>
+      <link>/genes/gossypium_arboreum/gapc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/gossypium_arboreum/gapc/</guid>
+      <description>Gene Details: Gene ID:&#x9;Ga11G1228 Gene Symbol: GaPC Gene Name: Genome: G.</description>
+    </item>
+    <item>
+      <title>OsUGT706D1</title>
+      <link>/genes/oryza_sativa/loc_os01g53460/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g53460/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g53460 RAPdb gene ID: Os01g0736300 Gene Symbol: OsUGT706D1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsUGT707A2</title>
+      <link>/genes/oryza_sativa/loc_os07g32060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g32060/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g32060 RAPdb gene ID: Os07g0503900 Gene Symbol: OsUGT707A2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>P1</title>
+      <link>/genes/zea_mays/p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/p1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb014260 Gene Symbol: P1 Gene Name: pericarp color1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>SbMYB3</title>
+      <link>/genes/2024.6.9/cutellaria-baicalensis/c_aa001104.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cutellaria-baicalensis/c_aa001104.1/</guid>
+      <description>Gene Details: Gene ID: C_AA001104.1 Gene Symbol: SbMYB3 Gene Name: Genome: Nucbank database (https://ngdc.</description>
+    </item>
+    <item>
+      <title>TT7</title>
+      <link>/genes/brassica_juncea/tt7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/brassica_juncea/tt7/</guid>
+      <description>Gene Details: Gene ID:&#x9;Bra009312 Gene Symbol: TT7 Gene Name: Genome: Braju_tum_V1.</description>
+    </item>
+    <item>
+      <title>ZmCGT1;cgt2</title>
+      <link>/genes/zea_mays/zmcgt1cgt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmcgt1cgt2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb280950 Gene Symbol: ZmCGT1 cgt2 Gene Name: C-glucosyl transferase2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSIZ1a</title>
+      <link>/genes/zea_mays/zm00001eb355110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb355110/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb355110 Gene Symbol: ZmSIZ1a phd17 Gene Name: PHD-transcription factor 17 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSIZ1b</title>
+      <link>/genes/zea_mays/zm00001eb265410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zm00001eb265410/</guid>
+      <description>Gene Details: Gene ID: Zm00001eb265410 Gene Symbol: ZmSIZ1b|phd12 Gene Name: PHD-transcription factor 12 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

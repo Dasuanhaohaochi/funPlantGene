@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panax ginseng on funPlantGenes</title>
+    <link>/categories/panax-ginseng/</link>
+    <description>Recent content in Panax ginseng on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/panax-ginseng/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PgLOX6</title>
+      <link>/genes/2024.6.9/panax-ginseng/pglox6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/panax-ginseng/pglox6/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PgLOX6 Gene Name: biosynthetic 13-lipoxygenase Genome: Species: Panax ginseng Functional Descriptions: PgLOX6 encoding a lipoxygenase contributes to jasmonic acid biosynthesis and ginsenoside production in Panax ginseng.</description>
+    </item>
+  </channel>
+</rss>

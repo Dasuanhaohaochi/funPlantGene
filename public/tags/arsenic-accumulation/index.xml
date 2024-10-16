@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arsenic accumulation on funPlantGenes</title>
+    <link>/tags/arsenic-accumulation/</link>
+    <description>Recent content in arsenic accumulation on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/arsenic-accumulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OsABCC1;MRP1</title>
+      <link>/genes/oryza_sativa/loc_os04g52900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g52900/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g52900 RAPdb gene ID: Os04g0620000 Gene Symbol: OsABCC1 MRP1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsGrx_C2.1;OsGRX9</title>
+      <link>/genes/oryza_sativa/loc_os02g40500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g40500/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g40500 RAPdb gene ID: Os02g0618100 Gene Symbol: OsGrx_C2.</description>
+    </item>
+    <item>
+      <title>OsGrx_C7</title>
+      <link>/genes/oryza_sativa/loc_os01g27140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g27140/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g27140 RAPdb gene ID: Os01g0368900 Gene Symbol: OsGrx_C7 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsHAC1;1</title>
+      <link>/genes/oryza_sativa/loc_os02g01220/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g01220/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g01220 RAPdb gene ID: Os02g0102300 Gene Symbol: OsHAC1 1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsHAC1;2</title>
+      <link>/genes/oryza_sativa/loc_os04g17660/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g17660/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g17660 RAPdb gene ID: Os04g0249600 Gene Symbol: OsHAC1 2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsHAC4</title>
+      <link>/genes/oryza_sativa/loc_os02g06290/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g06290/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g06290 RAPdb gene ID: Os02g0157600 Gene Symbol: OsHAC4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMATE2</title>
+      <link>/genes/oryza_sativa/loc_os05g48040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g48040/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g48040 RAPdb gene ID: Os05g0554000 Gene Symbol: OsMATE2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNIP1;1</title>
+      <link>/genes/oryza_sativa/loc_os02g13870/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g13870/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g13870 RAPdb gene ID: Os02g0232900 Gene Symbol: OsNIP1 1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNIP3;3</title>
+      <link>/genes/oryza_sativa/loc_os08g05600/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g05600/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g05600 RAPdb gene ID: Os08g0152100 Gene Symbol: OsNIP3 3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PvTIP4</title>
+      <link>/genes/2024.6.9/pteris-vittata/pvtip4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/pteris-vittata/pvtip4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PvTIP4|1|PvAQP1 Gene Name: Genome: Species: Pteris vittata Functional Descriptions: Heterologous expression in yeast demonstrates that PvTIP4|1|PvAQP1|PvTIP4|1|PvAQP1 was able to facilitate As(III) diffusion.</description>
+    </item>
+  </channel>
+</rss>

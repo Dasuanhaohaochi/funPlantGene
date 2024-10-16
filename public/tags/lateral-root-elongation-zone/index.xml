@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lateral root elongation zone on funPlantGenes</title>
+    <link>/tags/lateral-root-elongation-zone/</link>
+    <description>Recent content in lateral root elongation zone on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/lateral-root-elongation-zone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT3G18830</title>
+      <link>/genes/arabidopsis_thaliana/at3g18830/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g18830/</guid>
+      <description>Gene Details: Gene ID: AT3G18830 Gene Symbol: ATPLT5, ATPMT5, PMT5 Gene Name: POLYOL TRANSPORTER 5, ARABIDOPSIS THALIANA POLYOL/MONOSACCHARIDE TRANSPORTER 5, polyol/monosaccharide transporter 5 Description: polyol/monosaccharide transporter 5;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G18830.</description>
+    </item>
+    <item>
+      <title>AT3G50060</title>
+      <link>/genes/arabidopsis_thaliana/at3g50060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g50060/</guid>
+      <description>Gene Details: Gene ID: AT3G50060 Gene Symbol: MYB77 Gene Name: myb domain protein 77 Description: myb domain protein 77;(source:Araport11) TAIR Accession: locus:2083113 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G50060.</description>
+    </item>
+  </channel>
+</rss>

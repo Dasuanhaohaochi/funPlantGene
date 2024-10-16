@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phosphate homeostasis on funPlantGenes</title>
+    <link>/tags/phosphate-homeostasis/</link>
+    <description>Recent content in phosphate homeostasis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/phosphate-homeostasis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GmPHR25</title>
+      <link>/genes/2024.6.9/glycine-max/glyma.15g123100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/glycine-max/glyma.15g123100/</guid>
+      <description>Gene Details: Gene ID: Glyma.15g123100 Gene Symbol: GmPHR25 Gene Name: PHOSPHATE STARVATION RESPONSE 25 Genome: Wm82.</description>
+    </item>
+    <item>
+      <title>OsLPR3</title>
+      <link>/genes/oryza_sativa/loc_os01g03630/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g03630/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g03630 RAPdb gene ID: Os01g0127000 Gene Symbol: OsLPR3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsNLA1</title>
+      <link>/genes/oryza_sativa/loc_os07g47590/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g47590/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g47590 RAPdb gene ID: Os07g0673200 Gene Symbol: OsNLA1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPht1;4;OsPT4</title>
+      <link>/genes/oryza_sativa/loc_os04g10750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g10750/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g10750 RAPdb gene ID: Os04g0186400 Gene Symbol: OsPht1 4 OsPT4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSAE1a</title>
+      <link>/genes/oryza_sativa/loc_os11g30410/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os11g30410/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os11g30410 RAPdb gene ID: Os11g0497000 Gene Symbol: OsSAE1a Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSIZ2</title>
+      <link>/genes/oryza_sativa/loc_os03g50980/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g50980/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g50980 RAPdb gene ID: Os03g0719100 Gene Symbol: OsSIZ2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSPX4</title>
+      <link>/genes/oryza_sativa/loc_os03g61200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g61200/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g61200 RAPdb gene ID: Os03g0827500 Gene Symbol: OsSPX4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsUEV1B</title>
+      <link>/genes/oryza_sativa/loc_os12g41220/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os12g41220/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os12g41220 RAPdb gene ID: Os12g0605400 Gene Symbol: OsUEV1B Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>ZmPHO2;PHO2</title>
+      <link>/genes/zea_mays/zmpho2pho2uce10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmpho2pho2uce10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb295490 Gene Symbol: ZmPHO2 PHO2 uce10 Gene Name: Phosphate 2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

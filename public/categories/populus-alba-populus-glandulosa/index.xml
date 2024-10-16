@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Populus alba × Populus glandulosa on funPlantGenes</title>
+    <link>/categories/populus-alba-populus-glandulosa/</link>
+    <description>Recent content in Populus alba × Populus glandulosa on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/populus-alba-populus-glandulosa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaC3H17</title>
+      <link>/genes/2024.6.9/populus-alba-populus-glandulosa/potri.004g095100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-alba-populus-glandulosa/potri.004g095100/</guid>
+      <description>Gene Details: Gene ID: Potri.004G095100 Gene Symbol: PaC3H17 Gene Name: Genome: poplar genome (v.</description>
+    </item>
+    <item>
+      <title>PagGRF12a</title>
+      <link>/genes/2024.6.9/populus-alba-populus-glandulosa/potri.001g114000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-alba-populus-glandulosa/potri.001g114000/</guid>
+      <description>Gene Details: Gene ID: Potri.001G114000 Gene Symbol: PagGRF12a Gene Name: Genome: Populus trichocarpa genome() Species: Populus alba × Populus glandulosa Functional Descriptions: PagGRF12a interacts with PagGIF1b to regulate secondary xylem development through modulating PagXND1a expression in Populus alba x P.</description>
+    </item>
+    <item>
+      <title>PagLBD3</title>
+      <link>/genes/2024.6.9/populus-alba-populus-glandulosa/potri.008g043900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-alba-populus-glandulosa/potri.008g043900/</guid>
+      <description>Gene Details: Gene ID: Potri.008G043900 Gene Symbol: PagLBD3 Gene Name: LATERAL ORGAN BOUNDARIES DOMAIN 3 Genome: Populus trichocarpa v3.</description>
+    </item>
+    <item>
+      <title>PaMYB199</title>
+      <link>/genes/2024.6.9/populus-alba-populus-glandulosa/potri.012g127700/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/populus-alba-populus-glandulosa/potri.012g127700/</guid>
+      <description>Gene Details: Gene ID: Potri.012G127700 Gene Symbol: PaMYB199 Gene Name: Genome: poplar genome (v.</description>
+    </item>
+  </channel>
+</rss>

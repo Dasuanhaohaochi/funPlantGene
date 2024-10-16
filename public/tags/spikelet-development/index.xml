@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spikelet development on funPlantGenes</title>
+    <link>/tags/spikelet-development/</link>
+    <description>Recent content in spikelet development on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/spikelet-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D6;OSH15</title>
+      <link>/genes/oryza_sativa/loc_os07g03770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g03770/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g03770 RAPdb gene ID: Os07g0129700 Gene Symbol: D6 OSH15 Oskn3 RLB Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>DSL1</title>
+      <link>/genes/oryza_sativa/loc_os04g33480/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g33480/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g33480 RAPdb gene ID: Os04g0409600 Gene Symbol: DSL1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>FUL2-2A</title>
+      <link>/genes/triticum_aestivum/ful2-2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ful2-2a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2A02G261200 Gene Symbol: FUL2-2A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>FUL2-2B</title>
+      <link>/genes/triticum_aestivum/ful2-2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ful2-2b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G281000 Gene Symbol: FUL2-2B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>FUL2-2D</title>
+      <link>/genes/triticum_aestivum/ful2-2d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ful2-2d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D02G262700 Gene Symbol: FUL2-2D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>FUL3-2A</title>
+      <link>/genes/triticum_aestivum/ful3-2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ful3-2a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2A02G174300 Gene Symbol: FUL3-2A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>FUL3-2B</title>
+      <link>/genes/triticum_aestivum/ful3-2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ful3-2b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G200800 Gene Symbol: FUL3-2B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>FUL3-2D</title>
+      <link>/genes/triticum_aestivum/ful3-2d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/ful3-2d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D02G181400 Gene Symbol: FUL3-2D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>GNI-A1</title>
+      <link>/genes/triticum_aestivum/gni-a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/gni-a1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCSU02G009800 Gene Symbol: GNI-A1 Gene Name: Grain Number Increase 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>GNI-B1</title>
+      <link>/genes/triticum_aestivum/gni-b1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/gni-b1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2B02G405700 Gene Symbol: GNI-B1 Gene Name: Grain Number Increase 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>GNI-D1</title>
+      <link>/genes/triticum_aestivum/gni-d1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/gni-d1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D02G385500 Gene Symbol: GNI-D1 Gene Name: Grain Number Increase 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>HvCEN</title>
+      <link>/genes/hordeum_vulgare/hvcen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/hordeum_vulgare/hvcen/</guid>
+      <description>Gene Details: Gene ID:&#x9;HORVU2Hr1G072750 Gene Symbol: HvCEN Gene Name: CENTRORADIALIS Genome: barley cultivar Morex V1 Species: Hordeum vulgare Functional Descriptions: Global transcriptome profiling in developing shoot apices and inflorescences of mutant and wild-type plants revealed that HvCEN controlled transcripts involved in chromatin remodeling activities, cytokinin and cell cycle regulation and cellular respiration under LDs and short days, whereas HvCEN affected floral homeotic genes only under LDs.</description>
+    </item>
+    <item>
+      <title>HvFT4</title>
+      <link>/genes/2024.6.9/hordeum-vulgare/hvft4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/hordeum-vulgare/hvft4/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: HvFT4 Gene Name: FLOWERING LOCUS T4 Genome: Species: Hordeum vulgare Functional Descriptions: FLOWERING LOCUS T4 (HvFT4) delays flowering and decreases floret fertility in barley.</description>
+    </item>
+    <item>
+      <title>NAL8</title>
+      <link>/genes/oryza_sativa/loc_os07g15880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os07g15880/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os07g15880 RAPdb gene ID: Os07g0262200 Gene Symbol: NAL8 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>NSG;NSG1</title>
+      <link>/genes/oryza_sativa/loc_os04g36650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g36650/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g36650 RAPdb gene ID: Os04g0444100 Gene Symbol: NSG NSG1 LRG1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsAUX1</title>
+      <link>/genes/oryza_sativa/loc_os01g63770/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g63770/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g63770 RAPdb gene ID: Os01g0856500 Gene Symbol: OsAUX1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCOI1;OsCOI1a</title>
+      <link>/genes/oryza_sativa/loc_os01g63420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g63420/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g63420 RAPdb gene ID: Os01g0853400 Gene Symbol: OsCOI1 OsCOI1a Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCOI1b</title>
+      <link>/genes/oryza_sativa/loc_os05g37690/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g37690/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g37690 RAPdb gene ID: Os05g0449500 Gene Symbol: OsCOI1b Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsCOI2</title>
+      <link>/genes/oryza_sativa/loc_os03g15880/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g15880/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g15880 RAPdb gene ID: Os03g0265500 Gene Symbol: OsCOI2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsFDML1</title>
+      <link>/genes/oryza_sativa/loc_os02g19130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g19130/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g19130 RAPdb gene ID: Os02g0293300 Gene Symbol: OsFDML1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsGRF6</title>
+      <link>/genes/oryza_sativa/loc_os03g51970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g51970/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g51970 RAPdb gene ID: Os03g0729500 Gene Symbol: OsGRF6 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsJAZ1;OsTIFY3</title>
+      <link>/genes/oryza_sativa/loc_os04g55920/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g55920/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g55920 RAPdb gene ID: Os04g0653000 Gene Symbol: OsJAZ1 OsTIFY3 EG2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsJAZ11</title>
+      <link>/genes/oryza_sativa/loc_os03g08320/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g08320/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g08320 RAPdb gene ID: Os03g0180900 Gene Symbol: OsJAZ11 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsJAZ6</title>
+      <link>/genes/oryza_sativa/loc_os03g28940/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g28940/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g28940 RAPdb gene ID: Os03g0402800 Gene Symbol: OsJAZ6 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsLG3b;OsMADS1</title>
+      <link>/genes/oryza_sativa/loc_os03g11614/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g11614/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g11614 RAPdb gene ID: Os03g0215400 Gene Symbol: OsLG3b OsMADS1 LHS1 AFO Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsMADS34;PAP2</title>
+      <link>/genes/oryza_sativa/loc_os03g54170/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g54170/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g54170 RAPdb gene ID: Os03g0753100 Gene Symbol: OsMADS34 PAP2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsPEX5</title>
+      <link>/genes/oryza_sativa/loc_os08g39080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os08g39080/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os08g39080 RAPdb gene ID: Os08g0500100 Gene Symbol: OsPEX5 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsSPL4</title>
+      <link>/genes/oryza_sativa/loc_os02g07780/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g07780/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g07780 RAPdb gene ID: Os02g0174100 Gene Symbol: OsSPL4 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsYABBY3;OsYAB4</title>
+      <link>/genes/oryza_sativa/loc_os10g36420/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os10g36420/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os10g36420 RAPdb gene ID: Os10g0508300 Gene Symbol: OsYABBY3 OsYAB4 TOB3 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsYABBY4;TOB2</title>
+      <link>/genes/oryza_sativa/loc_os02g42950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g42950/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g42950 RAPdb gene ID: Os02g0643200 Gene Symbol: OsYABBY4 TOB2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsYABBY5;OsYAB3</title>
+      <link>/genes/oryza_sativa/loc_os04g45330/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g45330/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g45330 RAPdb gene ID: Os04g0536300 Gene Symbol: OsYABBY5 OsYAB3 TOB1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>Ra1</title>
+      <link>/genes/zea_mays/ra1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/ra1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb312340 Gene Symbol: Ra1 Gene Name: ramosa1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>SVP1-6A</title>
+      <link>/genes/triticum_aestivum/svp1-6a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/svp1-6a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6A02G313800 Gene Symbol: SVP1-6A Gene Name: SHORT VEGETATIVE PHASE 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>SVP1-6B</title>
+      <link>/genes/triticum_aestivum/svp1-6b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/svp1-6b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6B02G343900 Gene Symbol: SVP1-6B Gene Name: SHORT VEGETATIVE PHASE 1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>SVP3-4A;BM1-4A</title>
+      <link>/genes/triticum_aestivum/svp3-4abm1-4a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/svp3-4abm1-4a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4A02G002600 Gene Symbol: SVP3-4A BM1-4A Gene Name: SHORT VEGETATIVE PHASE 3 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>SVP3-4B;BM1-4B</title>
+      <link>/genes/triticum_aestivum/svp3-4bbm1-4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/svp3-4bbm1-4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4B02G302600 Gene Symbol: SVP3-4B BM1-4B Gene Name: SHORT VEGETATIVE PHASE 3 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>SVP3-4D;BM1-4D</title>
+      <link>/genes/triticum_aestivum/svp3-4dbm1-4d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/svp3-4dbm1-4d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4D02G301100 Gene Symbol: SVP3-4D BM1-4D Gene Name: SHORT VEGETATIVE PHASE 3 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaAGL6-A</title>
+      <link>/genes/triticum_aestivum/taagl6-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taagl6-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6A02G259000 Gene Symbol: TaAGL6-A Gene Name: AGAMOUS-LIKE6 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaAGL6-B</title>
+      <link>/genes/triticum_aestivum/taagl6-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taagl6-b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6B02G286400 Gene Symbol: TaAGL6-B Gene Name: AGAMOUS-LIKE6 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaAGL6-D</title>
+      <link>/genes/triticum_aestivum/taagl6-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/taagl6-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS6D02G240200 Gene Symbol: TaAGL6-D Gene Name: AGAMOUS-LIKE6 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHB-A2</title>
+      <link>/genes/triticum_aestivum/tahb-a2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahb-a2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1A02G157500 Gene Symbol: TaHB-A2 Gene Name: HOMEOBOX DOMAIN-D2 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHB-B2</title>
+      <link>/genes/triticum_aestivum/tahb-b2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahb-b2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1B02G173900 Gene Symbol: TaHB-B2 Gene Name: HOMEOBOX DOMAIN-D2 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHB-D2</title>
+      <link>/genes/triticum_aestivum/tahb-d2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tahb-d2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1D02G155200 Gene Symbol: TaHB-D2 Gene Name: HOMEOBOX DOMAIN-D2 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaHOX4-A</title>
+      <link>/genes/triticum_aestivum/traescs5a02g249000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5a02g249000/</guid>
+      <description>Gene Details: Gene ID: TraesCS5A02G249000 Gene Symbol: TaHOX4-A Gene Name: HOMEOBOX4 Genome: Species: Triticum aestivum Functional Descriptions: Wheat FRIZZY PANICLE activates VERNALIZATION1-A (VRN1-A) and HOMEOBOX4-A (TaHOX4) to regulate spike development in wheat.</description>
+    </item>
+    <item>
+      <title>TAP;TSD1</title>
+      <link>/genes/oryza_sativa/loc_os02g18370/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g18370/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g18370 RAPdb gene ID: Os02g0284500 Gene Symbol: TAP TSD1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaTB1-4A</title>
+      <link>/genes/triticum_aestivum/tatb1-4a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tatb1-4a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4A02G271300 Gene Symbol: TaTB1-4A Gene Name: TEOSINTE BRANCHED1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaTB1-4B</title>
+      <link>/genes/triticum_aestivum/tatb1-4b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tatb1-4b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4B02G042700 Gene Symbol: TaTB1-4B Gene Name: TEOSINTE BRANCHED1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaTB1-4D</title>
+      <link>/genes/triticum_aestivum/tatb1-4d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tatb1-4d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS4D02G040100 Gene Symbol: TaTB1-4D Gene Name: TEOSINTE BRANCHED1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Td1;ZmRLK</title>
+      <link>/genes/zea_mays/td1zmrlkzmkin5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/td1zmrlkzmkin5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb228140 Gene Symbol: Td1 ZmRLK ZmKIN5 Gene Name: thick tassel dwarf1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>TU1;ZmMADS72</title>
+      <link>/genes/zea_mays/tu1zmmads72/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/tu1zmmads72/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb193790 Gene Symbol: TU1 ZmMADS72 Gene Name: Tunicate1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>WAG1-1A</title>
+      <link>/genes/triticum_aestivum/wag1-1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wag1-1a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1A02G125800 Gene Symbol: WAG1-1A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WAG1-1B</title>
+      <link>/genes/triticum_aestivum/wag1-1b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wag1-1b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1B02G144800 Gene Symbol: WAG1-1B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WAG1-1D</title>
+      <link>/genes/triticum_aestivum/wag1-1d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wag1-1d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS1D02G127700 Gene Symbol: WAG1-1D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WAG2-3B;AG2-3B</title>
+      <link>/genes/triticum_aestivum/wag2-3bag2-3b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wag2-3bag2-3b/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3B02G157500 Gene Symbol: WAG2-3B AG2-3B Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WAG2-3D</title>
+      <link>/genes/triticum_aestivum/wag2-3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wag2-3d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3D02G140200 Gene Symbol: WAG2-3D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WFZP-A</title>
+      <link>/genes/triticum_aestivum/traescs2a02g116900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs2a02g116900/</guid>
+      <description>Gene Details: Gene ID: TraesCS2A02G116900 Gene Symbol: WFZP-A Gene Name: FRIZZY PANICLE Genome: Species: Triticum aestivum Functional Descriptions: WFZP is specifically expressed at the sites where the spikelet meristem and floral meristem are initiated, which differs from the expression patterns of its homologs FZP/BD1 in rice and maize, indicative of its functional divergence during species differentiation.</description>
+    </item>
+    <item>
+      <title>WFZP-A</title>
+      <link>/genes/triticum_aestivum/wfzp-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wfzp-a/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2A02G116900 Gene Symbol: WFZP-A Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>WFZP-D</title>
+      <link>/genes/triticum_aestivum/traescs2d02g118200/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs2d02g118200/</guid>
+      <description>Gene Details: Gene ID: TraesCS2D02G118200 Gene Symbol: WFZP-D Gene Name: FRIZZY PANICLE Genome: Species: Triticum aestivum Functional Descriptions: WFZP is specifically expressed at the sites where the spikelet meristem and floral meristem are initiated, which differs from the expression patterns of its homologs FZP/BD1 in rice and maize, indicative of its functional divergence during species differentiation.</description>
+    </item>
+    <item>
+      <title>WFZP-D</title>
+      <link>/genes/triticum_aestivum/wfzp-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/wfzp-d/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS2D01G118200 Gene Symbol: WFZP-D Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>ZmCT2;ct2</title>
+      <link>/genes/zea_mays/zmct2ct2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmct2ct2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb005840 Gene Symbol: ZmCT2 ct2 Gene Name: compact plant2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZMM14</title>
+      <link>/genes/zea_mays/zmm14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmm14/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb008690 Gene Symbol: ZMM14;ZmMADS14 Gene Name: Zea mays MADS14 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZMM8</title>
+      <link>/genes/zea_mays/zmm8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmm8/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb400120 Gene Symbol: ZMM8;ZmMADS8 Gene Name: Zea mays MADS8 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmMADS3</title>
+      <link>/genes/zea_mays/zmmads3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmmads3/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb298680 Gene Symbol: ZmMADS3 Gene Name: MADS3 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

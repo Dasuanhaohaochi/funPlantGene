@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kernel texture on funPlantGenes</title>
+    <link>/tags/kernel-texture/</link>
+    <description>Recent content in kernel texture on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/kernel-texture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gsp-1</title>
+      <link>/genes/triticum_aestivum/gsp-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/gsp-1/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G004000 Gene Symbol: Gsp-1 Gene Name: Softness Protein-1 Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Pina</title>
+      <link>/genes/triticum_aestivum/pina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/pina/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G004100 Gene Symbol: Pina Gene Name: Pina Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>Pinb</title>
+      <link>/genes/triticum_aestivum/pinb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/pinb/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS5D02G004300 Gene Symbol: Pinb Gene Name: Pinb Genome: Chinese_Spring1.</description>
+    </item>
+  </channel>
+</rss>

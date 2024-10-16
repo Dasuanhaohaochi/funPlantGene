@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embryo sac central cell on funPlantGenes</title>
+    <link>/tags/embryo-sac-central-cell/</link>
+    <description>Recent content in embryo sac central cell on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/embryo-sac-central-cell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT2G41500</title>
+      <link>/genes/arabidopsis_thaliana/at2g41500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at2g41500/</guid>
+      <description>Gene Details: Gene ID: AT2G41500 Gene Symbol: AtPRP4, AtSAP60, EMB2776, LIS, PRP4 Gene Name: LACHESIS, proline-rich protein 4 Description: WD-40 repeat family protein / small nuclear ribonucleoprotein Prp4p-like protein;(source:Araport11) TAIR Accession: locus:2060560 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT2G41500.</description>
+    </item>
+    <item>
+      <title>AT3G10890</title>
+      <link>/genes/arabidopsis_thaliana/at3g10890/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g10890/</guid>
+      <description>Gene Details: Gene ID: AT3G10890 Gene Symbol: MAN3, XCD1 Gene Name: endo-beta-mannanase 3, XVE system-induced cadmium-tolerance 1 Description: Glycosyl hydrolase superfamily protein;(source:Araport11) TAIR Accession: locus:2103262 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G10890.</description>
+    </item>
+    <item>
+      <title>AT5G04560</title>
+      <link>/genes/arabidopsis_thaliana/at5g04560/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at5g04560/</guid>
+      <description>Gene Details: Gene ID: AT5G04560 Gene Symbol: DME, EMB1649 Gene Name: DEMETER, Description: HhH-GPD base excision DNA repair family protein;(source:Araport11) TAIR Accession: Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT5G04560.</description>
+    </item>
+  </channel>
+</rss>

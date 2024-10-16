@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fluorescence visualization on funPlantGenes</title>
+    <link>/tags/fluorescence-visualization/</link>
+    <description>Recent content in fluorescence visualization on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/fluorescence-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZmBz1;bz1</title>
+      <link>/genes/zea_mays/zmbz1bz1ufgt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmbz1bz1ufgt1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb374230 Gene Symbol: ZmBz1 bz1 ufgt1 Gene Name: bronze1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmBz2;bz2</title>
+      <link>/genes/zea_mays/zmbz2bz2zmhsp10zmgst10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmbz2bz2zmhsp10zmgst10/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb048110 Gene Symbol: ZmBz2 bz2 ZmHSP10 ZmGST10 Gene Name: bronze2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmC1;ZmMYB1</title>
+      <link>/genes/zea_mays/zmc1zmmyb1sc39/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmc1zmmyb1sc39/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb373660 Gene Symbol: ZmC1 ZmMYB1 SC39 Gene Name: colored aleurone1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

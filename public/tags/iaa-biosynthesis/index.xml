@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iaa biosynthesis on funPlantGenes</title>
+    <link>/tags/iaa-biosynthesis/</link>
+    <description>Recent content in iaa biosynthesis on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/iaa-biosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAK1;bak4</title>
+      <link>/genes/zea_mays/bak1bak4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/bak1bak4/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb288130 Gene Symbol: BAK1 bak4 Gene Name: brassinosteroid insensitive1-associated receptor kinase 4 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>FIB;TSG1</title>
+      <link>/genes/oryza_sativa/loc_os01g07500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g07500/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g07500 RAPdb gene ID: Os01g0169800 Gene Symbol: FIB TSG1 OsFIB MHZ10 OsTAR2 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>IbBBX29</title>
+      <link>/genes/ipomoea_batatas/ibbbx29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/ipomoea_batatas/ibbbx29/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: IbBBX29 Gene Name: Genome: Taizhong 6 genome Species: Ipomoea batatas Functional Description: IbBBX29 plays a pivotal role in regulating IAA-mediated leaf development and flavonoid biosynthesis in sweet potato and Arabidopsis, providing a candidate gene for flavonoid biofortification in plants.</description>
+    </item>
+    <item>
+      <title>OsYUC12</title>
+      <link>/genes/oryza_sativa/loc_os02g17230/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os02g17230/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os02g17230 RAPdb gene ID: Os02g0272200 Gene Symbol: OsYUC12 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>PpYUC11</title>
+      <link>/genes/2024.6.9/prunus-persica/ppa008176m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/ppa008176m/</guid>
+      <description>Gene Details: Gene ID: ppa008176m Gene Symbol: PpYUC11 Gene Name: YUCCA flavin mono-oxygenase11 Genome: Prunus persica v1.</description>
+    </item>
+    <item>
+      <title>PpYUC11-like</title>
+      <link>/genes/2024.6.9/prunus-persica/prupe.6g157500.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/prunus-persica/prupe.6g157500.1/</guid>
+      <description>Gene Details: Gene ID: Prupe.6G157500.1 Gene Symbol: PpYUC11-like Gene Name: YUCCA-like auxin-biosynthesis gene Genome: Species: Prunus persica Functional Descriptions: Integrative genomics approaches validate PpYUC11-like as candidate gene for the stony hard trait in peach.</description>
+    </item>
+    <item>
+      <title>RUM1</title>
+      <link>/genes/zea_mays/rum1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/rum1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb156910 Gene Symbol: RUM1 Gene Name: ROOTLESS WITH UNDETECTABLE MERISTEMS 1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>SlUGT75C1</title>
+      <link>/genes/2024.6.9/solanum-lycopersicum/solyc09g092500/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/solanum-lycopersicum/solyc09g092500/</guid>
+      <description>Gene Details: Gene ID: Solyc09g092500 Gene Symbol: SlUGT75C1 Gene Name: UDP-glycosyltransferase 75C1 Genome: Species: Solanum lycopersicum Functional Descriptions: SlUGT75C1 catalyzes the glucosylation of both ABA and IAA in vitro| SlUGT76E1 can only catalyze the conjugation of ABA| and SlUGT73C4 cannot glycosylate either ABA or IAA.</description>
+    </item>
+    <item>
+      <title>TaMs1-A</title>
+      <link>/genes/triticum_aestivum/tams1-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tams1-a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaMs1-A Gene Name: MALE STERILITY 1 Genome: Species: Triticum aestivum Functional Descriptions: Wheat TaMs1 is a glycosylphosphatidylinositol-anchored lipid transfer protein necessary for pollen development.</description>
+    </item>
+    <item>
+      <title>TaMs1-B</title>
+      <link>/genes/triticum_aestivum/tams1-b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tams1-b/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaMs1-B Gene Name: MALE STERILITY 1 Genome: Species: Triticum aestivum Functional Descriptions: Wheat TaMs1 is a glycosylphosphatidylinositol-anchored lipid transfer protein necessary for pollen development.</description>
+    </item>
+    <item>
+      <title>TaMs1-D</title>
+      <link>/genes/triticum_aestivum/tams1-d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tams1-d/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: TaMs1-D Gene Name: MALE STERILITY 1 Genome: Species: Triticum aestivum Functional Descriptions: Wheat TaMs1 is a glycosylphosphatidylinositol-anchored lipid transfer protein necessary for pollen development.</description>
+    </item>
+    <item>
+      <title>ZmAuxRP1</title>
+      <link>/genes/zea_mays/zmauxrp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmauxrp1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb053610 Gene Symbol: ZmAuxRP1 Gene Name: auxin-regulated protein1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSAUR15</title>
+      <link>/genes/zea_mays/zmsaur15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmsaur15/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001d001964 Gene Symbol: ZmSAUR15 Gene Name: small auxin up RNA15 Genome: Zm-B73-REFERENCE-GRAMENE-4.</description>
+    </item>
+    <item>
+      <title>ZmYuc1;yuc1</title>
+      <link>/genes/zea_mays/zmyuc1yuc1de18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmyuc1yuc1de18/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb409250 Gene Symbol: ZmYuc1 yuc1 de18 Gene Name: defective18 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+  </channel>
+</rss>

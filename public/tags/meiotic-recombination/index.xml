@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meiotic recombination on funPlantGenes</title>
+    <link>/tags/meiotic-recombination/</link>
+    <description>Recent content in meiotic recombination on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/meiotic-recombination/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACOZ1</title>
+      <link>/genes/zea_mays/acoz1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/acoz1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb119810 Gene Symbol: ACOZ1 Gene Name: abnormal chromosome organization in zygotene1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>MEICA1</title>
+      <link>/genes/oryza_sativa/loc_os03g05040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g05040/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g05040 RAPdb gene ID: Os03g0144000 Gene Symbol: MEICA1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>OsHUS1</title>
+      <link>/genes/oryza_sativa/loc_os04g44620/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os04g44620/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os04g44620 RAPdb gene ID: Os04g0528400 Gene Symbol: OsHUS1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>P31comet;OsBVF1</title>
+      <link>/genes/oryza_sativa/loc_os05g16250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os05g16250/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os05g16250 RAPdb gene ID: Os05g0251400 Gene Symbol: P31comet OsBVF1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+    <item>
+      <title>TaMSH7-3D;Ph2</title>
+      <link>/genes/triticum_aestivum/tamsh7-3dph2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/tamsh7-3dph2/</guid>
+      <description>Gene Details: Gene ID:&#x9;TraesCS3D02G119400 Gene Symbol: TaMSH7-3D Ph2 Gene Name: Genome: Chinese_Spring1.</description>
+    </item>
+    <item>
+      <title>TaSPO11-1-5A</title>
+      <link>/genes/triticum_aestivum/traescs5a02g391400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5a02g391400/</guid>
+      <description>Gene Details: Gene ID: TraesCS5A02G391400 Gene Symbol: TaSPO11-1-5A Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Bread wheat TaSPO11-1 exhibits evolutionarily conserved function in meiotic recombination across distant plant species.</description>
+    </item>
+    <item>
+      <title>TaSPO11-1-5B</title>
+      <link>/genes/triticum_aestivum/traescs5b02g396300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs5b02g396300/</guid>
+      <description>Gene Details: Gene ID: TraesCS5B02G396300 Gene Symbol: TaSPO11-1-5B Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: Bread wheat TaSPO11-1 exhibits evolutionarily conserved function in meiotic recombination across distant plant species.</description>
+    </item>
+    <item>
+      <title>TaSPO11-2-7A</title>
+      <link>/genes/triticum_aestivum/traescs7a02g300300.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7a02g300300.1/</guid>
+      <description>Gene Details: Gene ID: TraesCS7A02G300300.1 Gene Symbol: TaSPO11-2-7A Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: SPO11.</description>
+    </item>
+    <item>
+      <title>TaSPO11-2-7B</title>
+      <link>/genes/triticum_aestivum/traescs7b02g201200.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7b02g201200.1/</guid>
+      <description>Gene Details: Gene ID: TraesCS7B02G201200.1 Gene Symbol: TaSPO11-2-7B Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: SPO11.</description>
+    </item>
+    <item>
+      <title>TaSPO11-2-7D</title>
+      <link>/genes/triticum_aestivum/traescs7d02g296000.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/triticum_aestivum/traescs7d02g296000.2/</guid>
+      <description>Gene Details: Gene ID: TraesCS7D02G296000.2 Gene Symbol: TaSPO11-2-7D Gene Name: Genome: Species: Triticum aestivum Functional Descriptions: SPO11.</description>
+    </item>
+    <item>
+      <title>ZmCom1;com1</title>
+      <link>/genes/zea_mays/zmcom1com1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmcom1com1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb388310 Gene Symbol: ZmCom1 com1 Gene Name: completion of meiotic recombination1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmFIGL1</title>
+      <link>/genes/zea_mays/zmfigl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmfigl1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb133210 Gene Symbol: ZmFIGL1 Gene Name: AAA-ATPase FIDGETIN-LIKE-1 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZmSPO11-2;SPO11-2</title>
+      <link>/genes/zea_mays/zmspo11-2spo11-2spo2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/zmspo11-2spo11-2spo2/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb172550 Gene Symbol: ZmSPO11-2 SPO11-2 spo2 Gene Name: topoisomerase-like enzyme2 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>ZYGO1</title>
+      <link>/genes/oryza_sativa/loc_os01g11990/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os01g11990/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os01g11990 RAPdb gene ID: Os01g0219200 Gene Symbol: ZYGO1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

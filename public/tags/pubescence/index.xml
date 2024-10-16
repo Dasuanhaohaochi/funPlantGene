@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pubescence on funPlantGenes</title>
+    <link>/tags/pubescence/</link>
+    <description>Recent content in pubescence on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/pubescence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mao1</title>
+      <link>/genes/glycine_max/mao1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/mao1/</guid>
+      <description>Gene Details: Gene ID:&#x9;SoyC08_13G189600 Gene Symbol: Mao1 Gene Name: Genome: [QH34 reference genome](https://phytozome-next.</description>
+    </item>
+    <item>
+      <title>P1</title>
+      <link>/genes/glycine_max/p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/p1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.09G278000 Gene Symbol: P1 Gene Name: glabrous Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: The sparse-pubescence phenotype of Ps was attributed to a copy-number variation of a 25.</description>
+    </item>
+    <item>
+      <title>Pd1</title>
+      <link>/genes/glycine_max/pd1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/pd1/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.01G240100 Gene Symbol: Pd1 Gene Name: dense pubescence 1 Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: A Pd1–Ps–P1 Feedback Loop Controls Pubescence Density in Soybean.</description>
+    </item>
+    <item>
+      <title>Ps</title>
+      <link>/genes/glycine_max/ps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/glycine_max/ps/</guid>
+      <description>Gene Details: Gene ID:&#x9;Glyma.12G187200 Gene Symbol: Ps Gene Name: sparse pubescence Genome: Gmax_Wm82_a4_v1 Species: Glycine max Functional Descriptions: The sparse-pubescence phenotype of Ps was attributed to a copy-number variation of a 25.</description>
+    </item>
+  </channel>
+</rss>

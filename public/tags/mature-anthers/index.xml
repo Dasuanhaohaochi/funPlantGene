@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mature anthers on funPlantGenes</title>
+    <link>/tags/mature-anthers/</link>
+    <description>Recent content in mature anthers on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/mature-anthers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IPE2;ms5</title>
+      <link>/genes/zea_mays/ipe2ms5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/zea_mays/ipe2ms5/</guid>
+      <description>Gene Details: Gene ID:&#x9;Zm00001eb237060 Gene Symbol: IPE2 ms5 Gene Name: IRREGULAR POLLEN EXINE2;male sterile5 Genome: Zm-B73-REFERENCE-NAM-5.</description>
+    </item>
+    <item>
+      <title>Orys1</title>
+      <link>/genes/oryza_sativa/loc_os03g01650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/oryza_sativa/loc_os03g01650/</guid>
+      <description>Gene Details: MSU gene ID: LOC_Os03g01650 RAPdb gene ID: Os03g0106900 Gene Symbol: Orys1 Genome: MSU7 , IRGSP-1.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daucus carota on funPlantGenes</title>
+    <link>/categories/daucus-carota/</link>
+    <description>Recent content in Daucus carota on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/daucus-carota/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DcBCH1</title>
+      <link>/genes/2024.6.9/daucus-carota/dcar_020269/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dcar_020269/</guid>
+      <description>Gene Details: Gene ID: DCAR_020269 Gene Symbol: DcBCH1 Gene Name: non-heme carotene hydroxylase Genome: carrot genome (https://www.</description>
+    </item>
+    <item>
+      <title>DcBCH2</title>
+      <link>/genes/2024.6.9/daucus-carota/dcar_014519/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dcar_014519/</guid>
+      <description>Gene Details: Gene ID: DCAR_014519 Gene Symbol: DcBCH2 Gene Name: non-heme carotene hydroxylase Genome: Species: Daucus carota Functional Descriptions: The relative expression level of DcBCH1 was much higher than that of DcBCH2 in carrot taproots with different carotene accumulation levels.</description>
+    </item>
+    <item>
+      <title>DcCCD4</title>
+      <link>/genes/2024.6.9/daucus-carota/dcar_030904/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dcar_030904/</guid>
+      <description>Gene Details: Gene ID: DCAR_030904 Gene Symbol: DcCCD4 Gene Name: Carotenoid cleavage dioxygenase 4 Genome: Species: Daucus carota Functional Descriptions: DcCCD4 catalyzes the degradation of α-carotene and β-carotene to affect carotenoid accumulation and taproot color in carrot.</description>
+    </item>
+    <item>
+      <title>DcHSP17.7</title>
+      <link>/genes/2024.6.9/daucus-carota/dchsp17.7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dchsp17.7/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: DcHSP17.7 Gene Name: heat shock protein17 Genome: P27396 Species: Daucus carota Functional Descriptions: DcHSP17.</description>
+    </item>
+    <item>
+      <title>DcMYB11</title>
+      <link>/genes/2024.6.9/daucus-carota/dcar_010751/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dcar_010751/</guid>
+      <description>Gene Details: Gene ID: DCAR_010751 Gene Symbol: DcMYB11 Gene Name: R2R3 MYB 11 Genome: Species: Daucus carota Functional Descriptions: Report on the discovery of DNA structural differences affecting the activity of an R2R3 MYB (encoded by DcMYB11) involved in anthocyanin regulation in carrot petiole.</description>
+    </item>
+    <item>
+      <title>DcMYB113</title>
+      <link>/genes/2024.6.9/daucus-carota/dcar_008994/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dcar_008994/</guid>
+      <description>Gene Details: Gene ID: DCAR_008994 Gene Symbol: DcMYB113 Gene Name: MYB transcription factor 113 Genome: carrot genome (V2.</description>
+    </item>
+    <item>
+      <title>DcMYB11c</title>
+      <link>/genes/daucus_carota/dcmyb11c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/daucus_carota/dcmyb11c/</guid>
+      <description>Gene Details: Gene ID:&#x9;Gene Symbol: DcMYB11c Gene Name: Genome: Species: Daucus carota Functional Description: DcMYB11c could induce the expression of DcbHLH3 and anthocyanins biosynthesis genes to jointly promote anthocyanins biosynthesis.</description>
+    </item>
+    <item>
+      <title>DcMYB7</title>
+      <link>/genes/2024.6.9/daucus-carota/dcar_010745/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dcar_010745/</guid>
+      <description>Gene Details: Gene ID: DCAR_010745 Gene Symbol: DcMYB7 Gene Name: MYB transcription factor 7 Genome: DH1 (orange) carrot genome Species: Daucus carota Functional Descriptions: Changing Carrot Color: Insertions in DcMYB7 Alter the Regulation of Anthocyanin Biosynthesis and Modification1.</description>
+    </item>
+    <item>
+      <title>DcPAR1</title>
+      <link>/genes/2024.6.9/daucus-carota/dcpar1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/daucus-carota/dcpar1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: DcPAR1 Gene Name: PHYTOCHROME RAPIDLY REGULATED1 Genome: Species: Daucus carota Functional Descriptions: Development and carotenoid synthesis in dark-grown carrot taproots require PHYTOCHROME RAPIDLY REGULATED1 (DcPAR1).</description>
+    </item>
+  </channel>
+</rss>

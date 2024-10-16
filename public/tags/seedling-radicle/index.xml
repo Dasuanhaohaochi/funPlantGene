@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seedling radicle on funPlantGenes</title>
+    <link>/tags/seedling-radicle/</link>
+    <description>Recent content in seedling radicle on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/seedling-radicle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT3G04120</title>
+      <link>/genes/arabidopsis_thaliana/at3g04120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/arabidopsis_thaliana/at3g04120/</guid>
+      <description>Gene Details: Gene ID: AT3G04120 Gene Symbol: GAPC, GAPC-1, GAPC1 Gene Name: GLYCERALDEHYDE-3-PHOSPHATE DEHYDROGENASE C SUBUNIT, glyceraldehyde-3-phosphate dehydrogenase C subunit 1 Description: glyceraldehyde-3-phosphate dehydrogenase C subunit 1;(source:Araport11) TAIR Accession: locus:2103085 Genome: Araport11_genome_release Species: Arabidopsis thaliana Transcripts: AT3G04120.</description>
+    </item>
+  </channel>
+</rss>

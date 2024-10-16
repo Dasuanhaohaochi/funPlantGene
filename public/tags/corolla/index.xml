@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>corolla on funPlantGenes</title>
+    <link>/tags/corolla/</link>
+    <description>Recent content in corolla on funPlantGenes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/corolla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CpACS27A</title>
+      <link>/genes/2024.6.9/cucurbita-pepo/cpacs27a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/cucurbita-pepo/cpacs27a/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: CpACS27A Gene Name: Argo 1-aminocyclopropane-1-carboxylate synthase Genome: Species: Cucurbita pepo Functional Descriptions: Molecular and functional characterization of CpACS27A gene reveals its involvement in monoecy instability and other associated traits in squash.</description>
+    </item>
+    <item>
+      <title>CsHD-Zip</title>
+      <link>/genes/cucumis_sativus/cshd-zip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/cucumis_sativus/cshd-zip/</guid>
+      <description>Gene Details: Gene ID:&#x9;Csa6G525430 Gene Symbol: CsHD-Zip Gene Name: Genome: Cucumber (Chinese Long) v2 Genome Species: Cucumis sativus Functional Descriptions: miRNA_157-CsCuRX, miRNA_411-CsGH3.</description>
+    </item>
+    <item>
+      <title>PhBPBT</title>
+      <link>/genes/2024.7.17/petunia-hybrida/phbpbt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.7.17/petunia-hybrida/phbpbt/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhBPBT Gene Name: benzoyl CoA:benzyl alcohol/phenylethanol benzoyltransferase Genome: Species: Petunia hybrida Functional Descriptions: Tissue-specific PhBPBT expression is differentially regulated in response to endogenous ethylene.</description>
+    </item>
+    <item>
+      <title>PhOBF1</title>
+      <link>/genes/2024.6.9/petunia-hybrida/peaxi162scf00285g00011/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/petunia-hybrida/peaxi162scf00285g00011/</guid>
+      <description>Gene Details: Gene ID: Peaxi162Scf00285g00011 Gene Symbol: PhOBF1 Gene Name: Genome: Sol Genomics Network (https://solgenomics.</description>
+    </item>
+    <item>
+      <title>PhPT1</title>
+      <link>/genes/2024.6.9/petunia-hybrida/phpt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/petunia-hybrida/phpt1/</guid>
+      <description>Gene Details: Gene ID: Gene Symbol: PhPT1|PhPht1|1 Gene Name: phosphate transporter1 Genome: Species: Petunia hybrida Functional Descriptions: Ethylene regulates phosphorus remobilization and expression of a phosphate transporter (PhPT1|PhPht1|1) during petunia corolla senescence.</description>
+    </item>
+    <item>
+      <title>VvWRKY26</title>
+      <link>/genes/2024.6.9/vitis-vinifera/vit_08s0040g03070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/genes/2024.6.9/vitis-vinifera/vit_08s0040g03070/</guid>
+      <description>Gene Details: Gene ID: VIT_08s0040g03070 Gene Symbol: VvWRKY26 Gene Name: WRKY transcription factor 26 Genome: Species: Vitis vinifera Functional Descriptions: Our data indicated that VvWRKY26 enhances the expression of selected target genes induced by VvMYB5a/b.</description>
+    </item>
+  </channel>
+</rss>
